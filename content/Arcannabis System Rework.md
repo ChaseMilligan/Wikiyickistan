@@ -40,6 +40,7 @@ Each plant must be watered twice per day to continue growing. Plants will not wi
 ####    *Drizzlemote Pot*
 > 
 > *Wondrous item*, common
+> 
 > *Component: Volatile mote of water*
 > 
 > This pot has been infused with a volatile mote of water harvested from an Elemental that saturates the soil within the pot with water evenly twice per day. 
