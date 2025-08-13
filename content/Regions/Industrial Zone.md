@@ -1,1 +1,0 @@
-This is a region of [[Stickyickistan]] zoned strictly for industry. There are no shops, or residences is this area of the city. This is where [[Tokenheim Extractions Inc.]] is located. The area is where most of the [[Magitech]] innovations are produced, and the waste from this area is used by factions such as the [[Zooka Mire Collective]] and [[The Iron Sovereign]].

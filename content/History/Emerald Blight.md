@@ -1,1 +1,0 @@
-[[Valmorra the Hollowed]]'s ultimate weapon. A magical plague that turned the living into mindless, fungal-infested undead. While her intent was to control the fallen, the Blight quickly spiraled out of control, transforming [[Spliffholm]] into the [[Ruins of Spliffholm]]. A nightmarish wasteland of rotting, deathless horrors known as the [[Blighted Ones]].

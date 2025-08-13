@@ -1,0 +1,1 @@
+The Amethyst Blight is the common name for the cosmic cataclysm that destroyed the historical city of [[Spliffholm]], giving birth to the [[Ruins of Spliffholm]] aka [[Drakkenheim]]. It was given this name due to [[Delerium]] looking very similar to amethyst.

@@ -53,7 +53,7 @@ But magic, greed, and unchecked ambition are a volatile mix.
 
 As power struggles erupted among mages, priests, and mercenary factions, the city fell into civil war. Industrial sabotage, magical duels, and full-scale battles tore the city apart, with factions summoning fiends, creating unstable war golems, and using necromantic plagues to gain the upper hand.
 
-At the peak of the conflict, the Necromancer [[Valmorra the Hollowed]] unleashed her ultimate weapon—the [[Emerald Blight]], a magical plague that turned the living into mindless, fungal-infested undead. While her intent was to control the fallen, the Blight quickly spiraled out of control, transforming Spliffholm into a nightmarish wasteland of rotting, deathless horrors.
+At the peak of the conflict, the Necromancer [[Valmorra the Hollowed]] unleashed her ultimate weapon—the [[Amethyst Blight]], a magical plague that turned the living into mindless, fungal-infested undead. While her intent was to control the fallen, the Blight quickly spiraled out of control, transforming Spliffholm into a nightmarish wasteland of rotting, deathless horrors.
 
 Realizing the catastrophe would consume all of Stickyickistan, an unlikely alliance of native Halfling druids, [[Ashenfey]], [[Verdanfey]], Elemental creatures, and arcanists from the other cities —some of whom had been enslaved in Spliffholm’s industrial mills—banded together to seal the undead within the ruins. They planted a barrier of Radiant Trees around the city, whose divine-infused wood burns away the Blight. To this day, the trees grow unchecked, keeping the cursed [[Ruins of Spliffholm]] locked away.
 #### Aftermath

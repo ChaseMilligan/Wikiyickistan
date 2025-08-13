@@ -5,7 +5,7 @@
 - Some of the creatures that reside in areas with high concentrations of [[Arcanite]] may have developed some adaptation to being in the presence of ore veins so large, that legend says some can warp the fabric of the weave itself.
 - [[The Seekers of the Vein]] send expeditions to the Underdark in search of these legendary veins of [[Arcanite]]
 - Some abandoned mining colonies have turned into haunted ghost towns, their workers mutated or trapped in arcane stasis.
-- When the [[Emerald Blight]] consumed [[Spliffholm]], parts of the [[Ruins of Spliffholm]] collapsed into the Underdark, forming an arcane wasteland of undead horrors, lost technology, and forbidden knowledge.
+- When the [[Amethyst Blight]] consumed [[Spliffholm]], parts of the [[Ruins of Spliffholm]] collapsed into the Underdark, forming an arcane wasteland of undead horrors, lost technology, and forbidden knowledge.
 - The ruins hide lost [[The Forgewright Guild]]'s prototypes, abandoned [[Magitech]] reactors, and sealed vaults containing artifacts that should never be unearthed.
 - [[Molten Maw]], is a colossal underground volcanic city in the [[Underdark]] inhabited mainly by [[Duergar]] and [[Svirfneblin]], that serves as both a natural forge and a deadly hazard.
 - "[[The Silt Road]]" Is not literally a road. The name is a metaphor for the long trail of illicit trade from [[Stickyickistan]] into the [[Underdark]] below.

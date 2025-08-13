@@ -1,5 +1,0 @@
-#### **The Wastelands of Rust and Revolution**
-
-The Industrial Wastelands, a vast junkyard of failed [[Magitech]] experiments, ruined forges, and forgotten automatons. Here, among the rusted husks of discarded war machines, the [[The Iron Sovereign]] have reclaimed and repurposed the technology of their oppressors, creating a small fortress-city known as [[Crucible Prime]]—a hidden bastion where [[Warforged]] and constructs train, build, and prepare for their uprising.
-
-From Crucible Prime, The Iron Sovereign launches raids on [[The Forgewright Guild]] convoys, sabotages [[Tribunal Highblade Coalition]] supply lines, and strikes at noble estates known for enslaving or dismantling [[Warforged]]. Their skirmishes with The Forgewright Guild are particularly intense—[[Prime Vox]] sees them as false liberators, their Warforged creations nothing more than gilded slaves.

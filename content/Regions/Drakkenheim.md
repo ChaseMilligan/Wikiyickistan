@@ -1,0 +1,1 @@
+This is the common name for the [[Ruins of Spliffholm]]. [[Spliffholm]] was a historical city that was destroyed in a cosmic cataclysm called the [[Amethyst Blight]].

@@ -1,9 +1,26 @@
-### **The Rise and Fall of Spliffholm**
+**The Ruins of [[Spliffholm]] are my adaptation of [[Drakkenheim]] into the world.** **I will copy world info from Drakkenheim below with my adaptations.**
 
-Once a booming [[Magitech]] lumber fortress, [[Spliffholm]] was the industrial heart of [[Stickyickistan]], famous for its [[Arcanite]]-infused trees used in [[Elemental Vehicles]], siege engines, and enchanted weaponry. Originally founded by the dwarven artificer [[Draza Zharrah]], the city's experimental forestry produced [[Elemental Trees]], making it a military and economic powerhouse.
+---
 
-But power breeds greed. Spliffholm’s ruling guilds fought over resources, trade routes, and arcane secrets, plunging the city into a brutal magitech civil war. Factories became battlegrounds, rogue golems rampaged through the streets, and desperate warlocks summoned fiends, undead, and unstable reality-warping magic. The final blow came when the necromancer [[Valmorra the Hollowed]] unleashed the [[Emerald Blight]], a magical plague that turned the city’s population into rotting, fungal-infested undead.
+*Spliffholm is no more. The once-proud city of magical innovation is now a desolate urban wasteland, ravaged by an eldritch storm of falling stars fifteen years ago. Drakkenheim was born. The disaster that day was merely a prelude to the horrors that followed. Once the octarine flames that engulfed the city died down, a thick eerie mist remained behind. By night, a billowing aurora of prismatic light appeared, dancing over the city’s corpse. Now, the forlorn streets are haunted by mutated monsters, twisted abominations, and undead wretches created by the otherworldly forces which have taken root in the ruins.*
 
-In a last-ditch effort, an alliance of native [[Halflings]] druids, [[Ashenfey]], [[Verdanfey]], Elemental creatures, and arcanists from other cities sealed the ruins behind a barrier of Radiant [[Elemental Trees]], whose divine-infused wood keeps the undead trapped to this day. Now, Spliffholm lies buried within the [[Grim Forest]], a cursed, overgrown ruin teeming with rogue war machines, vengeful treants, and mindless [[Blighted Ones]].
+---
 
-Adventurers whisper of untouched treasures and lost magitech secrets within the ruins, but **few return to tell the tale—and those who do never stop coughing.**
+# Quick Facts
+
+## [[Delerium]]
+
+Delerium crystals are found throughout the ruined streets of Drakkenheim, jutting forth from piles of rubble, spreading along crumbling walls like crystalline moss, and glowing within the gaping crater. Known as the [[Amethyst Blight]], these iridescent stones radiate with vast magical energies which induce madness and mutate any matter they touch. While most deposits were left behind by the falling stars which devastated the city, the magical crystals slowly sprout and grow as their contaminated energies spread .
+
+Although the crystals are dangerous, their tremendous magical potential makes them especially valuable to arcane spellcasters of all kinds. Delerium is readily used as the material component for nearly any spell, and the crystals can store and contain powerful magical essences which may in turn be used to power magical weapons, equipment, and other arcane contraptions. As such, the stones command a high price amongst mages and occultists alike, and an influential gray market has developed around prospecting, extracting, transporting, and selling the crystals. Nevertheless, the true origins and full properties of delerium have yet to be discovered.
+## The Haze
+
+Swirling mists filled with indescribable colors of greenish yellow-purple settled over Drakkenheim. This magical mist is the visible byproduct of the intense magical radiation emitted by the vast concentration of delerium in the ruins. Normal creatures slowly gain contamination the longer they linger within the Haze and cannot benefit from a long rest while they remain inside it.
+
+# Factions
+
+- ## [[Hooded Lanterns]]
+- ## [[Queen's Men]]
+- ## [[Knights of the Silver Order]]
+- ## [[Followers of the Falling Fire]]
+- ## [[Amethyst Academy]]
