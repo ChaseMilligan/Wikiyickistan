@@ -53,7 +53,7 @@ Like crafting magic items and cooking magic food, brewing Arcannabis strains use
 > *Any strain that includes monster components from a contaminated Drakkenheim monster will apply 1 level of [^2]contamination when smoked*
 
 > [!Dispelling Arcannabis]
-> For the purposes of the dispel magic spell, all of a strain’s effects count as one single spell of a level based on the meal’s rarity: **uncommon**, 2nd-level; **rare**, 4th-level; **very rare**, 6th-level; **legendary**, 8th level.
+> For the purposes of the dispel magic spell, all of a strain’s effects count as one single spell of a level based on the strain’s rarity: **uncommon**, 2nd-level; **rare**, 4th-level; **very rare**, 6th-level; **legendary**, 8th level.
 
 ## Brewing Checks
 
@@ -63,7 +63,7 @@ Brewing an Arcannabis strain requires these 3 things:
 - 1 unit of a Landrace Strain, or 1 unit of mundane cannabis and an Essence
 - Herbalism Kit, Alchemist Supplies, Brewer’s Supplies
 
-A creature with all these in their possession can spend **1 hour** brewing. At the conclusion of the hour, the creature makes a **Wisdom (Alchemist's Supplies, Brewer's Supplies, Herbalism Kit)** check against the DC of the strain (see Ingredients and Strain DC table below). Depending on the difference between the DC and the result of the check, a magical meal can have quirks.
+A creature with all these in their possession can spend **1 hour** brewing. At the conclusion of the hour, the creature makes a **Wisdom (Alchemist's Supplies, Brewer's Supplies, Herbalism Kit)** check against the DC of the strain (see Ingredients and Strain DC table below). Depending on the difference between the DC and the result of the check, a strain can have quirks.
 
 ## Strains
 
