@@ -1,5 +1,3 @@
-Zooka Malt is a beverage similar to ale that is made from a special variety of [[Arcannabis]] called [[Fizzlebud]]. The effects of drinking Zooka Malt are the same as smoking Fizzlebud. Similar to what you would experience if you drank a beer and smoked a joint.
+Zooka Malt is a beverage similar to ale that is made by alchemically fermenting a biomantic plant called **Humulus Lupulus** with fruits and spices. The effects of drinking Zooka Malt are mechanically the same as drinking alcohol, but it is half as potent. For flavour, the effects of Zooka Malt are comparable to the effects of CBD, or Melatonin. A small hint of euphoria with an increasingly overwhelming urge to crawl into bed. Refer to Heliana's Guide for drunkenness rules.
 
-### Brewing
-
-Requires proficiency in Alchemist's Supplies, a standard size barrel, and at least a quarter pound (96 uses) of [[Fizzlebud]]. Filling the barrel with water, a quarter pound of Fizzlebud, and alchemist supplies, then letting it steep for at least a week will result in a good batch of Malt. The longer it ages will not affect the end product for 2 years before it goes bad.
+***Humulus Lupulus.*** is a member of the **Arcannabaceae** family of flowering biomantic plants. It is often misidentified as it's much more famous cousin, [[Arcannabis]], because of the way it looks, but Humulus Lupulus does not have the same arcane properties. This plant is mainly used in brewery for its flavour, and mundane medicinal value of being antibacterial.

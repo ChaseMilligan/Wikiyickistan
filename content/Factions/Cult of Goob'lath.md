@@ -1,1 +1,1 @@
-This is a group of black winged kobolds that follow [[Goob'lath]] the black slime dragon.
+This is a growing group of mostly black winged kobolds that follow [[Goob'lath]] the black slime dragon, but there are also many oozes and some humans even that venerate Goob'lath.

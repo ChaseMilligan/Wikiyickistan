@@ -1,4 +1,4 @@
-**The future of Arcannabis is going to borrow heavily from the cooking section of Heliana’s Guide to Monster Hunting, and a little from Drakkenheim.**
+**The future of Arcannabis is going to borrow heavily from the cooking section of Heliana’s Guide to Monster Hunting, and a little from [[Drakkenheim]].**
 
 # Landrace Strains
 
@@ -52,7 +52,7 @@ Like crafting magic items and cooking magic food, brewing Arcannabis strains use
 
 > *Any strain that includes monster components from a contaminated Drakkenheim monster will apply 1 level of [^2]contamination when smoked*
 
-> [!Dispelling Arcannabis]
+> [!Dispelling] Dispelling Arcannabis
 > For the purposes of the dispel magic spell, all of a strain’s effects count as one single spell of a level based on the strain’s rarity: **uncommon**, 2nd-level; **rare**, 4th-level; **very rare**, 6th-level; **legendary**, 8th level.
 
 ## Brewing Checks

@@ -1,7 +1,3 @@
-**Zahur al-Nasira**
-
-[Sheet](https://www.dndbeyond.com/characters/141830447)
-
 *The Azure Storm, He Who Whispers to the Winds*
 
 A being of tempestuous laughter and boundless charisma, **Zahur al-Nasira** is more than just a Djinni Prince—he is the **Master of Mayhem**, the **Architect of Anarchy**, and the **Undisputed Host** of the most exhilarating game show in all the multiverse: **The League of Labyrinthia!**
@@ -10,7 +6,7 @@ A being of tempestuous laughter and boundless charisma, **Zahur al-Nasira** is m
 
 Zahur is a being of contradictions—a jovial yet ruthless ruler, a playful yet cunning trickster. His voice is a symphony of howling winds and thunderclaps, rising and falling with the tension of the game. He takes great delight in watching contestants squirm, but he respects true cunning and bravery, rewarding those who dare to face the odds with skill.
 
-From his floating storm-palace [[Nasirath]], the Citadel of Endless Skies, Zahur orchestrates each event with meticulous chaos, ensuring that no two games are ever the same. He thrives on the energy of the crowd, feeding off their cheers and gasps as they witness heroes rise and fall.
+From his floating storm-palace Nasirath, the Citadel of Endless Skies, Zahur orchestrates each event with meticulous chaos, ensuring that no two games are ever the same. He thrives on the energy of the crowd, feeding off their cheers and gasps as they witness heroes rise and fall.
 
 ### **Appearance & Attire**
 

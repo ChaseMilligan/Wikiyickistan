@@ -11,7 +11,7 @@ Zara will also bring their attention to a new high profile contract in the BPU c
 On their way through the city to the scrapyard, the party either spots, or gets spotted by the THC squad and they will try to engage for the first time for real if they get the chance
 # 2.
 
-At any point after reaching the scrapyard a player exceeds 20 on any perception check (provided they are above ground) will allow the player to notice a giant creature flying through the clouds above the scrapyard. Give a vague description of Goob’lath:  
+At any point after reaching the scrapyard a player exceeds 20 on any perception check (provided they are above ground) will allow the player to notice a giant creature flying through the clouds above the scrapyard. Give a vague description of [[Goob’lath]]:  
 
 “*Far above, barely more than a speck against the sky, a massive winged shape glides silently through the clouds. Its movements are too smooth, too deliberate, to be a bird. There's a strange shimmer to its form—dark and shifting, like smoke or oil—but it's too distant to tell for sure. It doesn't circle. It doesn't flap. It just soars—watchful, or perhaps just passing. Then, it fades into the cloudbank, leaving you to question what that was you just saw.*”  
 # 3.

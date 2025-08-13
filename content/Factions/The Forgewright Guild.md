@@ -1,6 +1,6 @@
 #### **The Fabricators of Progress**
 
-The Forgewright Guild is the pinnacle of [[Magitech]] craftsmanship in [[Stickyickistan]], responsible for engineering the constructs, arcane weaponry, and elemental machinery that fuel the city-state’s rapid advancement. Unlike the noble-founded guilds of old, the Forgewright Guild was the first major guild not formed by one of the [[Four Founding Houses]], making it a non-political entity—yet one that wields immense economic power.
+The Forgewright Guild is the pinnacle of [[Magitech]] craftsmanship in [[Stickyickistan]], responsible for engineering the constructs, arcane weaponry, and elemental machinery that fuel the city-state’s rapid advancement. Unlike the noble-founded guilds of old, the Forgewright Guild was the first major guild **not formed by** one of the [[Four Founding Houses]], making it a non-political entity—yet one that wields immense economic power.
 
 Headquartered near the Industrial Zone, the guild’s massive foundries, forges, and arcane research labs churn out everything from fine-crafted mundane wares to revolutionary magitech innovations. Their cutting-edge research facilities in Mount Zooka’s Rim push the limits of construct design, Arcanite enhancement, and elemental engineering.
 #### **Technological Wonders**

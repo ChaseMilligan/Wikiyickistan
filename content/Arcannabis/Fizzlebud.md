@@ -1,0 +1,3 @@
+Fizzlebud is a mildly arcane landrace of [[Arcannabis]]. Often used as a base in alchemy for brewing new uncommon Arcannabis strains (see [[Arcannabis System Rework]]). Fizzlebud can also be smoked.
+
+***Smoking a Landrace Strain:*** Smoking a Landrace Strain with no other monster components mixed in will apply the [^1]Valor(X) condition to the character for the duration. The duration of the effect, and the number of d4 rolled for [^1]Valor increases by 1 for each rarity level above uncommon.

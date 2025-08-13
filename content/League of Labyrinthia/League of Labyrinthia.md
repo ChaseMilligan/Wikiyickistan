@@ -4,7 +4,7 @@ A master entertainer and a sadistic showman, [[Zahur al-Nasira]] invites (by for
 
 The rules are simple: survive, overcome, and profit—or perish in spectacular fashion. Each room in the labyrinth holds the promise of gold and glory or an untimely, hilarious demise. The harder the dungeon, the greater the payout—and the higher the ratings. Zahur ensures that every show is filled with unexpected twists, sending waves of chaotic magic to spice up the competition and keep the audience on the edge of their seats.
 
-Zahur brings viewers from all overt the multiverse to come watch the spectacles, but a walk-in portal called the [[Labyrinthian Link]] can be found in [[Stickyickistan]] on [[Nevercough Island]] downtown. Citizens can buy tickets for the events and pass through the portal to watch the show.
+Zahur brings viewers from all overt the multiverse to come watch the spectacles, but a dimension door called the Labyrinthian Link can be found in [[Stickyickistan]] on [[Nevercough Island]] downtown. Citizens can buy tickets for the events and pass through the portal to watch the show.
 
 ### Wild Magic Table
 
