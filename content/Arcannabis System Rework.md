@@ -12,7 +12,7 @@ There are 4 landraces of [[Arcannabis]] to represent the 4 different rarity leve
 | Legendary | Tarrasque Breath OG | 8 hrs    | 17,700 gp     |
 > *1x unit of Arcannabis is typically enough to roll up for one Large creature or up to five Medium or smaller creatures.*
 
-***Smoking a Landrace Strain:*** Smoking a Landrace Strain with no other monster components mixed in will apply the [^1]Valor(X) condition to the character for the duration. The duration of the effect, and the number of d4 rolled for Valor increases by 1 for each rarity level above uncommon.
+***Smoking a Landrace Strain:*** Smoking a Landrace Strain with no other monster components mixed in will apply the [^1]Valor(X) condition to the character for the duration. The duration of the effect, and the number of d4 rolled for [^1]Valor increases by 1 for each rarity level above uncommon.
 
 ---
 # Weed 'em And Reap
@@ -135,7 +135,7 @@ Breaking down 1 unit of Arcannabis takes **5 minutes**, and makes **up to 5 pre-
 All that is required to smoke an Arcannabis pre-roll is a flame. Any flame will work. It takes **1 minute** to smoke a pre-roll, and **4 minutes** after to feel the effects.
 ## Puff, Puff, Pass
 
-Puff, Puff, Pass is similar to casting a ritual spell as a group. Anytime two or more creatures spend 10 minutes **rolling up** and **blazing** pre-rolls from the same unit of Arcannabis together, they will gain the Valor(1d4) condition for an hour.  Add +1 to the Valor roll for each strain rarity level above uncommon.
+Puff, Puff, Pass is similar to casting a ritual spell as a group. Anytime two or more creatures spend 10 minutes **rolling up** and **blazing** pre-rolls from the same unit of Arcannabis together, they will gain the [^1]Valor(1d4) condition for an hour.  Add +1 to the [^1]Valor roll for each strain rarity level above uncommon.
 
 [^1]: ***Valor.*** Add a die to your attack rolls and saving throws. The die rolled is specified by the condition, such as Valor (1d4).
 
