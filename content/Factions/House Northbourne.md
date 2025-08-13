@@ -28,3 +28,23 @@ Outsiders may work for House Northbourne, but only those born or married into th
 Among their many ventures, House Northbourne owns a luxurious restaurant known as [[Belly of the Beast]] This high-end establishment is a shrine to Stickyickistan’s legendary monster & beast hunters, its walls lined with taxidermy of rare beasts, enchanted murals, and tapestries depicting grand hunts. Here, the city’s elite dine on exotic meats and rare delicacies, reveling in a world of luxury, status, and danger.
 
 However, behind its refined atmosphere lies a far darker purpose. In the back of the restaurant, the grand dining hall can be transformed into an underground fighting pit, where monstrous creatures, captured warriors, and gladiators battle for the entertainment of the most exclusive guests, and sometimes money. These events are invitation-only, catering to the city’s wealthiest and most dangerous individuals.
+
+# Notable Members
+
+#### [[Lord Eldric Northbourne]]
+
+#### [[Lady Isolde Northbourne]]
+
+#### [[Valtair Northbourne]]
+
+## [[The Norfies]] – House Northbourne’s Criminal Shadow
+
+#### [[Ronan “Redtooth” Northbourne]]
+
+#### [[Marcellus “Marlo” Wick]]
+
+#### [[Tessara “Tess” Northbourne]]
+
+#### [[Baxter “Bax” Vance]]
+
+#### [[Juno Lowry]]

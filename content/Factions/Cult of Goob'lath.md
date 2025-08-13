@@ -1,0 +1,1 @@
+This is a group of black winged kobolds that follow [[Goob'lath]] the black slime dragon.
