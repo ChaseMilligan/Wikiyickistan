@@ -10,7 +10,7 @@ There are 4 landraces of [[Arcannabis]] to represent the 4 different rarity leve
 | Rare      | Chimera Cookie Cake | 2 hrs    | 615 gp        |
 | Very Rare | Mindflayer Haze     | 4 hrs    | 3,380 gp      |
 | Legendary | Tarrasque Breath OG | 8 hrs    | 17,700 gp     |
-> *1x unit of Arcannabis is typically enough to roll up for one Large creature or up to four (DM's discretion) Medium or smaller creatures.*
+> *1x unit of Arcannabis is typically enough to roll up for one Large creature or up to five Medium or smaller creatures.*
 
 ***Smoking a Landrace Strain:*** Smoking a Landrace Strain with no other monster components mixed in will apply the [^1]Valor(X) condition to the character for the duration. The duration of the effect, and the number of d4 rolled for Valor increases by 1 for each rarity level above uncommon.
 
@@ -136,9 +136,6 @@ All that is required to smoke an Arcannabis pre-roll is a flame. Any flame will 
 ## Puff, Puff, Pass
 
 Puff, Puff, Pass is similar to casting a ritual spell as a group. Anytime two or more creatures spend 10 minutes **rolling up** and **blazing** pre-rolls from the same unit of Arcannabis together, they will gain the Valor(1d4) condition for an hour.  Add +1 to the Valor roll for each strain rarity level above uncommon.
-
----
-# Footnotes
 
 [^1]: ***Valor.*** Add a die to your attack rolls and saving throws. The die rolled is specified by the condition, such as Valor (1d4).
 
