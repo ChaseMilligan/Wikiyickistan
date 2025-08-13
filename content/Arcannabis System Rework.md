@@ -18,7 +18,7 @@ There are 4 landraces of [[Arcannabis]] to represent the 4 different rarity leve
 # Weed 'em And Reap
 ## Seeds
 
-There are only seeds of Landrace Strains. When a player sows a seed they decide whether they want the plant to produce a smokable Arcannabis, or seeds. Each plant can produce 1d8+2 seeds. Each plant can produce a minimum of 1d4+2 units of smokable Arcannabis. If seeds are purchased they cost half the price of their smokable product, and take up to 3 months in game to fully mature. 
+There are only seeds of Landrace Strains. When a player sows a seed they decide whether they want the plant to produce smokable Arcannabis, or seeds. Each plant can produce 1d8+2 seeds. Each plant can produce a minimum of 1d4+2 units of smokable Arcannabis. If seeds are purchased they cost half the price of their smokable product, and take up to 3 months in game to fully mature. 
 ## Soil
 
 The growth speed can be increased based on the soil quality. Each soil quality level can handle a certain amount of seeds before the nutrients are depleted.
