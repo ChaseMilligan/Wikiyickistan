@@ -1,0 +1,7 @@
+An unknottable bundle of anxiety, Peeper is a nonbinary LG aberration, a floating eye monster, and one of [[Humperdink]]’s first familiars. With an eye for detail and an eagerness to please, Peeper has elected to take on all the bureaucracy and bookkeeping of the [[Loot Tavern]], much to everyone’s relief. Peeper cares for their friends to a profound degree and would be devastated if any of them should express disappointment at their actions.
+
+### Peeper’s Library
+
+[Peeper](https://www.dndbeyond.com/sources/dnd/hgtmh1/the-loot-tavern#Peeper) likes books, keeping things orderly, and being an orange ball of helpfulness. In short, they’re the ultimate librarian. Peeper’s library is a repository of all the books and tomes on monster hunting that Heliana has acquired (if not read) over the years.
+
+**_Services: Research._** For no charge, a creature can spend **8 hours** working with Peeper to find information on the target of a hunt. At the end of this period, the creature can make a **DC 16 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))** check to see what they discover. On a success, the creature receives the information for one of the clues for the coming hunt (GM’s choice). A result of **26** or higher reveals two of these clues, instead. A failed check indicates that the library has no relevant information on this subject that the party can discern.
