@@ -10,7 +10,7 @@ There are 4 landraces of [[Arcannabis]] to represent the 4 different rarity leve
 | Rare      | Chimera Cookie Cake | 2 hrs    | 615 gp        |
 | Very Rare | Mindflayer Haze     | 4 hrs    | 3,380 gp      |
 | Legendary | Tarrasque Breath OG | 8 hrs    | 17,700 gp     |
-> *1x unit of Arcannabis is typically enough to roll up for one Large creature or up to five Medium or smaller creatures.*
+> *1x unit of Arcannabis is typically enough to [[#Pass The Dutchie to the Left]] for up to five Medium or smaller creatures.*
 
 ***Smoking a Landrace Strain:*** Smoking a Landrace Strain with no other monster components mixed in will apply the [^1]Valor(X) condition to the character for the duration. The duration of the effect, and the number of d4 rolled for [^1]Valor increases by 1 for each rarity level above uncommon.
 

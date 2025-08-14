@@ -3,14 +3,14 @@ Delerium is a magical mineral left behind by the meteor that landed in Drakkenhe
 A typical delerium fragment is about the size of a finger. Crystals may be fist-sized or slightly larger, and geodes may be as big as a pumpkin. Massive clusters might grow taller than a human.
 
 ### Delerium Crystals
-|Crystal Size|Market Value|Weight|AC|HP|Extraction Time|
-|---|---|---|---|---|---|
-|[Chip](https://www.dndbeyond.com/equipment/730-delerium-chip)|10 gold|1/4 lbs|15|5|1 action|
-|[Fragment](https://www.dndbeyond.com/equipment/734-delerium-fragment)|100 gold|1/2 lbs|17|10|1 minute|
-|[Shard](https://www.dndbeyond.com/equipment/735-delerium-shard)|500 gold|1 lbs|19|15|5 minutes|
-|[Crystal](https://www.dndbeyond.com/equipment/736-delerium-crystal)|1,000 gold|2 lbs|21|20|30 minutes|
-|[Geode](https://www.dndbeyond.com/equipment/731-delerium-geode)|5,000 gold|20 lbs +|23|25|1 hour|
-|[Massive Cluster](https://www.dndbeyond.com/equipment/732-delerium-massive-cluster)|Priceless|8,000 lbs +|25|50|7 days|
+| Crystal Size                                                                        | Market Value (Buy) | Weight      | AC  | HP  | Extraction Time | Stabilization DC |
+| ----------------------------------------------------------------------------------- | ------------------ | ----------- | --- | --- | --------------- | ---------------- |
+| [Chip](https://www.dndbeyond.com/equipment/730-delerium-chip)                       | 30 gold            | 1/4 lbs     | 15  | 5   | 1 action        | 8                |
+| [Fragment](https://www.dndbeyond.com/equipment/734-delerium-fragment)               | 80 gold            | 1/2 lbs     | 17  | 10  | 1 minute        | 12               |
+| [Shard](https://www.dndbeyond.com/equipment/735-delerium-shard)                     | 300 gold           | 1 lbs       | 19  | 15  | 5 minutes       | 16               |
+| [Crystal](https://www.dndbeyond.com/equipment/736-delerium-crystal)                 | 1,600 gold         | 2 lbs       | 21  | 20  | 30 minutes      | 20               |
+| [Geode](https://www.dndbeyond.com/equipment/731-delerium-geode)                     | 8,000 gold         | 20 lbs +    | 23  | 25  | 1 hour          | 24               |
+| [Massive Cluster](https://www.dndbeyond.com/equipment/732-delerium-massive-cluster) | Priceless          | 8,000 lbs + | 25  | 50  | 7 days          | 28               |
 
 ### Delerium Properties
 
@@ -33,16 +33,16 @@ Delerium found in Drakkenheim is usually fused into the ground or stone building
 
 Delerium has vast arcane potential. Beyond trade, crystals are used for several purposes:
 
-[![](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/11-02.frenzied-dreg.png)](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/11-02.frenzied-dreg.png)
-
-Frenzied Dreg
-
 **_Spell Component._** Delerium may be used as an arcane focus or material component for any spell on the sorcerer, warlock, or wizard spell list. When casting a spell which requires a costly material component, a spellcaster may instead use delerium of equivalent or greater value to the required cost.
 
-**_Magic Items._** Delerium is an exceptional material for creating magical items of all kinds. Any existing magic item described in the [Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024/magic-items-a-z) could be made with delerium. Fragments, shards, crystals, and geodes may be used to make uncommon, rare, very rare, and legendary items respectively. At the GM’s discretion, characters who can cast level 5 spells or higher may learn techniques to craft magic items of their own during their downtime.
+**_Magic Items._** Delerium is an exceptional material for creating magical items of all kinds. Any existing magic item described in the [Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024/magic-items-a-z) could be made with delerium. Fragments, shards, crystals, and geodes may be used to make uncommon, rare, very rare, and legendary items respectively.
 
-**_Stable Delerium._** The process for crafting magic items with delerium renders the crystals stable. Unless otherwise specified, characters do not take damage nor risk **[Contamination](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ContaminationCondition)** when they touch or handle stable delerium. Stable delerium is damaged and destroyed in the same manner as a normal magic item of its kind.
+**_Stable Delerium._** The process for crafting magic items with delerium renders the crystals stable, effectively turning it into [[Arcanite]]. Unless otherwise specified, characters do not take damage nor risk **[Contamination](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ContaminationCondition)** when they touch or handle stable delerium. Stable delerium is damaged and destroyed in the same manner as a normal magic item of its kind. Enough Stability Serum costs 50% of the buying price of the shard. If an attempt at stabilizing a shard is made outside an Antimagic Field and fails, the shard turns to dust. If the attempt fails by 5 or more, the shard explodes dealing VDAM necrotic damage and applying 1 level of contamination to any creature within 10 feet.
 
-**_Delerium Dust._** Delerium dust is made by grinding the crystals against one another to create a fine powder. This milling process is extraordinarily hazardous unless performed within an [Antimagic Field](https://www.dndbeyond.com/spells/2618860-antimagic-field). Delerium dust can be used in alchemy, as a spell component, a reagent for brewing potions, or mixed into inks used to scribe spell scrolls.
+**_Delerium Dust._** Delerium dust is usually made by grinding the crystals against one another to create a fine powder. This milling process is extraordinarily hazardous unless performed within an [Antimagic Field](https://www.dndbeyond.com/spells/2618860-antimagic-field). Delerium dust can be used in alchemy, as a spell component, a reagent for brewing potions, or mixed into inks used to scribe spell scrolls.
 
 **_Improvised Weapons & Ammunition._** Delerium fragments may be used as ammunition for a sling or fashioned into a makeshift club. Such weapons and ammunition deal an extra 1d6 Necrotic damage, and humanoid creatures struck must make a DC 10 Constitution saving throw or gain one level of **[Contamination](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ContaminationCondition)**. Delerium used as ammunition in this way is destroyed.
+
+### Delicate Balance of the Elements
+
+[[Arcanite]] and Delerium are like yin and yang. Arcanite represents order, and light while Delerium represents darkness, and chaos. Arcanite's magical properties are perfectly stable making it very reliable at powering most magitech, but slightly less powerful and much more expensive. Delerium on the other hand is a highly volatile element allowing it to output more magical energy for powering magitech, but not as reliable and much more dangerous.
