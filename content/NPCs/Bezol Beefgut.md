@@ -1,7 +1,13 @@
 Owner and Head Chef of the [[Belly of the Beast]]
 
+# Call to Action
+
 Bezol has contacted [[Kezrin Malvek]] about the possibility of returning to adventuring now that he is financially stable and living up to his oath. More than a decade ago, with Freyr as his witness, he swore on his life to nurture and protect the land as it had nurtured and protected him. After making that vow, he stepped away from the adventuring life, devoting himself instead to building a culinary empire in Stickyickistan. Every step of the way, he ensured that all his produce and meats were locally and ethically sourced. Through his dedication, he rose to the title of Reapmaster Harvester and became a wealthy restaurateur.
 
 Nowadays, his business can run smoothly without his constant oversight, thanks to the loyal and capable staff at his establishments. With this freedom, Bezol has begun to consider a return to the adventuring life—especially after the grand time he had in the land of [[Greyhawk]], aiding in the defeat of the avaricious young blue dragon [[Zephyron]]. His motivation, however, is not wealth or treasure; his bills are paid, and he considers himself rich enough in Freyr’s favor. Instead, he is driven by a righteous purpose and a deep curiosity.
 
 Bezol wishes to seek out and harvest exotic creatures that most would never consider as food, experimenting with new recipes and tasting flavors yet unknown. He dreams of traveling to distant, unfamiliar lands, savoring their cuisine, and creating dishes that honor both the place and its bounty. Through these journeys, he intends to uphold the tenets of his Harvest Oath—being brave in the face of death, respecting nature, and embracing his place within it—all in the name of his patron deity, Freyr. And perhaps, along the way, he will revisit the joys of the old days: crafting special breakfast treats and hearty bush lunches for his companions while out on the hunt.
+
+# Backstory
+
+Bezol is a a Follower of one of [[The Old Faiths]]. His patron god is Freyr, a prominent god in the Norse pantheon, associated with kingship, fertility, peace, prosperity, and good weather. He is also linked to sunshine, fair weather, and abundant harvests.
