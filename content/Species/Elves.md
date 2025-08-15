@@ -1,0 +1,7 @@
+# Elves of Mythmos
+
+No one knows when elves came to these lands, or exactly how they got here. Even the most ancient among them tell little more than vague myths about their origins. These stories claim that millennia ago, the elves came into this world through fairy realms and shadow gates from a distant and long-lost land. Why the elves left, none can say. Today, the elves live in diaspora. Only a handful of elven families dwell in even the most populous regions. Although rare, they are no longer regarded as strangers to these lands. In fact, half-elves are now much more common than those of pure elven descent. Though elves remember little of their history, they still possess great knowledge of magic. The few elven ruins found across the continent contain mysterious portals and arcane lore. The reason they were abandoned remains unknown.
+
+# Elves of Stickyickistan
+
+Most Elves came to this land long ago during a time known as [[Human Colonialism]] where they along with the humans from the Gold Coast of [[Elyria]], and carried out a brutal, near genocidal conquest of the native [[Halflings]]. There was a small number of Elves living on the island prior to [[Human Colonialism]], that had a distinct culture from other Elves across [[Mythmos]]. These Elves were living in the [[Springwood]], a small forested area on the coast of the island that has an innate connection to the [[Feywild]]. There are many ancient elven ruins in the Springwood, and mysterious portals have been opened before.

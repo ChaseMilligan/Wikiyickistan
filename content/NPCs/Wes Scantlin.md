@@ -2,3 +2,7 @@ An infamously disgraced singer and bard, from a well known rock band of the real
 ## Death
 
 Wes was involved in stealing the [[Gilded Nug]] from a high ranking member of the [[Cough City Crew]]. Little did he know that there was undercover members of the [[Ashen Shadow Society]] posing as CCC members. These A.S.S operatives followed Wes to where he was hiding out, and reported back to their superiors. Eventually [[Unit BH-Umbra Δ9]] was sent to eliminate Wes, and retrieve the Gilded Nug.
+
+# [[Goob'lath]]
+
+Wes was found by Goob’lath’s followers, and brought back to him. Goob’lath took his corpse to the 222nd layer of the [[Abyss]], as he could tell Wes was a powerful caster in life. [[Jubilex]] resurrected Wes under the condition that he be taken on as a patron, so Wes made a pact with Jubilex similar to Goob’lath. Juiblex wants to transform Wes' form into the perfect avatar, so the other demon lords will have more respect for him.

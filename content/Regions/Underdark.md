@@ -1,10 +1,8 @@
 - Same as Underdark from [[Forgotten Realms]] except for the presence of [[Arcanite]].
 - The volcanic bowels of [[Mount Zooka]] reach through the depth of the Underdark
-- Massive veins of raw [[Arcanite]] pulse through the tunnels, leaking chaotic magical energy into the environment.
-- These unstable regions create [[Wild Magic Zones]], where spells twist unpredictably, reality bends, and constructs sometimes gain sentience.
+- Massive veins of raw [[Arcanite]] pulse through the tunnels, leaking magical energy into the environment.
 - Some of the creatures that reside in areas with high concentrations of [[Arcanite]] may have developed some adaptation to being in the presence of ore veins so large, that legend says some can warp the fabric of the weave itself.
 - [[The Seekers of the Vein]] send expeditions to the Underdark in search of these legendary veins of [[Arcanite]]
-- Some abandoned mining colonies have turned into haunted ghost towns, their workers mutated or trapped in arcane stasis.
 - When the [[Amethyst Blight]] consumed [[Spliffholm]], parts of the [[Ruins of Spliffholm]] collapsed into the Underdark, forming an arcane wasteland of undead horrors, lost technology, and forbidden knowledge.
 - The ruins hide lost [[The Forgewright Guild]]'s prototypes, abandoned [[Magitech]] reactors, and sealed vaults containing artifacts that should never be unearthed.
 - [[Molten Maw]], is a colossal underground volcanic city in the [[Underdark]] inhabited mainly by [[Duergar]] and [[Svirfneblin]], that serves as both a natural forge and a deadly hazard.
