@@ -8,7 +8,7 @@ The people who inhabit the planet of Mythmos simply call it “the earth” or �
 ## [[Stickyickistan]]
 
 Stickyickistan can be found on the map of the continent in the Middle Sea off the Gold Coast.
-## Westemär
+## [[Westemär]]
 
 The Realm of Westemär stretches north from the Drakeclaw and Glimmer Mountains, along the Crystal Coast to northern tundras. The heartland is made up of deep dark forests surrounding wide flowing rivers, interspersed with areas of fertile marshland. The land is prosperous and rich in natural resources: iron, salt, and coal mines, fine timber, and excellent quarries. These industries supported the realm’s once-great military strength and built the impressive architecture of its cities. As such, the nobility are distinguished, but materialistic and prideful, in contrast to the hard-working and pragmatic common folk.
 #### A Broken Realm
@@ -17,7 +17,7 @@ The Realm of Westemär stretches north from the Drakeclaw and Glimmer Mountains,
 
 Lacking a sovereign ruler, the nobility manages their own domains directly. They remain deeply divided based on which branch of House von Kessel they supported during the civil war. Many grievances remain, and occasional skirmishes occur between the squabbling barons, counts, and dukes. However, after nearly a decade of fighting, their coffers are empty and their blood is spent. Few possess the will or resources to continue these feuds for the time being. Many noble families possess some relation to the royal line, yet none have the political clout or military strength to press a claim upon the throne and reunify the nation.
 
-## Elyria
+## [[Elyria]]
 
 The realm of Elyria lies on a large peninsula south of the Drakeclaw Mountains. The land comprises vast rolling prairies and river basins broken up by rocky arid hills and a mountainous coast. Nestled within are pockets of imposing pinewood forests, and great deposits of precious minerals such as gold and silver. Elyrians are known for being kind-hearted and outgoing folk eager to share the bounty of their land. Most live a rural life in small villages along the rivers and coasts. Indeed, the fertile river valleys at the heart of Elyria were an early cradle of civilization, and the countryside is dotted with the ruins of ancient cities.
 
@@ -30,7 +30,7 @@ Originally, Elyria was a monarchy, but today, the nation is effectively a theocr
 
 However, in recent decades, successive Divine Matriarchs have used this power to select a line of caretaker regents who defer to the Faith on virtually all matters of state. While members of the clergy take vows of poverty that preclude them from holding actual political station, the parliament is now mostly made up of fundamentalist nobles staunchly loyal to the religion, and the Lord Regent is almost always a close relative of a prominent High Flamekeeper or the Divine Matriarch. As a result, the Divine Matriarch wields _de facto_ political authority in Elyria.
 
-## Caspia
+## [[Caspia]]
 
 The realm of Caspia stretches in an expanse between the Glimmer Mountains and the Diamond Sea. It is a rugged and Mediterranean nation, home to a boisterous and affable people led by a constantly squabbling nobility.
 #### The Kingsmoot
@@ -49,13 +49,13 @@ However, these wild places are also home to many people who do not reside under 
 
 This is the dominant religion throughout the realms. Also known as the Divine Light, its teachings and beliefs are tightly woven into the social and political fabric of Mythmos. The religious zealotry of this faith is what drove [[Human Colonialism]] of Stickyickistan.  Their tenet of the torch states: *"One cannot abide when evil stirs; nor stand idle when corruption spreads"*, so the clergy deemed worshipping [[The Three Sisters]] as demonic heresy, which they then used to justify the incursion on to the Halflings territory. Their tenet of the candle states: *"Show those who are in darkness the light. Offer mercy to the guilty"*, so the clergy instructed missionaries to travel into the Halfling communities to attempt converting them. The clergy called it "soul saving" if the Halflings were to convert, and a "merciful act" to slay any Halfling that refused, for they would be freed from the spiritual corruption of the Three Sisters.
 
-## The Old Faiths
+## [[The Old Faiths]]
 
 This disparate religion is dedicated to a pantheons of primal deities who have whispered to mortals through nature for untold generations, such as primal Nodens, vengeful Kromac, honorable Nuada, and nurturing Danu, but there are countless more. Their beliefs and practices vary widely based on the tenets of the specific patron god, but their myths often surround animism, the elements, the seasons, the land, and ancestor worship. Many such beliefs originated with the ancient orcish and dwarven peoples of the continent. Others are closely connected to mysterious entities who inhabit extraplanar worlds such as [[Dreamland]], the [[Elemental Chaos]], or the [[Feywild]], and are often kept by the elves. Druids are particularly common adherents and priests of the Old Faith, but clerics and paladins of the Old Faith are not unknown.
 
-## Shadow Cults
+## [[Shadow Faiths]]
 
-Throughout the ages, various ‘[[Shadow Faiths]]’ and heretical sects have emerged surrounding the Sacred Flame, some of which embrace an opposing force called the Exalted Darkness. These cults develop their own mysteries and esoteric practices, or devote themselves to worshipping enigmatic god-like beings such as [[Morrigan]] the [[Phantom Queen]], the [[Night Serpent]], the [[Lord of the Undead]], and powerful entities who inhabit the [[Shadowlands]] or the [[Abyss]].
+Throughout the ages, various ‘shadow faiths’ and heretical sects have emerged surrounding the Sacred Flame, some of which embrace an opposing force called the Exalted Darkness. These cults develop their own mysteries and esoteric practices, or devote themselves to worshipping enigmatic god-like beings such as [[Morrigan]] the [[Phantom Queen]], the [[Night Serpent]], the [[Lord of the Undead]], and powerful entities who inhabit the [[Shadowlands]] or the [[Abyss]].
 
 Some of these chthonic entities seek to devour the light and plunge the world into darkness unending. However, not all of these faiths are evil, with practitioners who view shadow and light as part of a necessary balance. Regardless, followers of the Sacred Flame condemn these beliefs, banishing their rites and practices. In the same manner that deep faith and contemplation leads followers of the Sacred Flame to become clerics and paladins, one may also channel the Shadow itself. Clerics are heralds of twilight, trickery, magic, and death, and paladins often invoke dark oaths to vengeful causes or ambitious conquest. Followers of the Shadow Faiths may even become warlocks, embracing dark and fiendish patrons.
 

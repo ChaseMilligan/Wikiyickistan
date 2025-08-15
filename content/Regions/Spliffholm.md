@@ -1,3 +1,1 @@
-Spliffholm is the historical name of the city that existed before the [[Amethyst Blight]] contamination transformed it into [[Drakkenheim]] aka the [[Ruins of Spliffholm]].
-
-Spliffholm 
+Spliffholm is the historical name of the city that existed before the [[Amethyst Blight]] contamination transformed it into [[Drakkenheim]] aka the [[Ruins of Spliffholm]]. It was the capital of [[Weste]]
