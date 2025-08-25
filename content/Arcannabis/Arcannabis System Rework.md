@@ -10,7 +10,7 @@ There are 4 landraces of [[Arcannabis]] to represent the 4 different rarity leve
 | Rare      | Chimera Cookie Cake | 2 hrs    | 615 gp        |
 | Very Rare | Mindflayer Haze     | 4 hrs    | 3,380 gp      |
 | Legendary | Tarrasque Breath OG | 8 hrs    | 17,700 gp     |
-> *1x unit of Arcannabis is typically enough to [[#Pass The Dutchie to the Left]] for up to five Medium or smaller creatures.*
+> *1x unit of Arcannabis is typically enough to [[#Roll up]] for up to five Medium or smaller creatures.*
 
 ***Smoking a Landrace Strain:*** Smoking a Landrace Strain with no other monster components mixed in will apply the [^1]Valor(X) condition to the character for the duration. The duration of the effect, and the number of d4 rolled for [^1]Valor increases by 1 for each rarity level above uncommon.
 
@@ -52,7 +52,8 @@ Like crafting magic items and cooking magic food, brewing Arcannabis strains use
 
 > *Any strain that includes monster components from a contaminated Drakkenheim monster will apply 1 level of [^2]contamination when smoked*
 
-> [!Dispelling] Dispelling Arcannabis
+> [!question] Dispelling Arcannabis?
+> 
 > For the purposes of the dispel magic spell, all of a strain’s effects count as one single spell of a level based on the strain’s rarity: **uncommon**, 2nd-level; **rare**, 4th-level; **very rare**, 6th-level; **legendary**, 8th level.
 
 ## Brewing Checks
@@ -127,18 +128,30 @@ There are two types of strains: staple ones which can be brewed with monster com
 ---
 # Pass The Dutchie to the Left
 
-## Rolling Up
+## Roll up
 
-Breaking down 1 unit of Arcannabis takes **5 minutes**, and makes **up to 5 pre-rolls** for medium or smaller creatures. Rolling more or less pre-rolls will **not** affect the duration, or potency of the strain.
-## Blazing
+Breaking down 1 unit of Arcannabis takes **5 minutes**, and makes **up to 5 pre-rolls** for medium or smaller creatures, and applies 1 [[Impairment Levels]]. Rolling a whole unit in one joint makes **1 large pre-roll** for large or smaller creatures, but medium or smaller creatures that blaze an entire large pre-roll to themselves must make a VDC(strain difficulty) **Constitution check**, or roll 1d6 on the *tweaker table* below to determine a condition that will be applied to them for the duration of the strains effects.
+
+##### Tweaker Table (see [[Conditions of Drakkenheim]])
+
+| 1d6 | Condition   |
+| --- | ----------- |
+| 1   | Distracted  |
+| 2   | Staggered   |
+| 3   | Addled      |
+| 4   | Dazed       |
+| 5   | Defenseless |
+| 6   | Shocked     |
+
+## Blaze
 
 All that is required to smoke an Arcannabis pre-roll is a flame. Any flame will work. It takes **1 minute** to smoke a pre-roll, and **4 minutes** after to feel the effects.
 ## Puff, Puff, Pass
 
 Puff, Puff, Pass is similar to casting a ritual spell as a group. Anytime two or more creatures spend 10 minutes **rolling up** and **blazing** pre-rolls from the same unit of Arcannabis together, they will gain the [^1]Valor(1d4) condition for an hour.  Add +1 to the [^1]Valor roll for each strain rarity level above uncommon.
 
-[^1]: ***Valor.*** Add a die to your attack rolls and saving throws. The die rolled is specified by the condition, such as Valor (1d4).
+[^1]: ***Valor.*** Add a die to your attack rolls and saving throws. The die rolled is specified by the condition, such as Valor (1d4) (see [[Conditions of Drakkenheim]]).
 
-[^2]: ***Contamination.*** Characters in the world of Drakkenheim may be exposed to eldritch pollutants or arcane radiation emitted by [^3]delerium. These hazards cause a new condition called Contamination, which causes otherworldly Mutations that have both detrimental and beneficial effects.
+[^2]: ***Contamination.*** Characters in the world of Drakkenheim may be exposed to eldritch pollutants or arcane radiation emitted by [^3]delerium. These hazards cause a new condition called Contamination, which causes otherworldly Mutations that have both detrimental and beneficial effects (see [[Conditions of Drakkenheim]]).
 
 [^3]: ***Delerium.*** Delerium is a magical mineral left behind by the meteor that landed in Drakkenheim. It appears in geode clusters of translucent, sharp-edged crystals which reflect octarine light. The eldritch stones softly hum in dissonant tones, and glow brightly at night or when exposed to magic. Deposits are found throughout Drakkenheim, often fused into stone streets and buildings like crystalline moss.
