@@ -155,3 +155,5 @@ Puff, Puff, Pass is similar to casting a ritual spell as a group. Anytime two or
 [^2]: ***Contamination.*** Characters in the world of Drakkenheim may be exposed to eldritch pollutants or arcane radiation emitted by [^3]delerium. These hazards cause a new condition called Contamination, which causes otherworldly Mutations that have both detrimental and beneficial effects (see [[Conditions of Drakkenheim]]).
 
 [^3]: ***Delerium.*** Delerium is a magical mineral left behind by the meteor that landed in Drakkenheim. It appears in geode clusters of translucent, sharp-edged crystals which reflect octarine light. The eldritch stones softly hum in dissonant tones, and glow brightly at night or when exposed to magic. Deposits are found throughout Drakkenheim, often fused into stone streets and buildings like crystalline moss.
+
+# Quirks
