@@ -1,0 +1,1 @@
+Elder Caps are magical mushrooms of a divine nature.

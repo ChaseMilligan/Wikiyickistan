@@ -1,0 +1,9 @@
+The Heralds of Dust believe life is a false existence—everything and everyone is already dead. They act as [[Stickyickistan]]’s undertakers, meticulously caring for the city’s dead in hopes of breaking an endless cycle of mortality for themselves and others.
+
+The Heralds of Dust—or the Dusters, as they’re commonly called—see death as a spectrum. Everyone is dead, of course, but some are deader than others. In their work, Dusters seek to unravel the secrets of True Death, a higher state of oblivion that transcends the grave. The path to True Death is a mystery, but Dusters maintain they must divest themselves of passion to progress. Death shows no desire or emotion, and neither should its heralds.
+
+Dusters see undeath as a precursor to True Death. Undead fill the ranks of the Heralds of Dust, from skeletons and zombies in menial roles to the sapient Undead who comprise the upper echelons of its leadership. At first glance, these Undead are largely indistinguishable from the faction’s detached, ghoulish living rank and file.
+
+Skall leads the Heralds of Dust as its factol (see [[Factol Skall]]), the highest-ranking position in the faction. A decrepit lich in an advanced state of decay, he is the founder and oldest “living” member of the Heralds of Dust, a faction rumored to be as old as death itself. Skall generously lingers in this existence to guide souls toward True Death.
+
+Outsiders—and other groups in Stickyickistan diametrically opposed to its morbid tenets—find the Dusters’ fatalistic outlook off-putting and sometimes mistake the Dusters’ distant stoicism for callousness. This couldn’t be further from the truth. In their own way, the Heralds of Dust are one of the most altruistic groups in Stickyickistan. Reverent of death, they care for all who have passed away, selflessly ushering the multiverse to journey’s end without judgement.

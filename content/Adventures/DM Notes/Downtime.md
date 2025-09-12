@@ -4,7 +4,7 @@ During downtime [[Wraith]] wants to pursue a friendship with [[Kezrin Malvek]], 
 
 # [[Fungi]]
 
-Fungi wants to grow, and experiment with mushrooms. Right now while he has no money, he knows of a small cave in a lesser developed area of the city on the slopes of [[Mount Zooka]] where he can conduct his experiments, and cultivate mushrooms. Doing his druidic experiments can eventually lead to a Proficiency Bonus in either nature or arcana, and unlocking [[Elder Caps WIP]]. The creation of some of these mushrooms with certain magical properties might draw the eyes of law enforcement, and or political factions that see it as a threat to their agenda and [[Arcannabis]]. Only [[Arcana Belle]] is aware of the existence of Fungi's creations since he gave her his only magically altered specimen so far to pay for the removal of his infestation.
+Fungi wants to grow, and experiment with mushrooms. Right now while he has no money, he knows of a small cave in a lesser developed area of the city on the slopes of [[Mount Zooka]] where he can conduct his experiments, and cultivate mushrooms. Doing his druidic experiments can eventually lead to a Proficiency Bonus in either nature or arcana, and unlocking [[Elder Caps]]. The creation of some of these mushrooms with certain magical properties might draw the eyes of law enforcement, and or political factions that see it as a threat to their agenda and [[Arcannabis]]. Only [[Arcana Belle]] is aware of the existence of Fungi's creations since he gave her his only magically altered specimen so far to pay for the removal of his infestation.
 
 # [[Xon]]
 
