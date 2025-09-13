@@ -88,7 +88,7 @@ Before payment is received, the client wants to test some of the product, but as
 
 The players must defend the client and their ship while they test the product which will take 5-6 rounds of combat. The Rum Gremlins will fight to the death for the alcohol, and the client will join in the fight once they have tested the product.
 
-When the Rum Gremlins are defeated the client will pay the party, and the adventure can fade to black with the party in the ports of Osslurraggath.
+When the Rum Gremlins are defeated the client will pay the party, and the adventure can fade to black with the party in the ports of Osslurraggath, or they can make 3 more tracking checks requiring 1 success to return to Xon's bastion.
 
 [Encounter Map](https://www.czepeku.com/fantasy/maps/drow-war-port/toxic)
 
