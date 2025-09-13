@@ -21,4 +21,7 @@ Only one of these is required. they are DC 5 components, and have a base cost of
 
 - Each brick could hold **one gallon of alcohol** (25 gp market value).
 - Bricks weigh **half as much as liquid casks** and are far less conspicuous.
-- Mishandling (wrong flame, too much flame, breaking the brick) could cause **spoiling or explosions** depending on the magical ingredients.
+- Mishandling (exposure to the wrong flame, too much flame, a volatile solvent, or breaking the brick) could cause **spoiling or explosions** depending on the magical ingredients.
+- The reversal process is determined by the tool the brewer/alchemist uses, and the assosciated skill check of the monster type the magical ingredient was harvested from. This process is esoteric, and must be shared with a buyer if they are to be able to liquify the brick. You may want to give a buyer the same recipe each time for consistency, or maybe you switch it up regularly so no one can catch on to a pattern. 
+  
+  ex. if Alchemist's Tools are used, and the magical ingredient is a phial of congealed blood from an Undead, then a creature that has Alchemist Tools proficiency, and Medicine proficiency can add their proficiency bonus for both to the Intelligence check to complete the reversal process. A creature without those proficiencies would just make an Intelligence roll.
