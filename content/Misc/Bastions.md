@@ -29,7 +29,9 @@ Special facilities get better as you level up, and you can pay to have new basic
 
 The following information is RAW, but I will be modifying the rules of bastions slightly for balancing/narrative reasons. WotC kinda suck ah. I am also including a few homebrew facilities.
 
-## 5th Level
+Listed below are only the 5th level options. More options will be added at 9th level.
+
+## Vanilla+
 ### Arcane Study
 
 Level 5 Bastion Facility 
