@@ -1,4 +1,4 @@
-Spiritwax is an [[Alcohol]]ic alchemical creation of [[Xon]] that allows the illicit product to be packaged in easy to transport bricks of a wax-like substance. The recipe is mixed and brewed inside a brick mold, where it hardens to form the bricks. The bricks of product can be melted back into a liquid form to be consumed through a process determined by the magical ingredients, and the brewer of the batch. some melt by flame, some require a solvent, some may require something else.
+Spiritwax is an [[Alcohol]]ic alchemical creation of [[Xon]] that allows the illicit product to be packaged in easy to transport bricks of a wax-like substance. The recipe is mixed and brewed inside a mold, where it hardens into the shape of the mold which is usually either bricks or candles. The bricks of product can be melted back into a liquid form to be consumed through a process determined by the magical ingredients, and the brewer of the batch. some melt by flame, some require a solvent, some may require something else.
 
 ## Recipe
 ##### Mundane Ingredients

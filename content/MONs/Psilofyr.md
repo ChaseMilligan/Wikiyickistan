@@ -1,3 +1,0 @@
-Psilofyr was a benign deity and archfey of the [[Myconid]] race, known most recently as the Carrion King for his philosophy of renewal through decomposition. The enigmatic Lord of Myconids was poorly understood, even by his own people, yet nonetheless a powerful spiritual force and patron power of fungi.
-
-Psilofyr is a neutral force in the [[Fungal Faith]] who takes in those fungal folk who are able to withstand the dominion of [[Cubensis]] and [[Zuggtmoy]].

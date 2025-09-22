@@ -1,7 +1,7 @@
-Wesley Scantlin
-Leweys Castlinn
+Wesley Scantlin >> Woozely Castlinn
 
-- Wes is going to waste the city and turn its residents into slime that obeys the faceless demon lord of Ooze, Juiblex, unless he is stopped.
+- Wes, and Goob'lath is going to waste the city and turn its residents into slimes that obey the faceless demon lord of Ooze, Juiblex, unless he is stopped.
+- 
 
 [[Wes Scantlin]] has returned to [[Stickyickistan]], but he has changed. After being slain, his body was found by [[Goob’lath]]’s cultists which they preserved and brought to their master. Goob’lath saw the vile corpse of the equally disgusting man as a fitting vessel for his own master, [[Juiblex]], to possess whenever he desires to manifest in the material plane. While not possessed, Wes still acts of his own will, but his motives have been twisted by Juiblex. Wes is now enslaved by the insatiable urge to spread Juiblex’s influence by turning creatures into oozes or other shapeless lifeforms that answer to Juiblex.
 
@@ -32,8 +32,8 @@ Wesley arrived in the city under the cover of darkness. He snuck into the sewers
 3. He will give them a list of the primarily affected areas where they can go to defeat the oozes and tar elementals there.
 4. Going through the sewer system eventually leads to the Water treatment plant where Wes is.
 5. Wes will know the party is coming this time, and he does a stereotypical villain monologue before combat begins about how he has already disabled the water purification system and tainted the water and its too late (its not), and how he will exact his revenge on them with his new powers from Juiblex, but this isn’t where he intends to do so. 
-6. Wes will cackle maniacally as he morphs into a gelatinous puddle on the floor and slips into the toxic pool below. A moment after he disappears, the toxic pool will start to slowly shift and bubble. It gets increasingly more intense until, all of a sudden, a Splatacabra flies out of the pool splashing potion of ooze everywhere (VDC DEX/CON save or be affected), and tries to attack the party.
-7. If they defeat the Splatacabra they must then figure out how to get the water purification system going again. Dispel magic, or a successful VDC INT(Arcana) check can restart the system.  If they can do this, the water in the city is purified over 1d4+3 days. If they cannot figure it out, the broken water treatment area where Wes was doing his rituals becomes the lair and spawn point of a [Cursecore](https://www.patreon.com/posts/monster-wheel-cr-122117850) that can traverse the city's sewers and waterways.
+6. Wes will cackle maniacally as he morphs into a gelatinous puddle on the floor and slips into the toxic pool below. A moment after he disappears, the toxic pool will start to slowly shift and bubble. It gets increasingly more intense until, all of a sudden, a Black Dragonblood Ooze flies out of the pool splashing potion of ooze everywhere (VDC DEX/CON save or be affected), and tries to attack the party.
+7. If they defeat the Black Dragonblood Ooze they must then figure out how to get the water purification system going again. Dispel magic, or a successful VDC INT(Arcana) check can restart the system.  If they can do this, the water in the city is purified over 1d4+3 days. If they cannot figure it out, the broken water treatment area where Wes was doing his rituals becomes the lair and spawn point of a [Cursecore](https://www.patreon.com/posts/monster-wheel-cr-122117850) that can traverse the city's sewers and waterways.
 8. The next time the party sees Wes, he will be in the dungeon of [[The Faith of the Sacred Flame]]'s grand cathedral after he finishes corrupting the Flamekeepers. This can only happen once the party has dealt with all the other ooze infestations around the city.
 
 
