@@ -35,10 +35,10 @@ Listed below are only the 5th level options. More options will be added at 9th l
 ### Arcane Study
 
 Level 5 Bastion Facility 
-**Prerequisite**: Ability to use an Arcane Focus or tool as a Spellcasting Focus
-**Space**: Roomy 
-**Hirelings**: 1
-**Order**: Craft
+- **Prerequisite**: Ability to use an Arcane Focus or tool as a Spellcasting Focus
+- **Space**: Roomy 
+- **Hirelings**: 1
+- **Order**: Craft
 
 An Arcane Study is a place of quiet research that contains one or more desks and bookshelves.  
 
@@ -55,10 +55,10 @@ An Arcane Study is a place of quiet research that contains one or more desks and
 ### Armory
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Trade
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Trade
 
 An Armory contains mannequins for displaying armor, hooks for holding Shields, racks for storing weapons, and chests for holding ammunition.  
 
@@ -69,10 +69,10 @@ While your Armory is stocked, your Bastion Defenders are harder to kill. When an
 ### Aviary
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 1
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 1
+- **Order**: Recruit
 
 An Aviary is typically comprised of a large birdcage near a small desk with writing supplies used to send messages attached to winged creatures. 
 
@@ -90,10 +90,10 @@ Additionally, the Imp, Quasit, and Sphinx of Wonder stat blocks from the 2024 Pl
 ### Barrack
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Recruit
 
 A Bastion can have more than one Barrack, each of which is furnished to serve as sleeping quarters for up to twelve Bastion Defenders.
 
@@ -106,10 +106,10 @@ Keep track of the Bastion Defenders housed in each of your Barracks. If you lose
 ### Garden
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 A Bastion can have more than one Garden. Each time you add a Garden to your Bastion, choose its type from the options in the Garden Types table.
 
@@ -129,10 +129,10 @@ While in your Bastion, you can instruct the facility’s hireling to change the 
 ### Library
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Research 
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Research 
 
 This Library contains a collection of books plus one or more desks and reading chairs. 
 
@@ -141,10 +141,10 @@ This Library contains a collection of books plus one or more desks and reading c
 ### Portentorium
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Empower  
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Empower  
 
 A Portentorium provides key mystical insights about future events that may warn of future danger or foretell a possible victory.
 
@@ -155,10 +155,10 @@ Destiny’s Decision. After spending a Long Rest in your Bastion, you gain a mag
 ### Sanctuary
 
 Level 5 Bastion Facility
-**Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Craft
+- **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Craft
 
 Icons of your religion are displayed in this facility, which includes a quiet place for worship.
 
@@ -169,10 +169,10 @@ Icons of your religion are displayed in this facility, which includes a quiet pl
 ### Smithy
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Craft  
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Craft  
 
 This Smithy contains a forge, an anvil, and other tools needed to craft weapons, armor, and other equipment.  
 
@@ -185,10 +185,10 @@ This Smithy contains a forge, an anvil, and other tools needed to craft weapons,
 ### Storehouse
 
 Level 5 Bastion Facility
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Order: Trade
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Trade
 
 A Storehouse is a cool, dark space meant to contain trade goods objects from the Trade Goods table in chapter 7 and from chapter 6 of the Player's Handbook.  
 
@@ -199,10 +199,10 @@ When you sell goods from your Storehouse, the buyer pays you 10 percent more tha
 ### Trapworks
 
 Level 5 Bastion Facility
-**Prerequisite**: Proficiency with Thieves’ Tools or Sleight of Hand
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Craft
+- **Prerequisite**: Proficiency with Thieves’ Tools or Sleight of Hand
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Craft
 
 A Trapworks is a foundry of morbid creativity. Disarmed and reassembled contraptions are sprawled across the floor and built into the walls as you work towards your own new Designs.  
 
@@ -231,10 +231,10 @@ These traps can be set using just the utilize action and you can choose both the
 ### Workshop
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 3
-**Order**: Craft 
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 3
+- **Order**: Craft 
 
 This Workshop is a creative space where useful items can be crafted.
 
@@ -269,10 +269,10 @@ Artisan’s Tools. The Workshop comes equipped with six different kinds of Artis
 #### Case Law Archives
 
 Level 5 Azorius Senate ([[Nevercough Tribunal]]) Facility
-**Prerequisite:** Rank 2 Renown with Azorius Senate
-**Space:** Cramped
-**Hirelings:** 2
-**Order:** Research
+- **Prerequisite:** Rank 2 Renown with Azorius Senate
+- **Space:** Cramped
+- **Hirelings:** 2
+- **Order:** Research
 
 The Case Law Archives is a small room riddled with shelves inlaid into the walls, and laden with chests with scrolls, tomes, and books copied from the guild archives themselves. This room is meticulously organized and smells of parchment, candle wax and ink. Your hirelings spend the majority of their days sifting through pages, reading and studying, deliberating and discussing the events of the Senate’s innumerable cases. 
 
@@ -281,10 +281,10 @@ The Case Law Archives is a small room riddled with shelves inlaid into the walls
 #### Chamber Of Precognition
 
 Level 5 Azorius Senate ([[Nevercough Tribunal]]) Facility
-**Prerequisite:** Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
-**Space:** Cramped
-**Hirelings:** 2
-**Order:** Empower 
+- **Prerequisite:** Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
+- **Space:** Cramped
+- **Hirelings:** 2
+- **Order:** Empower 
 
 One of the Azorius Senate’s foundational yet niche law enforcement chamber designs. Quaint
 and rather plain amongst the rest of the guild architecture. You have been provided 2 precognitive
@@ -297,10 +297,10 @@ granted the ability to cast the spell Portent (Players Guide Pg117) without expe
 #### Deputy Barracks
 
 Level 5 Azorius Senate ([[Nevercough Tribunal]]) Facility
-**Prerequisite:** Renown Rank of 2 or higher with the Azorius Senate
-**Space:** Cramped
-**Hirelings:** 2
-**Order:** Recruit
+- **Prerequisite:** Renown Rank of 2 or higher with the Azorius Senate
+- **Space:** Cramped
+- **Hirelings:** 2
+- **Order:** Recruit
 
 The Deputy Barracks design represents the Azorius Senate’s staunch adherence to practicality and
 order, a plain yet functional room with bunks for your assigned deputies and enforcers. The Senate
@@ -356,10 +356,10 @@ effects of a Long Rest in half the amount of time.
 #### Holding Cells
 
 Level 5 Azorius Senate ([[Nevercough Tribunal]]) Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 4
-**Order**: Empower/Recruit/Research
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 4
+- **Order**: Empower/Recruit/Research
 
 The Holding Cells are a crucial feature of the Azorius Senate’s outlying facilities, a sturdy unadorned room with several cells to hold persons of interest, whether they are suspects, criminals or individuals needing Senate protection. The Senate has granted special privileges to their enforcers who implement these facilities. Due to the increasingly unstable times these cells serve multiple purposes.
 
@@ -405,10 +405,10 @@ Oathsworn must see the attacker and be wielding a shield
 #### Reflecting Pools
 
 Level 5 Azorius Senate Facility
-**Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 The Reflecting Pools are a common site within guild courts and buildings, keeping law and order is no calming ordeal. These pools are tended to carefully and lined with bushes, shrubs and trees that bear fruit. The pools often have a small fountain with which you can fill a small cup or chalice and imbibe the refreshing waters.
 
@@ -419,10 +419,10 @@ incurs no monetary cost. The fruit has the same effect as the Goodberry spell bu
 #### Scribes Study
 
 Level 5 Azorius Senate Facility
-**Prerequisite**: Renown Rank of 1 or higher with the Azorius Senate
-**Space**: Roomy
-**Hirelings**: 4
-**Order**: Craft
+- **Prerequisite**: Renown Rank of 1 or higher with the Azorius Senate
+- **Space**: Roomy
+- **Hirelings**: 4
+- **Order**: Craft
 
 The scribe study is a common room, ordained with simple room dividers separating sleeping quarters with well-maintained ornate desks. Here you house several of the Senate’s recruits allowing them to experience the lawlessness at the fringes of guild territory. These scribes study law and Senate history. They’ve also been directed to aid you as they are permitted at their current station.
 
@@ -433,10 +433,10 @@ The scribe study is a common room, ordained with simple room dividers separating
 #### Garden of the Dawn’s Radiance
 
 Level 5 Boros Legion Facility
-**Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 The Garden of the Dawn’s Radiance is a vibrant space filled with flora that embodies healing and rejuvenation. Blossoming flowers and healing herbs thrive here, tended to by skilled gardeners who
 understand the ways of nature and the divine. 
@@ -447,10 +447,10 @@ Harvest order to this facility, you can gather ten vials of Healing Potion or te
 #### Garrison Barracks
 
 Level 5 Boros Legion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Recruit
 
 The Garrison Barracks serves as the primary living quarters for the Bastion’s Defenders. Furnished with beds, storage for gear, and communal areas, this facility fosters camaraderie and readiness among those who serve the Boros Legion. 
 
@@ -460,10 +460,10 @@ order to this facility, you can recruit up to four new Bastion Defenders to fill
 #### Holy Forge of Razia
 
 Level 5 Boros Legion Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 1
-**Order**: Craft
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 1
+- **Order**: Craft
 
 The Holy Forge of Razia is a sacred space where weapons and armor are imbued with divine energy. Forged by master craftsmen, the equipment created here serves the Boros Legion’s mission of justice and righteousness.
 
@@ -473,10 +473,10 @@ weapon or armor piece of your choice, using the divine essence of Razia to enhan
 #### Judgement Hall
 
 Level 5 Boros Legion Facility
-**Prerequisite**: Rank 1 Renown with Boros Legion
-**Space**: Cramped
-**Hirelings**: 1
-**Order**: Empower
+- **Prerequisite**: Rank 1 Renown with Boros Legion
+- **Space**: Cramped
+- **Hirelings**: 1
+- **Order**: Empower
 
 The Judgement Hall is a solemn chamber where decisions of law and justice are deliberated. Here,
 characters can convene with Boros officials to interrogate captured foes or resolve disputes.
@@ -486,10 +486,10 @@ characters can convene with Boros officials to interrogate captured foes or reso
 #### Library of Aurelia’s Wisdom
 
 Level 5 Bastion Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Research
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Research
 
 The Library of Aurelia’s Wisdom is a vast repository of knowledge containing texts on tactics, law, and the history of the Boros Legion. Scholars and strategists delve into its depths to uncover insights that guide the Legion’s actions.
 
@@ -502,10 +502,10 @@ This is not a faction per se like the rest of them. These are options for multip
 #### Lampooners Mirror Hall
 
 Level 5 Cult of Rakdos Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Recruit
 
 Stocked with conveniently placed mirrors so that the Lampooners of the Rakdos Cult can practice their jokes, satire, mockery, and puppet shows at any time. Many members of the Cult avoid this tent, lest they find scathing insults tested against them. 
 
@@ -514,10 +514,10 @@ Recruit: Scathing Wit. When you issue the Recruit order to this facility, you ma
 #### Pleasure Quarters
 
 Level 5 Cult of Rakdos Facility
-**Prerequisite**: None
-**Space**: Vast
-**Hirelings**: 4
-**Order**: Trade
+- **Prerequisite**: None
+- **Space**: Vast
+- **Hirelings**: 4
+- **Order**: Trade
 
 The most above board money making scheme in the Cults book. The brothel tents are where
 wealthy nobles are drawn, and fleeced for a night of distraction with their darkest fantasies. Often the Cult jokes that the rich are more demented than they are as a result from the many stories that have circulated.
@@ -527,10 +527,10 @@ wealthy nobles are drawn, and fleeced for a night of distraction with their dark
 #### Performance Catalogs
 
 Level 5 Cult of Rakdos Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 1
-**Order**: Research
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 1
+- **Order**: Research
 
 Filled with play scripts, this room is frequented by members of the Rakdos Cult that find themselves in need of inspiration or in need of an act quickly. This repository of all things Rakdos is one of few places where bloodshed and carnage don’t overrule sanity.
 
@@ -540,10 +540,10 @@ a +5 bonus to your next D20 Test that uses the Performance skill.
 #### Roaring Acoustics
 
 Level 5 Cult of Rakdos Facility
-**Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
-**Space**: Vast
-**Hirelings**: 4
-**Order**: Harvest
+- **Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
+- **Space**: Vast
+- **Hirelings**: 4
+- **Order**: Harvest
 
 Storing various materials and instructions, this room is key for enhancing the acoustics in the Bastion to ensure that every performance is as grand as possible, for Rakdos shall accept nothing less.
 
@@ -552,10 +552,10 @@ Storing various materials and instructions, this room is key for enhancing the a
 #### Stagehand Tent
 
 Level 5 Cult of Rakdos Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Recruit
 
 This roomy tent is packed with smaller rooms, each likely filled with weapons, instruments and other circus equipment. Here, new hands to the Rakdos cult practice their individual acts, honing their skills for the time when they get to act on stage.
 
@@ -565,10 +565,10 @@ new Defenders, finding new Rakdos Performers (Guildmasters’ Guide to Ravnica, 
 #### Sideshow Stage
 
 Level 5 Cult of Rakdos Facility
-**Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
-**Space**: Vast
-**Hirelings**: 3
-**Order**: Harvest
+- **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
+- **Space**: Vast
+- **Hirelings**: 3
+- **Order**: Harvest
 
 Not the grand stage many expect when they think of a Rakdos performance, these smaller stages are used by up and coming performers who are honing their skills. A smaller spectacle, these acts are free to view but many leave tips following the show’s conclusion.
 
@@ -578,10 +578,10 @@ in the form of gold and non-magical items. Select any combination of either gold
 #### Tools of the Trade
 
 Level 5 Cult of Rakdos Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 2
-**Order**: Craft
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 2
+- **Order**: Craft
 
 Cluttered together are various workbenches used to design new costumes, build new tools for various acts and other tools for circus work are all made here.
 
@@ -594,10 +594,10 @@ Body Horror Warning. Any references to the Golgari swarm or locations can be fla
 #### Bone Grafter
 
 Level 5 Bastion Facility
-**Prerequisite**: Corpses
-**Space**: Cramped
-**Hirelings**: 2
-**Order**: Craft
+- **Prerequisite**: Corpses
+- **Space**: Cramped
+- **Hirelings**: 2
+- **Order**: Craft
 
 The Bone Grafter is as macabre as it sounds, a torchlit room with warm stone floors freshly spattered with blood and viscera leftovers used to feed the freshly made swarm creatures. Bone Grafters rend and tear bone from flesh to attach to the sentient fungal creatures and undead swarms that live in the Golgari caverns. Your Bone Grafting hirelings will outfit your Bastion Defenders with like-new armor from those who no longer need it.
 
@@ -606,10 +606,10 @@ The Bone Grafter is as macabre as it sounds, a torchlit room with warm stone flo
 #### Corpse Run Off
 
 Level 5 Golgari Swarm Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 2
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 2
+- **Order**: Recruit
 
 The Corpse Run Off is a grim, dimly lit space where the dead are collected from various disposal points and processed for use by the Golgari Swarm. Decaying bodies are dissected and their remains repurposed for the creation of undead soldiers or used in various dark rituals. The air is thick with the stench of rot, and only those who have truly embraced the Golgari philosophy of life, death, and rebirth find solace in its walls. Recruits who come here are steeped in the
 practices of decay and rebirth, their loyalty to the Swarm solidified through their exposure to its most macabre aspects.
@@ -619,10 +619,10 @@ practices of decay and rebirth, their loyalty to the Swarm solidified through th
 #### Fungal Chamber
 
 Level 5 Golgari Swarm Facility
-**Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
-**Space**: Cramped
-**Hirelings**: 2
-**Order**: Empower
+- **Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
+- **Space**: Cramped
+- **Hirelings**: 2
+- **Order**: Empower
 
 The Fungal Chamber is a damp, spore-infested room where fungal growths are cultivated and harnessed for magical purposes. The air is thick with spores that enhance the user’s connection to the arcane and divine, providing a unique source of power. Those who empower their magic in this chamber experience a symbiotic bond with the fungi, allowing them to channel the energies of decay and rebirth. The chamber is filled with the hum of living spores, and the walls are covered in bioluminescent fungi that glow softly in the dark.
 
@@ -631,10 +631,10 @@ The Fungal Chamber is a damp, spore-infested room where fungal growths are culti
 #### Grotto Mortuary Market
 
 Level 5 Golgari Swarm Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 3
-**Order**: Trade
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 3
+- **Order**: Trade
 
 The Grotto Mortuary Market, an uncommon idea amongst those that desire death’s finality. However, this market trades in death and coin. ‘You need a body removed? Contact the Golgari, no one will ever find it…unless it walks up from the sewers.’ Many factions use the contacts within the Swarm to make problems disappear, it is often well compensated and the Swarm never asks many questions. Death is Death’s business, they are just the middleman.
 
@@ -643,10 +643,10 @@ The Grotto Mortuary Market, an uncommon idea amongst those that desire death’s
 #### Hive Nestuary
 
 Level 5 Golgari Swarm Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 2
-**Order**: Research
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 2
+- **Order**: Research
 
 The Hive Nestuary, glows with an eerie sickly orange light from sinewy pustulant Oozes that take home here. They are tended to like one tends to a garden, however, these oozes are fed flesh and sometimes living prisoners. ‘Lips and tongues may lie but the flesh always tells the truth.’ You may commune with these nesting oozes to learn many insights.
 
@@ -657,10 +657,10 @@ History, for the next 48 hours. This action incurs no monetary cost.
 #### Spore Garden
 
 Level 5 Golgari Swarm Facility
-**Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
-**Space**: Cramped
-**Hirelings**: 2
-**Order**: Harvest
+- **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
+- **Space**: Cramped
+- **Hirelings**: 2
+- **Order**: Harvest
 
 The Spore Garden is a dark and eerily tranquil space filled with vibrant, bioluminescent mushrooms and fungal life. Here, Spore Druids and Death Clerics channel their magic through the living fungus, drawing on the power of decay and rebirth. The spores imbue the spellcaster with enhanced magical energy, allowing them to grow stronger in their connection to the natural world.
 
@@ -672,10 +672,10 @@ magical fungi that can be used as spell components or alchemical ingredients. On
 #### Arena of the Bloodpath
 
 Level 5 Gruul Clans Facility
-**Prerequisite**: None
-**Space**: Vast
-**Hirelings**: 4
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Vast
+- **Hirelings**: 4
+- **Order**: Recruit
 
 The Arena of the Bloodpath is a vast open space where warriors of the Gruul Clans gather to test their strength and skill in battle. A Large, blood-soaked arena is surrounded by roaring crowds of gladiators, and the walls echo with the sounds of clashes between combatants. It is here that the Gruul recruit their fiercest warriors, seeking out those with raw power and a desire for destruction. Those who survive the trials are honored and empowered by the Clan.
 
@@ -684,10 +684,10 @@ The Arena of the Bloodpath is a vast open space where warriors of the Gruul Clan
 #### Grimshroud Trading Post
 
 Level 5 Gruul Clans Facility
-**Prerequisite**: None
-**Space**: Vast
-**Hirelings**: 3
-**Order**: Trade
+- **Prerequisite**: None
+- **Space**: Vast
+- **Hirelings**: 3
+- **Order**: Trade
 
 The Grimshroud Trading Post is a bustling marketplace, though far from the polished, refined exchanges of more civilized lands. Here, goods are traded with an air of danger and volatility, as Gruul traders barter with everything from scavenged weapons to rare herbs and potent magical artifacts. Though lawlessness prevails, there is a sense of mutual respect among the traders, and deals are struck under the looming threat of violence. The marketplace is located on the outskirts of Gruul territory, often near battlegrounds or sites of destruction, where the wreckage of war
 fuels the trade. 
@@ -698,10 +698,10 @@ equipment, or magical items. The items obtained here often come at a high cost, 
 #### Halls of Wild Lore
 
 Level 5 Gruul Clans Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Research
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Research
 
 The Halls of Wild Lore is a place of study and knowledge that is far from traditional libraries. The
 Halls are carved into the heart of ancient trees and surrounded by thickets of vines, and inside, Gruul scholars study the nature of wild magic, beasts, and the elemental forces that shape the world. Rather than dusty books and scrolls, the Halls are filled with living records—ancient druidic symbols, runic inscriptions, and strange, sentient creatures that have been captured and brought to the Clans for study. The focus here is on the untamed forces that drive the Gruul Clans’ destructive power.
@@ -711,10 +711,10 @@ Halls are carved into the heart of ancient trees and surrounded by thickets of v
 #### Pit of the Wastes
 
 Level 5 Gruul Clans Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 The Pit of the Wastes is a toxic and desolate environment, full of scavengers, wild beasts, and
 the refuse of nature. Here, the Gruul harvest rare resources, scavenging materials and creatures that have been discarded by the land. This pit is a source of power, where the primal nature of the Gruul Clans is tapped to make use of everything, no matter how corrupted or wasted.
@@ -724,10 +724,10 @@ the refuse of nature. Here, the Gruul harvest rare resources, scavenging materia
 #### Rite of Raging Fire
 
 Level 5 Gruul Clans Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Empower
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Empower
 
 The Rite of Raging Fire is a ritualistic chamber where fire magic is used to ignite the spirits of the
 Gruul Clans. This blazing, fiery room is charged with destructive energy, allowing those who enter to tap into the primal rage of the fire elemental. Fire mages and warriors alike undergo rituals here to strengthen their magical and physical prowess.
@@ -738,10 +738,10 @@ fiery power of the ritual. Until your next Bastion turn, Once per Long Rest, you
 #### Skarrg Shredder
 
 Level 5 Gruul Clans Facility
-**Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
-**Space**: Cramped
-**Hirelings**: 1
-**Order**: Craft
+- **Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
+- **Space**: Cramped
+- **Hirelings**: 1
+- **Order**: Craft
 
 The Skarrg Shredder is a chaotic forge, where the Gruul Clans craft weapons designed for both magical and physical destruction. This forge is dedicated to the creation of armaments infused with elemental fury, and it’s where powerful runes and elemental magic are inscribed onto weapons. Creators and spellcasters alike combine their expertise here to produce tools of devastation.
 
@@ -752,10 +752,10 @@ The Skarrg Shredder is a chaotic forge, where the Gruul Clans craft weapons desi
 #### Cloak and Dagger
 
 Level 5 House Dimir Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 1
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 1
+- **Order**: Recruit
 
 The Cloak and Dagger room serves as a recruitment and training space for new Dimir hopefuls. Here, aspiring members hone their skills in stealth, infiltration, and subtlety.
 
@@ -764,10 +764,10 @@ The Cloak and Dagger room serves as a recruitment and training space for new Dim
 #### Ethereum Gardens
 
 Level 5 House Dimir Facility
-**Prerequisite**: Ability to use an Arcane Focus as a Spellcasting Focus
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Harvest
+- **Prerequisite**: Ability to use an Arcane Focus as a Spellcasting Focus
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Harvest
 
 The Ethereum Gardens cultivate rare, magical plants that assist with subtle manipulations of the mind and spirit. Agents harvest components here for use in spellcraft and alchemy.
 
@@ -776,10 +776,10 @@ The Ethereum Gardens cultivate rare, magical plants that assist with subtle mani
 #### Obscured Laboratory
 
 Level 5 House Dimir Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 1
-**Order**: Craft
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 1
+- **Order**: Craft
 
 The Obscured Laboratory allows Dimir agents to create specialized toxins and alchemical concoctions used for espionage. Shadowy alchemists use it to prepare agents for missions that require subtlety and lethality.
 
@@ -791,10 +791,10 @@ can increase the potency of the Poisons and Elixirs crafted in this space at the
 #### Safehouse
 
 Level 5 House Dimir Facility
-**Prerequisite**: 1,000 GP
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Trade
+- **Prerequisite**: 1,000 GP
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Trade
 
 The Safehouse is a discreetly hidden facility in a nondescript part of the city, camouflaged to blend
 seamlessly with its surroundings. Accessible only by those with the proper codes and credentials,
@@ -806,9 +806,10 @@ goods, or lay low when needed. It’s a favored meeting point for guild members 
 #### Shadowed Archive
 
 Level 5 House Dimir Facility
-**Prerequisite**: Ability to cast Divination spells Space: Roomy
-**Hirelings**: 2
-**Order**: Research
+- **Prerequisite**: Ability to cast Divination spells
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Research
 
 The Shadowed Archive is a covert library hidden within the Bastion, containing sensitive information, cryptic texts, and surveillance logs. Only trusted agents have access, using these resources to further Dimir’s objectives across Ravnica.
 
@@ -818,10 +819,10 @@ intelligence archives to gain Advantage on your next D20 Tests that use Wisdom (
 #### Shadowforge
 
 Level 5 House Dimir Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Craft
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Craft
 
 The Shadowforge is a hidden and specialized forge designed for the creation of subtle, deadly weaponry and arcane tools that aid in infiltration. Darkly enchanted and soundproofed, this facility is equipped with shadow-infused metalwork and runes that hide the creations crafted here from magical detection. 
 
@@ -833,10 +834,10 @@ weapon or piece of gear with a Dimir-themed enchantment. Examples include the Da
 #### Veil of Whispers
 
 Level 5 House Dimir Facility
-**Prerequisite**: Rank 1 Renown with House Dimir
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Empower
+- **Prerequisite**: Rank 1 Renown with House Dimir
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Empower
 
 The Veil of Whispers is an enchanted chamber where secret communications and coded messages are crafted, sent, and received. It is used to transmit secure orders across Ravnica.
 
@@ -849,10 +850,10 @@ The Veil of Whispers is an enchanted chamber where secret communications and cod
 #### Alchemical Anarchy Chamber
 
 Level 5 Izzet League Facility
-**Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 The air of this room is choked in chemicals and alchemical fumes and when it’s not, it’s because
 the smoke from a researcher’s latest explosive experiment has filled the room. In here the alchemists crowd the room with their instruments, working to make their next masterpiece.
@@ -862,10 +863,10 @@ the smoke from a researcher’s latest explosive experiment has filled the room.
 #### Blastseeker Training Range
 
 Level 5 Izzet League Facility
-**Prerequisite**: Rank 2 renown with Izzet League
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Recruit
+- **Prerequisite**: Rank 2 renown with Izzet League
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Recruit
 
 Endlessly in need of repairs, this yard is where the Blastseekers are outfitted, practice, and experiment with their armaments. The consistent explosions that tear the range apart serve well to remind others exactly how much firepower is in the Izzet armory, and how happy they would be to use it in combat.
 
@@ -876,10 +877,10 @@ monetary cost.
 #### Experiment Records
 
 Level 5 Izzet League Facility
-**Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
-**Space**: Cramped
-**Hirelings**: 2
-**Order**: Research
+- **Prerequisite**: Ability to use an Arcane Focus or a Holy Symbol as a Spellcasting Focus
+- **Space**: Cramped
+- **Hirelings**: 2
+- **Order**: Research
 
 A cramped archive of colorful records for various experiments over the Izzet League history rests here.
 
@@ -888,10 +889,10 @@ A cramped archive of colorful records for various experiments over the Izzet Lea
 #### Guard Tower
 
 Level 5 Izzet League Facility
-**Prerequisite**: Rank 1 Renown with Izzet League
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Recruit
+- **Prerequisite**: Rank 1 Renown with Izzet League
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Recruit
 
 Overseeing the Bastion, the Guard Tower is where Defenders are stationed to ensure that no one
 untoward to the Izzet League gets access to the laboratories.
@@ -902,10 +903,10 @@ four new Bastion Defenders to fill the ranks of your Garrison. This recruitment 
 #### Nivmagus Laboratory
 
 Level 5 Izzet League Facility
-**Prerequisite**: None
-**Space**: Vast
-**Hirelings**: 2
-**Order**: Craft
+- **Prerequisite**: None
+- **Space**: Vast
+- **Hirelings**: 2
+- **Order**: Craft
 
 The main attraction of many Izzet Bastions, the labs. Characterized by dozens of mages going about to experimenting with their new theories and crafting new magical objects
 
@@ -915,10 +916,10 @@ Apparatus (Guildmasters’ Guide to Ravnica, pg. 179).
 #### Public Service Hall
 
 Level 5 Izzet League Facility
-**Prerequisite**: None
-**Space**: Vast
-**Hirelings**: 2
-**Order**: Trade
+- **Prerequisite**: None
+- **Space**: Vast
+- **Hirelings**: 2
+- **Order**: Trade
 
 Though the Izzet are well-known for their experimentation, they also have a hand in public
 service. Here, the Izzet discuss commissions for building and modifying roadways, sewers, boilers,
@@ -929,10 +930,10 @@ and other infrastructure
 #### Testing Yard
 
 Level 5 Izzet League Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Research
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Research
 
 A heavily fortified yard where the Izzet researchers test new experiments. The hirelings here are specially trained to handle dangerous unknown equipment, which is to say they are heavily protected for explosions.
 
@@ -946,10 +947,10 @@ following choices:
 #### The Boilerpit
 
 Level 5 Izzet League Facility
-**Prerequisite**: None
-**Space**: Cramped
-**Hirelings**: 4
-**Order**: Empower
+- **Prerequisite**: None
+- **Space**: Cramped
+- **Hirelings**: 4
+- **Order**: Empower
 
 Built into the basement of the Bastion, the League maintains a large boiler that provides hot water and heat to the rest of the Bastion. The boilers ensure that the Izzet League can enjoy certain comforts in their Bastion.
 
@@ -961,10 +962,10 @@ productivity of the boilers and as a side benefit, the Bastion becomes much warm
 #### Cathedral of Debt
 
 Level 5 Orzhov Syndicate Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Empower
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Empower
 
 A dimly lit room with stained glass windows depicting bound spirits and haunted figures. The
 Chamber of Binding Oaths is where sacred pacts are sealed in blood, binding both parties to their word under the gaze of the Orzhov’s spirits.
@@ -976,10 +977,10 @@ made to you within the chamber without suffering a potent curse. The curse infli
 #### Crypt of Eternal Servitude
 
 Level 5 Orzhov Syndicate Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 The Crypt is a somber chamber filled with the remains of those who could not repay their debts
 in life and are now bound to serve in death. Ghostly apparitions linger, awaiting commands.
@@ -989,10 +990,10 @@ in life and are now bound to serve in death. Ghostly apparitions linger, awaitin
 #### Hall of Whispered Secrets
 
 Level 5 Orzhov Syndicate Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Research
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Research
 
 The Hall of Whispered Secrets is a shadowy library containing scrolls of forbidden knowledge and
 hidden truths. Its shelves are filled with confidential information and blackmail material.
@@ -1003,10 +1004,10 @@ days gathering arcane and political knowledge. You gain Advantage on D20 Tests r
 #### Shrine of the Debt Collector’s Grace
 
 Level 5 Orzhov Syndicate Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 A modest shrine adorned with icons of spectral figures and adorned with offerings from those
 seeking forgiveness. The Shrine of the Debt-Collector’s Grace is where the desperate pray for
@@ -1019,10 +1020,10 @@ absolution of their debts.
 #### Vault of Greed
 
 Level 5 Orzhov Syndicate Facility
-**Prerequisite**: 2000 GP or at least 2 uncommon magic items
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Trade
+- **Prerequisite**: 2000 GP or at least 2 uncommon magic items
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Trade
 
 The Vault of Greed is a heavily guarded chamber housing treasures, relics, and artifacts accumulated by the Orzhov over generations.
 
@@ -1035,10 +1036,10 @@ The Vault of Greed is a heavily guarded chamber housing treasures, relics, and a
 #### Archives of Mat’Selesnya
 
 Level 5 Selesnya Conclave Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Research
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Research
 
 The Archives of Mat’Selesnya house a wealth of knowledge and lore passed down through the
 generations. This facility contains teachings on nature magic, druidic practices, and Selesnya
@@ -1050,10 +1051,10 @@ archives to gain Advantage on your next Wisdom based D20 Test during a Bastion E
 #### Conclave Greenhouses
 
 Level 5 Selesnya Conclave Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Craft
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Craft
 
 The Conclave Greenhouses are a carefully tended sanctuary where rare plants and herbs are grown with the aid of Selesnya Druids. This facility is essential for cultivating natural ingredients used in creating potent healing and alchemical mixtures.
 
@@ -1062,10 +1063,10 @@ The Conclave Greenhouses are a carefully tended sanctuary where rare plants and 
 #### Garden of Vitality
 
 Level 5 Selesnya Conclave Facility
-**Prerequisite**: Ability to use a Druidic Focus
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Empower
+- **Prerequisite**: Ability to use a Druidic Focus
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Empower
 
 The Garden of Vitality is a peaceful oasis where plants, animals, and Selesnya members gather to
 share in nature’s bounty. Filled with vibrant flowers and lush greenery, this facility rejuvenates and
@@ -1081,10 +1082,10 @@ next 24 hours.
 #### Glade of Kinship
 
 Level 5 Selesnya Conclave Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Recruit
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Recruit
 
 In the heart of your Bastion lies the Glade of Kinship, a tranquil, lush space imbued with the welcoming energy of the Conclave. Here, Druids, Priests, and new guild initiates gather for bonding rituals and community celebrations, reinforcing the spirit of unity and shared purpose. In this grove, potential recruits find a sense of belonging and devotion to the Conclave’s mission of harmony.
 
@@ -1095,10 +1096,10 @@ In the heart of your Bastion lies the Glade of Kinship, a tranquil, lush space i
 #### Sacred Grove
 
 Level 5 Selesnya Conclave Facility
-**Prerequisite**: None
-**Space**: Roomy
-**Hirelings**: 1
-**Order**: Harvest
+- **Prerequisite**: None
+- **Space**: Roomy
+- **Hirelings**: 1
+- **Order**: Harvest
 
 The Sacred Grove is a secluded and tranquil area within the Bastion, where plants, animals, and fey
 creatures are nurtured by druidic magic. The grove resonates with primal energy, cultivating plants with potent healing properties.
@@ -1108,10 +1109,10 @@ creatures are nurtured by druidic magic. The grove resonates with primal energy,
 #### Voda’s Healing Pool
 
 Level 5 Selesnya Conclave Facility
-**Prerequisite**: Ability to use a Holy Symbol or Druidic Focus
-**Space**: Roomy
-**Hirelings**: 2
-**Order**: Harvest
+- **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus
+- **Space**: Roomy
+- **Hirelings**: 2
+- **Order**: Harvest
 
 Voda’s Healing pool is a tranquil retreat where wounded and weary adventurers can receive the
 blessings of Selesnya’s healing magic. The Pool is a place of meditation, where sacred waters cleanse and rejuvenate those who bathe within.
