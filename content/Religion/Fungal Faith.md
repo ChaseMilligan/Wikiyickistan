@@ -1,0 +1,1 @@
+The Fungal Faith is the colloquial name for the spiritual war between the celestial, [[Cubensis]], and the fiend, [[Zuggtmoy]]. There is also a third deity of lesser influence known as [[Psilofyr]] that takes in those fungal folk able to withstand the dominion of Cubensis and Zuggtmoy.

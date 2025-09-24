@@ -10,10 +10,11 @@ A small breakaway sect of the [[Golgari Swarm]] that has found their way to Stic
 - In combination with Fester's insect minions, they act as his sensory apparatus to know what the outer reaches of the collective are doing and as a messenger service to deliver instructions.
 - It might be that an individual of The Rotwake might be considered of higher rank than another by Fester, but none know those rankings beyond the guild master. 
 - The Zooka Mire Collective might have more changes in leadership than other guilds. The guild believes in the importance of continuous cycles, understands that assassination is a valid means of political conquest, and knows that being alive is not a prerequisite to rule.
+- The collective holds both [[Zuggtmoy]] and [[Cubensis]] in high regard, but most members if given the chance would easily become one of Zuggtmoy's mindless thralls. Members of The Rotwake are a pretty even split between Zuggtmoy and Cubensis veneration.
 
 ### Golgari Roles
 
-- the [[Zaazarin]] , [[Halflings]] of [[Zooka Mire]].
+- the [[Zaazarin]] , native [[Halflings]] of [[Zooka Mire]].
 - the [[Mortispora]] , ranks of the dead
 - the [[Gutterhive]] , shepherds of the cycle
 ## Notable Members
