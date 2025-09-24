@@ -1,4 +1,4 @@
-A small breakaway sect of the [[Golgari Swarm]] that has found their way to Stickyickistan, and inhabit a swampy region of [[The Outback]] just outside city limits known as [[Zooka Mire]].
+A small breakaway sect of the [[Golgari Swarm]] that has found their way to Stickyickistan, and inhabit a swampy region of [[The Outback]] just outside city limits known as [[Zooka Mire]], and in [[The Undercity Osslurraggath]] where they often quarrel with the [[Heralds of Dust]].
 
 - The Zooka Mire Collective is the guild that fuses the opposite values of life and death, fostering growth in [[Stickyickistan]]'s decaying communities but also fostering decay in places of growth.
 - The [[Halflings]], zombies, insects, and undead-plant hybrids of [[Zooka Mire]] are like one massive, growing, feeding organism, collectively spreading across the land wherever it can fit. 
@@ -12,7 +12,7 @@ A small breakaway sect of the [[Golgari Swarm]] that has found their way to Stic
 - The Zooka Mire Collective might have more changes in leadership than other guilds. The guild believes in the importance of continuous cycles, understands that assassination is a valid means of political conquest, and knows that being alive is not a prerequisite to rule.
 - The collective holds both [[Zuggtmoy]] and [[Cubensis]] in high regard, but most members if given the chance would easily become one of Zuggtmoy's mindless thralls. Members of The Rotwake are a pretty even split between Zuggtmoy and Cubensis veneration.
 
-### Golgari Roles
+### Roles
 
 - the [[Zaazarin]] , native [[Halflings]] of [[Zooka Mire]].
 - the [[Mortispora]] , ranks of the dead

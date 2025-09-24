@@ -4,9 +4,9 @@ This story takes place in historical [[Stickyickistan]] during the height of [[H
 
 The halflings were a mostly peaceful bunch that often venerated him if anything, but these humans were something else. They worship some “god” Terplorr had never heard of, and they were willing to do incredibly cruel things in its name. Because of this looming threat over his domain, Terplorr decided to offer some native clans protection if they helped him complete his ascension ritual to become an Adult Dragon. 
 
-The native halflings that devoted themselves to him became quite fanatical, and declared the dragon a messiah of sorts. They believed that using weapons was for the weak, and they wanted to mimic Terplorr’s power who needed no mortal weapon to strike fear into the hearts of his foes. Thus, each of his followers wear magical bracers of ignition that are crafted from scales that Terplorr has shed. Once they have completed an initiation ceremony that involves enduring extreme heat for several hours, these bracers are donned, and always worn as a symbol of their faith in Terplorr to save their homeland from the religious zealotry of the Elyrian humans.
+The native halflings that devoted themselves to him became quite fanatical, and declared the dragon a messiah of sorts. They believed that using weapons was for the weak, and they wanted to mimic Terplorr’s power who needed no mortal weapon to strike fear into the hearts of his foes. Thus, each of his followers wear magical bracers of ignition that are crafted from scales that Terplorr has shed. Once they have completed an initiation ceremony that involves enduring extreme heat for several hours, they take the oath of burning flesh, and these bracers are donned. They are always worn, as a symbol of their faith in Terplorr to save their homeland from the religious zealotry of the Elyrian humans.
 
-Terplorr has had his follower assault churches, trading posts, missionaries on the road, and really anything that is bipedal and taller than 3 feet. Some cultists have even been summoning fire elementals.
+Terplorr has had his follower assault churches, trading posts, missionaries on the road, and really anything bipedal that's taller than 3 feet. Some cultists have even been summoning fire elementals. The cultists have been taking some prisoners to assist in the ritual as well.
 
 # Characters
 
@@ -16,35 +16,27 @@ Your characters are already legendary adventurers in their own right that have v
 
 I also want you to make another lower level adventuring party, but I also want to make it very clear that these characters will almost definitely be sacrificed for the plot of the story. They will be faced with a challenge far too dangerous for a party of their level, but my goal is for your actual party to avenge them (hopefully).
 
+# [[Doobius House]]
+
+Here is where the party has been operating from for a while, and where they receive instructions from [[Duke Doobius Highblade]]. Doobius is waiting for the party to arrive in a backroom of his fort in the village aptly named, [[Doobius House]]. Doobius House is located approximately 1 days worth of travel in land from [[Wachii  Ka'paakitayk]]. In current day the village has not really grown as it has been largely neglected by the government, and It is entirely inhabited by indigenous folk. During human colonialism there would have been more Elyrian diaspora in the village, but they have all since left for the big city. For the purpose of this adventure there is a mix of humans and halflings in the village. Humans generally hold positions of power, and halflings are the more common folk. There are also some folk that are half indigenous, half Elyrian, commonly referred to as [[Twothirdlings]] by the townsfolk. One of Doobius' sons is a Twothirdling named [[Jimmyjock Labingi]]. Doobius does not accept him as a son which is why he isn't allowed to have the Highblade name.
+
 # Scenes
 
-## 1. Blanket Delivery
+## 1. The Barracks
 
-## 2. Wyrmling / cultist attack
+## 2. Blanket Delivery
 
-## 3. Briefed about Terplorr
+## 3. Wyrmling / cultist attack
 
-## 4. Molten Wasteland
+## 4. Briefed about Terplorr
 
-- The Embered Faithful defend the outer perimeter.
-- Cult Fanatics with Bracers of Ignition (reflavored Monk or Cult Fanatic stat blocks with unarmed fire damage).
-- Hazards = lava bursts, heat mirages, ash clouds.
-- Roleplay option: Some halflings are reluctant — PCs could sway them with persuasion or intimidation.
-## 5. Jagged Cliff over Caldera
+## 5. Molten Wasteland
 
-- Elite Firecallers (warlocks/druids) hold the cliff, channeling power down into the ritual circle.
-- Cultists may attempt to grapple and throw intruders into the caldera.
-- Falling is a major danger.
-- PCs glimpse Terplorr stirring below, cocooned in smoke.
+## 6. Jagged Cliff over Caldera
 
-## 6. Dragon’s Lair in Caldera
+## 7. Dragon’s Lair in Caldera
 
-- The faithful surround their “messiah,” finishing the rite.
-- Boss fight vs Terplorr, Young Red Dragon (Enhanced) + cult leaders.
-- Hazards: collapsing bridges, lava eruptions, ritual backlash.
-- Win Condition: Stop the rite before it fully empowers him. If they fail, Terplorr’s ascension accelerates and he partially transforms (boosting his stats mid-fight).
-
-## 7. The Collapse
+## 8. The Collapse
 
 - Each character must succeed on 3 skill checks (different abilities) before failing 3 times.
 - DCs should feel threatening but not impossible: DC 16–18 depending on your party’s strength.
