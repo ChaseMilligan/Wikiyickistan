@@ -259,3 +259,10 @@ Artisan’s Tools. The Workshop comes equipped with six different kinds of Artis
 ***Source of Inspiration.*** After spending an entire Short Rest in your Workshop, you gain Heroic Inspiration. You can’t gain this benefit again until you finish a Long Rest.
 
 ***Enlarging the Facility.*** You can enlarge your Workshop to a Vast facility by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan’s Tools (chosen from the list above).
+
+## 13th Level
+
+### Hangar/Dock
+
+Level 13 Bastion Facility
+**Prerequisite:** Appropriate terrain & Vehicle Proficiency
