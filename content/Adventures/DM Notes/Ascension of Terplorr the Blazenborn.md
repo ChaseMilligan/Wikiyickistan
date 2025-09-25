@@ -16,9 +16,25 @@ Your characters are already legendary adventurers in their own right that have v
 
 I also want you to make another lower level adventuring party, but I also want to make it very clear that these characters will almost definitely be sacrificed for the plot of the story. They will be faced with a challenge far too dangerous for a party of their level, but my goal is for your actual party to avenge them (hopefully).
 
-# [[Doobius House]]
+## Acceptable Species
 
-Here is where the party has been operating from for a while, and where they receive instructions from [[Duke Doobius Highblade]]. Doobius is waiting for the party to arrive in a backroom of his fort in the village aptly named, [[Doobius House]]. Doobius House is located approximately 1 days worth of travel in land from [[Wachii  Ka'paakitayk]]. In current day the village has not really grown as it has been largely neglected by the government, and It is entirely inhabited by indigenous folk. During human colonialism there would have been more Elyrian diaspora in the village, but they have all since left for the big city. For the purpose of this adventure there is a mix of humans and halflings in the village. Humans generally hold positions of power, and halflings are the more common folk. There are also some folk that are half indigenous, half Elyrian, commonly referred to as [[Twothirdlings]] by the townsfolk. One of Doobius' sons is a Twothirdling named [[Jimmyjock Labingi]]. Doobius does not accept him as a son which is why he isn't allowed to have the Highblade name.
+- Human
+- Elf
+- Dwarf
+- Gnome
+- Goliath
+- Aasimar
+- Dragonborn
+- Half-elf
+- Human, or Halfling flavored as a Twothirdling
+
+## Alignment
+
+Definitely going to need to be lawful, and or good.
+
+# [[Regions/private/Doobius House|Doobius House]]
+
+Here is where the party has been operating from for a while, and where they receive instructions from [[Duke Doobius Highblade]]. Doobius is waiting for the party to arrive in a backroom of his fort in the village aptly named, [[Regions/private/Doobius House|Doobius House]]. Doobius House is located approximately 1 days worth of travel in land from [[Wachii  Ka'paakitayk]]. In current day the village has not really grown as it has been largely neglected by the government, and It is entirely inhabited by indigenous folk. During human colonialism there would have been more Elyrian diaspora in the village, but they have all since left for the big city. For the purpose of this adventure there is a mix of humans and halflings in the village. Humans generally hold positions of power, and halflings are the more common folk. There are also some folk that are half indigenous, half Elyrian, commonly referred to as [[Twothirdlings]] by the townsfolk. One of Doobius' sons is a Twothirdling named [[Jimmyjock Labingi]]. Doobius does not accept him as a son which is why he isn't allowed to have the Highblade name.
 
 # Scenes
 
