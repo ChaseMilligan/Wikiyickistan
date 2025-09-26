@@ -3,3 +3,5 @@ Looming over [[Stickyickistan]], the colossal Mount Zooka is an active [[Arcanit
 The mountain is a center of industry and danger, with miners, [[Magitech]] engineers, and reckless bounty hunters carving out makeshift tunnels and outposts along its rim, seeking precious minerals, arcane artifacts, and volatile magical energy. The [[Bongstad]] dwarves have built their fortified settlement into the base of the mountain, using its natural heat to power their forges. Meanwhile, the upper crater is home to industrial mining operations, dangerous alchemical experiments, and the ruins of those who dug too deep.
 
 Mount Zooka is the heart of Stickyickistan’s power and chaos—a force of creation and destruction, where great fortunes and terrible disasters are only ever one eruption away.
+
+Mount Zooka's indigenous name is - Wachii Zookaamihk - which roughly translates to - Mountain Place of Sacred Stones.
