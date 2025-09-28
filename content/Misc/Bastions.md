@@ -25,9 +25,12 @@ We have also constructed your choice of 2 level 5 special facilities. Each of yo
 | Workshop     |                                                                       | Craft    |
 Special facilities get better as you level up, and you can pay to have new basic and special facilities built at any time provided you have enough money and meet the level requirements and prerequisites to do so. You also gain access to more special facilities as you level up.
 
+# Hirelings
+
+***DM Note:*** If you do not choose to have a hireling be a low level PC, I / you can choose a CR 1/8 or lower creature to be the NPC. I will allow any source probably, but ask me first. I think it would be cooler if you made them a low level PC though. You should make their personality / build reflect what their occupation in your bastion is.
 # Special Facilities
 
-The following information is RAW, but I will be modifying the rules of bastions slightly for balancing/narrative reasons. WotC kinda suck ah. I am also including a few homebrew facilities.
+The following information is RAW, but I will be modifying the rules of bastions slightly for balancing/narrative reasons. WotC kinda suck ah. I am also including many homebrew facilities.
 
 Listed below are only the 5th level options. More options will be added at 9th level.
 
