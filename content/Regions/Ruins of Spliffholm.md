@@ -1,0 +1,1 @@
+The ruins of a city ([[Spliffholm]]) destroyed in the [[Emerald Blight]].

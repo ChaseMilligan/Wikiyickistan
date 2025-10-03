@@ -61,32 +61,54 @@ Also aboard the airship, Kezrin and Zara will congratulate you guys on another s
 
 Zara and Kezrin will provide you with a list or a lineup of low level guild recruits for you to choose your hirelings from (flavor), or you can try to find one from the streets, but all of your employee records must be reported to A.S.S per your sub-guild agreement. Alternatively to making a hireling PC you can choose a monster stat block of CR 1/8 or lower. My goal for these characters, is to allow you guys to explore other characters while keeping it related to your main character. I plan on quest hooks for your hirelings coming from you for things that might seem menial for your main character. For example, let's say Fungi is making a potion, but he doesn't have a pouch of Rafflesia pollen which he needs. Instead of going to the Loot Tavern, or some other Monster Component merchant, you could send your hireling on a monster hunt to collect the Rafflesia pollen for you. I also think that leveling up your hirelings should afford you/them some bonuses when they do their job in your bastion. Another case in which I see the hirelings getting used is if there is a mission with multiple locations. Obviously you guys can't be everywhere at once, so you could send your hirelings to the another location in the mission. I will make sure to scale encounters appropriately, and let you know out of character if sending your hirelings to a particular location is a good idea. There may be certain encounters I won't scale like bosses/mini bosses. If you send your hirelings to take on a boss/mini boss, I won't stop you, but I will tell you that you may be sending them to perish.
 
-#### Outro / Cliffhanger
-As the airship soars above the ocean you see the city skyline break the horizon. As you enter the city's airspace I will have you all make a perception check. 
-- DC 20 to see a flying figure above the scrapyard. 
-No perception check is needed with your birds eye view to see that somethings in certain areas of the city look off. You can see from where you are, the puddle of tar in the scrapyard seems to have grown significantly, and has reached the gates no longer being contained within the scrapyard. You also see a faint green glow from the canals in the city streets, and the same faint glow along the coast line by a shipyard / dock.
-
 ---
-
-In other news, they will bring up the recent happenings of the city where oozes and tar elementals have been spotted in various places around the city. They will explain that [[The Seekers of the Vein]], are under fire because of the obvious tar leaking out of their scrapyard into the city streets. A class action lawsuit has been brought against them, and they are asking for our help to clean up this mess. Then they want to know if you guys have any idea as to why this might be happening. Could it have something to do with that dragon scale you found or that mega-ooze you killed? Obviously you all have free will and might know more than us, but we would appreciate you dealing with the stuff in the city asap because it is what is causing the most negative attention.
-
-Some locations are specific, some are more vague areas of where they could be. The downtown and slum street encounters will require some tracking checks. Travelling through the city for the main party will have a chance of being spotted by Tribunal mech guards. After making / choosing Hirelings, they can direct the hirelings to deal with some of the locations for them while they go off to do what they want.
-
 # Act 1: The Return
 
 In this act, the party is returning from their adventure on the [[Islands of Y'ummm]]. They are returning by airship, and when they return things in the city are different. 
+#### Intro
+As the airship soars above the ocean you see the city skyline break the horizon. As you enter the city's airspace I will have you all make a perception check. 
+- DC 20 to see a flying figure above the scrapyard. 
+No perception check is needed with your birds eye view to see that some things in certain areas of the city look off. You can see from where you are, the puddle of tar in the scrapyard seems to have grown significantly, and has reached the gates no longer being contained within the scrapyard. You also see a faint green glow from the canals in the city streets, and the same faint glow along the coast line by a shipyard / dock. Fade to black
 
-- It is possible to see Wes riding on Goob'lath above his lair beyond the skyline of the city. Very faintly. 
-- People around the city are talking about having seen something massive flying far above the city. 
-- A few select people even claim that a drop of black liquid fell on them as it flew over. 
-- None of them know exactly what is was, but describe it like a massive bird of sorts. 
-- People are also saying they have been hearing noises from beneath the streets. A raspy wailing melody can be heard faintly throughout the sewers.
-- Wes is currently hiding in the sewers, and making his way to the water treatment facility where he plans to pollute the water with potion of ooze
+Fade back in to the citadel with Kezrin bringing up the recent happenings in the city where oozes and tar elementals have been spotted in various places around the city since they have been gone. He will explain that [[The Seekers of the Vein]], are now under fire because of the obvious tar leaking out of their scrapyard into the city streets. A class action lawsuit has been brought against them, and they are asking for your help again to clean up this mess. Then they want to know if you guys have any idea as to why this might be happening. 
+
+> Could it have something to do with that dragon scale you found or that mega-ooze you killed? Obviously you all have free will and know more than us, but we would appreciate you dealing with the stuff in the city asap because it is what is causing the most negative attention. Might not hurt to ask people around the city for any clues, or look around the scrapyard again.
+
+Kezrin will suggest taking some time to do some research one way or another, but warn you that most likely the longer you put off taking care of the slimes in the city, the worse it will get. The nerds downstairs, or another guild member can probably help you get some solid intel, or, if you have time, Peeper at the [[Loot Tavern]] would have access to more info from across all the different planes.
+
+Some locations are specific, some are more vague areas of where they could be. The downtown and slum street encounters will require some tracking checks. Travelling through the city for the main party will have a chance of being spotted by Tribunal mech guards. After making / choosing Hirelings, they can direct the hirelings to deal with some of the locations for them while they go off to do what they want. Start by only revealing 3 locations (downtown, slums, and bath house). The other locations can be revealed as time goes on.
+
+#### Getting Info
+- Talk to commoners in the city (worst)
+- Research with Peeper (best)
+- Research with bastion (good)
+- Research with Nerds in Citadel or museum in city (better)
+
+- Surface Info
+	- People around the city are talking about having seen something massive flying far above the city. 
+	- A few select people even claim that a drop of black liquid fell on them as it flew over. 
+	- None of them know exactly what is was, but describe it like a massive bird of sorts. 
+	- People are also saying they have been hearing noises from beneath the streets. A melodic raspy wailing can be heard faintly throughout the city sewers.
+- Deeper Info
+	- Commoners say they think what they are hearing from the sewer is a song they used to like from a couple decades ago, but the voice sounds a bit different than they remember.
+	- Educated folk can reveal their speculations about the origins of the ooze. Definitely extra-planar. Possibly Abyssal, or Para-elemental.
+	- Theologically literate folk can share their sentiments of dread regarding the ooze. Some may even mention the name "Faceless Lord Juiblex"
+- Deepest Info
+	- Very few commoners may actually be able to recite some lyrics they have heard or hum the tune of a melody from the sewers
+	- The best info research can provide is a fragmented document from [[Dr. Francis Norman Stein]] about [[Goob’lath]] and his deal with [[Juiblex]]. This can only be gotten by rolling a natural 20 on investigation, or by completing 2 full research sessions with Peeper.
+	- Incredible persistence or a natural 20 can lead the players to interacting with a commoner who happened to witness Juiblex posses an ooze and materialize to commune with Wes. He describes walking through the piping district at night where the underground infrastructure of the sewer connects above ground. He saw a man standing in an alley who appeared to be wet, or dripping sweat maybe. He stood in front of a small 4 sided slime creature and seemed to reciting an incantation maybe. The small slime creature began convulsing, and violently transformed into a towering mass of filth. Like a 12 foot slime swirl from hell or something. It was at that point that the man says took off running and didn't look back in hopes that the man and whatever he summoned didn't notice him.
+
+Choosing to talk to A theologically literate person, or completing a session of research with [[Peeper]] will also afford players the knowledge of Iggwilv's Demonomicon, and the Lost Caverns of Tsojcanth. This artifact could potentially help them find an intelligent solution, or give them the power to brute force one. The society would also pay out a substantial amount of renown and coin if a squad were to acquire it.
+
+---
+#### Behind the Scenes
+
+- Wes is currently hiding in the sewers, and making his way to the water treatment facility where he plans to pollute the city water with potion of ooze
 - He has already polluted some places, summoned oozes, and conjured elementals to help him take out the Dungsweepers between him and the water treatment facility. Some of them have wandered away, and went up the pipes to the city streets, and into some businesses.
 - These are the locations around the city that have been especially affected by potion of Ooze
 	- City street canals/rivers
 	- Shipyard
-- Goob'lath is summoning an Icosahedrooze in the scrapyard at his lair again. this will take 7 days. He has opened a rift to the [[Plane of Ooze]], and he calls the tar elementals that seep through the opening, his children.
+- Goob'lath is summoning an Icosahedrooze in the scrapyard at his lair again. this will take 3 days. He has opened a rift to the [[Plane of Ooze]], and he calls the tar elementals that seep through the opening, his children.
 - Locations near the scrapyard have reported tar elementals, and black winged kobolds beyond the scrapyard fences and attempting to posses magitech, and attack things near by.
 - These are locations affected by tar elementals
 	- Alchemy District

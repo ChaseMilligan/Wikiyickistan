@@ -2,4 +2,4 @@ Doobius House is a village in [[Stickyickistan]] inhabited by indigenous Halflin
 
 # History
 
-During it's hay day the town had a bustling economy relative to the time. Many adventurers would pass through the village streets, and although it is nothing like the city of today, the village had plenty of options for commerce.
+During it's hay day the town had a bustling economy relative to the time. Many adventurers would pass through the village streets, and although it is nothing like the city of today, the village had plenty of options for commerce for the time.

@@ -1,0 +1,1 @@
+Twothirdlings are the offspring of [[Elyria]]n settlers of Stickyickistan, and the native Halflings. Twothirdlings are all unique and present different traits of their parents per individual.
