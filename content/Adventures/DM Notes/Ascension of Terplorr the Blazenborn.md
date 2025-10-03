@@ -10,15 +10,21 @@ Terplorr has had his follower assault churches, trading posts, missionaries on t
 
 # Characters
 
-You are a team of sell-swords from Elyria. Elyria is an ethno-religious state ruled by the clergy of [[The Faith of the Sacred Flame]]. You have been hired by the HBC ([[High Blade Corps]]), which is a private militia owned and operated by [[Duke Doobius Highblade]], the original head of [[House Highblade]]. The HBC is a state sponsored “trading company” that has been granted the rights to “sole trade and commerce” over the newly “discovered” land of Stickyickistan. It controls the [[Arcannabis]] trade throughout [[Mythmos]], and is currently treated as the de facto government until it relinquishes control to the [[Nevercough Tribunal]], but that hasn’t happened yet. The HBC has set up many trading posts throughout Stickyickistan where Arcannabis flows in and out, and some pioneers of the frontier live in them.
+You are a team of sell-swords, and or brave voyageurs travelling from [[Elyria]] to the new frontier on the shores of Stickyickistan. Elyria is an ethno-religious state ruled by the clergy of [[The Faith of the Sacred Flame]], but your character does not need to be from here. You have been hired by the HBC ([[High Blade Corps]]), which is essentially a state sponsored private militia owned and operated by [[Duke Doobius Highblade]], the original head of [[House Highblade]], and a noble from Elyria. To the general public, the HBC is a “trading company” that has been granted the rights to “sole trade and commerce” over the newly “discovered” land of Stickyickistan by the Sacred Flame itself. The HBC has a monopoly of the [[Arcannabis]] trade throughout [[Mythmos]], and is currently treated as the de facto government in the land. The HBC has set up many trading posts throughout Stickyickistan where Arcannabis flows in and out, and some pioneers of the frontier live in them. The most famous of these inland posts is none other than the village aptly named, Doobius House, where your adventure will begin.
 
-Your characters are already legendary adventurers in their own right that have ventured to the frontier many times successfully. You have been adventuring together for a long time, and should have many bonds with each other. Since the world of Mythmos is kind of a blank slate outside of Stickyickistan, and [[Drakkenheim]], this adventure is meant to help fill out the lore of the world. So if you have an idea for a cool place your character is from or something like that, let’s talk about it, and maybe it gets added permanently to the lore. There are some named cities and villages on the continent, but not all of them actually have any info, so we can make it up ourselves. Feel free to use other DND/TTRPG sources, or inspiration from some other fantasy universe you like. Even if it just starts a discussion its worth bringing up.
+Your characters are already legendary adventurers in their own right that have ventured to the frontier many times successfully. You have been adventuring together for a long time, and should have many bonds with each other. Since the world of Mythmos is kind of a blank slate outside of Stickyickistan, and [[Drakkenheim]], this adventure is meant to help fill out the lore of the world. So if you have an idea for a cool place your character is from or something like that, let’s talk about it, and maybe it gets added permanently to the lore. There are some named cities and villages on the continent, but not all of them actually have any info, so we can make it up ourselves. Feel free to use other DND/TTRPG sources, or inspiration from some other fantasy universe you like. Even if it just starts a discussion its worth bringing up. Also if it wasn't obvious enough, I am using Canadian history for some inspiration, and I would encourage you to do the same.
 
-I also want you to make another lower level adventuring party, but I also want to make it very clear that these characters will almost definitely be sacrificed for the plot of the story. They will be faced with a challenge far too dangerous for a party of their level, but my goal is for your actual party to avenge them (hopefully).
+I also want you to make another lower level adventuring party, but I need to make it very clear that these characters will almost definitely be sacrificed for the plot of the story. They will be faced with challenges far too dangerous for a party of their level, but my goal is for your actual party to avenge them (hopefully).
+
+---
+## Prelude Hook
+The low level party is tasked with 
+## Hook
 
 ## Acceptable Species
 
 - Human
+- Halfling
 - Elf
 - Dwarf
 - Gnome

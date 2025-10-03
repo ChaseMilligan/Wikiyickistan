@@ -1,1 +1,0 @@
-**The Ruins of [[Spliffholm]] are my adaptation of [[Drakkenheim]] into the world of [[Mythmos]].** 

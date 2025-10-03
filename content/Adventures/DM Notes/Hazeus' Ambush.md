@@ -5,3 +5,6 @@ Hazeus also wants to catch [[Xon]] since they were a part of the initial betraya
 ---
 
 Xon has failed a Wisdom save against Hazeus' Scrying. It took the THC bounty hunters 2 days to locate the silo. They have had [[Thistlebog]] scope the place out for a day or two, and he was able to charm a patron of the pub as they left the silo. The patron blabbed about what was happening inside, so he knows about some level of illicit alcohol sale. Thistlebog then asked him if he would go back in, and ask if the place did deliveries of alcohol.
+
+
+

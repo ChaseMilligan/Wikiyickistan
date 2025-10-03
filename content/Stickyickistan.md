@@ -6,7 +6,7 @@ Stickyickistan is an island on the planet of [[Mythmos]] that is enshrouded in m
 ![[Stickyickistan.jpg]]
 # Modern Stickyickistan
 
-Welcome to the enchanting realm of Stickyickistan, a captivating City State where an active volcano stands proudly at its core. This bustling metropolis, inhabited by approximately 27 million denizens, thrives as a tightly woven tapestry of terraced dwellings. At the heart of it all lies the Capitol building, perched upon [[Nevercough Island]], an idyllic smaller landmass embraced by an inlet on the main island.
+Welcome to the enchanting realm of Stickyickistan, a City State where an active volcano stands proudly at its core. This bustling metropolis, inhabited by approximately 27 million denizens, thrives as a tightly woven tapestry of terraced dwellings. At the heart of it all lies the Capitol building, perched upon [[Nevercough Island]], an idyllic smaller landmass embraced by an inlet on the main island.
 
 Ascending from the base of the volcano, the upscale residences extend into the lush jungle, offering breathtaking vistas that stretch out to the majestic ocean. The colossal canopy of tropical trees, reminiscent of gargantuan redwoods, provides a natural shield, safeguarding inhabitants from the perilous potential of volcanic eruptions. In stark contrast, the slums that cling to the mountainside exude an aroma of brimstone and sulfur, perpetually shrouded in an ethereal haze of ash and smoke, reminiscent of the favelas of Brazil. These settlements wind their way upward, nearly reaching the rim of the crater in certain areas. Above the slums, an industrial district clings to the rim and delves deeper into the crater, thriving amidst the volcanic terrain.
 
@@ -56,7 +56,7 @@ But magic, greed, and unchecked ambition are a volatile mix.
 
 As power struggles erupted among mages, priests, and mercenary factions, the city fell into civil war. Industrial sabotage, magical duels, and full-scale battles tore the city apart, with factions summoning fiends, creating unstable war golems, and using necromantic plagues to gain the upper hand.
 
-At the peak of the conflict, the Necromancer [[Valmorra the Hollowed]] unleashed her ultimate weapon—the [[Amethyst Blight]], a magical plague that turned the living into mindless, fungal-infested undead. While her intent was to control the fallen, the Blight quickly spiraled out of control, transforming Spliffholm into a nightmarish wasteland of rotting, deathless horrors.
+At the peak of the conflict, the Necromancer [[Valmorra the Hollowed]] unleashed her ultimate weapon—the [[Emerald Blight]], a magical plague that turned the living into mindless, fungal-infested undead. While her intent was to control the fallen, the Blight quickly spiraled out of control, transforming Spliffholm into a nightmarish wasteland of rotting, deathless horrors.
 
 Realizing the catastrophe would consume all of Stickyickistan, an unlikely alliance of native Halfling druids, [[Ashenfey]], [[Verdanfey]], Elemental creatures, and arcanists from the other cities —some of whom had been enslaved in Spliffholm’s industrial mills—banded together to seal the undead within the ruins. They planted a barrier of Radiant Trees around the city, whose divine-infused wood burns away the Blight. To this day, the trees grow unchecked, keeping the cursed [[Ruins of Spliffholm]] locked away.
 #### Aftermath
