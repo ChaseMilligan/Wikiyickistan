@@ -1,0 +1,1 @@
+This is an alternative name for the [[Tribunal Highblade Coalition]] which is a subsidiary of [[House Highblade]].

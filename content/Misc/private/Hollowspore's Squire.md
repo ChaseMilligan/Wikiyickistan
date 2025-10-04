@@ -1,0 +1,11 @@
+## [Hollowspore’s Squire](https://www.dndbeyond.com/feats/1927552-hollowspores-squire) - (Flavored [[Dragonlance]] Feats)
+
+You are a Mycoforged (Fungal Warforged) created by Sibrek Hollowspore of the Zooka Mire Collective (Golgari Swarm). Sibrek imbued you with combat enhancements, believing you would serve as the ultimate weapon.
+
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+Molded Reflexes: Sibrek's enhancements allow you to mount or dismount with unnatural ease, only requiring 5 feet of movement.
+
+Adaptive Strikes: Engineered for precision, you can momentarily recalibrate your attacks, granting yourself advantage once per turn and increasing the lethality of his strikes. Once per turn, when you make a weapon attack roll against a creature, you can cause the attack roll to have advantage. If the attack hits, you roll 1d8 and add the number rolled as a bonus to the attack’s damage roll. You can use this benefit a number of times equal to your proficiency bonus, but a use is expended only if the attack hits. You regain all expended uses when you finish a long rest.
+
+Fear-Inducing Presence: Though unintended, your fungal mutations instill dread. You can channel this unsettling aura into your attacks, forcing foes to fight through terror or falter in their resolve. Once per turn, when you hit a creature with a weapon attack roll, you can attempt to frighten that target. The target must make a Wisdom saving throw (DC equals 8 + your proficiency bonus + the ability modifier of the score increased by this feat). On a failed save, the target is [frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) of you until the end of your next turn. On a successful save, the target has disadvantage on the next attack roll it makes before the end of its next turn. You can use this benefit a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
