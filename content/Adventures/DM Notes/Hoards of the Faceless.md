@@ -3,7 +3,9 @@ cover: "[[hoardsofthefaceless.png]]"
 ---
 Wesley Scantlin >> Woozely Castlinn
 
-- Wes, and Goob'lath is going to waste the city and turn its residents into slimes that obey the faceless demon lord of Ooze, Juiblex, unless he is stopped.
+- Wes, and Goob'lath is going to waste the city and turn its residents into slimes that obey the faceless demon lord of Ooze, Juiblex, unless he is stopped. No real pay for this job unless it gets too out of hand. Meant to be an option for them if they want to do something for good of others for once lmao
+- There are monster hunts they can do for money, but not dealing with other issues will make them worse.
+- The THC bounty hunters are on a quest to craft a Crystal Ball they can use to Scry on the party more often. This option is another selfish one, but only for preservation and little pay, plus they could end up getting outsmarted by the bounty hunters and end up arrested for their crimes.
 
 [[Wes Scantlin]] has returned to [[Stickyickistan]], but he has changed. After being slain, his body was found by [[Goob’lath]]’s cultists which they preserved and brought to their master. Goob’lath saw the vile corpse of the equally disgusting man as a fitting vessel for his own master, [[Juiblex]], to possess whenever he desires to manifest in the material plane. While not possessed, Wes still acts of his own will, but his motives have been twisted by Juiblex. Wes is now enslaved by the insatiable urge to spread Juiblex’s influence by turning creatures into oozes or other shapeless lifeforms that answer to Juiblex.
 

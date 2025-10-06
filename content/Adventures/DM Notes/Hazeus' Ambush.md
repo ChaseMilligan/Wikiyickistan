@@ -4,11 +4,23 @@ Hazeus also wants to catch [[Xon]] since they were a part of the initial betraya
 
 In the party's absence, Kezrin has some more troubling news for the party. Kezrin got a party of new recruits to try and track the bounty hunters you described. They didn't really gather very much useful info on them while you were away. Like they 
 
+Kezrin sent some new recruits to go scout the bounty hunters you described. They didn't come up with any more useful information we didn't probably already have. They were able to spot and follow the group in the downtown area to a bastion on the opposite side of town. Unfortunately, that's pretty much all they got, and that's not where the bad news ends. Kezrin says that he thinks he saw them at the loot tavern. He went in there for a bev' and chat with Heliana, but when he was sitting at the bar, a tall blonde lady came and sat right next to him. Initially he didn't think anything of it, until he glanced over to see a man donning armor bearing the mark of House Highblade, and a hairy little halfling next to her. Curiously there was also an older gentleman there with them who Kezrin didn't remember you mentioning. This caught his attention, so he listened in to what they were saying. They made no attempts to conceal their intentions of obtaining the components and essence needed to craft a Crystal Ball of Scrying. They mentioned wanting to get their hands on one to make tracking down another target easier. Heliana assisted them in finding a suitable quarry, and they eventually settled on a contract to kill [[Quabriel the Deathpact Angel]] on the plane of Infinite Battlefields, [[Acheron]]. This Deathpact Angel will be a one stop shop for the essence and components they need if they are able to defeat it. The bounty hunters took an NEC (non-exclusive contract), so Heliana can still give the contract out to other monster hunters as long as she discloses there is active competition for the bounty. NEC contracts are cheaper, and can often be found or accepted at the job board in the Loot Tavern. Kezrin decided to take out his own NEC for you guys just in case you wanted to follow them.
+
+A DC 17 Insight check can allow a character to discern through Kezrin's speech, or otherwise get the sense that, maybe Kezrin seeing them and hearing their plans wasn't a coincidence. Feels like these bounty hunters are too professional to be that loose lipped about their plans in the company of strangers. 
+
+Kezrin doesn't seem to think they would know who he is, but they do in fact, and this is the first step of their set up to try and catch the party off guard and get them in shackles. If the players decide to pursue the bounty hunters, the ambush encounter will occur. If they choose not to pursue them, the bounty hunters will slay the Deathpact Angel, and over the appropriate amount of time, craft the crystal ball to start Scrying on the party all the time.
+
+The Contract outlines where Quabriel's sanctum is located, so tracking checks should be easy to succeed, but hostile encounters should be common. Use monsters themed for Acheron like rust monsters, [[Tieflings]], evil humans, goblin warriors, hobgoblins, ogres, etc. They can travel from the Loot Tavern to the city of [[Rigus]] located on the plane of Acheron by ordering a Rusted Mule from Lutecia at the bar. There are other ways of reaching Acheron, but this is likely the easiest. Another way to get there is to travel to the Abyss, and hire and Oarsman on the Styx to take them down stream to the first layer of Acheron.
+
 ---
 # Xon
 
 Xon has failed a Wisdom save against Hazeus' Scrying. It took the THC bounty hunters 2 days to locate the silo. They have had [[Thistlebog]] scope the place out for a day or two, and he was able to charm a patron of the pub as they left the silo. The patron blabbed about what was happening inside, so he knows about some level of illicit alcohol sale. Thistlebog then asked him if he would go back in, and ask if the place did deliveries of alcohol.
 
+---
+Thistlebog's attempt at getting info failed, and he was spotted.
+
+---
 Thistlebog has been spying on Xon, but she spotted him hiding in the bushes outside the silo. Xon placed a bunch of traps around, and when Thistlebog came back the next night he failed to notice them. He naively went back to the place he was hiding before, and stepped into a hunting trap. This happened around midnight, so some patrons of the pub notice him struggling in the bushes to free himself from the trap as does the Bouncer
 
 
