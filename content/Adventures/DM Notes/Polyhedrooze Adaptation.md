@@ -1,3 +1,6 @@
+---
+cover: "[[polyhedrooze-splash.jpg]]"
+---
 # Background
 
 Years ago, hidden atop a jagged peak beyond Stickyickistan's city limits, a terrible wyrm named [[Terplorr the Blazenborn]] ruled over a volcanic mountain lair, his throne nestled deep within the caldera. A horde of slavish kobolds served his every whim, toiling beneath the smoke-choked sky. Adventurers eventually brought an end to Terplorr’s tyranny, but in the heat of the final moments of the battle, the mountain collapsed in on itself. The caldera and much of the upper peak were seemingly lost to ruin.

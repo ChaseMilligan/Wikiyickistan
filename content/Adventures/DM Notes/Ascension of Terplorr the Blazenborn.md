@@ -1,3 +1,6 @@
+---
+cover: "[[ascensionofterplorr.png]]"
+---
 # Backstory
 
 This story takes place in historical [[Stickyickistan]] during the height of [[Human Colonialism]]. [[Terplorr the Blazenborn]] is a young red dragon that lived on the isle of Stickyickistan for hundreds of years before any humans from the mainland arrived. He is very old for a young dragon of any kind, and is very close to his ascension into adulthood. He did his fair share of tormenting the native halflings as we know from their oral history tradition, but he never saw them as a threat. When the humans from [[Elyria]] began colonizing the island to subjugate and forcibly assimilate the native population, so they could reap the rewards of commodifying the abundance of natural and arcane resources of Stickyickistan, Terplorr grew weary. 

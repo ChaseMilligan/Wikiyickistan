@@ -1,3 +1,6 @@
+---
+cover: "[[hoardsofthefaceless.png]]"
+---
 Wesley Scantlin >> Woozely Castlinn
 
 - Wes, and Goob'lath is going to waste the city and turn its residents into slimes that obey the faceless demon lord of Ooze, Juiblex, unless he is stopped.
@@ -214,6 +217,14 @@ Wes attempts a daring heist at the citadel, and the party needs to stop him. Sin
 # Act 4: Goob'lath's Retaliation
 
 If the Icosahedrooze was summoned successfully and Wes has been defeated, Goob'lath will immediately retaliate indiscriminately in Stickyickistan.
+
+If the players go to Goob'lath's lair while he is still summoning the Icosahedrooze, they will have to face him and a few of his most loyal kobold cultists. These kobolds have become ooze-bound, and fight to the death. This will likely be too difficult of a fight for the party at their current level, but fuck it let them try it if they want.
+
+Have them roll initiative as soon as they enter the dungeon as they hear loud draconic chanting echo throughout the cavernous lair. Rounds of combat for Goob'lath to finish the summoning is 3 times the number of days remaining until he leaves. So, if they go the same day they learn about the oozes in the city, there will be 3 days until Goob'lath leaves back to [[Shedaklah]], and it would take him 9 rounds to complete the ritual. 9 is the maximum amount, 3 is minimum.
+
+Since he is attempting a costly summoning, Goob'lath will be unable to fight at his full strength at this point, so maybe no lair or legendary actions until they face him at full strength.
+
+In this act they should not reasonably be able to defeat Goob'lath as he will not fight to the death, and has an escape plan, however it of course can't be counted out as a possibility. If his life is threatened he will use his amorphous nature to squeeze through a crack in the stone ceiling to escape. He maintains his fly speed in this form, and will flee back to [[Shedaklah]] whether the summoning is complete or not.
 
 # Act 5: Goob'lath's Ascension
 
