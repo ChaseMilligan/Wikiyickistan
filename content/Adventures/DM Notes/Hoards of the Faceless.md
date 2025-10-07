@@ -180,9 +180,8 @@ This is what is there when they show up
 - 2 Tarchaeologists (CR 3)
 	- The archaeologists have been possessed, and if their weapons are destroyed it releases the Mini Tar Elementals (CR 2) possessing them
 #### Wave 2
-At the top of round 3, or when all combatants in wave 1 are defeated, have the Splatacabra come splashing out of the tar pit onto the shore, and continue the fight.
-- 1 Splatacabra (CR 9)
-	- https://www.patreon.com/posts/mw-batch-x-2-cr-129693498
+At the top of round 3, or when all combatants in wave 1 are defeated, have the Tarannosaurus Rex come splashing out of the tar pit onto the shore, and continue the fight.
+- 1 Tarannosaurus Rex (CR 10)
 # Act 2: Slime in the Sewer
 
 If players complete Act 1 first they reach 8th level.
@@ -206,15 +205,26 @@ https://www.czepeku.com/scifi/maps/reactor-core?v=toxic
 
 # Act 3: Wes Attempts to find and steal back [[The Gilded Nug]]
 
-Wes attempts a daring heist at the citadel, and the party needs to stop him. Since the party retrieved the Gilded Nug, the society has turned it into three legendary Gilded Blunts by combining it with a magical item they already had called [[The Gilded Swisher]]. These items are incredibly powerful and could spell disaster for Stickyickistan, or even worse, Mythmos, if they fall into the hands of Wes Scantlin
+Wes attempts a daring heist at the citadel, and the party needs to stop him. Since the party retrieved the Gilded Nug, the society has turned it into three legendary Gilded Blunts by combining it with a magical item they already had called [[The Gilded Swisher]]. These items are incredibly powerful and could spell disaster for Stickyickistan, or even worse, Mythmos, if they fall into the hands of Wes Scantlin.
+
+Wes found a very small in size, but potentially disastrous flaw in the Citadel's security. The toilets. Wes travelled in his amorphous form through the sewer pipes until 
 
 ## **Encounters**
 
 ### Citadel Foyer
+- 4 Fungusfeaster (CR 1/4)
+- 2 Slimesworn Cultist (CR 2) Riding Saddle Slimes
+- 2 Saddle Slime (CR 1)
+### Ancient World Forge (Vault Seal)
 
-### Ashen Museum
-
-### Holodeck Vault
+#### Section 1
+- 2 Fungusfeaster (CR 1/4)
+- 2 Tetrahedrooze (CR 1/4)
+#### Section 2
+- 4 Hexahedrooze (CR 3)
+### Vault (Mech Hive)
+- 1 Wesley Scantlin (CR 12)
+- 1 Octahedrooze or 2 mini tar elementals
 
 # Act 4: Goob'lath's Retaliation
 
