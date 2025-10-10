@@ -2,7 +2,7 @@
 
 I think it’s time we form our own **Dungeon Masters’ Guild**, a league of enigmatic storytellers, a cabal of _autistic money-spell shadow wizards_ who chant esoteric rites, and tug on the strands of the Weave itself to send adventurers on unforgettable journeys.
 
-This will be our own **Adventurers League**, built in the spirit of the official AL format but with a few home-grown twists. We’ll still follow the official Adventurers League structure as closely as possible, but our version will allow for:
+This will be our own **[Adventurers League](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)**, built in the spirit of the official AL format but with a few home-grown twists. We’ll still follow the official Adventurers League structure as closely as possible, but our version will allow for:
 
 - Expanded source options
 - Homebrewed adventures
