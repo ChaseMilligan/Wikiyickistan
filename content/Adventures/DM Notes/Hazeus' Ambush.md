@@ -27,7 +27,7 @@ Thistlebog's attempt at getting info failed, and he was spotted.
 # Acheron Pursuit Overview
 
 1. Characters are informed of the bounty hunters plans to obtain a Crystal Ball of Scrying
-2. Characters are given their own NEC for the Quabriel, so they know where the bounty hunters are going should the decide to pursue them. This is part of the bounty hunter's plans.
+2. Characters are given their own NEC for Quabriel, so they know where the bounty hunters are going should the decide to pursue them. This is part of the bounty hunter's plans.
 3. If the players opt to pursue the bounty hunters, they can go to the Loot Tavern, to try to learn more about where they might be going, and anything else the bounty hunters may have said.
 4. Then order a Rusty Mule, and walk back through the Tavern door into the streets of the Gate-city Rigus, where they are told the bounty hunters went to travel through the gate to Acheron where Quabriel resides.
 5. Walking around the city streets asking anyone where the gate to Acheron is, they will know.
