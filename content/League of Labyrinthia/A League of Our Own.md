@@ -1,6 +1,6 @@
-# 🎲 The Dungeon Masters’ Cabal & Adventurers League
+# The Dungeon Masters’ Cabal & Adventurers League
 
-I think it’s time we form our own **Dungeon Masters’ Guild**, a league of enigmatic storytellers, a cabal of _autistic money-spell shadow wizards_ who chant esoteric rites, and tug on the strands of the Weave itself to send adventurers on unforgettable journeys.
+I think it’s time we form our own Dungeon Masters’ Guild, a league of enigmatic storytellers, a cabal of autistic money-spell shadow wizards who chant esoteric rites, and tug on the strands of the Weave itself to send adventurers on unforgettable journeys.
 
 This will be our own **[Adventurers League](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)**, built in the spirit of the official AL format but with a few home-grown twists. We’ll still follow the official Adventurers League structure as closely as possible, but our version will allow for:
 
@@ -10,7 +10,7 @@ This will be our own **[Adventurers League](https://www.dndbeyond.com/posts/1676
 
 Essentially, this is Adventurers League, but with more creative freedom and a shared understanding of what’s allowed at the table.
 
-## ⚖️ Rules & Structure
+## Rules & Structure
 
 Like the official AL, gameplay should always follow **RAW (Rules As Written)**. Any usual _house rules_ we rely on in our campaigns are _off the table_ for league play. Character creation will still follow **PHB +1** (the Player’s Handbook plus one other source of your choice), with a slightly expanded list of approved sources. Ability scores are always Standard Array, or Point Buy values.
 
@@ -22,9 +22,9 @@ Certain species, items, or features may be restricted depending on the adventure
 
 Each DM has the right to restrict Character Sheet content based on what they have access to or what fits their game. These details will always be sorted out between the DM and players _before_ the session begins.
 
-## 🧙‍♂️ How It Works
+## How It Works
 
-The ultimate goal is to build a **larger community of players and DMs** — a rotating roster of players and tables, each with their own adventures, worlds, and styles.
+The ultimate goal is to build a larger community of players and DMs to create a rotating roster of players and tables, each with their own adventures, worlds, and styles.
 
 Here’s how it’ll flow:
 
@@ -38,19 +38,12 @@ So, if I run a Monster Hunt one week and Matt runs another at the same tier, you
 
 The beauty of this system is flexibility: you can have multiple characters ready to go, hop between adventures, and build stories that cross tables without breaking continuity.
 
-## 🌌 The Vision
-
-We’re not just running D&D — we’re weaving fate together. A league of DMs, each with their own arcane alter-ego, hosting episodic adventures that connect into a grand tapestry of worlds.
-
-Imagine a hall of adventurers where names, XP, and glory are displayed across shimmering arcane screens — a living record of our shared stories.
-
-Let’s build it. Let’s make it weird, magical, and _ours_.
-
 ---
 # AL Player's Guide
 
 ![[d&d-adventurers-league-player's-guide-v14.0.pdf]]
 
+![[participating-in-adventurers-league-1.png]]
 ## Characters
 
 All characters created for Adventurers League must follow specific guidelines, which can be found in the [D&D Adventurers League Player's Guide](https://media.dndbeyond.com/compendium-images/ddal/reference-docs/03-2024/d&d-adventurers-league-player's-guide-v14.0.pdf) (above).
