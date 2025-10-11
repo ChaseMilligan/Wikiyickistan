@@ -36,7 +36,7 @@ Here’s how it’ll flow:
 
 So, if I run a Monster Hunt one week and Matt runs another at the same tier, you can use the same character in both — or switch it up and bring a different one. However, if I run a Monster Hunt, and next week Matt is running an Eberron game, he might not allow you to use the same character that you played in my game.
 
-The beauty of this system is flexibility: you can have multiple characters ready to go, hop between adventures, and build stories that cross tables without breaking continuity.
+The beauty of this system is flexibility: you can have multiple characters ready to go, hop between adventures, and build stories that cross tables without breaking continuity. There will be a **large emphasis** on **note taking / record keeping** to make sure things go smoothly transitioning between tables. You must be able to show a record of how you obtained your items, and XP.
 
 ---
 # AL Player's Guide
