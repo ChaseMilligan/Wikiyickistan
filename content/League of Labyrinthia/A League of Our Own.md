@@ -1,14 +1,14 @@
 # The Dungeon Masters’ Cabal & Adventurers League
 
-I think it’s time we form our own Dungeon Masters’ Guild, a league of enigmatic storytellers, a cabal of autistic money-spell shadow wizards who chant esoteric rites, and tug on the strands of the Weave itself to send adventurers on unforgettable journeys.
+I think it’s time we form our own Dungeon Masters’ Guild, a league of enigmatic storytellers, a cabal of autistic money-spell shadow wizards who chant esoteric rites, and manipulate the Weave itself to send adventurers on unforgettable journeys.
 
-This will be our own **[Adventurers League](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)**, built in the spirit of the official AL format but with a few home-grown twists. We’ll still follow the official Adventurers League structure as closely as possible, but our version will allow for:
+This will be our own **[Adventurers League](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)**, built in the spirit of the official AL format but with a few home-grown twists. We’ll still follow the official Adventurers League structure as closely as possible, but our version could allow for:
 
 - Expanded source options
 - Homebrewed adventures
 - Select third-party settings and supplements
 
-Essentially, this is Adventurers League, but with more creative freedom and a shared understanding of what’s allowed at the table.
+Essentially, this is Adventurers League, but with more campaign options, creative freedom, and a shared understanding of what’s allowed at the table.
 
 ## Rules & Structure
 
@@ -68,7 +68,7 @@ Congrats! Your AL-legal character is ready.
 
 ![[d&d-adventurers-league-dungeon-masters-guide-v14.0.pdf]]
 
-I would recommend we treat all Homebrew campaign settings such as Stickyickistan like official WotC campaign settings, and not allow characters to move between them (unless it makes sense of course).
+I would recommend we treat all Homebrew campaign settings such as Stickyickistan like official WotC campaign settings, and not allow characters to move between them (unless it makes sense of course). There are certain official settings that are allowed to work together such as Spelljammer, and Planescape campaign settings work with Forgotten Realms campaigns.
 
 ## Dungeon Master's Incentive
 

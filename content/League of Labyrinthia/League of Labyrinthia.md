@@ -6,7 +6,9 @@ A master entertainer and a bit of a sadistic showman, [[Zahur al-Nasira]] invite
 
 ![[ChatGPT Image Oct 9, 2025, 06_09_16 PM.png]]
 
-The rules are simple: survive, overcome, and profit, or perish in spectacular fashion. Each staircase in the labyrinth holds the promise of gold and glory or an untimely demise. The harder the quest, the greater the payout, and the higher the ratings. Zahur brings viewers from all over the multiverse to come watch the spectacles, but a dimension door called the Labyrinthian Link can be found in [[Stickyickistan]] on [[Nevercough Island]] downtown. Citizens can buy tickets for the events and pass through the portal to watch the show. The show can also be watched on magitech screens where they are available for purchase. [[Zahur's Entertainment Network]] (ZEN) features many shows such as;
+The rules are simple: survive, overcome, and profit, or perish in spectacular fashion. Each staircase in the labyrinth holds the promise of gold and glory or an untimely demise. The harder the quest, the greater the payout, and the higher the ratings. Zahur brings viewers from all over the multiverse to come watch the spectacles, but a dimension door called the Labyrinthian Link can be found in [[Stickyickistan]] on [[Nevercough Island]] downtown. Citizens can buy tickets for the events and pass through the portal to watch the show. The show can also be watched on magitech screens where they are available for purchase.
+# [[Zahur's Entertainment Network]] (ZEN) 
+features many shows such as;
 
 - League of Labyrinthia
 	- The original game show that made Zahur even more rich than he already was where hardened adventurer's, criminals, and creatures of all kinds are pitted against one another.
