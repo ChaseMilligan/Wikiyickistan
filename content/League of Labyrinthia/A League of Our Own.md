@@ -1,14 +1,14 @@
 # The Dungeon Masters’ Cabal & Adventurers League
 
-I think it’s time we form our own Dungeon Masters’ Guild, a league of enigmatic storytellers, a cabal of autistic money-spell shadow wizards who chant esoteric rites, and manipulate the Weave itself to send adventurers on unforgettable journeys.
+I think it’s time we form our own Dungeon Masters’ Guild, a league of enigmatic storytellers, a cabal of autistic money-spell shadow wizards chanting esoteric rites to manipulate the Weave itself sending adventurers on unforgettable journeys.
 
-This will be our own **[Adventurers League](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)**, built in the spirit of the official AL format but with a few home-grown twists. We’ll still follow the official Adventurers League structure as closely as possible, but our version could allow for:
+This will be our own House **[Adventurers League](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)**, built in the spirit of the official AL format but with our own touch. We could / should still follow the official Adventurers League structure as closely as possible, and differentiate between our version could allow for:
 
 - Expanded source options
 - Homebrewed adventures
 - Select third-party settings and supplements
 
-Essentially, this is Adventurers League, but with more campaign options, creative freedom, and a shared understanding of what’s allowed at the table.
+Essentially, this is Adventurers League, but with more campaign options.
 
 ## Rules & Structure
 
