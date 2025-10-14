@@ -6,6 +6,14 @@ Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) 
 
 # Important Setting Info
 
+## Content Warning
+
+- Violence, murder, blood, gore, cannibalism, and body horror.
+- Degenerative mutations that cause physical disfigurement and madness/insanity.
+- Rats, spiders, insects, demons, undead, ghosts, and other monsters.
+- Natural disasters, large-scale loss of life, civil war, displaced persons, and refugees.
+- Moral ambiguity, social/political manipulation, religious zealotry and military nationalism.
+
 ## Drakkenheim
 
 _Dungeons of Drakkenheim_ is set in a gothic renaissance ruined city. I will also likely use my homebrewed Arcannabis rules in a minor way.
@@ -55,10 +63,45 @@ There are more hazards in Drakkenheim than monsters and rival factions. A billow
 
 Finally, be warned that in Drakkenheim, characters will often stumble upon creatures and other perils far beyond what they can defeat on their own. Discretion and cunning may prevail when strength of arms fails. Adventurers must seek out like-minded allies, and be wary of making new enemies. They must have all the equipment they need before setting out on an expedition, use their resources carefully, and be prepared to retreat at a moment’s notice!
 
-## Content Warning
+## Emberwood Village
 
-- Violence, murder, blood, gore, cannibalism, and body horror.
-- Degenerative mutations that cause physical disfigurement and madness/insanity.
-- Rats, spiders, insects, demons, undead, ghosts, and other monsters.
-- Natural disasters, large-scale loss of life, civil war, displaced persons, and refugees.
-- Moral ambiguity, social/political manipulation, religious zealotry and military nationalism.
+Emberwood Village is a safe haven where player characters may rest, recuperate, and resupply between their adventures in Drakkenheim. Equipment, lodgings, spellcasting services, a few magic items, and other amenities are available from the many folk dwelling in the village. 
+
+Two decades ago, Emberwood Village was little more than a farmers market, blacksmith, a pub, a small chapel and a few dozen cottages. The local businesses served the farmlands and logging camps surrounding the capital, and the town was an occasional rest stop for merchants to stop off on their way to Drakkenheim. 
+
+As the town lies some five miles south of the capital city, it was not directly damaged by the meteor shower, though the impact shattered the windows of every building, caused some weaker structures to collapse, and left some in the village blinded or deafened.
+
+Emberwood Village persisted despite the odds. After the civil war, adventurers began showing up in the town. Explorers heading towards the dark city needed a safe place to tend their wounds and rest, and so Emberwood Village gradually became a sort of boom town on a new frontier for adventure.
+
+#### Equipment
+
+Emberwood Village relies entirely on trade for goods and supplies, since all other settlements for miles around are now abandoned and local food production has become impossible. As a result, weapons, armour, and adventuring equipment are sold for double the normal price found in the Core Rules. Food costs five times as much, and water isn’t given freely. Instead, it is priced like alcohol.
+
+Exotic equipment, vehicles, mounts, or other mundane items that cost over 500 gp are especially rare and must be brought in from outside Drakkenheim. It takes 21 (6d6) days to deliver such items, which cost five times the typical price.
+
+#### Selling Treasure
+
+Most merchants in Emberwood Village will trade or purchase found treasure, salvaged equipment, gems, or art objects at half their listed value.
+
+#### Trading Delerium
+
+Only a few intrepid and wealthy purveyors can afford to trade in delerium. These include Aldor the Immense, Orson Fairweather, and River of the Amethyst Academy. Typically, most delerium is bought and sold for about half its listed value. However, some traders may offer more preferable rates for proven associates. Due to their rarity, crystals and geodes typically command their full market value.
+
+#### Lodgings
+
+Though there are many taverns and public houses in Emberwood Village, the only actual inn is the Red Lion Hotel. However, the Alsbergs of the Bark and Buzzard tavern can make arrangements for characters to bunk in one of the abandoned homes and cottages in town.
+
+#### Magic Items and Spellcasters
+
+A few NPCs in Emberwood Village sell a limited selection of magic items, mostly potions and scrolls:
+
+- Aldor the Immense sells a small selection of uncommon and rare magical items, and will offer to purchase found magic items as well.
+- Flamekeeper Hanna or Old Zoya offer spellcasting services of spells up to 3rd level.
+
+These characters also sell expensive spell components for spells of 3rd level and lower, and occasionally have one or two components for spells of 4th or 5th level.
+
+Characters seeking more powerful magic items, higher level spell components, or the services of higher-level spellcasters must seek assistance from the factions.
+
+#### Law and Order
+
+Although the Hooded Lanterns claim otherwise, there is no established law and order in Emberwood Village. Most businesses provide their own protection and security, and the villagers look out for each other. Word travels fast, though. Services, supplies, or shelter aren’t available to adventurers with a violent and antagonistic reputation—for any price.
