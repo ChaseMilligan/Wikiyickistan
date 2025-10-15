@@ -156,6 +156,7 @@ Whenever your party finds a magic item during play, the party determines who has
 | 2    | 3         | 5      | 10         |
 | 3    | 6         | 5      | 10         |
 | 4    | 10        | 5      | 15         |
+
 Uncommon, rare, very rare, legendary, and unique permanent magic items are included in the “Uncommon+” column. Common permanent magic items are included in the “Common” column. Consumable items include any magic item that is consumed if used (potions, scrolls, etc.); this includes single-use items (elemental gem, etc.) and charms. Multi-use consumables (Keoghtom’s ointment, etc.) count as one consumable each. Smokepowder and magical ammunition count as one consumable per 5 shots, rounded up. 
 
 If an item is destroyed, consumed, or lost during play, it is removed from your character and cannot be reacquired unless rewarded again through play.  
@@ -411,6 +412,7 @@ Adventuring is a risky job, and bad things often happen to adventurers. Diseases
 | Raise Dead           | 1,000 gp  |
 | Ressurection         | 3,000 gp  |
 | True Ressurection    | 30,000 gp |
+
 ***Shelter of the Faithful Background Feature***. Characters with the Shelter of the Faithful background feature can request NPC spellcasting services at a temple dedicated to their chosen deity. While the service of casting the spell is free, the characters must pay the cost of any material component consumed by casting the spell. These characters can’t procure free services for others; only themselves. You determine, using the adventure as a guide, if a specific temple devoted to that character’s deity exists within the scope of the adventure. 
 
 ### Character Rewards
