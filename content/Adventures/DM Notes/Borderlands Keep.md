@@ -4,7 +4,11 @@ In trying to work the Keep on the Borderlands into the Greyhawk campaign world, 
 
 # Forgotten Realms
 
-In the the Forgotten Realms campaign, the Keep of the Borderlands can easily be placed in the land of the Border Kingdoms, and not much else needs to be said or changed. The Border Kingdoms have been hotly contested territory for along time. It gained its name for being the stalwart military opposition to the eastward Calimshite expansion into the lands of Shaar and beyond. Most of the land is uncivilized, and many forces of evil lurk in the wilderness.
+In the the Forgotten Realms campaign, the Keep of the Borderlands can easily be placed in the Backlands, and not much else needs to be said or changed. The Backlands are a region in the Western Heartlands of Faerun known for its sparse population, wild nature, and many monsters. It was called the Backlands mainly by those that dwelt on the Sword Coast. The central grasslands were known as Pelleor's Prairie.
+
+There are no established borders, but the Backlands are generally described as the lands east of the Serpent's Tail Stream, the Forest of Wyrms, and the Trielta Hills, all the way to the edge of Anauroch. Its southern border was the River Reaching and the northern edge was usually defined as the southern-most Greypeak Mountains. This region included the Greycloak Hills even though some maps placed them at approximately the same latitude as the Greypeaks.
+
+This region has no government to speak of. The Keep is the only semblance of law and order for miles around.
 
 # Stickyickistan
 
