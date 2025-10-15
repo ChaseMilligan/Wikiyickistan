@@ -1,5 +1,5 @@
 Any text with a ~~strikethrough~~ is null.
-View the [wiki commit log.](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.
+View the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.
 We will all work together to iteratively build the ruleset.
 
 # Character Building
