@@ -159,6 +159,8 @@ Whenever your party finds a magic item during play, the party determines who has
 
 Uncommon, rare, very rare, legendary, and unique permanent magic items are included in the “Uncommon+” column. Common permanent magic items are included in the “Common” column. Consumable items include any magic item that is consumed if used (potions, scrolls, etc.); this includes single-use items (elemental gem, etc.) and charms. Multi-use consumables (Keoghtom’s ointment, etc.) count as one consumable each. Smokepowder and magical ammunition count as one consumable per 5 shots, rounded up. 
 
+Uncommon, rare, very rare, legendary, and unique permanent magic items are included in the “Uncommon+” column. Common permanent magic items are included in the “Common” column. Consumable items include any magic item that is consumed if used (potions, scrolls, etc.); this includes single-use items (elemental gem, etc.) and charms. Multi-use consumables (Keoghtom’s ointment, etc.) count as one consumable each. Smokepowder and magical ammunition count as one consumable per 5 shots, rounded up. 
+
 If an item is destroyed, consumed, or lost during play, it is removed from your character and cannot be reacquired unless rewarded again through play.  
 
 Blessings and boons count as a magic item of the appropriate rarity for determining how many magic items you bring to a play session for that character. You may choose to have your character give up a blessing or boon at any time; if you do so, it is removed from your character and cannot be reacquired unless rewarded again through play. 
