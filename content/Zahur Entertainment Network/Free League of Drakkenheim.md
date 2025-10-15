@@ -3,9 +3,6 @@
 _Free League of Drakkenheim_ is set in a gothic renaissance ruined city.
 
 **DRAKKENHEIM IS NO MORE.** An eldritch storm of falling stars devastated the city on that woeful eve, leaving behind a meteorite that would have lasting effects. Fifteen years later, Drakkenheim is a dismal urban wasteland contaminated by otherworldly magic and haunted by hideous monsters. Fantastic wealth, lost knowledge, and powerful artifacts lie ready for the taking by adventurers brave or foolish enough to venture into the ruins. However, even those who survive the dangers of Drakkenheim may not return unmarked by its terrors!
-# Character Creation
-
-Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) on DDB. Put as much effort into your character as you would like. Characters start at level 1. Please use point buy, or the standard array when making your character. Please use the PHB+1 rule when creating a character meaning you can use options from the PHB, and one other source. I will rule that [[Drakkenheim]] character options do not count towards your +1 source. I also recommend choosing a Drakkenheim character background option which you can read about [here](https://www.dndbeyond.com/sources/dnd/dodr/character-backgrounds), but you can pick any background you would like as long as it is within your PHB+1 sources. Careful reading the book to avoid spoilers if you care. Refer to [[A League of Our Own]] for more info on AL rules.
 
 # Content Warning
 
@@ -15,15 +12,37 @@ Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) 
 - Natural disasters, large-scale loss of life, civil war, displaced persons, and refugees.
 - Moral ambiguity, social/political manipulation, religious zealotry and military nationalism.
 
-# Setting Info (Optional Read)
+# Character Creation
 
+Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) on DDB. Put as much effort into your character as you would like. Characters start at level 1. Please use point buy, or the standard array when making your character. Please use the PHB+1 rule when creating a character meaning you can use options from the PHB, and one other source. I will rule that [[Drakkenheim]] character options do not count towards your +1 source. I also recommend choosing a Drakkenheim character background option which you can read about [here](https://www.dndbeyond.com/sources/dnd/dodr/character-backgrounds), but you can pick any background you would like as long as it is within your PHB+1 sources. Careful reading the book to avoid spoilers if you care. Refer to [[A League of Our Own]] for more info on AL rules. As always, DM has final say.
+
+#### Affiliations
+
+Your characters don't have to have pre-existing affiliations with any of the Factions of Drakkenheim, but feel free to explore them when you begin your adventures in Emberwood Village (see below). Generally you are meant to be freelancers, but your character could be part of some other organization. Drakkenheim is left very open ended, so feel free to choose a faction from any official / partner content as long as it stays within your PHB+1.
+
+#### Backgrounds
+
+**Continental Nobility:**
+	 You are the scion of a noble household in [[Mythmos]]. Whether you hail from [[Caspia]], [[Elyria]], or [[Westemär]], the fall of Drakkenheim has either adversely impacted your family’s fortunes, or created a tantalizing opportunity to increase your political power and influence.
+**Mageborn:**
+	You manifested arcane magical abilities at a young age, and were taken into the guardianship of the [[Amethyst Academy]]. You learned to harness your magic at a secluded magical school. After you came of age and completed your apprenticeship, you became free to pursue your own interests, but you must respect the laws and customs that govern all those with spellcasting powers. Under the [[Edicts of Lumen]], mages are disinherited of any noble titles, and cannot own land.
+**Devoted Missionary:**
+	You are a follower of one of the many religions of the world. Through either divine calling, visions, or prophecies, or because your church sent you as an envoy and representative, or maybe because you are seeking divine answers, you have made the journey to Drakkenheim. What sacred purpose lies in the ruins that you are quested with uncovering?
+**Survivor:**
+	Not everyone left Drakkenheim after the meteor. Some stayed behind, searching the ruins for things they lost: friends and family, or just seeking out treasure and artefacts. You know what places in the city are the most dangerous, what paths are the best to take, and often have an idea of the fastest ways to travel. Despite the Haze, and dangers, you’ve managed to survive, but carry the weight of Drakkenheim’s madness with you.
+**Treasure Seeker:**
+	Lost treasure and valuable relics brought you to Drakkenheim. Perhaps the prospect of earning more gold than you can spend in your lifetime is too tantalizing to pass up, or alternatively you may seek items for their historical or religious significance.
+
+# Setting Info
+
+Some "meta" knowledge might be gained here, but I want to make sure everyone has the right expectations going in. You can decide whether your character knows these things or not, but they are important to know out of character before playing. Some knowledge can be assumed that your character knows for the sake of pacing.
 ## [[Delerium]]
 
 Iridescent crystals of vast magical potential are found throughout Drakkenheim. Known as delerium, these lambent stones emanate unnatural energies that induce madness and monstrous transformations. Despite these dangers, delerium is ideally suited to crafting magic items and fueling mighty new spells. Sorcerers, warlocks, wizards, and all manner of occult magicians crave its supernatural power, thus delerium commands a high price within arcane circles and underground markets alike. Many prospectors risk everything to collect a few fragments, but the true origins of the strange mineral remain unknown. The rival factions stand divided over whether the crystals should be destroyed, harnessed, or worshipped, and their simmering disagreements threaten outright war.
 
 ## Contamination ([[Conditions of Drakkenheim]])
 
-Characters will also encounter deadly **eldritch contamination** caused by creatures, delerium, and other magical phenomena in Drakkenheim. **==Abilities, equipment, and spells that protect against diseases, magic, or poisons do not work against contamination==**. It cannot be healed naturally, nor readily removed with low-level spells. Player characters will need to work with the factions and find creative solutions to manage these problems during their adventures. These hazards cause a new condition called contamination, which inflicts both debilitating symptoms (see below) and otherworldly mutations.
+Your characters will also encounter deadly **eldritch contamination** caused by creatures, delerium, and other magical phenomena in and around Drakkenheim. **==Abilities, equipment, and spells that protect against diseases, magic, or poisons do not work against contamination==**. It cannot be healed naturally, nor readily removed with low-level spells. Player characters will need to work with the factions and find creative solutions to manage these problems during their adventures. These hazards cause a new condition called contamination, which inflicts both debilitating symptoms (see below) and otherworldly mutations.
 
 #### Contamination Symptoms
 
@@ -94,13 +113,13 @@ The Queen’s Men are a loose affiliation between a hundred gangs of brigands, o
 
 ## Emberwood Village
 
-Emberwood Village is a safe haven where player characters may rest, recuperate, and resupply between their adventures in Drakkenheim. Equipment, lodgings, spellcasting services, a few magic items, and other amenities are available from the many folk dwelling in the village. 
+Emberwood Village is a safe haven where adventurers rest, recuperate, and resupply between their adventures in Drakkenheim. Equipment, lodgings, spellcasting services, a few magic items, and other amenities are available from the many folk dwelling in the village. 
 
 Two decades ago, Emberwood Village was little more than a farmers market, blacksmith, a pub, a small chapel and a few dozen cottages. The local businesses served the farmlands and logging camps surrounding the capital, and the town was an occasional rest stop for merchants to stop off on their way to Drakkenheim. 
 
 As the town lies some five miles south of the capital city, it was not directly damaged by the meteor shower, though the impact shattered the windows of every building, caused some weaker structures to collapse, and left some in the village blinded or deafened.
 
-Emberwood Village persisted despite the odds. After the civil war, adventurers began showing up in the town. Explorers heading towards the dark city needed a safe place to tend their wounds and rest, and so Emberwood Village gradually became a sort of boom town on a new frontier for adventure.
+Emberwood Village persisted despite the odds. After the civil war of [[Westemär]], adventurers began showing up in the town. Explorers heading towards the dark city needed a safe place to tend their wounds and rest, and so Emberwood Village gradually became a sort of boom town on a new frontier for adventure.
 
 #### Equipment
 

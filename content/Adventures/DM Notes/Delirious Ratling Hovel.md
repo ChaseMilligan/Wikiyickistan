@@ -1,3 +1,7 @@
+# Hook
+
+A low ranking member of the [[Amethyst Academy]]
+
 # Top Floor
 
 1. Ratling Warrior Patrol
