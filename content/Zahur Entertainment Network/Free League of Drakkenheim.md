@@ -20,7 +20,7 @@ Within the League’s "ranks", reputations rise and fall swiftly. Some adventure
 
 # Character Creation
 
-Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) on DDB. Put as much effort into your character as you would like. Characters start at level 1. Please use point buy, or the standard array when making your character. Please use the PHB+1 rule when creating a character meaning you can use options from the PHB, and one other source. I will rule that [[Drakkenheim]] character options do not count towards your +1 source. I also recommend choosing a Drakkenheim character background option which you can read about [here](https://www.dndbeyond.com/sources/dnd/dodr/character-backgrounds), but you can pick any background you would like as long as it is within your PHB+1 sources. Careful reading the book to avoid spoilers if you care. Refer to [[A League of Our Own]] for more info on AL rules. As always, DM has final say.
+Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) on DDB. Put as much effort into your character as you would like. Characters start at level 1. Please use point buy, or the standard array when making your character. Please use the PHB+1 rule when creating a character meaning you can use options from the PHB, and one other source. I will rule that [[Drakkenheim]] character options do not count towards your +1 source. I also recommend choosing a Drakkenheim character background option which you can read about below, but you can pick any background you would like as long as it is within your PHB+1 sources. Refer to [[A League of Our Own]] for more info on AL rules. As always, DM has final say.
 
 #### Affiliations
 
