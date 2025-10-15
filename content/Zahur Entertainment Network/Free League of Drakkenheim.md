@@ -143,7 +143,18 @@ Most merchants in Emberwood Village will trade or purchase found treasure, salva
 
 #### Trading Delerium
 
-Only a few intrepid and wealthy purveyors can afford to trade in delerium. These include Aldor the Immense, Orson Fairweather, and River of the [[Amethyst Academy]]. Typically, most delerium is bought and sold for about half its listed value. However, some traders may offer more preferable rates for proven associates. Due to their rarity, crystals and geodes typically command their full market value.
+Only a few intrepid and wealthy purveyors can afford to trade in delerium. Typically, most delerium is bought and sold for about half its listed value. However, some traders may offer more preferable rates for proven associates. Due to their rarity, crystals and geodes typically command their full market value.
+
+A typical delerium fragment is about the size of a finger. Crystals may be fist-sized or slightly larger, and geodes may be as big as a pumpkin. Massive clusters might grow taller than a human.
+
+| Size            | Market Value | Weight    | AC  | HP  | Extraction |
+| --------------- | ------------ | --------- | --- | --- | ---------- |
+| Chip            | 10 gold      | 1/4 lbs   | 15  | 5   | 1 action   |
+| Fragment        | 100 gold     | 1/2 lbs   | 17  | 10  | 1 minute   |
+| Shard           | 500 gold     | 1 lbs     | 19  | 15  | 5 minutes  |
+| Crystal         | 1,000 gold   | 2 lbs     | 21  | 20  | 30 minutes |
+| Geode           | 5,000 gold   | 20 lbs+   | 23  | 25  | 1 hour     |
+| Massive Cluster | Priceless    | 8000 lbs+ | 25  | 50  | 7 days     |
 
 #### Magic Items and Spellcasters
 
