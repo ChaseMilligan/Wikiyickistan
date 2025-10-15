@@ -4,6 +4,12 @@ _Free League of Drakkenheim_ is set in a gothic renaissance ruined city.
 
 **DRAKKENHEIM IS NO MORE.** An eldritch storm of falling stars devastated the city on that woeful eve, leaving behind a meteorite that would have lasting effects. Fifteen years later, Drakkenheim is a dismal urban wasteland contaminated by otherworldly magic and haunted by hideous monsters. Fantastic wealth, lost knowledge, and powerful artifacts lie ready for the taking by adventurers brave or foolish enough to venture into the ruins. However, even those who survive the dangers of Drakkenheim may not return unmarked by its terrors!
 
+An informal network of freelancers, mercenaries, and would-be heroes from across the realms has gathered in **Emberwood Village**, a fragile sanctuary clinging to the shadow of the ruined city of Drakkenheim. Here, beneath the dim glow of hooded lanterns and the ever-present haze, adventurers find brief reprieve. They rest, share rumors, and resupply before venturing once more into the accursed metropolis.
+
+Though no banner unites them, this loose fellowship has become known simply as Freelancers. Its members come seeking glory, knowledge, or coin, but all are drawn by the same magnetic terror that shrouds Drakkenheim. The League’s contracts are written in tavern corners and whispered over cracked mugs of ale, each mission carrying the promise of danger and discovery in equal measure.
+
+Within the League’s "ranks", reputations rise and fall swiftly. Some adventurers become local legends, their names spoken in awe by the hopeful and in fear by the wise. Others vanish into the haze, their fates swallowed by the ruins they sought to plunder. Yet the League endures, a flickering flame of fervorous ambition in a world on the brink of madness.
+
 # Content Warning
 
 - Violence, murder, blood, gore, cannibalism, and body horror.
@@ -19,6 +25,10 @@ Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) 
 #### Affiliations
 
 Your characters don't have to have pre-existing affiliations with any of the Factions of Drakkenheim, but feel free to explore them when you begin your adventures in Emberwood Village (see below). Generally you are meant to be freelancers, but your character could be part of some other organization. Drakkenheim is left very open ended, so feel free to choose a faction from any official / partner content as long as it stays within your PHB+1.
+
+#### Species
+
+I won't be allowing flying species, and your species must remain within PHB+1. I might allow Homebrewed species given enough of a heads up, and it wont count towards PHB+1. 
 
 #### Backgrounds
 
