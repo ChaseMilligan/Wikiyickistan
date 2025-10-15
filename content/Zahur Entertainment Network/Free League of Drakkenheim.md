@@ -147,14 +147,7 @@ Only a few intrepid and wealthy purveyors can afford to trade in delerium. These
 
 #### Magic Items and Spellcasters
 
-A few NPCs in Emberwood Village sell a limited selection of magic items, mostly potions and scrolls:
-
-- Aldor the Immense sells a small selection of uncommon and rare magical items, and will offer to purchase found magic items as well.
-- Flamekeeper Hanna or Old Zoya offer spellcasting services of spells up to 3rd level.
-
-These characters also sell expensive spell components for spells of 3rd level and lower, and occasionally have one or two components for spells of 4th or 5th level.
-
-Characters seeking more powerful magic items, higher level spell components, or the services of higher-level spellcasters must prove themselves to the factions.
+A few NPCs in Emberwood Village sell a limited selection of magic items, mostly potions and scrolls.
 
 #### Law and Order
 
