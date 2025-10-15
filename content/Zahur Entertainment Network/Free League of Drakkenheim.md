@@ -20,7 +20,12 @@ Within the League’s "ranks", reputations rise and fall swiftly. Some adventure
 
 # House League
 
-I am going to run this like Adventurer's League where the sessions are short, episodic, and characters can change from session to session without ruining continuity, but I am going to follow a standardized [[House League Ruleset]] we create instead of RAW. I am also going to use some of the character standardization for the sake of balance and pacing. I want to make sure things keep moving smoothly across tables when players are dropping in and out, Feel free to make an AL legal character, but Drakkenheim content is not AL legal.
+I am going to run this like Adventurer's League where the sessions are short, episodic, and characters can change from session to session without ruining continuity, but I am going to follow a standardized [[House League Ruleset]] we create, amending RAW. I am also going to use some of the character standardization for the sake of balance and pacing. I want to make sure things keep moving smoothly across tables when players are dropping in and out, Feel free to make an AL legal character, but Drakkenheim content is not AL legal.
+
+
+> [!NOTE] DM's Note
+> I implore other DMs to give this content a go as well! I trust other DMs to not meta-game, and the more people cooking encounters the better. Joining [the campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) in DDB should allow you to see [Dungeons of Drakkenheim](https://www.dndbeyond.com/sources/dnd/dodr), and [Monsters of Drakkenheim](https://www.dndbeyond.com/sources/dnd/modr).
+
 
 # Character Creation
 
@@ -28,12 +33,12 @@ Join the [campaign](https://www.dndbeyond.com/campaigns/join/70974482140917586) 
 
 #### Species
 
-I won't be allowing flying species, and your species must remain within PHB+1. I might allow Homebrewed species given enough of a heads up, and it wont count towards PHB+1. 
+I won't be allowing flying species, and your species must remain within the PHB+1 rule. I might allow Homebrewed species given enough of a heads up, and it wont count towards PHB+1. 
 
 #### Backgrounds
 
 **Continental Nobility:**
-	 You are the scion of a noble household in [[Mythmos]]. Whether you hail from [[Caspia]], [[Elyria]], or [[Westemär]], the fall of Drakkenheim has either adversely impacted your family’s fortunes, or created a tantalizing opportunity to increase your political power and influence.
+	 You are the scion of a noble household in. Whether you hail from [[Caspia]], [[Elyria]], or [[Westemär]], the fall of Drakkenheim has either adversely impacted your family’s fortunes, or created a tantalizing opportunity to increase your political power and influence.
 **Mageborn:**
 	You manifested arcane magical abilities at a young age, and were taken into the guardianship of the [[Amethyst Academy]]. You learned to harness your magic at a secluded magical school. After you came of age and completed your apprenticeship, you became free to pursue your own interests, but you must respect the laws and customs that govern all those with spellcasting powers. Under the [[Edicts of Lumen]], mages are disinherited of any noble titles, and cannot own land.
 **Devoted Missionary:**
@@ -43,5 +48,10 @@ I won't be allowing flying species, and your species must remain within PHB+1. I
 **Treasure Seeker:**
 	Lost treasure and valuable relics brought you to Drakkenheim. Perhaps the prospect of earning more gold than you can spend in your lifetime is too tantalizing to pass up, or alternatively you may seek items for their historical or religious significance.
 
+# The Continent
 
+![[Pasted image 20250814124425.png]]
 
+Only the Kingdoms of [[Elyria]], [[Caspia]], and [[Westemär]] have any info written about them, so assume the other areas are more sparsely populated, and won't likely be explored in adventures, but could be part of a backstory. 
+
+This Map is the same one I use for my homebrew world which includes [[Stickyickistan]], but it will also not be explored. Characters from the Free League of Drakkenheim can appear in my homebrew world, but once they do, they cannot return to the league. You may create a new version of a character from another game to make the sheet conform to league restrictions, or duplicate a league character for use in non-league games.
