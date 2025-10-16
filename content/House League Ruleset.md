@@ -29,7 +29,7 @@ ASK YOUR DM about OneD&D content.
 
 **High Ground:** Positioning in a way that you are 10ft. above a target provides a +2 bonus to any ranged attack roll, while being 10ft. below a target take a -2 penalty to any ranged attacks.
 
-**Weapon Masteries:** Weapon masteries will be allowed for certain classes.
+**Weapon Masteries:** Weapon masteries will be restricted for certain classes.
 
 
 
