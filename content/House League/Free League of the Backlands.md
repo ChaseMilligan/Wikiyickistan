@@ -1,6 +1,6 @@
 ![[flotbl2.png]]
 
-_[Free League of the Backlands](https://www.dndbeyond.com/campaigns/join/71003411012186196)_ is set in the classic high-fantasy world of Faerûn. This counts as a Forgotten Realms campaign, and characters from other Forgotten Realms adventures can be played, assuming they abide by the [[House League Ruleset]] restrictions.
+_[Free League of the Backlands](https://www.dndbeyond.com/campaigns/join/71003411012186196)_ is set in the classic high-fantasy world of Faerûn. This counts as a Forgotten Realms campaign, and characters from other Forgotten Realms adventures can be played, assuming they abide by the **[House League Ruleset](https://chasemilligan.github.io/Wikiyickistan/House-League/House-League-Ruleset)** restrictions. This is meant to help get new / more people into the game by keeping sessions short, and non-committal.
 
 ---
 ![[02-001.adventure-cover.jpg]]
@@ -14,7 +14,7 @@ There are **no kingdoms here**, no banners to rally behind. Long since ancient b
 ![[Screenshot 2025-10-16 104737.png]]
 *1 hex = 40 miles. Approx. 2 days travel.*
 
-The town of Hill's Edge on the Dusk Road south of the River Reaching is a tenday's travel due south of the Keep, and is generally the last stop in civilization for adventurer's travelling to the Keep from the Sword Coast. The trail to the Keep is a roughly beaten in dirt trail surrounded by thick brambly foliage.
+The town of **Hill's Edge** on the **Dusk Road** south of the River Reaching is a tenday's travel due south of the Keep, and is generally the last stop in civilization for adventurer's travelling to the Keep from the Sword Coast. The trail to the Keep is a roughly beaten in dirt trail surrounded by thick brambly foliage.
 
 # Content Warning
 
@@ -26,10 +26,11 @@ The town of Hill's Edge on the Dusk Road south of the River Reaching is a tenday
 
 # House League
 
-This campaign will follow a structure similar to **Adventurer’s League**, short, episodic sessions allowing players to rotate characters and DMs freely, without disrupting story continuity. We’ll use a standardized **[[House League Ruleset]]**, loosely based on RAW with a few amendments for balance, pacing, and cross-table consistency.
+This campaign will follow a structure similar to **Adventurer’s League**, short, episodic sessions allowing players to rotate characters and DMs freely, without disrupting story continuity. We’ll use a standardized **[House League Ruleset](https://chasemilligan.github.io/Wikiyickistan/House-League/House-League-Ruleset)**, loosely based on RAW with a few amendments for balance, pacing, and cross-table consistency.
+
 
 > [!NOTE] DM’s Note  
-> Other DMs are encouraged to run adventures under this League banner! I trust fellow storytellers to maintain continuity, respect lore, and avoid meta-gaming.
+> Other DMs are encouraged to run adventures under this League's banner! This setting is suitable for tier 1 gameplay in non-descript locations of the Forgotten Realms. Adventures that take place in locations marked on a map of Faerun should not be used in this setting. A random dungeon crawl you cook up is perfect to drop into the wilderness of the Backlands.
 
 # Character Creation
 
