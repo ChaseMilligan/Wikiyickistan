@@ -30,7 +30,7 @@ This campaign will follow a structure similar to **Adventurer’s League**, shor
 
 
 > [!NOTE] DM’s Note  
-> Other DMs are encouraged to run adventures under this League's banner! This setting is suitable for tier 1 gameplay in non-descript locations of the Forgotten Realms. Adventures that take place in locations marked on a map of Faerun should not be used in this setting. A random dungeon crawl you cook up is perfect to drop into the wilderness of the Backlands.
+> Other DMs are encouraged to run adventures in the Forgotten Realms! That way people can play their characters and progress in your game too. Planescape, and Spelljammer settings are compatible with Forgotten Realms.
 
 # Character Creation
 
@@ -50,10 +50,12 @@ Any species from these sources. Must be within the PHB+1 restriction.
 - Elemental Evil Player's Companion
 - Volo's Guide to Monsters
 
+A warning for players that the Keep of the Backlands is not a large population center, so expensive adventuring equipment will likely not be available. For example, if you make a character with Spelljammer options like a laser pistol, you will not be able to purchase the energy cells needed as ammo for the laser pistol in the Keep. You could get it shipped to the Keep for five times the listed price in 6d6 days.
+
 #### Backgrounds
 
 Choose any background from the Core Rules within PHB+1.
 
 # The Realms
 
-The world of the Forgotten Realms spans continents and countless cultures, but the League’s adventures will focus mainly on the area around the Keep of the Backlands. Other locales may appear as one-shots or side arcs, but the League’s heart remains in the wild frontier around the Keep.
+The world of the Forgotten Realms spans continents and countless cultures, but the League’s adventures will focus mainly on the area around the Keep of the Backlands. Other locales may appear as one-shots or side arcs, but the League’s heart remains in the wild frontier around the Keep. Some players might play through the same adventure more than once as different characters. Make sure to let your DM know if you have already done an adventure as a different character, so they can maybe switch some stuff up, or take other anti-meta gaming measures. Everyone is expected to be respectful of the game, and not use out of character information. Since all of this is Core content, experienced players have likely seen many of these stat blocks before. Again, DMs have the free will to make adjustments based on APL, and player knowledge, but are not expected to customize an entire adventure around characters. 
