@@ -2,6 +2,16 @@ Any text with a ~~strikethrough~~ is null.
 View the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.
 We will all work together to iteratively build the ruleset.
 
+# Official Source List
+
+- Variant: Playing on a Grid (DMG)
+- Variant: Skills with Different Abilities (DMG)
+- Simultaneous Effects (XGE)
+- Falling (XGE) • Sleep (XGE)
+- Adamantine Weapons (XGE)
+- Tying Knots (XGE)
+- Tool Proficiencies (XGE)
+- Spellcasting (XGE)
 # Character Building
 
 ##### Stat Generation
