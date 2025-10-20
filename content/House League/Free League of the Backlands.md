@@ -1,6 +1,6 @@
 ![[flotbl2.png]]
 
-_[Free League of the Backlands](https://www.dndbeyond.com/campaigns/join/71003411012186196)_ is set in the classic high-fantasy world of Faerûn. This counts as a Forgotten Realms campaign, and characters from other Forgotten Realms adventures can be played, assuming they abide by the **[House League Ruleset](https://chasemilligan.github.io/Wikiyickistan/House-League/House-League-Ruleset)** restrictions. This is meant to help get new / more people into the game by keeping sessions short, and non-committal.
+_[Free League of the Backlands](https://www.dndbeyond.com/campaigns/join/71003411012186196)_ is set in the classic high-fantasy world of Faerûn. This counts as a season in the Forgotten Realms campaign setting, and characters from other Forgotten Realms adventures can be played, assuming they abide by the **[House League Ruleset](https://chasemilligan.github.io/Wikiyickistan/House-League/House-League-Ruleset)** restrictions. This season will definitely take your characters from level 1 to 3, and is meant to help get new / more people into the game by keeping sessions short, and non-committal. It is possible to run higher tier adventures in this setting, but it will focus on tier 1 adventures. There are many popular pre-written tier 2 modules that can be used to follow up adventures from this season.
 
 ---
 ![[02-001.adventure-cover.jpg]]
@@ -19,7 +19,7 @@ The town of **Hill's Edge** on the **Dusk Road** south of the River Reaching is 
 # Content Warning
 
 - Fantasy violence, murder, blood, and death.
-- Political intrigue, betrayal, corruption, and tyranny.
+- Betrayal, corruption, and tyranny.
 - Religious zealotry, divine retribution, and moral ambiguity.
 - Monsters, aberrations, and otherworldly horrors.
 - Ancient curses, forbidden magic, and the perils of power.
