@@ -20,7 +20,7 @@ Within the League’s "ranks", reputations rise and fall swiftly. Some adventure
 
 # House League
 
-I am going to run this like Adventurer's League where the sessions are short, episodic, and characters can change from session to session without ruining continuity, but I am going to follow a standardized [[House League Ruleset]] we create, amending RAW. I am also going to use some of the character standardization for the sake of balance and pacing. I want to make sure things keep moving smoothly across tables when players are dropping in and out, Feel free to make an AL legal character, but Drakkenheim content is not AL legal.
+I am going to run this like Adventurer's League where the sessions are short, episodic, and characters can change from session to session without ruining continuity, but I am going to follow a standardized [House League Ruleset](https://chasemilligan.github.io/Wikiyickistan/House-League/House-League-Ruleset) we create, amending RAW. I am also going to use some of the character standardization for the sake of balance and pacing. I want to make sure things keep moving smoothly across tables when players are dropping in and out, Feel free to make an AL legal character, but Drakkenheim content is not AL legal.
 
 
 > [!NOTE] DM's Note
