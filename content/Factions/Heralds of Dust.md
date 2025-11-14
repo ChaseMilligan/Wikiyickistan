@@ -1,4 +1,4 @@
-The Heralds of Dust believe life is a false existence—everything and everyone is already dead. They act as [[Stickyickistan]]’s undertakers, meticulously caring for the city’s dead in hopes of breaking an endless cycle of mortality for themselves and others.
+The Heralds of Dust believe life is a false existence—everything and everyone is already dead. They act as [[Stickyickistan]]’s undertakers, meticulously caring for the city’s dead in hopes of breaking an endless cycle of mortality for themselves and others. They toil in the mortuary of [[The Undercity Osslurraggath]], but the main headquarters of the Dusters is the mortuary in the city of [[Sigil]].
 
 The Heralds of Dust—or the Dusters, as they’re commonly called—see death as a spectrum. Everyone is dead, of course, but some are deader than others. In their work, Dusters seek to unravel the secrets of True Death, a higher state of oblivion that transcends the grave. The path to True Death is a mystery, but Dusters maintain they must divest themselves of passion to progress. Death shows no desire or emotion, and neither should its heralds.
 
