@@ -1,1 +1,3 @@
 The Dungsweepers' Guild of Stickyickistan are generally a group of street and stable cleaners who kept the city free from excess waste and refuse. While they are fairly poor, and seldom attract new workers, they are a surprisingly influential organization.
+
+CFO is named [[Skarguther Dungleboof]]

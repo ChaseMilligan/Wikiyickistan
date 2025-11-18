@@ -121,8 +121,6 @@ Are _you_ directly above the enemy and think gravity just likes you better? Do
 - **Raging Fire:** If they fail, you strike them:
     - They take damage from your attack, increased by your pre-mitigation fall damage.
     - You make your save to reduce your own falling damage, but have the option to make it as a CON save instead of a DEX save.
-        - Incentivizes beefcakes to land on people to catch their fall. Huge bonus.
-        - I mean seriously, what a visual.
 - **Dark Side Of The Moon:** If they succeed (or you failed to hit their AC), they dodge and you are poorly positioned:
     - Make your DEX save at disadvantage (replaces, does not simply balance out, advantage from jumping intentionally with Totally On Purpose).
 - **Saddest Bunch I Ever Met:** If you fail to hit their AC, they roll a DEX save anyway.
@@ -301,7 +299,7 @@ No amendments.
 
 ***Class Features***: When you expend a hit die from this class you can recover two sorcery points. You can use this effect on an amount of hit dice equal to your charisma modifier per long rest.
 
-Starting at 5th level you can choose one of your Sorcerer spells that would normally require concentration to be used without it once per long rest, unless you spend 5 sorcery points to use it again. Gain an additional use at 10th level.  You can change which spell is affected after any level up in this class.
+~~Starting at 5th level you can choose one of your Sorcerer spells that would normally require concentration to be used without it once per long rest, unless you spend 5 sorcery points to use it again. Gain an additional use at 10th level.  You can change which spell is affected after any level up in this class.~~
 
 ***Subclasses***:
 - **Draconic Bloodline**: Ancestry spells: You learn additional spells depending on your dragon type, when you reach certain levels in this class, as shown on the Ancestry Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know.
