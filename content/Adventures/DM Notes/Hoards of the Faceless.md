@@ -186,6 +186,18 @@ At the top of round 3, or when all combatants in wave 1 are defeated, have the T
 
 If players complete Act 1 first they reach 8th level.
 
+Players must make their way back through the city with some possible hazards being more oozes, and the other bounty hunters will try to ambush them after scrying with an orb.
+
+Fade to black. The oozes in the city are still present, but the Tribunal has assembled volunteer civilian taskforces to contain them. Most of them have come up through the sewer presumably from [[The Undercity Osslurraggath]]. The tar from the scrapyard has stopped flowing since you slew the Tar-rasque.
+
+Intro Dr. Rothvell, and work out some more what happened with Wraith. Let Keiran have his way basically just make it work lol.
+
+If they make it back, Skarguther from the [[Dungsweepers]] has now joined the informal council of Stickyickistan's underworld that has formed in the rooftop offices of the Ashen Citadel. Zara, Kezrin, Branton Quark (from the Seekers), and now Skarguther (from the Dungsweepers) are having a meeting when you return. 
+
+Skarguther brings news of a new slimy foe. A man in black liquid robes descended into the Undercity an amount of time ago. He is clearly powerful and well connected. He got in contact with my office to parlay over the price of some, uh, merchandise. He seemed fairly normal at first, but when we eventually ended up alone in my office he assaulted me. He lifted me up by my throat with his greasy hands and explained to me his true intentions. Whoever this man, or thing, was, although I swear I recognized him from somewhere, said he has been sent by a Demon prince from the 222nd layer of the Abyss to serve someone named Goob'lath? I don't know what that means, but he said it like I would. Anyways he then stole a massive keyring from my desk, put it in a pouch, turned into a black tar like substance, and slid down a drainpipe. A few days ago, we began hearing strange demonic melodies, and the sound of cheering echo throughout the sewer maintenance facilities. Yesterday, I got the reports. Dozens of our men working in the sewer where these sounds can be heard have gone missing. Evidence shows that some or all of them have been killed, but they were definitely taken by force. I believe that man is down there, and I don't know who the demon prince of the 222nd layer of the abyss is, but I can't have any more of my cherished employees being denied a chance at true death. Who knows what he is doing to their poor souls.
+
+Again they may face oozes in the streets or the rival hunters and Hazeus.
+
 Going through the sewer system eventually leads to the Water treatment plant where Wes is.
 Wes will know the party is coming this time, and he does a stereotypical villain monologue before combat begins about how he has already disabled the water purification system and tainted the water and its too late (its not), and how he will exact his revenge on them with his new powers from Juiblex, but this isn’t where he intends to do so. 
 
