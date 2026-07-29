@@ -1,0 +1,328 @@
+{
+  "id": "cd9ff4e7-7cf2-48bf-8d7c-1585c53dba4e",
+  "title": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "what should 5th level characters start with based on what I have for 3rd level characters?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "c378f0b2-c110-402c-a515-865022b6f19c",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 16:49 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_Amy0AB5FLyarI8BRMEVx6k1U",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/House League/Free League of Stickyickistan/Free League Ruleset.md"
+              ],
+              "startLine": 35,
+              "endLine": 90
+            },
+            "rawText": "{\"paths\":[\"content/House League/Free League of Stickyickistan/Free League Ruleset.md\"],\"startLine\":35,\"endLine\":90}"
+          }
+        }
+      ],
+      "id": "4046b4f6-85ae-4c84-a45e-3a639bee8f0c",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 3647,
+          "completion_tokens": 49,
+          "total_tokens": 3696,
+          "cache_read_input_tokens": 1536
+        },
+        "durationMs": 4387,
+        "generationState": "completed",
+        "branchConversationId": "cd9ff4e7-7cf2-48bf-8d7c-1585c53dba4e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_Amy0AB5FLyarI8BRMEVx6k1U",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/House League/Free League of Stickyickistan/Free League Ruleset.md"
+                ],
+                "startLine": 35,
+                "endLine": 90
+              },
+              "rawText": "{\"paths\":[\"content/House League/Free League of Stickyickistan/Free League Ruleset.md\"],\"startLine\":35,\"endLine\":90}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_Amy0AB5FLyarI8BRMEVx6k1U\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/House League/Free League of Stickyickistan/Free League Ruleset.md\",\n      \"ok\": true,\n      \"totalLines\": 453,\n      \"returnedRange\": {\n        \"startLine\": 35,\n        \"endLine\": 90\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 91,\n      \"content\": \"35|4. Pick your background, which you can choose from the options available or create using the [Customizing a Background](https://www.dndbeyond.com/sources/phb/personality-and-background#CustomizingaBackground) rule from the _Player’s Handbook._ You also choose a feat from [Skilled](https://www.dndbeyond.com/feats/skilled) or [Tough](https://www.dndbeyond.com/feats/tough) if your background doesn't offer a feat.\\n36|5. Pick your alignment, as long as it’s non-evil, your deity, if you want to worship one, and your faction, if you want to belong to one.\\n37|6. Equip your character with their starting equipment or sell it for gold and use that to decide your loadout.\\n38|7. ==Always consult your DM== before bringing a character to a table. ==The DM always has final say== on whether or not something belongs at their table.\\n39|\\n40|##### STARTING PLAY AT 3RD LEVEL \\n41|I have decided all characters will start at level 3 instead of level 1. A level 3 character starts with the following:\\n42|- Starting equipment and gold\\n43|- An additional 250 gp\\n44|- 1 uncommon magic item\\n45|- 1 common magic item\\n46|- 1 uncommon [Zip of Arcannabis](https://www.dndbeyond.com/magic-items/11801921-zip-of-arcannabis)\\n47|\\n48|##### STARTING PLAY AT 5TH LEVEL \\n49|You may choose to create a 5th level character instead of starting at 3rd level. A 5th level character can start with the following\\n50|\\n51|\\n52|\\n53|# OneD&D\\n54|\\n55|ASK YOUR DM about OneD&D content.\\n56|\\n57|> ***\\\"If you choose the new paladin, smite is not a spell, it is a feature. Barbadin lives on.\\\"***\\n58|> \\n59|> ~ Matthew Wright\\n60|\\n61|> ***\\\"The new Shadow Monk actually allows the fantasy to be fulfilled.\\\"***\\n62|> \\n63|> ~ Chase Milligan\\n64|\\n65|# Gameplay\\n66|\\n67|## Mechanics\\n68|\\n69|##### Critical hits\\n70|When you critically strike using an unarmed attack or weapon attack, take the base maximum damage and roll for the crit damage excluding effects such as sneak attack, smite, etc. I.E. A critical hit for a level 3 rogue using a rapier would be: 8 + mod + 1d8 + 4d6. If that rapier was a magic item which added 1d4 cold damage the formula would be: 8 + mod + 1d8 +2d4 + 4d6.\\n71|\\n72|##### Flanking\\n73|Flanking an enemy provides a +2 to any melee attack role, this does not stack.\\n74|\\n75|##### High Ground\\n76|Positioning in a way that you are 10ft. above a target provides a +2 bonus to any ranged attack roll, while being 10ft. below a target take a -2 penalty to any ranged attacks.\\n77|\\n78|##### Weapon Masteries\\n79|Weapon masteries may be restricted for certain classes.\\n80|\\n81|##### Falling Adjustments\\n82|- **Double Damage:** 1d6 per 5' fallen rather than 1d6/10' (falls matter faster)\\n83|- **Terminal Velocity:** Max speed of 1000'/round is hit after falling 500' over the duration of 1 round (max fall damage is 1d6/5' * 500' = 100d6 --> avg 350 dmg)\\n84|    - On your first round falling, you fall 500'. You fall an additional 1000' each subsequent round.\\n85|- **Roll With It:** DEX save to halve falling damage with DC = 5 + 1/10', max 25 @ 200'\\n86|    - (e.g. 40' --> DC = 5 + 40'/10' = 5 + 4 = 9, 200' --> DC = 5 + 20 = 25, 9001' --> DC = 25)\\n87|- **Totally On Purpose:** If you take the fall voluntarily (jump), you get advantage on the save\\n88|    - **Don't Rush Me:** A 'voluntary' jump costs half movement, equivalent to standing from prone\\n89|    - **Take a Deep Breath):** If you fall more than 1000', you benefit from Totally On Purpose.\\n90|- **Stick The Landing:** If you beat the DC by 5, you come out on your feet and don't fall prone\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 35,
+                  "endLine": 90,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "df161616-233a-4d98-967e-90f2d19032c5",
+      "metadata": {
+        "branchConversationId": "cd9ff4e7-7cf2-48bf-8d7c-1585c53dba4e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Based on your 3rd-level package:\n\n- Starting equipment and gold\n- Additional 250 gp\n- 1 uncommon magic item\n- 1 common magic item\n- 1 uncommon Zip of Arcannabis\n\nFor **5th level**, I’d scale it modestly but make it feel like a real upgrade. A good version would be:\n\n```md\n- Starting equipment and gold\n- An additional 500 gp\n- 2 uncommon magic items\n- 1 common magic item\n- 1 uncommon [Zip of Arcannabis](https://www.dndbeyond.com/magic-items/11801921-zip-of-arcannabis)\n- 1 consumable magic item of rare or lower rarity, subject to DM approval\n```\n\nMy reasoning: level 5 is a big power jump because characters get Extra Attack, 3rd-level spells, stronger subclasses, etc., so they do not need a huge magic item boost. Doubling the bonus gold and adding one more uncommon item feels generous without jumping into rare permanent items too early.\n\nIf you want it cleaner and safer, I’d use this:\n\n```md\n##### STARTING PLAY AT 5TH LEVEL \nYou may choose to create a 5th level character instead of starting at 3rd level. A 5th level character can start with the following:\n- Starting equipment and gold\n- An additional 500 gp\n- 2 uncommon magic items\n- 1 common magic item\n- 1 uncommon [Zip of Arcannabis](https://www.dndbeyond.com/magic-items/11801921-zip-of-arcannabis)\n```\n\nI’d avoid giving a **rare permanent magic item** at 5th level unless your campaign is intentionally high-magic.",
+      "id": "24604e6b-5d26-4a1a-82da-611a9f6c6efa",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 4921,
+          "completion_tokens": 367,
+          "total_tokens": 5288,
+          "cache_read_input_tokens": 1536
+        },
+        "durationMs": 7714,
+        "generationState": "completed",
+        "branchConversationId": "cd9ff4e7-7cf2-48bf-8d7c-1585c53dba4e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you give me a list of acceptable consumable magic items of rare or lower",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "2801b7f6-fea3-44be-814b-3a510e54303e",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 16:51 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a practical **DM-approved shortlist of acceptable consumable magic items of rare or lower** for 5th-level starting characters.\n\n## Recommended acceptable consumables\n\n### Potions\n\n#### Common\n- **Potion of Climbing**\n- **Potion of Healing**\n\n#### Uncommon\n- **Oil of Slipperiness**\n- **Philter of Love**\n- **Potion of Animal Friendship**\n- **Potion of Fire Breath**\n- **Potion of Giant Strength — Hill Giant**\n- **Potion of Growth**\n- **Potion of Greater Healing**\n- **Potion of Poison**\n- **Potion of Resistance**\n- **Potion of Water Breathing**\n\n#### Rare\n- **Oil of Etherealness**\n- **Potion of Clairvoyance**\n- **Potion of Diminution**\n- **Potion of Fire Giant Strength**\n- **Potion of Frost Giant Strength**\n- **Potion of Gaseous Form**\n- **Potion of Heroism**\n- **Potion of Invulnerability**\n- **Potion of Mind Reading**\n- **Potion of Superior Healing**\n\n---\n\n### Scrolls\n\nFor scrolls, I’d allow:\n\n- **Spell Scroll, Cantrip** — Common\n- **Spell Scroll, 1st Level** — Common\n- **Spell Scroll, 2nd Level** — Uncommon\n- **Spell Scroll, 3rd Level** — Uncommon\n- **Spell Scroll, 4th Level** — Rare\n- **Spell Scroll, 5th Level** — Rare\n\nSuggested restriction:\n\n> A character may only choose a spell scroll if the spell is on their class spell list, unless the DM approves otherwise.\n\nFor 5th-level characters, I would personally cap starting scrolls at **3rd level** unless you specifically want 4th- or 5th-level scrolls in play early.\n\n---\n\n### Ammunition\n\nThese are reasonable because they are single-use and do not permanently raise character power.\n\n#### Uncommon\n- **Ammunition, +1**\n- **Arrow of Slaying**, if you restrict it to a specific creature type approved by the DM\n\n#### Rare\n- **Ammunition, +2**\n\nSuggested restriction:\n\n> Magic ammunition is granted as a single piece of ammunition unless the DM says otherwise.\n\n---\n\n### Other consumables\n\n#### Common\n- **Bead of Nourishment**\n- **Bead of Refreshment**\n- **Candle of the Deep**\n\n#### Uncommon\n- **Dust of Dryness**\n- **Dust of Disappearance**\n- **Dust of Sneezing and Choking**\n- **Elemental Gem**\n- **Keoghtom’s Ointment**\n- **Quaal’s Feather Token**\n- **Rope of Mending**\n\n#### Rare\n- **Bead of Force**\n- **Chime of Opening**\n- **Dust of Disappearance**\n- **Necklace of Fireballs**\n- **Potion of Flying**\n- **Sovereign Glue**\n- **Universal Solvent**\n\n---\n\n## Items I’d consider banning or requiring specific DM approval\n\nThese are rare or lower, but can be swingy, disruptive, or campaign-warping:\n\n- **Potion of Flying**\n- **Potion of Invulnerability**\n- **Oil of Etherealness**\n- **Bead of Force**\n- **Necklace of Fireballs**\n- **Sovereign Glue**\n- **Universal Solvent**\n- **Dust of Sneezing and Choking**\n- **Spell Scrolls of 4th or 5th level**\n- **Arrow of Slaying**\n- **Potion of Giant Strength above Hill Giant**\n\n---\n\n## Clean rules text you could add\n\n```md\nA 5th-level character may also choose 1 consumable magic item of rare or lower rarity, subject to DM approval. Acceptable consumables include potions, oils, spell scrolls, single-use magic ammunition, dusts, elemental gems, feather tokens, and similar items. Spell scrolls must contain a spell from the character’s class spell list unless the DM approves otherwise. The DM may restrict consumables that are especially disruptive, such as 4th- or 5th-level spell scrolls, Potion of Flying, Potion of Invulnerability, Bead of Force, Necklace of Fireballs, Sovereign Glue, Universal Solvent, or Arrow of Slaying.\n```",
+      "id": "6402d61d-1d1c-4fbc-9f91-7467afdc1ebd",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 5327,
+          "completion_tokens": 882,
+          "total_tokens": 6209,
+          "cache_read_input_tokens": 4608
+        },
+        "durationMs": 17104,
+        "generationState": "completed",
+        "branchConversationId": "cd9ff4e7-7cf2-48bf-8d7c-1585c53dba4e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    }
+  ],
+  "createdAt": 1785365362294,
+  "updatedAt": 1785365491665,
+  "schemaVersion": 1,
+  "overrides": {
+    "chatMode": "agent",
+    "agentYoloEnabled": false
+  },
+  "conversationModelId": "",
+  "assistantGroupBoundaryMessageIds": [],
+  "reasoningLevel": "off",
+  "compaction": [],
+  "origin": "user"
+}

@@ -2,64 +2,60 @@ Any text with a ~~strikethrough~~ is null.
 View the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.
 We will all work together to iteratively build the ruleset.
 
-# Official Source List
+# Sources
 
-- Variant: Playing on a Grid (DMG)
-- Variant: Skills with Different Abilities (DMG)
-- Simultaneous Effects (XGE)
-- Falling (XGE) • Sleep (XGE)
-- Adamantine Weapons (XGE)
-- Tying Knots (XGE)
-- Tool Proficiencies (XGE)
-- Spellcasting (XGE)
+Any official, or partnered content in D&D Beyond is allowed. Any sources from a third-party must be run past your DM before the PC is playable.
+
 # Character Building
 
+I don't want to be nearly as restrictive as a normal AL game, so I leave most of the choices up to you, and I am willing to accept pretty much any build you can come up with since this setting is so eclectic. DMs always have the right to turn down a character or elements of one. These characters are not actually AL compatible characters. These guidelines just help the DM with balancing parties.
+
 ##### Stat Generation
-Standard Array, or Point Buy.
+Choose one of the following:
+- **Roll stats before game day** with the DM or in the D&D Beyond campaign.
+- Use **standard array** if you are in a bind for time.
 
 ##### Hit Points
-Fixed value (plus mods).
+Fixed value.
 
 ##### PHB+1
-When creating a character you can use options from the PHB, and one other source. Certain sources may be restricted in certain settings, or the DM may handwave a source from counting towards +1 in certain settings.
+I will be doing away with PHB+1, so feel free to use any and all sources available to you
 
 ##### Species
-DMs may restrict  species based on the adventure being ran.
+Stickyickistan is home to all species of the multiverse so go crazy with it if you want.
 
 #### Guide
-All characters start at 1st, or 5th level.
+All characters start at 3rd, or 5th level.
 
-Creating a character starts with selecting a campaign setting, such as the Forgotten Realms (FR) or Eberron (EB), which determines the adventures your character can undertake. This choice is permanent for your character once you start playing, as some character choices from one setting don’t work within other settings.
-
-Your next steps mostly follow the typical path of character creation, with some limitations. The list below is a generalized overview of the steps in the Adventurers League Player’s Guide. It’s recommended to read the guide thoroughly before creating your character:
+Follow the typical path of character creation. The list below is a generalized overview of the steps in the Adventurers League Player’s Guide. It’s recommended to read the guide thoroughly before creating your character:
 
 1. Choose a species or lineage, using the rules for a [custom lineage](https://www.dndbeyond.com/sources/tcoe/character-options#Personality) found in _Tasha’s Cauldron of Everything_ if you wish.
 2. Pick your class.
-3. Assign your ability scores. You have two methods for this process: [standard array](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters#3DetermineAbilityScores) or [point buy](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters#VariantCustomizingAbilityScores).
+3. Assign your ability scores. You have two methods for this process: [standard array](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters#3DetermineAbilityScores) or rolled.
 4. Pick your background, which you can choose from the options available or create using the [Customizing a Background](https://www.dndbeyond.com/sources/phb/personality-and-background#CustomizingaBackground) rule from the _Player’s Handbook._ You also choose a feat from [Skilled](https://www.dndbeyond.com/feats/skilled) or [Tough](https://www.dndbeyond.com/feats/tough) if your background doesn't offer a feat.
 5. Pick your alignment, as long as it’s non-evil, your deity, if you want to worship one, and your faction, if you want to belong to one.
 6. Equip your character with their starting equipment or sell it for gold and use that to decide your loadout.
 7. ==Always consult your DM== before bringing a character to a table. ==The DM always has final say== on whether or not something belongs at their table.
 
+##### STARTING PLAY AT 3RD LEVEL 
+I have decided all characters will start at level 3 instead of level 1. A level 3 character starts with the following:
+- Starting equipment and gold
+- An additional 250 gp
+- 1 uncommon magic item
+- 1 common magic item
+- 1 uncommon [Zip of Arcannabis](https://www.dndbeyond.com/magic-items/11801921-zip-of-arcannabis)
+
 ##### STARTING PLAY AT 5TH LEVEL 
-You may choose to create a 5th level character instead of starting at 1st level. As a 5th level character, you may choose one of the following magic items to possess You also receive your standard gear from your class and background, plus 500 gold pieces and 40 downtime days.
+You may choose to create a 5th level character instead of starting at 3rd level. A 5th level character can start with the following:
+- Starting equipment and gold
+- An additional 500 gp
+- 2 uncommon magic items
+- 1 common magic item
+- 1 uncommon [Zip of Arcannabis](https://www.dndbeyond.com/magic-items/11801921-zip-of-arcannabis)
 
-- +1 weapon
-- +1 shield 
-- +1 rod of the pact keeper 
-- +1 wand of the war mage 
-- +1 all-purpose tool (TCE) 
-- +1 amulet of the devout (TCE) 
-- +1 arcane grimoire (TCE) 
-- +1 bloodwell vial (TCE) 
-- +1 dragonhide belt (FTD) 
-- +1 moon sickle (TCE) 
-- +1 rhythm-maker’s drum (TCE) 
-- Bag of holding 
+# 5.5e
 
-# OneD&D
-
-ASK YOUR DM about OneD&D content.
+5.5e will be the default for the Free League of Stickyickistan, but ALWAYS ASK YOUR DM about 5.5e content since some DMs may have some alterations they like to use.
 
 > ***"If you choose the new paladin, smite is not a spell, it is a feature. Barbadin lives on."***
 > 
@@ -71,63 +67,13 @@ ASK YOUR DM about OneD&D content.
 
 # Gameplay
 
-## Mechanics
+## Altered Mechanics
 
 ##### Critical hits
 When you critically strike using an unarmed attack or weapon attack, take the base maximum damage and roll for the crit damage excluding effects such as sneak attack, smite, etc. I.E. A critical hit for a level 3 rogue using a rapier would be: 8 + mod + 1d8 + 4d6. If that rapier was a magic item which added 1d4 cold damage the formula would be: 8 + mod + 1d8 +2d4 + 4d6.
 
-##### Flanking
-Flanking an enemy provides a +2 to any melee attack role, this does not stack.
-
 ##### High Ground
 Positioning in a way that you are 10ft. above a target provides a +2 bonus to any ranged attack roll, while being 10ft. below a target take a -2 penalty to any ranged attacks.
-
-##### Weapon Masteries
-Weapon masteries may be restricted for certain classes.
-
-##### Falling Adjustments
-- **Double Damage:** 1d6 per 5' fallen rather than 1d6/10' (falls matter faster)
-- **Terminal Velocity:** Max speed of 1000'/round is hit after falling 500' over the duration of 1 round (max fall damage is 1d6/5' * 500' = 100d6 --> avg 350 dmg)
-    - On your first round falling, you fall 500'. You fall an additional 1000' each subsequent round.
-- **Roll With It:** DEX save to halve falling damage with DC = 5 + 1/10', max 25 @ 200'
-    - (e.g. 40' --> DC = 5 + 40'/10' = 5 + 4 = 9, 200' --> DC = 5 + 20 = 25, 9001' --> DC = 25)
-- **Totally On Purpose:** If you take the fall voluntarily (jump), you get advantage on the save
-    - **Don't Rush Me:** A 'voluntary' jump costs half movement, equivalent to standing from prone
-    - **Take a Deep Breath):** If you fall more than 1000', you benefit from Totally On Purpose.
-- **Stick The Landing:** If you beat the DC by 5, you come out on your feet and don't fall prone
-- **Walk It Off:** If you beat the DC by 10, negate the damage completely
-- **Hard And Fast:** If you fail the DC by 10, take maximum damage
-- **Time The Economy:**
-    - Falls up to 50' take half your movement.
-    - Falls up to 200' take your full movement.
-    - Falls up to 500' take your full movement and your action, although you may take that action during the fall if appropriate.
-    - Falls greater than 500' take an extra full round per additional 1000'.
-        - 500' - 1000' --> 1 full round + movement
-        - 1000' - 1500' --> 2 full rounds
-        - 1500' - 2000' --> 2 full rounds + movement
-- **Taking A Dive:** Simple adjustments for falling into water (or similar fluid).
-    - Damage scales as 1d6 per 10' fallen
-    - Save DC is reduced by 5, becoming 1/10' up to a max of 20 @ 200'
-    - If you make the save, you sink 1/2 the distance fallen, up to 1/2 of 500'
-    - If you fail the save, you only sink 1/4 of the distance fallen, up to 1/4 of 500'
-- **Creature Size:** The size of your creature may affect the damage and DEX save DC. Tiny creatures like squirrels cannot be overkilled by a fall at terminal velocity, and have a chance of negating all damage from a fall of any height.
-###### Landing On People Rules
-
-Are _you_ directly above the enemy and think gravity just likes you better? Do you perhaps also have a maul with that enemy's name on it, or are your boots just tingling for some action? Well, after you jump:
-
-- **Coursing River:** Make an attack roll, defaulting to unarmed strike (for cannonballing).
-- **Great Typhoon:** If you hit their AC, your target must make a DEX save whose DC is the result of your attack roll.
-    - If you rolled a natural 20 on the attack roll, they automatically fail this save.
-- **Raging Fire:** If they fail, you strike them:
-    - They take damage from your attack, increased by your pre-mitigation fall damage.
-    - You make your save to reduce your own falling damage, but have the option to make it as a CON save instead of a DEX save.
-- **Dark Side Of The Moon:** If they succeed (or you failed to hit their AC), they dodge and you are poorly positioned:
-    - Make your DEX save at disadvantage (replaces, does not simply balance out, advantage from jumping intentionally with Totally On Purpose).
-- **Saddest Bunch I Ever Met:** If you fail to hit their AC, they roll a DEX save anyway.
-    - If they somehow fail, it is a graceless crash landing and you don't get a chance to mitigate the falling damage. Instead, both of you take the unmitigated falling damage and fall prone.
-- **The Biggerer They Are, The Harder They Fall**: Damage adjusts based on difference in size.
-    - If you are a larger size category than your target, increase the falling damage bonus by a factor of 2 for every size larger you are.
-    - If you are a smaller size category than your target and the damage is bludgeoning (not a piercing/slashing weapon), reduce the falling damage bonus by a factor of 2 for every size smaller you are.
 
 ## Playing Adventures
 
@@ -140,14 +86,11 @@ Each adventure has a tier associated with it, which tells you what level charact
 | 11 - 16         | 3    |
 | 17 - 20         | 4    |
 
-##### PLAYING OFFICIAL D&D ADVENTURES 
-Long adventures such as Icewind Dale: Rime of the Frostmaiden and The Wild Beyond the Witchlight have different rules for leveling. You may “leave” those adventures at specified points to play other adventures but you may be ineligible to return if you level your character outside of the adventure you left. Consult with your Dungeon Master if you’re going to play those adventures. 
-
 ##### LOGGING PLAY
-You should use a [character log](https://media.wizards.com/2020/dnd/downloads/S10_AL_Logsheet.pdf) to track rewards and note any other important information from play of an adventure. See “Adventurers League Resources & Links” on the D&D Beyond Adventurers League Forum for more information. ==DMs reserve the right to remove things from your sheet if they are not recorded, or if the records do not match their own or other players.==
+This kind of game puts the responsibility of logging play on the player. You should use a [character log](https://media.wizards.com/2020/dnd/downloads/S10_AL_Logsheet.pdf), or a notes app like [Obsidian](https://obsidian.md/) to track rewards and note any other important information from play of an adventure. See “[Adventurers League Resources & Links](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league#Adventurers_League_Resources)” on the D&D Beyond Adventurers League Forum for more information. ==DMs reserve the right to remove things from your sheet if they are not recorded, or if the records do not match their own or other players.==
 
 ##### LEVELING UP
-You gain a level at the end of each play session that completes an Adventurers League adventure or a part of an official D&D adventure, at your discretion. If you’d like to continue playing at your current level, you can decline to gain a level. You keep any rewards earned.  You gain hit points listed as the fixed value for your class (plus any modifiers) when you level up.  Once you achieve 5th level, you may choose a magic item as presented in “Starting Play at 5th Level” above. 
+I will be using the XP system to determine who levels up, but you will generally gain a level at the end of each 4 hour play session that completes an adventure. If you’d like to continue playing at your current level, you can decline to gain a level. You keep any rewards earned.  You gain hit points listed as the fixed value for your class (plus any modifiers) when you level up.  Once you achieve 5th level, you may choose another uncommon magic item, and or start building a bastion. 
 
 ##### REBUILDING YOUR CHARACTER
 You may rebuild any aspect of your character between sessions. However, you only retain equipment and magic items earned from play and lose any class feature items from a class your character no longer possesses, gaining any class feature items from your new class(es). 
