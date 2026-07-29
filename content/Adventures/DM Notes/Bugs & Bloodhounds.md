@@ -37,7 +37,7 @@ Zara will also have Fungi be brought in to chew him out for abandoning the missi
 The Rusted Chalice is where all the ranked squads can go to socialize. Imagine a medieval tavern and a hookah lounge from 3005 fucked and gave birth to the Rusted Chalice. Scantily clad droid waitresses serve the patrons seated at tables and booths, and a [[Warforged]] with elf-like features stands behind the bar named [[C0B4LT]]. The bar serves [[Zooka Malt]] and some hard spirits made from [[Arcannabis]].
 ## Side Quest NPC’s:
 
-### [[NPCs/Kezrin Malvek]]
+### [[NPCs/Quest Givers/Kezrin Malvek]]
 ### [[Velindra Ashveil]]
 
 # Airship Port & Hangar Bay:
@@ -109,7 +109,7 @@ Next session will start on the airship they were scooped up in at the end of the
 2. As they converse about the fall of Wes Scantlin, Zara walks them from the airship port to her office where Fungi is waiting.
 3. When they get to her office, explain Fungi’s infestation, how they found him, the [[A.S.S sending stones]], and payment for the mission, which they all already have on their sheets. Also explain the changes made to Wraith and Baeriggs magic items they purchased from BBB in the first session. Apologize cause you done fucked up by not realizing they weren’t finished for the first session since you worked on it so long ago.
 4. Explain that Fungi must complete a mandatory disciplinary combat training exercise before they are allowed to take on any new work.
-5. After this, tell them that their quarters are being renovated for the next few hours, so they should go find somewhere else to hang out in the meantime. This would be a good time to bring up [[The Rusted Chalice]] that they can also go check out now. It is about 3:00 pm at this point though, so there isn’t anyone there other than [[C0B4LT]], and [[NPCs/Kezrin Malvek]] until later. Zara will mention it likely won’t be busy, but it’s open 24/7.
+5. After this, tell them that their quarters are being renovated for the next few hours, so they should go find somewhere else to hang out in the meantime. This would be a good time to bring up [[The Rusted Chalice]] that they can also go check out now. It is about 3:00 pm at this point though, so there isn’t anyone there other than [[C0B4LT]], and [[NPCs/Quest Givers/Kezrin Malvek]] until later. Zara will mention it likely won’t be busy, but it’s open 24/7.
 6. Zara will say, if they head downtown to go shopping, there is also a magi-mediclinic run by a trusted acquaintance, [[Arcana Belle]], that will be able to cure Fungi’s infestation without a hitch.
 7. They are also free to complete Fungi’s disciplinary combat training exercise at any time.
 ## Shopping:

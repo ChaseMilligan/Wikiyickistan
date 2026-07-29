@@ -1,1 +1,0 @@
-Zephyron the Tempest's Roar was a young blue dragon that was hatched in the far away lands of [[Greyhawk]]. 

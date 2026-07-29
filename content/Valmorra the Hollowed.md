@@ -1,1 +1,0 @@
-Valmorra was an incredibly talented Biomancer from [[Spliffholm]] infamous for enacting the [[Emerald Blight]].

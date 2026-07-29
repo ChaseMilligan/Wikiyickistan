@@ -14,7 +14,7 @@ Wesley arrived in the city under the cover of darkness. He snuck into the sewers
 - In the party’s absence, Wes and Goob’lath have returned to Stickyickistan from the [[Abyss]] and they have started spreading Juiblex’s influence throughout the city, and beyond.
 - Goob'lath has returned to his lair in the scrapyard where he has started summoning another [[Biomantic Polyhedrooze]] (Icosahedrooze). This will take 7 days. Once he has finished, he will return to [[Shedaklah]] believing Wes is capable of carrying out his wretched plans to bring the city to ruin.
 - Describe what the characters see when they return to the city
-- [[NPCs/Kezrin Malvek|Kezrin Malvek]] will rush to inform them of the emergency. Oozes and other formless creatures are terrorizing the city
+- [[NPCs/Quest Givers/Kezrin Malvek|Kezrin Malvek]] will rush to inform them of the emergency. Oozes and other formless creatures are terrorizing the city
 - The issues are being blamed on [[The Seekers of the Vein]], and [[House Stonemug]] in a massive scandal in the press. The blame is falling on them because the public believes they haven't properly followed city protocol for dumping hazardous alchemical and magi-technical materials.
 - The [[Nevercough Tribunal]] has decided that The Seekers will be made to pay a hefty fine, and are on the hook for the cleanup job.
 - This is obviously too dangerous for their usual guards, so they would like to offer you guys first dibs on the monster hunting contracts, but they will offer them up to rival parties if you guys aren't willing, or can't in a timely manner.

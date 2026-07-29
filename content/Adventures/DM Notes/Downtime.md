@@ -1,6 +1,6 @@
 # [[Wraith]]
 
-During downtime [[Wraith]] wants to pursue a friendship with [[Kezrin Malvek]], learn more about animal handling, and [[Magebred Animals]]. I have prepared a rollable table of random encounters for magebred animals and how much each can be sold to a researcher, or taxidermist. Kezrin can help him with these encounters at first, but he will take 50% of the pay. I also have prepared a [[House Northbourne]] bred bull Aurochs that does show matches at the [[Belly of the Beast]]. Kezrin may take Wraith out for dinner, then having him fight the beast for prize money in front of gambling spectators. This experience will give Wraith some connections in the monster hunting business.
+During downtime [[Wraith]] wants to pursue a friendship with [[NPCs/Quest Givers/Kezrin Malvek]], learn more about animal handling, and [[Magebred Animals]]. I have prepared a rollable table of random encounters for magebred animals and how much each can be sold to a researcher, or taxidermist. Kezrin can help him with these encounters at first, but he will take 50% of the pay. I also have prepared a [[House Northbourne]] bred bull Aurochs that does show matches at the [[Belly of the Beast]]. Kezrin may take Wraith out for dinner, then having him fight the beast for prize money in front of gambling spectators. This experience will give Wraith some connections in the monster hunting business.
 
 # [[Fungi]]
 
