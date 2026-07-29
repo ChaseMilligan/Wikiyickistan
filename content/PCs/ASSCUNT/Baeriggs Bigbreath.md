@@ -1,0 +1,22 @@
+#Alive 
+
+Currently a 1st rank [[Ashen Shadow Society]] bounty hunter. The 1st rank are known as Bloodhounds. Their squad's name is [[Unit BH-Umbra Δ9]].
+# Backstory
+
+Baeriggs Bigbreath is a [[Dwarf]] born in the heart of [[Bongstad]], a sturdy warren of carved stone halls, resonating with the sounds of hammers, pickaxes, and the occasional bellow of a Dwarven tavern fight. It is a modest but lively community where resilience was the currency of survival, especially for Baeriggs.
+
+As a child, Baeriggs was teased mercilessly for his unusually large nose, a feature that looked comically oversized on his small frame but eventually became a fitting hallmark of his adult face. The name "Bigbreath" was coined by cruel classmates, though it eventually became an endearing title that Baeriggs wore with pride. His parents, however, worried about their son. His intellect was... lacking. Baeriggs was a kind-hearted soul, but his grasp of logic and numbers was tenuous at best, and his tendency to bet everything on impulse made life an endless exercise in damage control.
+
+Baeriggs’ father was a miner at Mount Zooka, chiseling [[Arcanite]] from the volatile crater's depths, while his mother stayed home, tending to her son’s "special needs." Despite Baeriggs’ shortcomings in intelligence, his parents saw his potential in one unmistakable strength, his strength. The gods clearly intended him for greatness, and they knew his path would involve a weapon in his hands. Thus, with heavy hearts, they sent him to the [[House Stonemug]] mercenary forces, hoping he could channel his raw power into a disciplined career.
+
+At the academy, Baeriggs excelled in combat but struggled with everything else. Strategy sessions and tactical drills were an ordeal, but give him a weapon and point him toward an enemy, and he was unstoppable.
+
+One fateful night, while blowing off steam in Stickyickistan's bustling downtown, Baeriggs found himself at a dice game. Fueled by [[Zooka Malt]] and a rare winning streak, he made a bet so wild it attracted the attention of the wrong crowd. When he lost, he was dragged from the tavern by four shady figures, members of the Ashen Shadow Society, [[Stickyickistan]]’s infamous bounty hunting guild. Misunderstandings and miscommunications culminated in Baeriggs being interrogated in a dimly lit room for hours.
+
+Oddly enough, the interrogation became a comedy of errors. The Ashen Shadow Society mistook Baeriggs for someone else entirely, and Baeriggs, in his limited understanding, believed he did hold a secret. A secret so secret that even he didn’t know it. His genuine confusion and unflinching resilience impressed his captors. When the misunderstanding was cleared up, they offered him an unusual proposition: join their ranks.
+
+Baeriggs accepted, seeing the opportunity as a divine calling. As a recruit for the Ashen Shadow Society, he thrived in combat drills and proved an unstoppable force during missions. While his intelligence often left his squad mates groaning, his sheer determination, strength, and inability to comprehend fear made him an invaluable ally. He even developed an unintentional knack for bluffing, his earnest confusion often read as impenetrable confidence to those trying to read him.
+
+Now, Baeriggs has been given his own squad, forming an unlikely trio with his comrades, [[Xon]], [[Wraith]], and [[Fungi]]. Together, they take on bounties, navigating the chaos of Stickyickistan with a mix of brute force, accidental brilliance, and a healthy dose of luck. Baeriggs still visits his parents in Bongstad when he can, though he refuses to buy any weapons or armor from anywhere but his hometown, a stubborn loyalty to his roots. His gambling habit remains intact, though his squad mates now keep a closer eye on him when dice or Zooka Malt are involved.
+
+Through it all, Baeriggs believes his path is divinely guided, and his unshakable faith in the gods (and himself) fuels his zealot's rage. Whether smashing through a tavern brawl, leading his squad into battle, or confusing his enemies into surrender, Baeriggs Bigbreath is proof that greatness doesn’t require brilliance, just a big nose, a bigger heart, and the biggest mace in the room.

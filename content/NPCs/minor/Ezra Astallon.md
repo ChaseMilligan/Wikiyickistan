@@ -1,0 +1,5 @@
+#Alive 
+
+Governor Ezra Astallon is a man of obscene wealth. Most assume it is old money, the kind that only exists through noble lineage and inheritance. However certain members of the upper houses whisper that his title is bought and the money ill gotten, although this tends to reek of little more than jealousy. Ezra is well favoured by the [[House Northbourne]], and was given the role of land lord. Opportunities that many would kill for seem to just fall into his lap. His land is marshy, and borders [[Zooka Mire]].
+
+Certainly Astallon is friendly with numerous members of the lower classes, some of whom may be less than perfectly law abiding, but he is a vivacious and gregarious fellow, overtly friendly with everyone. In particular he is well known among the city’s bards and performers as Astallon loves to share his wealth, putting on regular private shows in the grand ballroom he built within his own estate in [[North Booftown]] called [[Astallon Acres]]. The performances are always of the highest caliber, and the after parties legendary. No one who receives an invite turns it down.
