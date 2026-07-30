@@ -26,14 +26,14 @@ A very desperate Roggan now offers **300 gp** to anyone willing to enter the qua
 
 - A member of the **[[Tribunal Highblade Coalition]] (THC)**, the premier mercenary house of Stickyickistan. Generally lawful good followers of the Faith of Sacred Flame religion. Every class can work with this faction.
 - An employee of **[[The Seekers of the Vein]]**. More than just a Mining & Jeweler's Guild, the Seekers are an economic empire, fueling Stickyickistan's Magitech advancements. Generally neutral good non-religious folk. Makes most sense for artificer, or wizard, but get creative.
-- A rogue member of the **Ashen Shadow Society (ASS)**, a clandestine bounty hunting guild that "doesn't exist", and loves to collect relics, bounties, and monsters. Pose as a member of The Seekers, or a sell sword from THC. Generally lawful neutral folks from all paths of life. You cannot be evil aligned.
+- A rogue member of the **[[Ashen Shadow Society]] (ASS)**, a clandestine bounty hunting guild that "doesn't exist", and loves to collect relics, bounties, and monsters. Pose as a member of The Seekers, or a sell sword from THC. Generally lawful neutral folks from all paths of life. You cannot be evil aligned.
 - A member of the **Order of the Emerald Breath**, could work for monks, druids, and maybe a cleric. Lawful good people with no exceptions and Followers of the Old Faiths.
 - Feel free to come up with your own!
 ### Lore Context
 
-- Followers of the **Faith of the Sacred Flame** are generally the colonist settler population that used religion as a justification to purge the native population of Stickyickistan. They are also a majority Human, but there are some Elves, Dwarves, and Dragonborn.
-- The **Old Faiths** are what the settler population calls any neutral to good faith other than the Sacred Flame. There is some tension between followers of the Sacred Flame and the Old Faiths, but relations have been mending over the years.
-- The **Shadow Faiths** are what the settlers call any evil aligned faith. Both followers of the Old Faiths, and the Sacred Flame can agree on one thing. Followers of the Shadow Faiths.
+- Followers of **[[The Faith of the Sacred Flame]] are generally the [[Human Colonialism|colonist]] settler population that used religion as a justification to purge the native population of Stickyickistan. They are also a majority Human, but there are some Elves, Dwarves, and Dragonborn.
+- **[[The Old Faiths]]** are what the settler population calls any neutral to good faith other than the Sacred Flame. There is some tension between followers of the Sacred Flame and the Old Faiths, but relations have been mending over the years.
+- **[[Shadow Faiths]]** are what the settlers call any evil aligned faith. Both followers of the Old Faiths, and the Sacred Flame can agree on one thing. Followers of the Shadow Faiths.
 - **THC** and **ASS** actively oppose each other, and the **Seekers of the Vein** work with both. Depends on what they are okay with the law seeing.
 
 ## Helpful Skills

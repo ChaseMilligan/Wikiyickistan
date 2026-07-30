@@ -20,7 +20,7 @@ The following information is key to the adventure's story.
 
 Part 1: [[The Rolling Papers]]. The characters discover a bounty posted by the Tribunal Highblade Coalition seeking adventurers willing to raid a suspected Bloodwalker OG distribution site operating beneath a candle maker's workshop.
 
-Part 2: The Crimson Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.
+Part 2: Wick & Wax Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.
 
 Conclusion: Another Candle Extinguished. After dismantling the operation, the characters recover evidence pointing toward the unknown producers of Bloodwalker OG before returning to the Tribunal Highblade Coalition to claim their reward.
 
@@ -30,20 +30,17 @@ Conclusion: Another Candle Extinguished. After dismantling the operation, the ch
 
 Before running the adventure, prepare as follows:
 
-Step 1. Read the Adventure Background section.
-
-Step 2. Review DM Aid: Bloodwalker OG.
-
-Step 3. Review any rules from the Player's Handbook, Dungeon Master's Guide, or Homebrew that may come into play.
-
-Step 4. Bookmark the creature stat blocks needed for the adventure or have them readily available.
+- **Step 1**. Read the Adventure Background section.
+- **Step 2**. Review any rules from the Player's Handbook, Dungeon Master's Guide, or Homebrew that may come into play.
+- **Step 3**. Bookmark the creature stat blocks needed for the adventure or have them readily available.
+- **Step 4.** Familiarize yourself with the [[Arcannabis System Rework]], and the Cooking rules in [[Heliana's Guide to Monster Hunting]], so you know why and how Bloodwalker OG works the way it does.
 
 The following stat blocks are used in this adventure:
 
-- Apprentice Vamplock
-- Cultist
-- Shadow
-- Vampirate Mage
+- [[Apprentice Vamplock]]
+- [[Cultist]]
+- [[Shadow]]
+- [[Vampirate Mage]]
 
 Text that appears in a box like this is intended to be read aloud or paraphrased for the players when their characters first arrive at a location or under the circumstances described.
 
@@ -51,12 +48,12 @@ Text that appears in a box like this is intended to be read aloud or paraphrased
 
 ## Key NPCs
 
-|   |   |   |
-|---|---|---|
-|Name|Role|Stat Block|
-|Ziggy Tootokes|Coalition agent overseeing the bounty|Level 3 Rogue (Scout)|
-|Marek Flint|Manager of the Wick & Wax Candleshop. Also a member of a gang called The Bloodline. He leads this distribution cell.|Vampirate Mage|
-|Apprentice Vamplocks|Undead assistants managing the cellar|Apprentice Vamplock|
+|                      |                                                                                                                      |                       |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Name                 | Role                                                                                                                 | Stat Block            |
+| [[Ziggy Tootokes]]   | Coalition agent overseeing the bounty                                                                                | Level 3 Rogue (Scout) |
+| [[Marek Flint]]      | Manager of the Wick & Wax Candleshop. Also a member of a gang called The Bloodline. He leads this distribution cell. | Vampirate Mage        |
+| Apprentice Vamplocks | Undead assistants managing the cellar                                                                                | Apprentice Vamplock   |
 
 ---
 
@@ -68,9 +65,9 @@ Body horror, illicit drug trafficking, undead, murder, and references to harvest
 
 ## Adventure Background
 
-Arcannabis has long been one of Stickyickistan's most valuable commodities. While legitimate growers operate under strict regulations, criminal organizations continue to produce illicit strains using dangerous and prohibited ingredients.
+[[Arcannabis]] has long been one of Stickyickistan's most valuable commodities. While legitimate growers operate under strict regulations, criminal organizations continue to produce illicit strains using dangerous and prohibited ingredients.
 
-Among the most infamous is Bloodwalker OG, a strain outlawed by the Stickyickistanian Department of Public Health after investigators discovered it was manufactured using harvested humanoid hearts, celestial remains, and other forbidden monster components.
+Among the most infamous is [[Bloodwalker OG]], a strain outlawed by the [[Stickyickistanian Department of Public Health]] after investigators discovered it was manufactured using harvested humanoid hearts, celestial remains, and other forbidden monster components.
 
 Responsibility for enforcing that ban falls to the Tribunal Highblade Coalition (THC). For months, Coalition investigators have pursued dealers distributing Bloodwalker OG throughout the city, but every trail has ended before reaching the source.
 
@@ -91,8 +88,7 @@ Here's how I'd write Part 1.
 ---
 
 # Part 1: The Rolling Papers
-
-Estimated Duration: 30 Minutes
+*Estimated Duration: 30 Minutes*
 
 In this part, the characters discover a bounty advertisement in The Rolling Papers, Stickyickistan's most widely circulated newspaper. Reporting to the Tribunal Highblade Coalition (THC), they meet Investigator Ziggy Tootokes, who briefs them on an ongoing Bloodwalker OG investigation before sending them to raid a suspected distribution site concealed beneath a candle maker's workshop.
 
@@ -110,7 +106,7 @@ Hand the players the following notice or read it aloud.
 
 INVESTIGATION & RAID AUTHORIZED
 
-The Tribunal Highblade Coalition seeks capable adventurers to investigate a suspected illegal Arcannabis distribution operation believed to be beneath Wick & Wax Candleworks, located in the Old Market District.
+The Tribunal Highblade Coalition seeks capable adventurers to investigate a suspected illegal Arcannabis distribution operation believed to be beneath Wick & Wax Candleworks, located in the [[Old Market District]].
 
 Applicants should expect armed resistance.
 
@@ -118,15 +114,12 @@ Objectives include:
 
 - Investigate the workshop.
 - Recover evidence of Bloodwalker OG trafficking.
-    
 - Eliminate or apprehend those responsible.
-    
 - Secure any illegal product found on the premises.
-    
 
 Compensation: Reward issued upon successful completion.
 
-Report immediately to Highblade Tower.
+Report immediately to Highblade Tower, ask for Ziggy.
 
 ---
 
@@ -134,17 +127,18 @@ Report immediately to Highblade Tower.
 
 Read or paraphrase the following:
 
-The Tribunal Highblade Coalition precinct is a sturdy brick building with polished brass lanterns flanking its entrance. Green-cloaked officers bustle between offices carrying bundles of reports, confiscated Arcannabis, and evidence boxes sealed with wax.
-
-A goblin wearing a neatly pressed investigator's coat stands balanced on a chair behind the front counter, sorting paperwork into surprisingly tidy piles. Without looking up, he points toward a nearby office.
-
-"If you're here about the candle shop, you're the adventurers I ordered."
-
-Inside the office, maps of the Old Market District cover one wall. Pins, notes, and lengths of colored string connect businesses throughout the neighborhood. Several locations have already been crossed out, leaving only one circled in red.
-
-The goblin hops onto his desk, offering a grin before extending a hand.
-
-"Ziggy Tootokes. Investigator, Tribunal Highblade Coalition. Thanks for answering the bounty."
+> [!Read Aloud]
+> *The Tribunal Highblade Coalition precinct is a sturdy brick building with polished brass lanterns flanking its entrance. Green-cloaked officers bustle between offices carrying bundles of reports, confiscated Arcannabis, and evidence boxes sealed with wax.*
+> 
+> *A goblin wearing a neatly pressed investigator's coat stands balanced on a chair behind the front counter, sorting paperwork into surprisingly tidy piles. Without looking up, he points toward a nearby office.*
+> 
+> *"If you're here about the candle shop, you're the adventurers I ordered."*
+> 
+> *Inside the office, maps of the Old Market District cover one wall. Pins, notes, and lengths of colored string connect businesses throughout the neighborhood. Several locations have already been crossed out, leaving only one circled in red.*
+> 
+> *The goblin hops onto his desk, offering a grin before extending a hand.*
+> 
+> *"Ziggy Tootokes. Investigator, Tribunal Highblade Coalition. Thanks for answering the bounty."*
 
 ### Ziggy Tootokes
 
@@ -154,52 +148,39 @@ Ziggy Tootokes has earned a reputation for solving cases others overlook. Quick-
 
 Although relaxed and approachable, Ziggy takes Bloodwalker OG very seriously. Every new victim strengthens his resolve to dismantle the organization responsible.
 
-## The Briefing
+### The Briefing
 
 Ziggy explains the following:
 
 - Bloodwalker OG has become increasingly common throughout Stickyickistan despite being outlawed by the Stickyickistanian Department of Public Health.
-    
 - Every attempt to trace the drug back to its producers has reached a dead end.
-    
 - Over several weeks of surveillance, THC investigators identified Wick & Wax Candleworks as a common destination for known couriers.
-    
 - The workshop continues to sell ordinary candles during the day, giving it the appearance of a struggling but legitimate business.
-    
 - Deliveries occur after sunset, when the business should be closed.
-    
 - Individuals carrying heavy crates enter the workshop late at night, yet those same crates are never seen leaving, nor do they bare the mark of any known merchant.
-    
 - The Coalition believes the workshop is being used as a distribution point, but they have been unable to determine where the product is stored.
-    
 
-Ziggy rolls a hand-drawn map across the desk, tapping the building with one claw.
+> [!Read Aloud]
+> *Ziggy rolls a hand-drawn map across the desk, tapping the building with one claw.*
+> 
+> *"Everything about this place smells wrong. We've watched it for weeks, but no one's carrying crates back out. That means one of two things: they're eating an incredible amount of Arcannabis... or there's more workshop than meets the eye."*
+> 
+> *He leans back in his chair.*
+> 
+> *"Find out what's beneath that building. If Bloodwalker OG is there, shut the operation down and bring me whatever records you can find."*
 
-"Everything about this place smells wrong. We've watched it for weeks, but no one's carrying crates back out. That means one of two things: they're eating an incredible amount of Arcannabis... or there's more workshop than meets the eye."
-
-He leans back in his chair.
-
-"Find out what's beneath that building. If Bloodwalker OG is there, shut the operation down and bring me whatever records you can find."
-
-## What Ziggy Knows
+### What Ziggy Knows
 
 If the characters have questions, Ziggy can provide the following information.
 
-### Bloodwalker OG
-
-Bloodwalker OG is an illegal Arcannabis strain prohibited after investigators discovered it was manufactured using harvested humanoid hearts and other forbidden biological materials.
-
-### Wick & Wax Candleworks
-
-The business has operated in the Old Market District for decades. Sales have steadily declined, but somehow they manage to stay in business.
-
-### The Occupants
-
-Investigators have observed at least three regular occupants entering and leaving the workshop, though additional individuals may be inside after dark.
-
-### Hidden Storage
-
-Ziggy is convinced the workshop conceals a cellar or hidden storage area but has been unable to discover its entrance without conducting an official raid.
+- #### Bloodwalker OG
+	- Bloodwalker OG is an illegal Arcannabis strain prohibited after investigators discovered it was manufactured using harvested humanoid hearts and other forbidden biological materials.
+- #### Wick & Wax Candleworks
+	- The business has operated in the Old Market District for decades. Sales have steadily declined, but somehow they manage to stay in business.
+- #### The Occupants
+	- Investigators have observed at least three regular occupants entering and leaving the workshop, though additional individuals may be inside after dark.
+- #### Hidden Storage
+	- Ziggy is convinced the workshop conceals a cellar or hidden storage area but has been unable to discover its entrance without conducting an official raid.
 
 ## Treasure
 
@@ -214,8 +195,9 @@ When the characters arrive at Wick & Wax Candleworks, proceed to Part 2.
 ---
 
 # Part 2: Wick & Wax Candleworks
+*Estimated Duration: 45 Minutes*
 
-Estimated Duration: 45 Minutes
+![Map](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/f4f4dcdd80c0028155b6bcd834377216.webp)
 
 In this part, the characters investigate Wick & Wax Candleworks, an aging candle maker's shop in the Old Market District suspected of concealing an illegal Bloodwalker OG distribution operation. During the day, the building operates as a legitimate business serving ordinary customers. After dark, it becomes the public face of a criminal organization, with shipments arriving and departing under the cover of night.
 
@@ -225,39 +207,38 @@ The workshop conceals two entrances into the hidden cellar below. The first is a
 
 Unless otherwise noted, the workshop has the following features.
 
-Ceilings. The workshop ceilings are 12 feet high.
-
-Lighting. During business hours, sunlight enters through the front windows while candles illuminate the work areas. At night, the building is lit entirely by candles and oil lamps.
-
-Smell. The workshop smells strongly of beeswax, rendered tallow, wood smoke, and faint herbal aromas.
-
-Bloodwalker Awareness. Every Cultist, Apprentice Vamplock, and Marek Flint has consumed Bloodwalker OG. They always know the direction of every humanoid within 960 feet. This awareness doesn't reveal identities, numbers, or intentions, only direction. Because of this, the traffickers are rarely surprised by approaching intruders.
+- **Ceilings.** The workshop ceilings are 12 feet high.
+- **Lighting**. During business hours, sunlight enters through the front windows while candles illuminate the work areas. At night, the building is lit entirely by candles and oil lamps.
+- **Smell**. The workshop smells strongly of beeswax, rendered tallow, wood smoke, and faint herbal aromas.
+- **Bloodwalker Awareness.** Every Cultist, Apprentice Vamplock, and Marek Flint has consumed Bloodwalker OG. They always know the direction of every humanoid within 960 feet. This awareness doesn't reveal identities, numbers, or intentions, only direction. Because of this, the traffickers are rarely surprised by approaching intruders.
 
 ---
 
-# Arriving at the Workshop
+## Arriving at the Workshop
 
-Read or paraphrase the following:
+When the characters arrive at Wick & Wax Candleworks, read or paraphrase the following:
 
-Nestled among the aging storefronts of the Old Market District stands a narrow brick building with a faded wooden sign hanging above its entrance.
-
-Wick & Wax Candleworks
-
-Finished candles fill the front windows, their warm glow reflecting across the cobblestone street. A thin ribbon of smoke rises from the chimney while the pleasant scent of melted beeswax drifts into the evening air.
-
-Nothing about the little shop appears out of the ordinary.
-
-The building occupies a corner lot. A narrow alley runs along its eastern wall where an old stone well sits beneath weathered wooden planks.
+> [!Read Aloud]
+> *Nestled among the aging storefronts of the Old Market District stands a narrow brick building with a faded wooden sign hanging above its entrance.*
+> 
+> *Wick & Wax Candleworks*
+> 
+> *Finished candles fill the front windows, their warm glow reflecting across the cobblestone street. A thin ribbon of smoke rises from the chimney while the pleasant scent of melted beeswax drifts into the evening air.*
+> 
+> *Nothing about the little shop appears out of the ordinary.*
+> 
+> *The building occupies a corner lot. A narrow alley runs along its eastern wall where an old stone well sits beneath weathered wooden planks.*
 
 ---
 
-# Visiting During the Day
+## Visiting During the Day
 
 If the characters arrive while the shop is open, read:
 
-A brass bell jingles as the front door opens.
-
-The workshop is warm and inviting. Shelves display dozens of finished candles while workbenches are cluttered with molds, carving tools, bundles of wick, and cooling racks. Workers move about their tasks with practiced efficiency as customers browse the shelves.
+> [!Read Aloud]
+> *A brass bell jingles as the front door opens.*
+> 
+> *The workshop is warm and inviting. Shelves display dozens of finished candles while workbenches are cluttered with molds, carving tools, bundles of wick, and cooling racks. Workers move about their tasks with practiced efficiency as customers browse the shelves.*
 
 The workshop conducts legitimate business during the day.
 
@@ -269,17 +250,18 @@ Unless the characters begin searching restricted areas, threaten employees, or o
 
 ---
 
-# Visiting After Dark
+## Visiting After Dark
 
 If the characters arrive after sunset, read:
 
-The storefront is dark.
-
-Thick curtains cover the windows, allowing only faint candlelight to escape around their edges.
-
-Somewhere inside, wooden crates scrape across the floor before everything falls silent.
-
-The front door is locked.
+> [!Read Aloud]
+> *The storefront is dark.*
+> 
+> *Thick curtains cover the windows, allowing only faint candlelight to escape around their edges.*
+> 
+> *Somewhere inside, wooden crates scrape across the floor before everything falls silent.*
+> 
+> *The front door is locked.*
 
 The workshop above serves as the gang's first line of defense.
 
@@ -287,16 +269,13 @@ Because of Bloodwalker OG, the occupants already know humanoids have approached 
 
 ---
 
-# Workshop Occupants
+## Workshop Occupants
 
 Unless the characters enter through the hidden well, the following creatures occupy the workshop.
 
 - Marek Flint, Vampirate Mage
-    
 - 1 Apprentice Vamplock
-    
 - 2 Cultists
-    
 
 The Cultists work openly on the production floor.
 
@@ -306,7 +285,7 @@ Marek Flint remains in the northeast office reviewing shipment manifests.
 
 ---
 
-## Marek Flint
+### Marek Flint
 
 Vampirate Mage
 
@@ -320,118 +299,77 @@ His office is immaculate. Every shipment, payment, and customer is carefully doc
 
 ---
 
-# Searching the Workshop
+## Searching the Workshop
 
 Characters searching the workshop can discover the following.
 
-### Showroom
+- ### Showroom
+	- The candles are genuine and expertly crafted. Nothing immediately suggests criminal activity.
+- ### Workshop
+	- The workbenches contain ordinary candle-making equipment. A successful DC 13 Wisdom (Medicine) check notices faint traces of dried blood on one recently cleaned carving knife.
+- ### Storage
+	- Most crates contain legitimate supplies. Several barrels feature cleverly constructed false bottoms capable of concealing packages of Bloodwalker OG.
+- ### Office
+	- Marek Flint's office is immaculate. A polished oak desk dominates the room, its surface free of clutter save for neatly stacked ledgers, an inkpot, and a brass candle holder. Shelves line the walls, filled with years of business records documenting the workshop's legitimate candle sales.
+	- A large crimson rug covers most of the wooden floor.
+	- A character who succeeds on a **DC 12 Wisdom (Perception) or DC 12 Intelligence (Investigation)** check notices faint scrape marks around the edges of the rug. Pulling it aside reveals a heavy wooden trapdoor fitted with a recessed iron pull ring. The trapdoor opens onto a sturdy wooden ladder descending into the hidden cellar below.
+	- A successful **DC 14 Intelligence (Investigation)** check of the desk reveals a false compartment concealed within one of the drawers. Inside is a folded letter sealed with crimson wax bearing the image of a circle enclosing three parallel vertical lines.
+	- This is the first evidence the characters uncover linking the operation to an organization known as The Bloodline. It also identifies Wick & Wax Candleworks as Branch Seven.
+	- The letter reads:
 
-The candles are genuine and expertly crafted.
+> Branch Seven,
+> 
+> Your latest shipment has been received without incident. Continue maintaining normal business during daylight hours. The workshop remains an effective cover for distribution operations.
+> 
+> The Tribunal Highblade Coalition continues pursuing local traffickers and remains unaware of our wider network.
+> 
+> Burn this correspondence after reading.
+> 
+> —The Bloodline
 
-Nothing immediately suggests criminal activity.
+- ### Strongbox
+	- A sturdy iron strongbox rests beneath the desk.
+	- The lock can be opened with a successful DC 15 Dexterity check using thieves' tools or forced open with a successful DC 20 Strength (Athletics) check.
+	- Inside are:
+		- 185 gp
+		- Three blood-red garnets, each worth 50 gp
+		- A silver signet ring engraved with the same emblem found on the letter—a circle enclosing three parallel vertical lines
+		- A Portable Hole, carefully folded and wrapped in waxed linen
+	- Tied to the Portable Hole is a small inventory tag written in a precise hand.
 
-### Workshop
+> **Branch Property**
+> 
+> Destination: Branch Three
+> 
+> Handle With Care.
+> 
+> Unauthorized use is punishable by forfeiture.
+> 
+> —The Bloodline
 
-The workbenches contain ordinary candle-making equipment.
-
-A successful DC 13 Wisdom (Medicine) check notices faint traces of dried blood on one recently cleaned carving knife.
-
-### Storage
-
-Most crates contain legitimate supplies.
-
-Several barrels feature cleverly constructed false bottoms capable of concealing packages of Bloodwalker OG.
-
-### Office
-
-Marek Flint's office is immaculate. A polished oak desk dominates the room, its surface free of clutter save for neatly stacked ledgers, an inkpot, and a brass candle holder. Shelves line the walls, filled with years of business records documenting the workshop's legitimate candle sales.
-
-A large crimson rug covers most of the wooden floor.
-
-A character who succeeds on a DC 12 Wisdom (Perception) or DC 12 Intelligence (Investigation) check notices faint scrape marks around the edges of the rug. Pulling it aside reveals a heavy wooden trapdoor fitted with a recessed iron pull ring.
-
-The trapdoor opens onto a sturdy wooden ladder descending into the hidden cellar below.
-
-A successful DC 14 Intelligence (Investigation) check of the desk reveals a false compartment concealed within one of the drawers. Inside is a folded letter sealed with crimson wax bearing the image of a circle enclosing three parallel vertical lines.
-
-The letter reads:
-
-Branch Seven,
-
-Your latest shipment has been received without incident. Continue maintaining normal business during daylight hours. The workshop remains an effective cover for distribution operations.
-
-The Tribunal Highblade Coalition continues pursuing local traffickers and remains unaware of our wider network.
-
-Burn this correspondence after reading.
-
-—The Bloodline
-
-This is the first evidence the characters uncover linking the operation to an organization known as The Bloodline. It also identifies Wick & Wax Candleworks as Branch Seven.
-
-#### Strongbox
-
-A sturdy iron strongbox rests beneath the desk.
-
-The lock can be opened with a successful DC 15 Dexterity check using thieves' tools or forced open with a successful DC 20 Strength (Athletics) check.
-
-Inside are:
-
-- 185 gp
-    
-- Three blood-red garnets, each worth 50 gp
-    
-- A silver signet ring engraved with the same emblem found on the letter—a circle enclosing three parallel vertical lines
-    
-- A Portable Hole, carefully folded and wrapped in waxed linen
-    
-
-Tied to the Portable Hole is a small inventory tag written in a precise hand.
-
-Branch Property
-
-Destination: Branch Three
-
-Handle With Care.
-
-Unauthorized use is punishable by forfeiture.
-
-—The Bloodline
-
-The inventory tag makes it clear that the Portable Hole is not Marek's personal property, but valuable equipment being transferred between branches of The Bloodline.
+- ### The Hidden Well
+	- The abandoned well in the eastern alley conceals a second entrance into the cellar.
+	- A successful **DC 12 Wisdom (Perception) or Intelligence (Investigation)** check notices that the weathered planks covering the well have been moved recently.
+	- Removing the planks reveals an iron ladder descending into darkness.
+	- The ladder leads directly into the cellar, bypassing the workshop entirely.
+	- Characters entering this way avoid the surface encounter.
 
 ---
 
-# The Hidden Well
+## Combat
 
-The abandoned well in the eastern alley conceals a second entrance into the cellar.
-
-A successful DC 12 Wisdom (Perception) or Intelligence (Investigation) check notices that the weathered planks covering the well have been moved recently.
-
-Removing the planks reveals an iron ladder descending into darkness.
-
-The ladder leads directly into the cellar, bypassing the workshop entirely.
-
-Characters entering this way avoid the surface encounter.
-
----
-
-# Combat
-
-If combat begins inside the workshop, the Cultists immediately engage the intruders while the Apprentice Vamplock supports them with spells from behind cover.
-
-Marek Flint enters the battle from his office at the beginning of the first round. He calmly closes his ledger before joining the fight.
-
-If the characters entered through the hidden well, Marek remains in his office until he hears combat below. He then descends into the cellar through the trapdoor at the start of the second round of combat.
+If combat begins inside the workshop, the Cultists immediately engage the intruders while the Apprentice Vamplock supports them with spells from behind cover. Marek Flint enters the battle from his office at the beginning of the first round. He calmly closes his ledger before joining the fight.
 
 Read or paraphrase:
 
-A door swings open.
-
-A pale man in immaculate dark robes steps into the workshop carrying himself with the confidence of someone greeting late customers rather than armed intruders.
-
-He glances over the scene, sighs softly, and brushes an imaginary speck of dust from one sleeve.
-
-"This is becoming expensive."
+> [!Read Aloud]
+> *A door swings open.*
+> 
+> *A pale man in immaculate dark robes steps into the workshop carrying himself with the confidence of someone greeting late customers rather than armed intruders.*
+> 
+> *He glances over the scene, sighs softly, and brushes an imaginary speck of dust from one sleeve.*
+> 
+> *"This is becoming expensive."*
 
 Marek fights intelligently, preferring to remain behind his subordinates while using his spells to control the battlefield.
 
@@ -441,25 +379,22 @@ Without revealing the hidden trapdoor, he grabs the Strongbox from under his des
 
 The Cultists continue fighting, buying time for their master.
 
----
+Alternatively, if the characters entered through the hidden well, Marek remains in his office until he hears combat below in Part 3. He then descends into the cellar through the trapdoor at the start of the second round of combat.
 
 # Development
 
-If the characters defeat the workshop occupants, they eventually discover the concealed trapdoor beneath Marek's office.
+If the characters defeat the workshop occupants, they eventually discover the concealed trapdoor beneath Marek's office, or they take too long and Marek escapes with his henchmen and the product.
 
 If they instead entered through the hidden well, they bypass the workshop entirely. The Cultists remain above while Marek is forced to descend into the cellar after hearing combat below.
 
 In either case, proceed to Part 3: The Hidden Cellar.
 
-I like these changes a lot. They make the encounter much more believable and give Marek a clear motivation. Rather than being a "boss waiting in his arena," he's now trying to salvage the operation and escape with company property. That's much closer to how a smart lieutenant would behave.
-
-Here's how I'd write Part 3 in the style of an official adventure.
-
 ---
 
 # Part 3: The Hidden Cellar
+*Estimated Duration: 45 Minutes*
 
-Estimated Duration: 45 Minutes
+![Map](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/8ff3cec6011be1aaccef529d03c7892f.webp)
 
 Hidden beneath Wick & Wax Candleworks lies Branch Seven's distribution center. Here, Bloodwalker OG is weighed, packaged, and prepared for shipment throughout Stickyickistan. Unlike the orderly storefront above, the cellar serves only one purpose—keeping The Bloodline's illicit trade moving.
 
