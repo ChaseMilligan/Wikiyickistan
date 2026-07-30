@@ -105,10 +105,3 @@ Payment may include coin, a useful favor, access to unusual goods, or informatio
 **How to join:** Post in the Free League chat.
 
 ---
-# Relationship to The Rolling Papers
-
-[[The Rolling Papers]] and **The Roach Clip** are rumored to share informants, printers, paper suppliers, and at least one editor who swears the resemblance is purely coincidental.
-
-The official stance of The Rolling Papers is that **The Roach Clip** does not exist, has never existed, and certainly is not printed after midnight using the same press.
-
-The official stance of **The Roach Clip** is that The Rolling Papers is adorable.

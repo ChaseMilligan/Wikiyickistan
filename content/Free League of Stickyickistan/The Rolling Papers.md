@@ -111,10 +111,3 @@ The festival committee offers coin, public goodwill with [[House Northbourne]], 
 **How to join:** Post in the Free League chat.
 
 ---
-# Relationship to The Roach Clip
-
-The Rolling Papers is a public-facing newspaper for lawful notices, respectable contracts, civic warnings, official announcements, interviews, scandals, rumors, and adventure opportunities that can survive being read aloud in front of the authorities.
-
-Its under-the-table counterpart is [[The Roach Clip]], a backchannel for jobs too illegal, embarrassing, cursed, politically inconvenient, or suspicious to print in a respectable paper.
-
-The official stance of **The Rolling Papers** is that The Roach Clip does not exist, has never existed, and certainly is not printed after midnight using the same press.
