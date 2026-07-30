@@ -1,4 +1,4 @@
-An unknottable bundle of anxiety, Peeper is a nonbinary LG aberration, a floating eye monster, and one of [[Humperdink]]’s first familiars. With an eye for detail and an eagerness to please, Peeper has elected to take on all the bureaucracy and bookkeeping of the [[Loot Tavern]], much to everyone’s relief. Peeper cares for their friends to a profound degree and would be devastated if any of them should express disappointment at their actions.
+An unknottable bundle of anxiety, Peeper is a nonbinary LG aberration, a floating eye monster, and one of [[Humperdink]]’s first familiars. With an eye for detail and an eagerness to please, Peeper has elected to take on all the bureaucracy and bookkeeping of the [[The Loot Tavern]], much to everyone’s relief. Peeper cares for their friends to a profound degree and would be devastated if any of them should express disappointment at their actions.
 
 ### Peeper’s Library
 

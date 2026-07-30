@@ -1,4 +1,4 @@
-Heliana is a hard-headed LN half-orc hunter in her late thirties. She rises early in the morning for calisthenics workouts, often running around the [[Loot Tavern]] with great, thumping footsteps, much to [[Humperdink]] and [[Lutecia]]’s chagrin. She has an extraordinary metabolism, which is responsible for her chiseled physique and propensity to become hangry. Luckily, both [[Peeper]], and Heliana’s partner, a female golynn named Amber, have a steady supply of monster jerky to deal with this. For the purposes of combat, she is a barbarian, with a few levels in tamer.
+Heliana is a hard-headed LN half-orc hunter in her late thirties. She rises early in the morning for calisthenics workouts, often running around the [[The Loot Tavern]] with great, thumping footsteps, much to [[Humperdink]] and [[Lutecia]]’s chagrin. She has an extraordinary metabolism, which is responsible for her chiseled physique and propensity to become hangry. Luckily, both [[Peeper]], and Heliana’s partner, a female golynn named Amber, have a steady supply of monster jerky to deal with this. For the purposes of combat, she is a barbarian, with a few levels in tamer.
 
 ### Heliana’s Cave
 

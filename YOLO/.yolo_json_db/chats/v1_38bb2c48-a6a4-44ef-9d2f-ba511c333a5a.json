@@ -3071,10 +3071,4274 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give me a write up about my usage of Loot Tavern resources quite a bit",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "c92cc9ed-90b6-4e19-afd4-6ec32a37a840",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 23:42 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a write-up you can use for `FLS & The Loot Tavern.md`:\n\n<yolo_block filename=\"content/Free League of Stickyickistan/FLS & The Loot Tavern.md\">\n<<<<<<< APPEND\n# FLS & The Loot Tavern\n\nThe Free League of Stickyickistan makes frequent use of resources from **The Loot Tavern**, especially material from *Heliana’s Guide to Monster Hunting* and related Loot Tavern releases. Their work fits the tone of the setting well: strange monsters, colorful NPCs, unusual magic items, crafting systems, monster-hunting procedures, and just enough absurdity to feel right at home in Stickyickistan.\n\nLoot Tavern content is often used as inspiration, reference material, or direct mechanical support for Free League adventures. DMs may pull from Loot Tavern monsters, harvesting rules, crafting options, magic items, subclasses, spells, and encounter ideas when building sessions, as long as they are comfortable running the material and it fits the table.\n\nBecause the Free League is intentionally eclectic, Loot Tavern material is treated as part of the campaign’s extended toolbox rather than a separate exception. It is especially useful for monster hunts, strange wilderness jobs, magical biology, alchemical rewards, and adventures where the line between “dangerous creature” and “valuable ingredient” gets blurry.\n\nAs always, individual DMs have final say over what appears at their table. If a player wants to use Loot Tavern player-facing options, or if a DM wants to introduce a major Loot Tavern mechanic, creature, item, or reward, they should make sure it fits the adventure, the party, and the expected power level of the Free League.\n\nIn short:\n\n**The Loot Tavern is welcome in Stickyickistan. Ask your DM, don’t abuse it, and please stop trying to harvest every NPC.**\n>>>>>>> END\n</yolo_block>",
+      "id": "7837a6f5-8fd4-43e7-94ce-addc7c3185e9",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 39018,
+          "completion_tokens": 378,
+          "total_tokens": 39396,
+          "cache_read_input_tokens": 36352
+        },
+        "durationMs": 11206,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give me a write up about how I have semi-incorporated Drakkenheim into the greater Stickyickistanian world of Mythmos. However, FLS characters will not be compatible with adventures in the ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Free League of Drakkenheim.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Free League of Drakkenheim.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/House League/Free League of Drakkenheim.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "454e079b"
+      },
+      "id": "0ff26b2b-62b7-4f8a-beda-3ca25a3219e1",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/House League/Free League of Drakkenheim.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 00:00 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "<yolo_block filename=\"content/Free League of Stickyickistan/FLS & Drakkenheim.md\">\n<<<<<<< APPEND\n# FLS & Drakkenheim\n\nThe world of **Drakkenheim** has been semi-incorporated into the greater Stickyickistanian world of [[Mythmos]]. Its factions, history, monsters, magic, contamination, political conflicts, and apocalyptic weirdness may appear in Free League of Stickyickistan lore when they fit the tone of the setting.\n\nIn Mythmos, Drakkenheim is treated as a connected but distinct region of the wider world rather than a fully separate setting. Rumors of delerium, contaminated ruins, rival factions, holy crusaders, mageborn politics, and doomed expeditions may travel far beyond the city itself. Drakkenheim material can be used as inspiration for adventures, NPCs, factions, magic items, monsters, and campaign threats within Stickyickistan.\n\nHowever, the **Free League of Stickyickistan** and the **Free League of Drakkenheim** are not character-compatible campaigns.\n\nCharacters created for the Free League of Stickyickistan are **not automatically eligible** for adventures run under [[Free League of Drakkenheim]]. Likewise, characters made specifically for Drakkenheim are not automatically eligible for standard FLS adventures. The two leagues may share a world, themes, lore, and occasional references, but they use different assumptions about character creation, tone, danger, rewards, and campaign structure.\n\nThis separation exists to preserve the identity of both games. Stickyickistan is broad, eclectic, planar, and deliberately chaotic. Drakkenheim is darker, more focused, more contaminated, and built around the specific pressures of that setting. Mixing characters freely between the two could create balance issues, undermine campaign tone, or weaken the consequences that make Drakkenheim feel distinct.\n\nIn short:\n\n**Drakkenheim exists in Mythmos, but Free League of Stickyickistan characters do not get a free ticket into it.**\n\nAny crossover, cameo, adapted content, or special exception must be approved by the DM running that adventure.\n>>>>>>> END\n</yolo_block>",
+      "id": "bd459561-fbcb-4b72-a7eb-db59b950b410",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 39567,
+          "completion_tokens": 434,
+          "total_tokens": 40001,
+          "cache_read_input_tokens": 38400
+        },
+        "durationMs": 9617,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you help me improve this page as the main info page for the Free League of Stickyickistan which is laid out in the files in this folder",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "f66828cc-9d22-4646-af42-693d8d987fda",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 00:21 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_n1AA3sCZa2FWz0Gv9pVsDBGN",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Free League of Stickyickistan/FLS.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Free League of Stickyickistan/FLS.md\"]}"
+          }
+        },
+        {
+          "id": "call_kSlUz2Umkcf4uSKs2o3PcbyN",
+          "name": "yolo_local__fs_list",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Free League of Stickyickistan",
+              "depth": 1,
+              "maxResults": 100
+            },
+            "rawText": "{\"path\":\"content/Free League of Stickyickistan\",\"depth\":1,\"maxResults\":100}"
+          }
+        }
+      ],
+      "id": "9052b61f-6922-4032-b6a0-afeb0422b74c",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 40068,
+          "completion_tokens": 83,
+          "total_tokens": 40151,
+          "cache_read_input_tokens": 37376
+        },
+        "durationMs": 5616,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_n1AA3sCZa2FWz0Gv9pVsDBGN",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Free League of Stickyickistan/FLS.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Free League of Stickyickistan/FLS.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_n1AA3sCZa2FWz0Gv9pVsDBGN\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Free League of Stickyickistan/FLS.md\",\n      \"ok\": true,\n      \"totalLines\": 118,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|Any text with a ~~strikethrough~~ is null.\\n2|View the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.\\n3|We will all work together to iteratively build the ruleset.\\n4|\\n5|# Sources\\n6|\\n7|Any official, or partnered content in D&D Beyond is allowed. Any sources from a third-party must be run past your DM before the PC is playable. I lean very heavily on [[Heliana's Guide to Monster Hunting]], and a small amount of my own homebrew. Other than that I am just using the PHB, DMG, and MM.\\n8|\\n9|# Gameplay\\n10|\\n11|## 5.5e\\n12|\\n13|5.5e will be the default for the Free League of Stickyickistan, but ALWAYS ASK YOUR DM about 5.5e content since some DMs may have some alterations they like to use.\\n14|\\n15|> ***\\\"If you choose the new paladin, smite is not a spell, it is a feature. Barbadin lives on.\\\"***\\n16|> \\n17|> ~ Matthew Wright\\n18|\\n19|> ***\\\"The new Shadow Monk actually allows the fantasy to be fulfilled.\\\"***\\n20|> \\n21|> ~ Chase Milligan\\n22|\\n23|## Altered Mechanics\\n24|\\n25|##### Critical hits\\n26|When you critically strike using an unarmed attack or weapon attack, take the base maximum damage and roll for the crit damage excluding effects such as sneak attack, smite, etc. I.E. A critical hit for a level 3 rogue using a rapier would be: 8 + mod + 1d8 + 4d6. If that rapier was a magic item which added 1d4 cold damage the formula would be: 8 + mod + 1d8 +2d4 + 4d6.\\n27|##### High Ground\\n28|Positioning in a way that you are 10ft. above a target provides a +2 bonus to any ranged attack roll, while being 10ft. below a target take a -2 penalty to any ranged attacks.\\n29|\\n30|## Playing Adventures\\n31|\\n32|Each adventure has a tier associated with it, which tells you what level characters can participate in it. Each adventure is attached to one or more campaigns; check the adventure specifics to determine if your character can play that adventure.\\n33|\\n34|| Character Level | Tier |\\n35|| --------------- | ---- |\\n36|| 1 - 4           | 1    |\\n37|| 5 - 10          | 2    |\\n38|| 11 - 16         | 3    |\\n39|| 17 - 20         | 4    |\\n40|\\n41|##### Logging Play\\n42|This kind of game puts the responsibility of logging play on the player. You should use a [character log](https://media.wizards.com/2020/dnd/downloads/S10_AL_Logsheet.pdf), or a notes app like [Obsidian](https://obsidian.md/) to track rewards and note any other important information from play of an adventure. See “[Adventurers League Resources & Links](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league#Adventurers_League_Resources)” on the D&D Beyond Adventurers League Forum for more information. ==DMs reserve the right to remove things from your sheet if they are not recorded, or if the records do not match their own or other players.==\\n43|##### Leveling Up\\n44|I will be using the XP system to determine level ups, but you will generally gain a level at the end of each 4 hour play session that completes an adventure. If you’d like to continue playing at your current level, you can decline to gain a level. You keep any rewards earned.  You gain hit points listed as the fixed value for your class (plus any modifiers) when you level up.  Once you achieve 5th level, you may choose another uncommon magic item, and or start building a bastion. \\n45|##### Rebuilding Your Character\\n46|You may rebuild any aspect of your character between sessions. However, you only retain equipment and magic items earned from play and lose any class feature items from a class your character no longer possesses, gaining any class feature items from your new class(es). \\n47|##### Rewards\\n48|Whenever you have the option to level up and at other times during play, you’ll earn rewards. These may include the following: \\n49|- Magic items \\n50|- Coins and other treasure\\n51|- Story awards. \\n52|Many adventures will offer a choice of \\\"Treasure Bundles\\\" after the conclusion of the adventure.\\n53|###### Magic Items\\n54|Whenever your party finds a magic item during play, the party determines who has it for the remainder of the adventure. At the end of play, any number of characters may keep the magic item if it wasn’t consumed or destroyed during play. You may keep as many magic items as you are awarded but must limit the number of magic items you bring to play sessions based on the table below.\\n55|\\n56|| Tier | Uncommon+ | Common | Consumable |\\n57|| ---- | --------- | ------ | ---------- |\\n58|| 1    | 1         | 5      | 5          |\\n59|| 2    | 3         | 5      | 10         |\\n60|| 3    | 6         | 5      | 10         |\\n61|| 4    | 10        | 5      | 15         |\\n62|\\n63|Uncommon, rare, very rare, legendary, and unique permanent magic items are included in the “Uncommon+” column. Common permanent magic items are included in the “Common” column. Consumable items include any magic item that is consumed if used (potions, scrolls, etc.); this includes single-use items (elemental gem, etc.) and charms. Multi-use consumables (Keoghtom’s ointment, etc.) count as one consumable each. Smokepowder and magical ammunition count as one consumable per 5 shots, rounded up. \\n64|\\n65|If an item is destroyed, consumed, or lost during play, it is removed from your character and cannot be reacquired unless rewarded again through play.  \\n66|\\n67|Blessings and boons count as a magic item of the appropriate rarity for determining how many magic items you bring to a play session for that character. You may choose to have your character give up a blessing or boon at any time; if you do so, it is removed from your character and cannot be reacquired unless rewarded again through play. \\n68|\\n69|Legendary magic items may only be used in tier 4 play. Characters of lower tiers that encounter a legendary magic item as a reward may possess it, but it remains unavailable for use until 17th level.\\n70|###### Coins and Other Treasure\\n71|Whenever your party finds treasure of a monetary value, they can keep it with them to use during play. Any remaining treasure unused at the end of the adventure is converted to gold pieces and divided evenly between all the characters. The Dungeon Master can assist in this process.  Mundane items, such as found equipment, are divided however the party chooses at the end of the play session.\\n72|###### Bastions \\n73|Bastions are available for player use. All characters starting at level 5 may begin to build a Bastion and begin with one Cramped and one Roomy facility. You must have a visual representation of their Bastion’s space–a Bastion map showing the use of floor space. This can be as simple or detailed as you desire but must clearly show where basic and special facilities are located, as well as an easily referenceable scale. A Bastion’s facility costs to build or enlarge a space in GP must be paid. You have 20 times your character level in days to add basic facilities or enlarge them when you first decide to build a Bastion (at or after level 5). Special facilities are gained at the character levels specified in the 2024 _Dungeon Master's Guide_ and are chosen by you at the time your character reaches the required level. \\n74|\\n75|You may rebuild one Bastion facility (replacing an existing facility with a new one) at the end of a session during the Bastion turn, provided you adhere to all requirements on special facilities and pay any increased GP and time costs. If the rebuilt facility requires more time than currently available, you must wait until the time cost is paid before using the facility. Facilities with orders that have yet to be fully resolved may not be rebuilt.  \\n76|\\n77|At the end of each session, you are given a Bastion turn for your character participating in the adventure. Bastion turns must be resolved by the end of the session, with the DM adjudicating any rolls made from a Bastion order. For Adventurers League play, a specific character may not issue the same Bastion order two turns in a row.\\n78|\\n79|Each time you take a Bastion turn, 10 days is assumed to have passed since the last Bastion turn. You can use this time to calculate how long it takes for certain orders to resolve, and to determine how long it’s been since you initiated adding or enlarging a basic facility.  \\n80|###### Story Awards\\n81|Sometimes you and others in the party may earn a story award. This is a special award or item, sometimes presented as a certificate, that may have significance in future adventures in the same storyline.  Whenever applicable, the Dungeon Master may ask if any of the characters in the party possess a story award. In certain circumstances, such as the case of story items, the party may have to determine who has it for the purposes of that adventure.\\n82|\\n83|You may be awarded a Story Award for dying in spectacular fashion, and then being resurrected. This can come in many forms, but work together with your DM to make something fair and memorable.\\n84|##### Death, Disease, and Curses\\n85|During sessions of play, if you die, are subject to a lingering effect such as a disease or curse, or removed from the adventure, you deal with the consequences for the duration of the session of play. At that session’s conclusion, you may choose the following fate:\\n86|\\n87|- You return your character to life or remove the negative effect. If you were removed from the adventure, you gain rewards earned until removed. You may gain a level. \\n88|- You retire the character, succumbing to your fate.\\n89|\\n90|If you are returned to the adventure before the conclusion of the session of play, you may earn all the rewards offered to the party, including during your absence.\\n91|##### Dungeon Masters and Reward\\n92|Your Dungeon Master may have additional guidance through documentation on adjudicating specific rewards. If you have questions using a particular reward during play, ==ask your Dungeon Master==.\\n93|\\n94|## Between Play Sessions\\n95|\\n96|##### Buying and Trading Gear\\n97|You can sell and buy equipment and spell components using the rules in the Player’s Handbook. Spell scrolls and potions can be purchased for prices listed under Appendix A: Shared Campaigns in Xanathar’s Guide to Everything in addition to any component costs.\\n98|\\n99|- Equipment and consumable items can be lent to other characters during play but must return at the end of the session (unless it’s been consumed or lost).\\n100|- Permanent magic items can be traded (see below). Unique magic items may not be traded. \\n101|\\n102|Trading permanent magic items with other characters in your character’s campaign is on a one-for-one basis of equivalent rarity. Certificates (if present) must also be traded or destroyed. You cannot trade with characters attached to a campaign world other than the one you’ve chosen for your character. \\n103|##### Downtime\\n104|You earn 10 downtime days between each session of play. Your character can participate in downtime activities between sessions as listed under “Downtime Activities” in the Player’s Handbook. The following additional downtime activities are available.\\n105|###### Catching Up.\\n106|Spend 10 downtime days to gain a level.\\n107|###### Copying Spells.\\n108|If you can copy spells, you may use the rules presented in the “Your Spellbook” sidebar in the Player’s Handbook to copy spells found in adventures, except it costs 1 downtime day for each spell up to 4th level and 2 downtime days for each spell 5th level and above. If you are copying spells from another character’s spellbook, you may do so immediately after a session of play in which both characters were present. You are always successful at copying spells from scrolls.\\n109|###### Brewing Potions.\\n110|You may brew potions of healing as presented under “Crafting an Item” in Xanathar’s Guide to Everything. A “workweek” is defined as 5 downtime days for the purposes of this campaign. You do not suffer a complication when engaging in this activity. Potions brewed count towards your consumable item limit. This would also include mixing Arcannabis strains\\n111|###### Scribing Scrolls.\\n112|You may scribe spell scrolls as presented under “Scribing a Spell Scroll” in Xanathar’s Guide to Everything. A “workweek” is defined as 5 downtime days for the purposes of this campaign. You do not suffer a complication when engaging in this activity. Scrolls scribed count towards your consumable item limit.\\n113|###### Manufacturing & Enchantment of Magic Items.\\n114|The amount of time manufacturing and enchanting takes depends on the rarity of item you are trying to make.\\n115|###### Trading Magic Items.\\n116|Whenever you trade a magic item, you spend 5 downtime days.\\n117|\\n118|\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_kSlUz2Umkcf4uSKs2o3PcbyN",
+            "name": "yolo_local__fs_list",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Free League of Stickyickistan",
+                "depth": 1,
+                "maxResults": 100
+              },
+              "rawText": "{\"path\":\"content/Free League of Stickyickistan\",\"depth\":1,\"maxResults\":100}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_list\",\n  \"path\": \"content/Free League of Stickyickistan\",\n  \"scope\": \"all\",\n  \"depth\": 1,\n  \"entries\": [\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Character Building.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/DMs Aid.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/FLS & Drakkenheim.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/FLS & The Loot Tavern.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/FLS.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/The Roach Clip.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/The Rolling Papers.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/WANTED! Dungeon Masters.md\",\n      \"depth\": 1\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "88519618-8b9b-4599-a4fa-69f1e923e58e",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Right now `FLS.md` reads more like a rules document. Since you want it to be the **main info page**, I’d make it a landing page that explains what the Free League is, then points people to the specific files in the folder.\n\nSuggested replacement for the top of the page:\n\n<yolo_block filename=\"content/Free League of Stickyickistan/FLS.md\">\n<<<<<<< REPLACE\n[old]\nAny text with a ~~strikethrough~~ is null.\nView the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.\nWe will all work together to iteratively build the ruleset.\n\n# Sources\n\nAny official, or partnered content in D&D Beyond is allowed. Any sources from a third-party must be run past your DM before the PC is playable. I lean very heavily on [[Heliana's Guide to Monster Hunting]], and a small amount of my own homebrew. Other than that I am just using the PHB, DMG, and MM.\n=======\n[new]\n# Free League of Stickyickistan\n\nThe **Free League of Stickyickistan** is an open-table D&D campaign set in the greater world of [[Mythmos]]. It is built for rotating players, rotating Dungeon Masters, recurring characters, strange adventures, and a shared setting that grows every time someone runs a game.\n\nThe Free League is inspired by Adventurers League-style structure, but it is looser, weirder, more collaborative, and much more Stickyickistanian. Characters can move between eligible Free League adventures, DMs can create their own scenarios, and the consequences of play can become part of the world.\n\nThis page is the main hub for the Free League. Use it to find the rules, character creation guidelines, DM resources, adventure posting systems, and setting notes that support the campaign.\n\n> **Core idea:** Make a character, join adventures when you can, log what happens, and help make Stickyickistan stranger.\n\n# Quick Start\n\nIf you are new to the Free League, start here:\n\n1. Read [[Character Building]].\n2. Make a character using the Free League rules.\n3. Ask the DM before bringing that character to a table.\n4. Watch [[The Rolling Papers]] for public adventure postings.\n5. Watch [[The Roach Clip]] for shady or under-the-table adventure postings.\n6. Track your rewards, levels, magic items, downtime, and story awards after every session.\n\n# Player Resources\n\n- [[Character Building]] — how to make a Free League character.\n- [[The Rolling Papers]] — public, above-the-board adventure ads and notices.\n- [[The Roach Clip]] — discreet, illegal, gray-market, or suspicious adventure hooks.\n- [[FLS & The Loot Tavern]] — how Loot Tavern resources fit into the Free League.\n- [[FLS & Drakkenheim]] — how Drakkenheim connects to Mythmos, and why Drakkenheim characters are not automatically compatible with FLS characters.\n\n# Dungeon Master Resources\n\n- [[WANTED! Dungeon Masters]] — incentives, expectations, and the Cabal of Tribulation.\n- [[DMs Aid]] — tools and guidance for running Free League games.\n- [[The Rolling Papers]] — use this for public adventure advertisements.\n- [[The Roach Clip]] — use this for under-the-table adventure advertisements.\n\n# Campaign Principles\n\nThe Free League works best when everyone follows a few basic principles:\n\n- **Ask your DM.** DMs have final say over what belongs at their table.\n- **Log your character.** Track levels, rewards, gold, downtime, magic items, and story awards.\n- **Respect the tier system.** Adventures are divided into tiers so parties stay roughly balanced.\n- **Share the world.** Adventures can add NPCs, locations, factions, rumors, scars, and consequences to Stickyickistan.\n- **Keep it flexible.** Different DMs may emphasize different tones, rules, and parts of the setting.\n- **Make it weird, but playable.** Stickyickistan can be absurd, dangerous, cosmic, criminal, heroic, and stupid, but the table still needs to function.\n\n# Rules Notes\n\nAny text with a ~~strikethrough~~ is null.\n\nView the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.\n\nWe will all work together to iteratively build the ruleset.\n\n# Sources\n\nAny official or partnered content in D&D Beyond is allowed. Any third-party source must be run past your DM before the PC is playable.\n\nThe Free League leans heavily on [[Heliana's Guide to Monster Hunting]], material from [[FLS & The Loot Tavern]], and a small amount of homebrew. Other than that, the baseline sources are the PHB, DMG, and MM.\n>>>>>>> END\n</yolo_block>",
+      "id": "c68df7d7-44a3-4a8e-9be0-8cbada80617d",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 43661,
+          "completion_tokens": 1028,
+          "total_tokens": 44689,
+          "cache_read_input_tokens": 39424
+        },
+        "durationMs": 21829,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "that seems very redundant",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "77fc7397-bcd6-4438-b306-22c2c0051d2f",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 00:23 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, agreed. Since `FLS.md` already contains the actual rules, a better main page should be **shorter and less repetitive** — more like a front door, not a second ruleset.\n\nI’d replace only the opening with something tighter:\n\n<yolo_block filename=\"content/Free League of Stickyickistan/FLS.md\">\n<<<<<<< REPLACE\n[old]\nAny text with a ~~strikethrough~~ is null.\nView the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.\nWe will all work together to iteratively build the ruleset.\n\n# Sources\n\nAny official, or partnered content in D&D Beyond is allowed. Any sources from a third-party must be run past your DM before the PC is playable. I lean very heavily on [[Heliana's Guide to Monster Hunting]], and a small amount of my own homebrew. Other than that I am just using the PHB, DMG, and MM.\n=======\n[new]\n# Free League of Stickyickistan\n\nThe **Free League of Stickyickistan** is the open-table framework for running recurring adventures in [[Mythmos]]. It is built for rotating players, rotating DMs, shared characters, and a setting that grows through play.\n\nThis page contains the core rules for playing in the Free League. For specific resources, use the links below:\n\n- [[Character Building]]\n- [[WANTED! Dungeon Masters]]\n- [[DMs Aid]]\n- [[The Rolling Papers]]\n- [[The Roach Clip]]\n- [[FLS & The Loot Tavern]]\n- [[FLS & Drakkenheim]]\n\nAny text with a ~~strikethrough~~ is null.\n\nView the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commits/v4/) to see any changes made to the ruleset.\n\nWe will all work together to iteratively build the ruleset.\n\n# Sources\n\nAny official or partnered content in D&D Beyond is allowed. Any sources from a third-party must be run past your DM before the PC is playable. I lean very heavily on [[Heliana's Guide to Monster Hunting]], and a small amount of my own homebrew. Other than that I am just using the PHB, DMG, and MM.\n>>>>>>> END\n</yolo_block>",
+      "id": "43ac5a0f-d7a7-4cb9-8061-b000eda7550b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 44716,
+          "completion_tokens": 493,
+          "total_tokens": 45209,
+          "cache_read_input_tokens": 39424
+        },
+        "durationMs": 10827,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "GIve me a write up for players explaining what Heliana's guide to monster hunting is about, and include some links to it in D&D Beyond",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "17298630-dc1b-464d-b59b-a8ff6e297eaf",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 00:28 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "<yolo_block filename=\"content/Misc/Heliana's Guide to Monster Hunting.md\">\n<<<<<<< APPEND\n\n# Player Overview\n\n**Heliana’s Guide to Monster Hunting** is a third-party D&D supplement from **The Loot Tavern** that the Free League of Stickyickistan uses heavily for monster hunts, crafting, harvesting, unusual magic items, subclasses, spells, and weird creature-driven adventures.\n\nThe book is built around the idea that monsters are not just obstacles. They are mysteries to investigate, dangerous encounters to survive, and valuable sources of materials if you know how to harvest them. A typical Heliana-style adventure might involve tracking a creature, learning its habits, preparing for its abilities, fighting it, then using parts of the monster to craft potions, gear, magic items, or other rewards.\n\nFor players, this means:\n\n- Monster hunts may involve investigation, preparation, and research before combat.\n- Creatures may have special traits, phases, weaknesses, or unusual rewards.\n- Harvesting monster parts can matter.\n- Crafting and alchemy may be more important than in a standard D&D game.\n- Some player options, spells, items, and subclasses may come from Loot Tavern material.\n- Always ask your DM before assuming a Heliana option is available for your character.\n\nIn the Free League, Heliana’s content is treated as part of the campaign’s extended toolbox. It fits Stickyickistan well because it supports strange monsters, magical biology, dangerous ingredients, and rewards that feel more interesting than just “you find gold.”\n\n## D&D Beyond Links\n\n- [Heliana’s Guide to Monster Hunting](https://www.dndbeyond.com/marketplace/sourcebooks/helias-guide-to-monster-hunting)\n- [Heliana’s Guide to Monster Hunting character options](https://www.dndbeyond.com/sources/dnd/helianas-guide-to-monster-hunting)\n- [The Loot Tavern publisher page on D&D Beyond](https://www.dndbeyond.com/marketplace?filter-publisher=The%20Loot%20Tavern)\n\nIn short:\n\n**If an adventure feels like “track the horrible thing, learn what makes it horrible, survive the horrible thing, then turn part of it into a hat,” it probably owes something to Heliana’s Guide to Monster Hunting.**\n>>>>>>> END\n</yolo_block>",
+      "id": "e560639d-556c-40e1-8f58-136a65d20218",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 45267,
+          "completion_tokens": 482,
+          "total_tokens": 45749,
+          "cache_read_input_tokens": 44544
+        },
+        "durationMs": 10436,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give me a small write up here about how the book also exists in game under An Extraplanar bestseller",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "f5539b33-bb19-444a-8699-0edf50aaffb1",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 00:46 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "<yolo_block filename=\"content/Misc/Heliana's Guide to Monster Hunting.md\">\n<<<<<<< INSERT_AFTER\n[anchor]\nIn the Free League, Heliana’s content is treated as part of the campaign’s extended toolbox. It fits Stickyickistan well because it supports strange monsters, magical biology, dangerous ingredients, and rewards that feel more interesting than just “you find gold.”\n=======\n[new]\n\n## An Extraplanar Bestseller\n\nIn-universe, **Heliana’s Guide to Monster Hunting** also exists as a wildly popular adventuring manual, field guide, and coffee-table hazard across [[Mythmos]]. Copies have been found in monster hunters’ lodges, wizard towers, taverns, noble libraries, planar marketplaces, and the backpacks of people who absolutely should have read more than the first chapter before accepting a job.\n\nThe book is advertised as an “extraplanar bestseller,” though no one is entirely sure which planes are included in the sales numbers. Different editions are known to contain contradictory marginal notes, suspicious stains, regional monster warnings, and occasional advice that seems to update itself after a reader survives something awful.\n\nAmong adventurers, owning a copy is considered both practical and ominous. It usually means you are either preparing to hunt a monster, pretending to know how to hunt a monster, or about to become a cautionary sidebar in the next printing.\n>>>>>>> END\n</yolo_block>",
+      "id": "c5b632b4-b149-45ef-8c55-3a754c154dff",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 45798,
+          "completion_tokens": 288,
+          "total_tokens": 46086,
+          "cache_read_input_tokens": 43520
+        },
+        "durationMs": 7118,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Loot Tavern.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Loot Tavern.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/POIs/The Loot Tavern.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " create a write up based on this attached info:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Text on image reads ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Welcome to Lut’s Tavern!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "We’ve got monster carvin’, item craftin’, familiar findin’, and drink drinkin’. And, of course, for the more daring adventurers, a horde of monsters in need of slayin’! Fancy yourself a hunter? Ready to do the research, find the clues, and prepare for battle against fearsome foes? No? Well, have a firewhiskey and then let me ask you again…",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "— Heliana, Director of the Monster Hunting Guild",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The Loot Tavern: a bastion of tax-free alcohol, a hub for monster hunters, and the venue of the annual danceathon extraordinaire. This section details the lore, characters, and services offered by the Loot Tavern, an inn perched on an island that drifts through the Astral Plane. This chapter details how this adventuring hub can be used to offer the amenities required by the new harvesting, crafting, and cooking rules presented in this book. In addition, by using Heliana as a questgiver, you can stitch the hunts together into a single story arc. The chapter concludes with new rules for drunkenness.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "No Fixed Address",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Drifting through the myriad nebulous bodies of the Astral Plane, the Loot Tavern is a sanctuary for adventurers, astral-farers, and vagabonds alike. Its exact origins are unknown, but when Lutecia saw the listing in The Cosmic Times, she persuaded her adventuring pals, Humperdink, L’Arsène, and Heliana to invest in the venture. Atop the magically-warded rock, a grandiose, multi-tiered tavern was constructed. With spaces for each of the friends’ endeavours, the edifice also contains a transient number of guest rooms that appear, clean and furnished, as and when needed.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Arriving. Getting to the Loot Tavern can be achieved from any plane of existence with only two requirements. The first is a tavern; the second, an indigo-hued beverage known as port ale. A creature that steps through the door of a tavern within 1 minute of imbibing the beverage is transported to the exterior of the Loot Tavern. How the port ale ends up in the players’ hands is up to the GM: perhaps Heliana hears of the adventurers and sends them a bottle. Maybe a black market dealer sells it to the party as a ‘quick getaway’ potion. Or maybe the party finds a recipe detailing how to craft it!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Tavern Tales",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "On one of their adventuring forays, L’Arsène and Heliana found themselves trapped in The Low. In a desperate attempt to escape, the pair created a makeshift pub: Rock Bottoms Up. Brewing a noxious and not-particularly pleasant beverage from local mushrooms, the pair waited until a group of passing deep gnomes stopped for a lunchtime whistle-wetter. As soon as money changed hands, Heliana and L’Arsène dashed out of the bone-and-canvas tent, downed their port ale, and stepped back through— to the safety of the Astral Plane. Rumours still abound of a group of deep gnomes seeking compensation for food poisoning at the hands of an unscrupulous orc and a scruffy racoon.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Leaving. One does not simply walk through the garden portal to leave the tavern, not if you want to end up somewhere specific. The tavern’s portal is a permanent teleport spell, with a twist. This is one of the tavern’s unique selling points that contributes to its continued commercial success.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "One must first imbibe a specific combination of drinks, known as a teleportation flight, to have any chance of arriving at a desired location. After consuming this flight, a group of creatures uses the ‘Very Familiar’ row of the spell’s table when determining the accuracy of the destination. A creature that walks through the portal without having consumed a beverage since it last finished a long rest is teleported to a random location on a random plane.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "For example, drinking a cosmopolitan, a muskroe mule, and a piney colada, a combination that represents urban, arctic, and forest biomes, respectively, directs the portal to teleport a creature to a city in the tundra. See the services offered at Lut’s bar for more info.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The Tavern’s Tenants",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Joris Sanchez",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Although many faces frequent the tavern, there are some characters that are almost guaranteed to be present. Its four proprietors, Heliana, Humperdink, L’Arsène, and Lutecia; the bouncer, Granny Weathertax; Heliana’s faithful scribe, Peeper; the tavern’s cat, Feviline; the resident bard, Cacophonics; and the oft-teased adventuring group, the Fearsome Five (a.k.a. Fearful Five). This section looks at those characters, providing tips on roleplaying the characters in the form of behavioural traits, motives, values, secrets, and stories linking the various tenants. The NPC summary sections throughout this chapter provide guidance on how to roleplay the tavern’s various staff members and regulars.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Heliana",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Heliana is a hard-headed LN half-orc hunter in her late thirties. She rises early in the morning for callisthenics workouts, often running around the tavern with great, thumping footsteps, much to Humperdink and Lutecia’s chagrin. She has an extraordinary metabolism, which is responsible for her chiselled physique and propensity to become hangry. Luckily, both Peeper, and Heliana’s partner, a female golynn named Amber, have a steady supply of monster jerky to deal with this. For the purposes of combat, she is a barbarian, with a few levels in tamer.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Motives & Values. After one-too-many close calls, Heliana has learnt to always be prepared, and now values knowledge as much as brute force. She can often be heard saying “Know thy enemy!” to adventurers that take one of her monster hunting contracts. For her, a monster hunt can only be successful if she knows enough about her quarry to prepare the relevant magical meals, learn the monster’s weaknesses, and equip herself with efficacious spells. Beyond all else, Heliana fears bureaucracy; paperwork, taxes, and contracts are eternal sources of terror.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Secret. Instead of releasing her old companions into the wild, Heliana has an extra-dimensional room in the tavern, accessed via a secret door. She can’t and won’t let them go, despite Amber’s chastising looks.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Interpersonal Relations. Here are some tidbits of information you can use to flesh out Heliana’s relationship with the other tenants:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Granny Weathertax is revered by Heliana as a beacon of honour and a masterful sensei of hand-to-hand fighting.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Humperdink is Heliana’s enabler when it comes to her familiar addiction.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Arsène and Heliana have been in many close encounters. She always seems to lose to him at cards.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lutecia is the best mixologist she knows, and they’re currently 42-42 on drinking contests.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Peeper deals with all Heliana’s paperwork, and she relies on them far more than she admits.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Tavern Tales: Heliana Meets L’Arsène",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "On a dark desert highway, where cool winds carry the scent of pungent halfleaf, an edifice of bone and stone hangs with grisly-faced, orange lanterns. This hotel, the Hallow’s Inn, bears a dark secret: once you enter the inn, you can’t leave except for one day a year, the year of its anniversary: Hallow’s Eve.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "However, the inn also holds innumerable treasures, the flotsam of travellers that found themselves stuck in this undead-infested lodge. For this reason, Hallow’s Eve attracts all manner of adventurers keen to get their hands on this treasure and escape the hotel’s clutches before the curse prevents them from leaving. A dungeon delver that does not manage to escape becomes a prisoner of the inn and must survive its hallways that crawl with the unliving for an entire year.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "It was here, on Hallow’s Eve, that Heliana first met L’Arsène, who had become trapped in the inn’s larder (and decided to take a well-earned nap). Showing his ingenuity, L’Arsène crafted Heliana an armoured ballgown, whose pleats rattled with scythes of sharpened steel. With devastating pirouettes, Heliana cut her way through hordes of zombies, L’Arsène trotting along in her bloody wake. And thus, when brains met brawn, a lasting friendship was born!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Humperdink",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vivacious and charming, Humperdink is a NG dhampir (offspring of a vampire and human) in his early thirties. A snappy dresser, Hump adorns his lanky frame with dark purples and maroons to compliment his pale complexion and shock of red hair. For the purposes of combat, he has levels in warlock and fighter, with a dip into wizard for basic spells like shield. Humperdink ascribes to a polyamorous lifestyle, finding attraction in anyone who shares his lust for life. He is also a member of the Order of the Pink Ribbon, a collection of lycanthropes, vampires, and other flesh-eaters who have sworn off eating humanoid or humanoid-derived products.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Motives & Values. Humperdink balks at the thought of eating humanoid blood and fears succumbing to his vampiric desires. Lately, he has pursued research into the school of biomancy in the hopes of creating a serum that can Totally Replace Unseemly Blood, or Tru-Blood, as a nutritious foodstuff for vampires. He admires people with extravagant fashion senses and a flair for the dramatic; his alter ego, HumperDinker, hosts the tavern’s weekly burlesque performance.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Secret. Humperdink’s mother, Marguerite, is queen of Überfarbe, City of Shadows, in the Schattenwald area of the Shadow Plane, and is also his warlock patron. She still sends care packages containing ‘taster phials’ of exotic humanoid blood, which Humperdink stores in the hopes he can one day make recompense to its donors.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Interpersonal Relations. Here are some ideas with which you can develop Humperdink’s relationship with the other tenants:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Granny Weathertax’s matriarchal presence reminds Humperdink of his mother and is a crippling source of fear about which he regularly discusses in therapy.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Heliana is fun after a few drinks when she loosens up and begins singing rude battle hymns.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Arsène definitely cheats at cards; there’s no way he’s that lucky. Humperdink has plans for a revenge prank using clones of L’Arsène to make embarrassing admissions like “Branton Quark is a better inventor than me”.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lutecia is a hoot; she’s an amazing performer and Humperdink is keen to get her in his burlesque show.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Peeper is one of the first familiars Humperdink crafted, though he worries if he over-emphasised the anxiety genes.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Tavern Tales: Humperdink the Second",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "In a trick gone too far, L’Arsène created a bag of devouring that looked just like Humperdink’s backpack. It wasn’t until Humperdink failed to turn up to that week’s burlesque performance that L’Arsène realised his prank had probably succeeded too well. In classic L’Arsène fashion, the rakin fashioned a clockwork automaton with which to replace Humperdink. Luckily, Humperdink’s mother keeps a spare clone of him on hand, and, four months later, an irascible Humperdink stumbled back into the Loot Tavern. Impressed with how handsome L’Arsène had made the automaton, Humperdink forgave the artificer and now keeps the construct in his laboratory as a sounding board.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Luciano Javier Carreira",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Arsène",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Arsène Upin is a mischievous and cunning CN rakin whose artifice is widely coveted. He and his partner, Harried Houdinky, are infamous thieves, having stolen the priceless ruby, the Red Rakshasa, in a daring heist years ago. They now have bounties on their heads in almost every city of the Material Plane. However, since Bubba Fitt the bounty hunter was found as a pile of dust inside his armor of invulnerability, no bounty hunter has been foolish enough to pursue the pair in the Loot Tavern itself. The pair are both easily distractable, love puns, and adore practical jokes. For the purposes of combat, treat L’Arsène as having levels in a class involved in artifice or invention, and Houdinky as an assassin.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Motives & Values. L’Arsène admires three things: daring, terrible puns, and adventurers that bring him rare monster parts he can use to craft novel magic items. He doesn’t mind the bounty hunters—they make good guinea pigs for his new inventions—but he fears being audited by tax officials and always makes sure his affairs are in order.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Secret. Due to his notoriety, L’Arsène couldn’t have attracted investors for his line of arcanomechanical devices. Instead, he set up a pseudonym: Anton Spark, whose inventions have become hot commodities on the Material Plane.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Interpersonal Relations. The following opinions can help add depth to L’Arsène’s interpersonal relationships:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Granny Weathertax shouldn’t be messed with—she has eyes in the back of her head!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Heliana is a quality adventuring companion: she’s very brave and is also wide enough to provide a protective barrier behind which L’Arsène can artifice new contraptions.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Humperdink is hilarious to prank. One time, he enchanted Hump’s blood sausage with the reduce effect of the enlarge/reduce spell, which took effect while Humperdink was on the toilet, causing him to fall into the toilet bowl. Despite rarely being well received, L’Arsène seldom feels regret, though he admits the bag of devouring prank might have been a step too far.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lutecia mixes a good cocktail and plays a mean game of cards. It takes all his skill at cheating to beat her.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Peeper is fun to ride around on.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Tavern Tales: Weathertax’s Counter",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "In what would have been a classic prank, L’Arsène glamoured a rug of smothering to appear like Humperdink’s sustainably-sourced dalmatian-trimmed purple velvet cape of the mountebank. Using his omni-directional quadnoculars, L’Arsène waited until Granny Weathertax’s back was turned before making the change. The next morning, much to L’Arsène’s befuddlement, Humperdink returned from his morning walk entirely unscathed. Upon returning to his caravan, L’Arsène was attacked by his doormat. The conclusion? Granny Weathertax has eyes in the back of her head and a strong sense of justice.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lutecia",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Luciano Javier Carreira",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Charismatic doesn’t do this NG dark elf justice. In the worst situation, usually brought about by her avaricious desire for shinies and knowledge, Lut is always wont to crack a jape. For her, being the proprietor of a tavern is ideal; the constant flow of people and information staves off the melancholy that can quickly assail her if she spends too long alone. She has a quick wit, a cool head, and can put an overly-belligerent patron back in their place with her sass and sarcasm. For the purposes of combat, treat Lutecia as having levels in warlock and bard. Her bardic instrument is the cocktails she creates (you can reskin the bardic College of Cuisine to be a College of Mixology with the same effects).",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Motives & Values. Lut values people willing to share stories of their adventures; there is a strong correlation between the generosity of her drink servings and how interesting she finds a story. She also has a special place for the silent types that end bar fights without destroying any furniture. She fears being in isolation; she grew up in a great library with only a few archivists and a thousand books as company. Now, she values making her own adventures with her closest companions.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Secret. Before leaving the library many years ago, Lutecia stole a relic and hid it somewhere in the tavern. Unfortunately, she has forgotten what the relic was and has no way to retrieve it!*",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*This is an open-ended plot hook for a GM to develop.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Interpersonal Relations. You can use the following information to develop Lutecia’s interpersonal relations in the tavern:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Granny Weathertax is invaluable. With a glance, she and Lutecia can communicate everything that needs to be said.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Heliana has innumerable tales which can keep Lutecia entranced for hours.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Humperdink is a fun dandy. The nights they’ve giggled and journeyed together on Weathertax’s psychedelic mushrooms are some of Lut’s most treasured memories.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Arsène took some getting used to, but seeing him around Harried Houdinky helped her see the soft raccoon beneath the trixy rakin.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Peeper asked to look at the books once, to which Lutecia begrudgingly agreed. Now, Lut couldn’t live without them. They’re the most helpful of all her friends and Lut won’t hear a bad word against them!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Tavern Tales: Drinking Contest",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "After the last call, Heliana and Lutecia had the drinking contest to end all drinking contests. No holds were barred: magic, potions, even blessings from gods were allowed. In a confusing turn of events—no-one can remember exactly what happened—Granny Weathertax ended up the winner and has remained the uncontested Astral Drinking Champion ever since.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Peeper",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "An unknottable bundle of anxiety, Peeper is a nonbinary LG aberration, a floating eye monster, and one of Humperdink’s first familiars. With an eye for detail and an eagerness to please, Peeper has elected to take on all the bureaucracy and bookkeeping of the tavern, much to everyone’s relief. Peeper cares for their friends to a profound degree and would be devastated if any of them should express disappointment at their actions.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Motives & Values. Peeper takes pride in the ordinary: running the tavern at a stable profit and ensuring enough profit is set aside to provide generous retirement funds to each of the tenants. Of course, they don’t let the tenants know they have retirement funds, that would be far too risky. Peeper’s biggest fear is Heliana ever getting anywhere near the accounts: last time she tried her hand at bookkeeping, she used a squid as a makeshift quill. There was ink everywhere.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Secret. Peeper is actually a voracious painter in their spare time. They have portraits of each creature that has entered the tavern stashed under the floorboards of their library. Their five eyes give them a unique advantage with perspective, and their work is pretty darn good!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Interpersonal Relations. You can use the following information to develop Peeper’s interpersonal relations in the tavern:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Granny Weathertax is really in charge, in Peeper’s opinion. They report any hint of wrongdoing to her.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Heliana is the bestest, strongest, fastest, and smartest, even if she sucks at sums, and needs Peeper and Amber to look after her blood sugar.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Humperdink is probably some sort of god, Peeper has decided. He can make more Peepers, and his paperwork is a scribbled mess. Gods probably have messy paperwork, Peeper thinks.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "L’Arsène is quite annoying and always tries to jump on Peeper’s back. On the flip side, his accounts are the best of the lot!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lutecia let Peeper look at the books and for that Peeper is eternally grateful. She’s also so good at talking to people; Peeper could never do that…",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Tavern Tales: Shadow Editor",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "While Heliana slept, Peeper would sift through the latest pages of her book, editing, proofing, and re-writing them. Heliana was always very impressed with herself when she reviewed her work each morning, and Peeper didn’t have the heart to say otherwise!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Weathertax",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Stoic, taciturn, and with an air of wisdom, few words ever pass Granny Weathertax’s lips. Indeed, they are often preoccupied with moving the pungent smoke from her long, ebony pipe to her lungs. Physically, Weathertax is a strong, LG female human, with levels in monk for the purposes of combat. When dealing with bar fights, she moves with a drunken sway that keeps her just out of the reach of brawlers’ blows. No-one knows when Weathertax turned up or where she came from; as far as anyone can remember, she’s always been around. Out of a sense of propriety, the four proprietors decided to add Weathertax to the payroll; having her be part of the team seemed like a wise move—she is often the deciding factor in how many tables get broken during a bar fight.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Ognjen Sporin",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The book? Ahh yeah, total breeze to write. No delays. Everything was on time. It only took four hundred and twenty owlbear quills, a vat of aboleth milk, a few tarrasque teeth, and a lake of Peeper’s tears. Oh, and teamwork.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "— Heliana, Author",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Ognjen Sporin",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Cacophonics",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Sometimes-member of the Fearsome Five, the immodest Cacophonics (NG male dwarf maestro*) has recently found employ as resident gleeman of the Loot Tavern. With an unending litany of adventures and fantastical tales, the tavern is a veritable feast of inspiration for the ballads and sagas he pens. He takes liberal poetic licence with the information he receives, aiming to write the most exciting song, if not necessarily the most accurate one! After a group of adventurers return from a hunt, Cacophonics is often the first to approach them, drinks in one hand, quill in the other, and prying questions on his lips.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*See Appendix C",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Fearsome Five",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The Fearsome Five is the butt of most of the jokes in the Loot Tavern. With a well-deserved reputation for fleeing from deadly monster hunts, the group have earned themselves the nickname ‘The Fearful Five’, much to their chagrin. They have four permanent members; the bard, Cacophonics, has decided to go solo but returns to the group when he seeks new stories.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Ser Lonsalittle. This prideful LG male gnome knight is wont to get up on his high horse if his bravery is ever in question. Literally. He rides a pegasus into combat and uses it to raise his stature during arguments.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Garr Oate. Mistrustful and shifty-eyed, this N female halfling spy is not above picking the pocket of a drunken patron. Granny Weathertax has learnt to keep a close eye on her and often picks Garr Oate’s pocket in return, putting the halfling’s purse back on the stupefied drinker as a form of vigilante justice.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Fumblemore. At over 7 feet tall, this hulking goliath is a most atypical wizard. With cripplingly low Dexterity, the party has resorted to glueing this NG mage’s spellcasting focus into his hand to get any use out of him. He is a sweet bean and cares deeply for his pet blinkhound, Courage.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Aunty Kris. Lilac-skinned and long-toothed, this cheerful and cheeky CN tiefling cult fanatic was saved by the Fearsome Four (as they were previously known) when they caused a prison break to mask their escape from the Hells. Like many clerics who enter the tavern, she rarely has any healing spells prepared.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Rooms & Services",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Vaguely waved off by L’Arsène as something to do with the “Uncertainty Principle of Quantum Arcanodynamics”, the Loot Tavern is never quite the same from one day to another. Though no-one sees it change, there is always enough space for whatever is about to happen. Whether it be Heliana’s latest delivery of Gargantuan tarrasque bones, a dancefloor for the danceathon, or more rooms for guests, the Tavern provides. Though Humperdink did look into the phenomenon once, he quickly learnt to avoid asking those sorts of questions when his laboratory became a utility closet filled with garlic. The following rooms are keyed to the map below.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Map: Loot Tavern",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "View Player Version",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Accommodation. Rooms of all descriptions, from squalid closets under the stairs for 1 sp per day to aristocratic suites that cost 10 gp per diem.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "1 - Lut’s Bar",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lutecia’s bar is the beating heart of the tavern. A circular structure that rises from the bar floor to the tavern’s lofted ceiling, its shelves are stacked with a plethora of liquors, wines, and otherworldly beverages that induce a myriad of mind-altering states. When not staffed by Lutecia herself, L’Arsène’s simple arcanomechanical constructs can be found pouring ale, chastising the overly-drunk, and shooing away the tavern’s cat.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lut offers almost every known beverage, aperitif, and cocktail among the planes. One of the most important services Lutecia offers is a teleportation flight to direct the tavern’s portal to send the patron to the desired location. Correctly designing and mixing this flight of beverages is an art. The wrong mix or, worse yet, the wrong beverage, can result in a patron being teleported thousands of miles from their intended location. If a creature comes to her with an untried recipe, she’s more than happy to let the messenger be a guinea pig for the concoction on the house. It’s important to know where each cocktail directs the tavern’s portal to teleport a creature!",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Teleportale. Lutecia sells bottles of port ale for 5 gp each. For the same price, Lutecia will craft a flight of beverages for one creature. If a creature travels through the tavern’s portal before it next finishes a long rest, it will be teleported (as per the teleport spell) to a destination dictated by the arrangement of beverages. Lutecia is a skilled mixologist; use the ‘Very Familiar’ row when determining mishaps.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The following table lists the cocktails and the biomes or planes to which the portal teleports a creature. Each cocktail contains 2 alcohol units, which relate to the new drunkenness rules.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lutecia’s Cocktails",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Location",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Location Type",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Drink",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Arctic",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Biomes",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Muskroe mule",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Coast",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hex on the beach",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Desert",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Tokilla sunrise",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Forest",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Piney colada",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Grassland",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Plainkiller",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hill",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hilltini",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Jungle",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Baloovardier",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Mountain",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Mountini",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Swamp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Voodoodka",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The Low",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Mould fashioned",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Underwater",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Dark ‘n’ salty",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Urban",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Cosmopolitan",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Ethereal Plane",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Inner Planes",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hard spirits",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Plane of Fey",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Bloody faery",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Shadow Plane",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Black mountini",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Plane of Air",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Djinn and tonic",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Plane of Earth",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Targarita",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Plane of Fire",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Firewhiskey",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Plane of Water",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "No island iced tea",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Astral Plane",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Outer Planes",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Cosmicpolitan",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Negative Planes",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Sex on the lich",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Positive Planes",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Angel’s delight",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "2 - Heliana’s Cave",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Adorned with plush rugs, elaborately-filigreed shisha pipes, and an astonishing assortment of monster paraphernalia, Heliana’s ‘cave’ is far from the basic, uncivilised affair its name would suggest. Hundreds of identical copies of her new book, Heliana’s Guide to Monster Hunting, line shelves high up the wall. During the day, she can be found teaching the fundamentals of monster harvesting to new adventurers and providing her services as a harvester for preserved corpses.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Component Trader. Heliana has many monster components available and is always looking to buy others. Her inventory can be decided randomly; when a creature requests to buy or sell a component, roll a d20. On a result of 1-10, she has 1d4 of the component for sale but won’t buy any. On a result of 11-20, she has none of that component and will buy up to 1d4 of that component. Her inventory resets periodically (GM’s discretion).",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Cooking. For ten times the APL in gold pieces, Heliana will spend an hour whipping up a meal using the player’s magical components. She has proficiency in cook’s utensils, a proficiency bonus of +4, and a Constitution modifier of +5.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Harvesting. If a corpse is brought to Heliana while still preserved by magic like the preserve spell, she can assist in harvesting it, charging ten times the APL in gold pieces. Heliana has a proficiency bonus of +4, a Dexterity of +4, an Intelligence of +2, proficiency in the Medicine, Nature, and Survival skills, and the Expert Harvester and Reapmaster feats.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Heliana’s Guide to Monster Hunting. For the discounted price of 150 gp (or 3,100 gp for the very rare, deluxe edition), a creature can buy a copy of this tome. This magic item details the harvestable parts of different creature types and the respective component DCs. In terms of gameplay, owning a copy of this book can grant your players knowledge of component DCs to allow them to be better informed when creating a Harvest list. A GM can also decide that this book imparts information on features unique to a monster, such as a paralysing venom.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "3 - Humperdink’s Laboratory",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "A chaotically organised room, Humperdink’s laboratory never has less than half a dozen experiments being simultaneously conducted. Iridescent organs and biostatically preserved creatures line shelves, floating in glowing, colourful liquids. Desks are covered in papers with a mix of arcane runes, scribbled notes, and the mustard stains of hastily eaten blood-sausage sandwiches. Novel biomantic constructs like Poggle, Humperdink’s homunculus helper, or Feviline, the tavern’s cat, explore the dangerous lands under his desk and high up on the shelves.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Spell Scrolls. Humperdink sells spell scrolls. He also carries a variety of scrolls from other schools of magic. To determine his inventory, whenever a creature asks if a scroll is available, roll a d10. Humperdink has a number of that spell scroll available for purchase equal to the result of the roll minus the level of the spell. Being a student of the school of biomancy, he always has at least one of each biomancy spell in his inventory available for purchase.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Number of scrolls available* = d10 - level of spell scroll",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*Minimum of 1, if biomancy spell.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "If the result is 0 or lower, he doesn’t have the scroll, and will gladly buy up to 1d4 of them for one-half of their sale value. This inventory changes periodically (GM’s discretion). The price of spell scrolls is as follows:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Spell Scroll Level",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Rarity",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Value",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "0 (cantrip)",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Common",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "10 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "1",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Common",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "60 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "2",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Uncommon",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "150 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "3",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Uncommon",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "300 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "4",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Rare",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "600 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "5",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Rare",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "1,200 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "6",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Very rare",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "3,100 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "7",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Very rare",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "6,200 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "8",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Very rare",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "9,300 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "9",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Legendary",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "19,500 gp",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "4 - L’Arsène’s Caravan",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "In extravagant, scarlet calligraphy, the word ‘SIDRAT’ is painted on the front of a brightly covered caravan, positioned in the middle of a small side room. It appears someone was overconfident with the ‘S’ and the following letters are progressively more scrunched together. Looking inside the caravan can be a vertigo-inducing experience; it is far bigger on the inside with exotic tools lining every wall above arcanomechanical gadgets that whir, rattle, and occasionally explode. The caravan’s owner, infamous gadgeteer L’Arsène Upin, can often be found tinkering with a malfunctioning device or preparing designs for new items based on the properties of rare monster components.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Craftsperson. L’Arsène is a deft and experienced master craftsperson. He is proficient with all tools as well as the Arcana, Investigation, and Religion skills. He has a +3 proficiency bonus, a Strength modifier of +1, a Dexterity modifier of +4, and an Intelligence modifier of +5; uses Intelligence as his spellcasting ability modifier. L’Arsène charges at the rate of an Expert forger (see “Time & Money” for costs).",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Magic Item Vendor. L’Arsène has an inventory of magic items available for players to buy and is always happy to buy magic items from the players for 50% of their value. The exact composition of these items is entirely up to the GM’s discretion. Due to the number of adventurers that pass through the Tavern, this inventory regularly changes.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "5 - Peeper’s Library",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Peeper likes books, keeping things orderly, and being an orange ball of helpfulness. In short, they’re the ultimate librarian. Peeper’s library is a repository of all the books and tomes on monster hunting that Heliana has acquired (if not read) over the years.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Services: Research. For no charge, a creature can spend 8 hours working with Peeper to find information on the target of a hunt. At the end of this period, the creature can make a DC 16 Intelligence (Investigation) check to see what they discover. On a success, the creature receives the information for one of the clues for the coming hunt (GM’s choice). A result of 26 or higher reveals two of these clues, instead. A failed check indicates that the library has no relevant information on this subject that the party can discern.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "1cf121d9"
+      },
+      "id": "bc5a613c-ecca-428d-896d-86da2e7201da",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/POIs/The Loot Tavern.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 01:01 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "<yolo_block filename=\"content/POIs/The Loot Tavern.md\">\n<<<<<<< APPEND\n# The Loot Tavern\n\n**The Loot Tavern**, also known as **Lut’s Tavern**, is an extraplanar adventuring hub, monster-hunting lodge, crafting hall, and bar of questionable financial accountability. Perched atop a magically warded island drifting through the Astral Plane, it serves as a sanctuary for adventurers, astral travelers, vagabonds, monster hunters, and anyone willing to pay for a drink before doing something dangerous.\n\nIts reputation is simple: monster carvin’, item craftin’, familiar findin’, drink drinkin’, and, for the daring, a seemingly endless supply of monsters in need of slayin’.\n\nThe tavern is closely associated with [[Heliana]], Director of the Monster Hunting Guild and author of [[Heliana's Guide to Monster Hunting]]. In the Free League of Stickyickistan, the Loot Tavern can be used as a recurring quest hub, planar rest stop, crafting location, and source of monster-hunting contracts.\n\n> “Fancy yourself a hunter? Ready to do the research, find the clues, and prepare for battle against fearsome foes? No? Well, have a firewhiskey and then let me ask you again…”\n>\n> — [[Heliana]], Director of the Monster Hunting Guild\n\n## No Fixed Address\n\nThe Loot Tavern has no permanent location. It drifts through the Astral Plane, appearing to those who know how to reach it and vanishing from the concerns of tax collectors, road authorities, and most sensible cartographers.\n\nGetting there usually requires two things:\n\n1. A tavern.\n2. An indigo-hued drink called **port ale**.\n\nA creature that drinks port ale and steps through the door of a tavern within one minute is transported to the exterior of the Loot Tavern. Bottles of port ale may be sent by [[Heliana]], sold by questionable dealers, discovered in old recipes, or handed to adventurers by someone who refuses to explain where they got it.\n\nLeaving the Loot Tavern is almost as strange. The tavern’s portal can send travelers across the planes, but only if they first drink the correct **teleportation flight**: a specific combination of beverages mixed to point the portal toward the desired destination. Without the right drink, a traveler may end up somewhere wildly inconvenient.\n\n## The Tavern’s Tenants\n\nThe Loot Tavern is home to a rotating crowd of hunters, crafters, drinkers, fugitives, bards, familiars, and people who claim they are “just passing through” but have been there for six months.\n\nIts most important tenants include:\n\n- [[Lutecia]], the tavern’s namesake, bartender, mixologist, and social center.\n- [[Heliana]], monster hunter, author, and quest giver.\n- [[Humperdink]], biomancer, familiar-maker, researcher, and dramatic dresser.\n- [[L'Arsene Upin]], artificer, gadgeteer, thief, and crafter of dangerous solutions.\n- [[Peeper]], Heliana’s anxious scribe and the tavern’s tireless bookkeeper.\n- **Granny Weathertax**, the bouncer, unofficial authority, and reason most bar fights end quickly.\n- **Cacophonics**, resident bard, question-asker, and professional exaggerator.\n- **The Fearsome Five**, a much-mocked adventuring party also known by less generous patrons as the Fearful Five.\n\nTogether, these figures make the Loot Tavern feel less like a normal inn and more like a magical workplace sitcom built around monster parts, bad decisions, and extremely strong drinks.\n\n## Services\n\nThe Loot Tavern is useful to adventurers because nearly every room is attached to some form of service.\n\n### Lut’s Bar\n\n[[Lutecia]] serves drinks from across the planes, including cocktails used to direct the tavern’s teleportation portal. Her bar is the center of the tavern’s social life, rumor economy, and interplanar travel infrastructure.\n\n### Heliana’s Cave\n\n[[Heliana]] buys and sells monster components, teaches monster-harvesting techniques, cooks magical meals, assists with harvesting preserved monster corpses, and sells copies of [[Heliana's Guide to Monster Hunting]].\n\n### Humperdink’s Laboratory\n\n[[Humperdink]] provides biomantic expertise, strange experiments, familiars, and spell scrolls. His laboratory is colorful, chaotic, and usually only mostly safe.\n\n### L’Arsène’s Caravan\n\n[[L'Arsene Upin]] crafts items, buys and sells magic items, tinkers with arcanomechanical devices, and turns rare monster parts into things that may or may not explode.\n\n### Peeper’s Library\n\n[[Peeper]] maintains the tavern’s library and helps adventurers research monsters before a hunt. Those who take the time to study may uncover clues, weaknesses, habits, or warnings that help them survive.\n\n## Using the Loot Tavern in Stickyickistan\n\nIn the Free League of Stickyickistan, the Loot Tavern can serve as:\n\n- A quest hub for monster hunts.\n- A place to research dangerous creatures.\n- A planar tavern that connects distant regions of [[Mythmos]].\n- A crafting and harvesting center.\n- A source of recurring NPCs.\n- A place to buy strange services, magical drinks, spell scrolls, and monster parts.\n- A neutral meeting ground for adventurers from different parts of the multiverse.\n\nThe Loot Tavern is especially useful when a DM wants to run an adventure inspired by [[Heliana's Guide to Monster Hunting]] or other [[FLS & The Loot Tavern|Loot Tavern]] material.\n\n## Stickyickistanian Notes\n\nThe Loot Tavern’s relationship to Stickyickistan is practical, strange, and probably underreported. Adventurers from [[Mythmos]] may reach it through port ale, planar mishaps, monster-hunting contracts, or invitations from [[Heliana]] herself.\n\nSome claim [[The Rolling Papers]] has tried to review the tavern multiple times, but the assigned journalists keep returning three weeks late with no notes, new tattoos, and extremely strong opinions about firewhiskey.\n\nOthers insist [[The Roach Clip]] maintains a permanent dead drop somewhere under Lut’s Bar. The tavern denies this, mostly because admitting it would require paperwork.\n>>>>>>> END\n</yolo_block>",
+      "id": "54cabefd-8c9c-4560-a94d-47f13b7b76e9",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 53350,
+          "completion_tokens": 1305,
+          "total_tokens": 54655,
+          "cache_read_input_tokens": 44544
+        },
+        "durationMs": 26772,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "make a short write up about port ale",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "53413f68-7602-4fff-b71e-c8bdeb030b75",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 01:11 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "<yolo_block filename=\"Portale.md\">\n<<<<<<< APPEND\n# Port Ale\n\n**Port ale** is an indigo-hued extraplanar beverage best known for its ability to turn an ordinary tavern door into a route to [[The Loot Tavern]]. If a creature drinks port ale and steps through the door of a tavern within one minute, they are transported to the exterior of the drifting Astral Plane tavern.\n\nNo one agrees on whether port ale is a drink, a spell, a potion, or a logistical crime. It tastes different to everyone, though most describe it as “strong,” “purple,” and “probably not approved by local authorities.”\n\nBottles of port ale sometimes arrive by invitation from [[Heliana]], appear in the hands of suspicious merchants, or circulate among adventurers as emergency exits. In Stickyickistan, possessing a bottle usually means someone is either about to visit [[The Loot Tavern]] or run away from something loudly.\n>>>>>>> END\n</yolo_block>",
+      "id": "3a9875ae-b062-4d67-bc75-803c94498a23",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 54685,
+          "completion_tokens": 207,
+          "total_tokens": 54892,
+          "cache_read_input_tokens": 45568
+        },
+        "durationMs": 5279,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1785369575022,
-  "updatedAt": 1785388647471,
+  "updatedAt": 1785395473921,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",

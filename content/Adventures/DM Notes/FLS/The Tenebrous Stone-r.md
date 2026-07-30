@@ -2,17 +2,15 @@
 
 A one-shot for a level 3 meme-team of adventurers in Stickyickistan! Based on the free adventure, *Forgotten Realms: The Tenebrous Stone*.
 
-Stickyickistan is a silly, light-hearted, and often very stupid setting I have homebrewed over the years. I have done a lot of worldbuilding, but there are still heaps of open space. I encourage you to improvise things into the world whether it's during character creation, or in game. Some of the best parts of the world have come from you guys.
-
 ---
 
 # Adventure Hook
 
-The **Blacklung Quarry**, one of Stickyickistan's oldest sources of Arcanite, ceased operations a couple months ago due to supernatural happenings. One day the laborers ventured down into the subterranean mine, but none ever returned. Every time a few more would go down, they too would not return. Yet each night, the sound of pickaxes still echoes from deep within the quarry.
+The **[[Blacklung Quarry]]**, one of Stickyickistan's oldest sources of Arcanite, ceased operations a couple months ago due to supernatural happenings. One day the laborers ventured down into the subterranean mine, but none ever returned. Every time a few more would go down, they too would not return. Yet each night, the sound of pickaxes still echoes from deep within the quarry.
 
-About two ten days ago the quarry's owner, the dwarf **Roggan Stonebrah**, sent **Brother Highwind** of the **Order of the Emerald Breath** to investigate, but the monk also never returned. Ever since Brother Highwind's disappearance, a foul-smelling arcannabis smoke drifts up the elevator shaft from the mine below. Those who've huffed the stank speak of horrific visions and waking nightmares.
+About two ten days ago the quarry's owner, the dwarf **[[Roggan Stonebrah]]**, sent **Brother Highwind** of the **[[Order of the Emerald Breath]]** to investigate, but the monk also never returned. Ever since Brother Highwind's disappearance, a foul-smelling [[Arcannabis]] smoke drifts up the elevator shaft from the mine below. Those who've huffed the stank speak of horrific visions and waking nightmares.
 
-A very desperate Roggan now offers **300 gp** to anyone willing to enter the quarry, find Brother Highwind, and put an end to whatever evil has taken root within. The bounty has been posted to the **Free League of Stickyickistan's (FLS)** bounty board called **The Rolling Papers**. One of your characters has taken the contract, and recruited the rest of the characters to take on the quest with them.
+A very desperate Roggan now offers **300 gp** to anyone willing to enter the quarry, find Brother Highwind, and put an end to whatever evil has taken root within. The bounty has been posted to the **Free League of Stickyickistan's ([[FLS]])** bounty board called **[[The Rolling Papers]]**. One of your characters has taken the contract, and recruited the rest of the characters to take on the quest with them.
 
 ---
 
@@ -26,8 +24,8 @@ A very desperate Roggan now offers **300 gp** to anyone willing to enter the qua
 
 ## Stickyickistanian Backgrounds
 
-- A member of the **Tribunal Highblade Coalition (THC)**, the premier mercenary house of Stickyickistan. Generally lawful good followers of the Faith of Sacred Flame religion. Every class can work with this faction.
-- An employee of **The Seekers of the Vein**. More than just a Mining & Jeweler's Guild, the Seekers are an economic empire, fueling Stickyickistan's Magitech advancements. Generally neutral good non-religious folk. Makes most sense for artificer, or wizard, but get creative.
+- A member of the **[[Tribunal Highblade Coalition]] (THC)**, the premier mercenary house of Stickyickistan. Generally lawful good followers of the Faith of Sacred Flame religion. Every class can work with this faction.
+- An employee of **[[The Seekers of the Vein]]**. More than just a Mining & Jeweler's Guild, the Seekers are an economic empire, fueling Stickyickistan's Magitech advancements. Generally neutral good non-religious folk. Makes most sense for artificer, or wizard, but get creative.
 - A rogue member of the **Ashen Shadow Society (ASS)**, a clandestine bounty hunting guild that "doesn't exist", and loves to collect relics, bounties, and monsters. Pose as a member of The Seekers, or a sell sword from THC. Generally lawful neutral folks from all paths of life. You cannot be evil aligned.
 - A member of the **Order of the Emerald Breath**, could work for monks, druids, and maybe a cleric. Lawful good people with no exceptions and Followers of the Old Faiths.
 - Feel free to come up with your own!

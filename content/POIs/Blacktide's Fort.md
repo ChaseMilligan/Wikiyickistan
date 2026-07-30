@@ -1,1 +1,0 @@
-This is a large wooden fort built on a coastal cliffside owned by an infamous Pirate named [[Svarog 'Blacktide' Valesk]] and his clan [[The Drowned Brotherhood]].
