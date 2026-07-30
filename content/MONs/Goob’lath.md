@@ -1,1 +1,0 @@
-Wraith has found a single black slime coated scale of a dragon named Goob'lath.

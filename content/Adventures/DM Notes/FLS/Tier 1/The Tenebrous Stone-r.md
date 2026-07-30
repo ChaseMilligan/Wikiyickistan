@@ -10,7 +10,7 @@ The **[[Blacklung Quarry]]**, one of Stickyickistan's oldest sources of Arcanite
 
 About two ten days ago the quarry's owner, the dwarf **[[Roggan Stonebrah]]**, sent **Brother Highwind** of the **[[Order of the Emerald Breath]]** to investigate, but the monk also never returned. Ever since Brother Highwind's disappearance, a foul-smelling [[Arcannabis]] smoke drifts up the elevator shaft from the mine below. Those who've huffed the stank speak of horrific visions and waking nightmares.
 
-A very desperate Roggan now offers **300 gp** to anyone willing to enter the quarry, find Brother Highwind, and put an end to whatever evil has taken root within. The bounty has been posted to the **Free League of Stickyickistan's ([[FLS]])** bounty board called **[[The Rolling Papers]]**. One of your characters has taken the contract, and recruited the rest of the characters to take on the quest with them.
+A very desperate Roggan now offers **300 gp** to anyone willing to enter the quarry, find Brother Highwind, and put an end to whatever evil has taken root within. The bounty has been posted to the **Free League of Stickyickistan's ([[Free League of Stickyickistan]])** bounty board called **[[The Rolling Papers]]**. One of your characters has taken the contract, and recruited the rest of the characters to take on the quest with them.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Its reputation is simple: monster carvin’, item craftin’, familiar findin’, drink drinkin’, and, for the daring, a seemingly endless supply of monsters in need of slayin’.
 
-The tavern is closely associated with [[Heliana]], Director of her own Monster Hunting Guild and author of [[Heliana's Guide to Monster Hunting]]. In the Free League of Stickyickistan ([[FLS]]), the Loot Tavern can be used as a recurring quest hub, planar rest stop, crafting location, and source of monster-hunting contracts.
+The tavern is closely associated with [[Heliana]], Director of her own Monster Hunting Guild and author of [[Heliana's Guide to Monster Hunting]]. In the Free League of Stickyickistan ([[Free League of Stickyickistan]]), the Loot Tavern can be used as a recurring quest hub, planar rest stop, crafting location, and source of monster-hunting contracts.
 
 > “Fancy yourself a hunter? Ready to do the research, find the clues, and prepare for battle against fearsome foes? No? Well, have a firewhiskey and then let me ask you again…”
 >
@@ -83,3 +83,9 @@ The Loot Tavern’s relationship to Stickyickistan is practical, strange, and pr
 Some claim [[The Rolling Papers]] has tried to review the tavern multiple times, but the assigned journalists keep returning three weeks late with no notes, new tattoos, and extremely strong opinions about [[firewhiskey]].
 
 Others insist [[The Roach Clip]] maintains a permanent dead drop somewhere under Lut’s Bar. The tavern denies this, mostly because admitting it would require paperwork.
+
+## Loot Tavern IRL
+
+**[Loot Tavern]((https://loottavern.com/)** is a third-party tabletop RPG publisher best known for creating flavorful, high-production-value 5e-compatible content. Their work often focuses on imaginative magic items, monsters, subclasses, adventures, and setting material with a strong sense of personality and presentation.
+
+In-world or at the table, Loot Tavern content is useful as a source of unusual treasure, eccentric NPC inspiration, and ready-to-drop-in mechanics. Their products tend to lean into bold fantasy concepts, striking art, and memorable item design, making them a good fit for campaigns that enjoy high-magic rewards, weird curiosities, and loot that feels more distinctive than standard treasure table results.

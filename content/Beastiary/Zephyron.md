@@ -1,0 +1,1 @@
+Zephyron the Tempest's Roar was a young blue dragon that was hatched in the far away lands of [[Greyhawk]].  Slain by the members of ASSCUNT, and components were used by [[Zynvel]] to craft a magic double bladed scimitar.

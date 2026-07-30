@@ -1,6 +1,6 @@
 # [[The Loot Tavern]]
 
-The Free League of Stickyickistan makes frequent use of resources from **The Loot Tavern**, especially material from *[[Heliana’s Guide to Monster Hunting]]* and related Loot Tavern releases. Their work fits the tone of the setting well: strange monsters, colorful NPCs, unusual magic items, crafting systems, monster-hunting procedures, and just enough absurdity to feel right at home in Stickyickistan.
+The Free League of Stickyickistan makes frequent use of resources from **The Loot Tavern**, especially material from *[[Heliana's Guide to Monster Hunting]]* and related Loot Tavern releases. Their work fits the tone of the setting well: strange monsters, colorful NPCs, unusual magic items, crafting systems, monster-hunting procedures, and just enough absurdity to feel right at home in Stickyickistan.
 
 Loot Tavern content is often used as inspiration, reference material, or direct mechanical support for Free League adventures. DMs may pull from Loot Tavern monsters, harvesting rules, crafting options, magic items, subclasses, spells, and encounter ideas when building sessions, as long as they are comfortable running the material and it fits the table.
 
