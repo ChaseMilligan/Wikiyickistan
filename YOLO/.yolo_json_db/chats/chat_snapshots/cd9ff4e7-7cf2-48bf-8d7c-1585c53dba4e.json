@@ -253,6 +253,17 @@
       ],
       "createdAt": 1785447155537,
       "updatedAt": 1785447155537
+    },
+    "6da34d99": {
+      "hash": "6da34d99",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Bicephal Wyrmhole.md`\n  - L3 # Description\n  - L14 # Stat Block\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat this info and add to Bicephal Wyrmhole.md :\n\nGraviturgic Warp-hilt\nWondrous Item, Uncommon (Socketable,\nRequires Attunement)\nComponent: Pouch of Aberration (Bicephal Wyrmhole)\nClaws\nRunning around from foe to foe, hunting them\nlike prey, is such a waste of energy. Being a truly\nformidable opponent, one with gravitas, means\nbringing your enemies to you. Let them waste their\nstrength running towards their own slaughter.\nThis distorted, unnatural sword hilt can be\nsocketed onto any magical melee weapon,\nadapting its bizarre geometry to the hilt or\nhandle of its host.\nGravity Well. Once on each of your turns when you\nmake an attack roll using the socketed weapon,\nyou can attack a creature 5 feet farther than your\nnormal reach with the weapon. On a hit, the creature\nis pulled 5 feet directly towards you.\nConsuming Force. As a Bonus Action, you can flourish\nthe socketed weapon and create a miniscule\nblack hole at a point you can see within 20 feet of\nyou. Each creature within 15 feet of the point must\nsucceed on a DC 13 Strength saving throw or\nbe pulled to the unoccupied space nearest the\npoint. When this property is used, roll 1d4. On a 1,\nthe black hole consumes the magic of the socketed\nweapon; the hilt and weapon lose their magical\nproperties until the next dawn.\nArtist: Michelle Mueller\nRare variant: Increase the DC to 15. Creatures\nthat fail their saving throw against the Consuming\nForce property are knocked Prone.\nVery Rare variant: Increase the DC to 16 and the\nreach and the distance pulled of the Gravity Well\nproperty to 10 feet each. Creatures that fail their\nsaving throw against the Consuming Force property\nare knocked Prone.\n\n"
+        }
+      ],
+      "createdAt": 1785447526406,
+      "updatedAt": 1785447526406
     }
   }
 }
