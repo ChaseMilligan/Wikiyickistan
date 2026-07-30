@@ -1,6 +1,6 @@
-### A Stickyickistan Adventure for Four to Five 3rd-Level Characters
+*A Stickyickistan Adventure for Four to Five 3rd-Level Characters*
 
-Crimson Candleworks is designed for four to five 3rd-level characters and is optimized for five 3rd-level characters. This adventure should be completed in four hours or less.
+Crimson Candleworks is optimized for five 3rd-level characters. This adventure should be completed in four hours or less.
 
 The adventure takes place in the city of [[Stickyickistan]], where a seemingly ordinary candle maker's workshop conceals an illegal Bloodwalker OG distribution operation beneath its floorboards. Hired by the [[Tribunal Highblade Coalition]], the characters investigate the business, uncover its hidden cellar, and dismantle the criminal enterprise operating below.
 
