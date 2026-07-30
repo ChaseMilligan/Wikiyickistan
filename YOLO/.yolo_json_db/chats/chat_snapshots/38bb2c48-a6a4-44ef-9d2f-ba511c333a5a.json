@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "15644332": {
+      "hash": "15644332",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Misc/The Rolling Papers.md`\n  - L9 # Adventure Advertisement Template\n  - L52 ### Example Ad\n  - L96 ## Relation to The Roach Clip\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nThe Rolling Papers.md Make a new Example ad. You can't use the Silt Road because it is an underground trade network\n\n"
+        }
+      ],
+      "createdAt": 1785387119909,
+      "updatedAt": 1785387119909
+    },
+    "0fc55029": {
+      "hash": "0fc55029",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Misc/The Rolling Papers.md`\n  - L9 # Adventure Advertisement Template\n  - L53 # Example: Monsters at the Northbourne Orchard Festival\n  - L62 ### Headline\n  - L66 ### Public Notice\n  - L74 ### What Players Should Know\n  - L81 ### Rewards Teaser\n  - L85 ### Sign-Up\n  - L93 # Relation to The Roach Clip\n- `content/Misc/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L66 # Example: Smoke on the Silt Road\n  - L77 ### Coded Notice\n  - L81 ### What the Job Actually Is\n  - L85 ### What Players Should Know\n  - L93 ### Rewards Teaser\n  - L97 ### Sign-Up\n  - L105 # Relationship to The Rolling Papers\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nThe Rolling Papers.md needs a \"What gets posted here\" section like The Roach Clip.md \n\n"
+        }
+      ],
+      "createdAt": 1785388090288,
+      "updatedAt": 1785388090288
+    }
+  }
+}

@@ -925,10 +925,2156 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Help me give my friends incentive to run games in this setting. I want them to make adventures for the Free League of Stickyickistan. I want to have some sort of reward system for DMing adventures of the four tiers.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "5e06dd9e-2223-4180-8be7-3ec06a7eb92e",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 21:43 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_1qP6v6C85F0SFfDBJw4CjTnG",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/House League/Free League of Stickyickistan/WANTED! Dungeon Masters.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/House League/Free League of Stickyickistan/WANTED! Dungeon Masters.md\"]}"
+          }
+        }
+      ],
+      "id": "4747812e-b829-42bd-895a-7e28a7375cd9",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 15697,
+          "completion_tokens": 39,
+          "total_tokens": 15736
+        },
+        "durationMs": 3261,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_1qP6v6C85F0SFfDBJw4CjTnG",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/House League/Free League of Stickyickistan/WANTED! Dungeon Masters.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/House League/Free League of Stickyickistan/WANTED! Dungeon Masters.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_1qP6v6C85F0SFfDBJw4CjTnG\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/House League/Free League of Stickyickistan/WANTED! Dungeon Masters.md\",\n      \"ok\": true,\n      \"totalLines\": 0,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "ec6e5585-03c1-4bfb-9185-43e6eaf02e2d",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a clean incentive system you can drop into `WANTED! Dungeon Masters.md` or adapt into the ruleset. I’d frame it as **DM Rewards** that scale by adventure tier and by how much work the DM contributes.\n\n<yolo_block filename=\"content/House League/Free League of Stickyickistan/WANTED! Dungeon Masters.md\">\n<<<<<<< APPEND\n# WANTED! Dungeon Masters\n\nThe Free League of Stickyickistan thrives when more people step behind the screen. If you have a weird idea, a dangerous dungeon, a political disaster, a haunted tavern, or a villain with a grudge, we want you to run it.\n\nYou do **not** need to be a perfect DM. You do **not** need to write a novel. You only need enough of an adventure to give the table a fun session.\n\n## Why Run Games?\n\nRunning adventures helps the whole League:\n\n- More sessions can happen.\n- More characters get chances to level.\n- More corners of Stickyickistan get explored.\n- More players get to tell stories that matter to the setting.\n- DMs get to add their own weirdness to the world.\n\nTo encourage more people to run games, DMs earn rewards when they prepare and run adventures for the Free League of Stickyickistan.\n\n## DM Reward Principles\n\nDM rewards should be meaningful, but not so strong that they become mandatory or break the campaign.\n\nThe goals are:\n\n- Reward the time and creativity spent preparing adventures.\n- Encourage DMs to run games across all four tiers.\n- Let DMs benefit their own characters without overshadowing regular play.\n- Keep rewards simple enough to track.\n- Make sure rewards feel connected to the League.\n\n## Adventure Tiers\n\nDM rewards are based on the tier of the adventure they run.\n\n| Adventure Tier | Character Levels | Typical Scope |\n| -------------- | ---------------- | ------------- |\n| Tier 1 | 1 - 4 | Local trouble, small dungeons, strange jobs, dangerous errands |\n| Tier 2 | 5 - 10 | Regional threats, major monsters, faction conflict, dangerous expeditions |\n| Tier 3 | 11 - 16 | World-shaking problems, planar threats, legendary villains |\n| Tier 4 | 17 - 20 | Mythic conflicts, reality-threatening events, gods, archfiends, ancient powers |\n\n## DM Credits\n\nWhen you run a Free League adventure, you earn **DM Credits** based on the tier of the adventure.\n\n| Adventure Tier | DM Credits Earned |\n| -------------- | ----------------- |\n| Tier 1 | 1 DM Credit |\n| Tier 2 | 2 DM Credits |\n| Tier 3 | 3 DM Credits |\n| Tier 4 | 4 DM Credits |\n\nAn adventure must be meaningfully prepared and run for a table to earn DM Credits. The DM should provide enough structure for a complete session or adventure, including a clear hook, meaningful encounters, and rewards appropriate to the tier.\n\nA DM may also earn **+1 bonus DM Credit** if the adventure adds reusable material to the setting, such as:\n\n- A new location.\n- A recurring NPC.\n- A faction, monster, shop, dungeon, or settlement.\n- A written adventure outline that another DM could run.\n- A meaningful change to the Free League setting.\n\nThe bonus credit should only be awarded once per adventure.\n\n## Spending DM Credits\n\nDM Credits can be spent on rewards for one of your Free League characters.\n\n| Cost | Reward |\n| ---- | ------ |\n| 1 DM Credit | Gain 100 gp × your character’s tier. |\n| 1 DM Credit | Gain 10 downtime days. |\n| 1 DM Credit | Gain one common magic item. |\n| 2 DM Credits | Gain one consumable magic item appropriate to your character’s tier. |\n| 2 DM Credits | Gain one story contact, minor title, favor, or faction connection. |\n| 3 DM Credits | Gain one uncommon magic item. |\n| 4 DM Credits | Gain one rare magic item. The character must be Tier 2 or higher. |\n| 6 DM Credits | Gain one very rare magic item. The character must be Tier 3 or higher. |\n| 8 DM Credits | Gain one legendary magic item. The character must be Tier 4. |\n| 4 DM Credits | Gain one level, following the normal level limits and tier restrictions of the campaign. |\n\nDM Credit rewards are subject to DM approval. If a reward would not make sense for the character, the campaign, or the current tier of play, work with the DM to choose something similar.\n\n## Magic Item Limits Still Apply\n\nMagic items gained with DM Credits count against the normal number of magic items a character can bring to a session.\n\nIf a character earns more magic items than they can bring, they can keep the extras, but they must choose which ones are active for each session.\n\nLegendary magic items may only be used in Tier 4 play.\n\n## Leveling with DM Credits\n\nA character may spend DM Credits to gain a level, but they cannot gain more than one level this way between sessions.\n\nYou cannot use DM Credits to level a character beyond the tier of the adventures currently being played unless the DM approves it.\n\nDM Credit leveling should help DMs keep up with the rest of the group, not skip past the campaign.\n\n## Adventure Creation Rewards\n\nIf you write an adventure for another DM to run, but you do not run it yourself, you may earn partial credit.\n\n| Contribution | Reward |\n| ------------ | ------ |\n| Adventure seed, hook, or encounter idea | No automatic reward, but thank you |\n| Usable one-page adventure outline | 1 DM Credit |\n| Full adventure document another DM can run | DM Credits equal to half the adventure’s tier, rounded up |\n| Major setting document, faction, dungeon, or region used by multiple DMs | 1 - 3 DM Credits, based on usefulness |\n\nThe same adventure cannot grant full DM Credits for both writing and running unless the group agrees it involved substantial separate work.\n\n## First-Time DM Bonus\n\nThe first time someone runs a Free League adventure, they earn **+1 bonus DM Credit**.\n\nThis bonus exists to encourage people to try DMing without worrying about being perfect.\n\n## Tier Tour Bonus\n\nIf a DM runs at least one adventure in each of the four tiers, they earn a special reward:\n\n**League Architect.** Choose one of your Free League characters. That character gains a unique story award, title, bastion feature, faction role, or custom magic item approved by the group.\n\nThis reward should be memorable and setting-specific, but it should not be stronger than a normal magic item appropriate to the character’s tier.\n\n## Suggested Story Awards\n\nInstead of taking a mechanical reward, a DM may spend DM Credits on story rewards. Examples include:\n\n- A tavern, shop, ship, tower, or hideout.\n- A noble title or official League position.\n- A reliable NPC ally.\n- Membership in a secret faction.\n- A custom spell, recipe, crafting formula, or Arcannabis strain.\n- A unique mount or companion.\n- A personalized magic item with mostly flavorful abilities.\n- A rumor network or information source.\n- A favor owed by a powerful creature.\n\nStory rewards should create more adventure opportunities, not solve every problem automatically.\n\n## DM Logs\n\nDMs should track the adventures they run and the DM Credits they earn.\n\nA DM log should include:\n\n- Adventure title.\n- Date run.\n- Tier.\n- Players.\n- Characters involved.\n- DM Credits earned.\n- Any setting additions or story consequences.\n- Any DM Credits spent.\n\n## Final Say\n\nThe Free League should be generous with DM rewards, but the group should protect the fun and balance of the campaign.\n\nIf a reward seems too strong, too vague, or too disruptive, adjust it.\n\nThe point is simple:\n\n**Run cool games. Get cool rewards. Make Stickyickistan weirder.**\n>>>>>>> END\n</yolo_block>",
+      "id": "9bc96daf-5243-4392-a0f3-2be0f718cfdf",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 15872,
+          "completion_tokens": 1639,
+          "total_tokens": 17511
+        },
+        "durationMs": 31304,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "I want the group of DMs to be like its own guild, or like we can roleplay even as DMs like we are in a cabal of otherworldly beings crafting tribulations for the inhabitants of the planes",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "8b520660-6087-4c40-96d3-342078582dda",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 21:58 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely. Make the DM group an **in-universe meta-guild**: half secret society, half cosmic writers’ room, half extradimensional HR department for suffering.\n\nHere’s a version of the concept you can add near the top of `WANTED! Dungeon Masters.md`, probably after the opening section.\n\n<yolo_block filename=\"content/House League/Free League of Stickyickistan/WANTED! Dungeon Masters.md\">\n<<<<<<< INSERT_AFTER\n[anchor]\nThe Free League of Stickyickistan thrives when more people step behind the screen. If you have a weird idea, a dangerous dungeon, a political disaster, a haunted tavern, or a villain with a grudge, we want you to run it.\n\nYou do **not** need to be a perfect DM. You do **not** need to write a novel. You only need enough of an adventure to give the table a fun session.\n=======\n[new]\n\n## The Cabal of Tribulation\n\nThe Dungeon Masters of the Free League are not merely referees, organizers, or adventure-writers.\n\nThey are members of **the Cabal of Tribulation**: a secretive fellowship of otherworldly beings, fate-weavers, planar bureaucrats, doom-artisans, trickster-gods, retired villains, prophetic goblins, and cosmic weirdos who gather beyond the veil to design trials for the inhabitants of the planes.\n\nIn character, the Cabal is the hidden hand behind strange jobs, impossible coincidences, cursed treasure maps, conveniently unlocked dungeon doors, suspiciously helpful tavern rumors, and villains who monologue just long enough for heroes to interrupt them.\n\nOut of character, the Cabal is the group of DMs who help create, organize, and run adventures for the Free League of Stickyickistan.\n\nWhen you run a game, you are not just “DMing.”\n\nYou are convening the Cabal.\n\n### What the Cabal Does\n\nMembers of the Cabal create tribulations for adventurers to overcome. These tribulations may include:\n\n- Dungeons.\n- Mysteries.\n- Monster hunts.\n- Political disasters.\n- Planar accidents.\n- Curses.\n- Rival adventuring parties.\n- Villains with extremely normal and reasonable hobbies.\n- Taverns that should not exist.\n- Artifacts no one should have touched.\n- Moral dilemmas that were definitely avoidable.\n- Goblins with access to infrastructure.\n\nThe Cabal does not exist to punish players. It exists to create glorious problems.\n\nA good tribulation should be dangerous, interesting, and survivable enough that the heroes can make terrible decisions inside it.\n\n### Cabal Roleplay\n\nDMs are encouraged to treat the Cabal as an in-universe guild, secret order, or cosmic workplace.\n\nYou may give yourself a Cabal title, persona, domain, mask, office, or absurd bureaucratic role.\n\nExamples include:\n\n- The Minister of Unopened Doors.\n- The Archivist of Bad Ideas.\n- The Goblin Laureate of Consequences.\n- The Auditor of Heroic Overconfidence.\n- The Keeper of the Unlabeled Potion Shelf.\n- The Baron of Scheduling Conflicts.\n- The Saint of Unbalanced Encounters.\n- The Cartographer of Places That Bite.\n- The Warden of Load-Bearing Lore.\n- The Assistant Undersecretary of Ominous Fog.\n\nCabal roleplay should be fun, optional, and never required to run games. It is a way for DMs to build a shared identity and make adventure creation feel like part of the setting.\n\n### Cabal Proceedings\n\nWhen a DM proposes an adventure, they may present it as a **Tribulation** before the Cabal.\n\nA Tribulation might include:\n\n- A title.\n- The intended tier.\n- The planar region, settlement, dungeon, or problem involved.\n- The kind of trouble being inflicted on the heroes.\n- Any factions, monsters, or NPCs involved.\n- Whether the adventure adds anything permanent to the setting.\n\nThe Cabal may then offer suggestions, complications, connections to existing lore, or rewards.\n\nThis should be collaborative, not restrictive. The Cabal should help DMs make adventures stronger, not bury them in approval processes.\n\n### Cabal Ranks\n\nAs DMs run adventures, they may gain standing within the Cabal.\n\n| Cabal Standing | Requirement |\n| -------------- | ----------- |\n| Initiate of Tribulation | Run your first Free League adventure |\n| Weaver of Woes | Run three Free League adventures |\n| Architect of Adversity | Run at least one Tier 2 or higher adventure |\n| Harbinger of Calamity | Run at least one Tier 3 or higher adventure |\n| Demiurge of Disaster | Run at least one Tier 4 adventure |\n| Grand Menace of the League | Run at least one adventure in each of the four tiers |\n\nCabal standing is mostly for fun, bragging rights, and roleplay. It may also be used as inspiration for story awards, titles, or special rewards.\n\n### Cabal Motto\n\n> **“We do not kill the heroes. We give them excellent reasons to almost die.”**\n\n>>>>>>> END\n</yolo_block>",
+      "id": "e5fb9791-bc90-4662-8acd-f039729b8c01",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 17593,
+          "completion_tokens": 1049,
+          "total_tokens": 18642,
+          "cache_read_input_tokens": 14848
+        },
+        "durationMs": 20355,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give me a short write up about The Rolling Papers newspaper in the setting",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "3824079e-f601-4ea8-819c-92564a2c762b",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 22:29 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a short write-up you can use:\n\n<yolo_block filename=\"content/Misc/The Rolling Papers.md\">\n<<<<<<< APPEND\n# The Rolling Papers\n\n**The Rolling Papers** is Stickyickistan’s most widely circulated newspaper, equal parts investigative journalism, rumor mill, scandal sheet, and rolling tray liner. Its reporters chase stories across taverns, trade roads, noble courts, dungeon entrances, and suspiciously smoking back alleys, publishing whatever they can verify, mostly verify, or at least make entertaining.\n\nThe paper is famous for bold headlines, anonymous sources, dramatic woodcut illustrations, and a surprisingly consistent record of being right about things no one wanted printed. Adventurers often find their exploits exaggerated in its pages, while villains, politicians, guildmasters, and minor gods dread seeing their names above the fold.\n\nIts motto is simple:\n\n> **“If it burns, bleeds, bribes, or blazes, it belongs in The Rolling Papers.”**\n>>>>>>> END\n</yolo_block>",
+      "id": "5be20a3a-0f3f-4f45-b5b9-0d506d1a6f40",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 18659,
+          "completion_tokens": 207,
+          "total_tokens": 18866,
+          "cache_read_input_tokens": 14848
+        },
+        "durationMs": 5327,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Lets add a template for DMs making ads in the rolling papers",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "3698483f-1843-464b-8f19-2bd2a4254c0f",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 22:33 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Add this to `The Rolling Papers.md`:\n\n<yolo_block filename=\"content/Misc/The Rolling Papers.md\">\n<<<<<<< APPEND\n\n## Adventure Advertisement Template\n\nDMs can advertise upcoming Free League adventures as notices, classifieds, or dramatic front-page warnings in **The Rolling Papers**.\n\nUse the following template when posting an adventure ad:\n\n```markdown\n## [Adventure Title]\n\n**Submitted by:** [DM name or Cabal title]  \n**Tier:** [Tier 1 / Tier 2 / Tier 3 / Tier 4]  \n**Recommended Level:** [Character level or range]  \n**Expected Length:** [One-shot / 2 sessions / Mini-arc / Ongoing]  \n**Tone:** [Comedy, horror, mystery, heroic fantasy, dungeon crawl, political chaos, etc.]  \n**Location:** [Where the adventure begins or takes place]  \n\n### Headline\n\n> [Write the dramatic Rolling Papers headline here.]\n\n### Public Notice\n\n[Write the in-universe ad, rumor, job posting, warning, wanted notice, classified, or article hook that characters would see.]\n\n### What Players Should Know\n\n- **Content / vibe:** [Anything players should know about tone, themes, or boundaries.]\n- **Combat / roleplay / exploration mix:** [Example: Combat-heavy, social mystery, balanced, exploration-focused.]\n- **Character hooks:** [Why adventurers might care.]\n- **Special notes:** [Required level, faction ties, unusual rules, expected danger, etc.]\n\n### Rewards Teaser\n\n[Optional hint at treasure, favors, story awards, magic items, or consequences.]\n\n### Sign-Up\n\n**DM:** [Name]  \n**Date / Time:** [Session date and time]  \n**Seats:** [Number of players]  \n**How to join:** [Where players should RSVP]\n```\n\n### Example Ad\n\n```markdown\n## Smoke Over Soggybottom\n\n**Submitted by:** The Auditor of Heroic Overconfidence  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Swamp comedy, monster hunt, light horror  \n**Location:** Soggybottom Bog  \n\n### Headline\n\n> **Local Frog Farmers Report “Unreasonably Tall Heron” Stealing Livestock**\n\n### Public Notice\n\nCitizens of Soggybottom Bog seek brave, waterproof, and preferably expendable adventurers to investigate the disappearance of several prize frogs, two boats, one shed, and Mayor Gribbit’s cousin, who may or may not have deserved it.\n\nWitnesses describe the culprit as “a bird,” “a bad omen,” “too many legs for a bird,” and “absolutely not my problem.”\n\nInterested parties should report to the Crooked Lily Tavern before sunset. Bring boots.\n\n### What Players Should Know\n\n- **Content / vibe:** Gross swamp humor, spooky bird monster, light body horror.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation and a likely boss fight.\n- **Character hooks:** Good for local heroes, monster hunters, bounty seekers, and anyone who owes money in town.\n- **Special notes:** Expect difficult terrain and bad smells.\n\n### Rewards Teaser\n\nThe town is offering coin, a questionable swamp charm, and one favor from Mayor Gribbit.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat.\n```\n>>>>>>> END\n</yolo_block>",
+      "id": "c565d3ba-7e1e-465a-8772-60c56c84e3ae",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 18920,
+          "completion_tokens": 725,
+          "total_tokens": 19645,
+          "cache_read_input_tokens": 16896
+        },
+        "durationMs": 16771,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you use locations and NPCs from the lore",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "f78a8058-9dae-4397-87fb-cdc976b5ec5e",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 22:41 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_mdSnoM0lfRfY2wPbW7pjpEY8",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "query": "Free League of Stickyickistan locations NPCs lore",
+              "path": "content",
+              "maxResults": 10,
+              "mode": "hybrid"
+            },
+            "rawText": "{\"query\":\"Free League of Stickyickistan locations NPCs lore\",\"path\":\"content\",\"maxResults\":10,\"mode\":\"hybrid\"}"
+          }
+        },
+        {
+          "id": "call_lXejXNuedg0HcNOq13vEG1G1",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Misc/The Rolling Papers.md"
+              ],
+              "startLine": 34,
+              "endLine": 93
+            },
+            "rawText": "{\"paths\":[\"content/Misc/The Rolling Papers.md\"],\"startLine\":34,\"endLine\":93}"
+          }
+        }
+      ],
+      "id": "f0285d36-29cf-4b02-bd43-e98e85b1f8b5",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 19682,
+          "completion_tokens": 96,
+          "total_tokens": 19778
+        },
+        "durationMs": 3077,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_mdSnoM0lfRfY2wPbW7pjpEY8",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "query": "Free League of Stickyickistan locations NPCs lore",
+                "path": "content",
+                "maxResults": 10,
+                "mode": "hybrid"
+              },
+              "rawText": "{\"query\":\"Free League of Stickyickistan locations NPCs lore\",\"path\":\"content\",\"maxResults\":10,\"mode\":\"hybrid\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"hybrid\",\n  \"effectiveMode\": \"keyword\",\n  \"fallbackReason\": \"No embedding model configured. Fell back to keyword search.\",\n  \"scope\": \"all\",\n  \"query\": \"Free League of Stickyickistan locations NPCs lore\",\n  \"path\": \"content\",\n  \"results\": [\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Character Building.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/DMs Aid.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Free League Ruleset.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/WANTED! Dungeon Masters.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/Free League of Drakkenheim.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/Free League of the Backlands.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/private/Free League of Drakkenheim.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/private/Free League of the Backlands.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Skarguther Dungleboof.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Skarguther Dungleboof.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_lXejXNuedg0HcNOq13vEG1G1",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Misc/The Rolling Papers.md"
+                ],
+                "startLine": 34,
+                "endLine": 93
+              },
+              "rawText": "{\"paths\":[\"content/Misc/The Rolling Papers.md\"],\"startLine\":34,\"endLine\":93}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_lXejXNuedg0HcNOq13vEG1G1\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Misc/The Rolling Papers.md\",\n      \"ok\": true,\n      \"totalLines\": 93,\n      \"returnedRange\": {\n        \"startLine\": 34,\n        \"endLine\": 93\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"34|\\n35|- **Content / vibe:** [Anything players should know about tone, themes, or boundaries.]\\n36|- **Combat / roleplay / exploration mix:** [Example: Combat-heavy, social mystery, balanced, exploration-focused.]\\n37|- **Character hooks:** [Why adventurers might care.]\\n38|- **Special notes:** [Required level, faction ties, unusual rules, expected danger, etc.]\\n39|\\n40|### Rewards Teaser\\n41|\\n42|[Optional hint at treasure, favors, story awards, magic items, or consequences.]\\n43|\\n44|### Sign-Up\\n45|\\n46|**DM:** [Name]  \\n47|**Date / Time:** [Session date and time]  \\n48|**Seats:** [Number of players]  \\n49|**How to join:** [Where players should RSVP]\\n50|```\\n51|\\n52|### Example Ad\\n53|\\n54|```markdown\\n55|## Smoke Over Soggybottom\\n56|\\n57|**Submitted by:** The Auditor of Heroic Overconfidence  \\n58|**Tier:** Tier 1  \\n59|**Recommended Level:** 3 - 4  \\n60|**Expected Length:** One-shot  \\n61|**Tone:** Swamp comedy, monster hunt, light horror  \\n62|**Location:** Soggybottom Bog  \\n63|\\n64|### Headline\\n65|\\n66|> **Local Frog Farmers Report “Unreasonably Tall Heron” Stealing Livestock**\\n67|\\n68|### Public Notice\\n69|\\n70|Citizens of Soggybottom Bog seek brave, waterproof, and preferably expendable adventurers to investigate the disappearance of several prize frogs, two boats, one shed, and Mayor Gribbit’s cousin, who may or may not have deserved it.\\n71|\\n72|Witnesses describe the culprit as “a bird,” “a bad omen,” “too many legs for a bird,” and “absolutely not my problem.”\\n73|\\n74|Interested parties should report to the Crooked Lily Tavern before sunset. Bring boots.\\n75|\\n76|### What Players Should Know\\n77|\\n78|- **Content / vibe:** Gross swamp humor, spooky bird monster, light body horror.\\n79|- **Combat / roleplay / exploration mix:** Balanced, with investigation and a likely boss fight.\\n80|- **Character hooks:** Good for local heroes, monster hunters, bounty seekers, and anyone who owes money in town.\\n81|- **Special notes:** Expect difficult terrain and bad smells.\\n82|\\n83|### Rewards Teaser\\n84|\\n85|The town is offering coin, a questionable swamp charm, and one favor from Mayor Gribbit.\\n86|\\n87|### Sign-Up\\n88|\\n89|**DM:** Chase  \\n90|**Date / Time:** TBD  \\n91|**Seats:** 4 - 5 players  \\n92|**How to join:** Post in the Free League chat.\\n93|```\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 34,
+                  "endLine": 93,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "16e2a730-ed80-4c7b-9e14-42ff67c0fd27",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_PoH1NWrliR4lPsw2rIA8hX4L",
+          "name": "yolo_local__fs_list",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/NPCs",
+              "depth": 3,
+              "maxResults": 100
+            },
+            "rawText": "{\"path\":\"content/NPCs\",\"depth\":3,\"maxResults\":100}"
+          }
+        },
+        {
+          "id": "call_4iKVoohzshujcFOeQ0lVKl8G",
+          "name": "yolo_local__fs_list",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content",
+              "depth": 2,
+              "maxResults": 200
+            },
+            "rawText": "{\"path\":\"content\",\"depth\":2,\"maxResults\":200}"
+          }
+        }
+      ],
+      "id": "9b9139f7-d074-4397-94ce-aecbc2110d28",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 21071,
+          "completion_tokens": 77,
+          "total_tokens": 21148,
+          "cache_read_input_tokens": 17920
+        },
+        "durationMs": 2912,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_PoH1NWrliR4lPsw2rIA8hX4L",
+            "name": "yolo_local__fs_list",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/NPCs",
+                "depth": 3,
+                "maxResults": 100
+              },
+              "rawText": "{\"path\":\"content/NPCs\",\"depth\":3,\"maxResults\":100}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_list\",\n  \"path\": \"content/NPCs\",\n  \"scope\": \"all\",\n  \"depth\": 3,\n  \"entries\": [\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/NPCs/minor\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/NPCs/private\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/NPCs/Quest Givers\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Arcana Belle.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Arcana Belle.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Baxter “Bax” Vance.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Baxter “Bax” Vance.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Bogbolz.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Bogbolz.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Duke Doobius Highblade.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Duke Doobius Highblade.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Ezra Astallon.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Ezra Astallon.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Grimjaw.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Grimjaw.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Hazeus Tokenheim.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Hazeus Tokenheim.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Jimmyjock Labingi.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Jimmyjock Labingi.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Juno Lowry.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Juno Lowry.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lady Elessara Varkos.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lady Elessara Varkos.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lady Isolde Northbourne.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lady Isolde Northbourne.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lord Eldric Northbourne.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lord Eldric Northbourne.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lord Taron Varkos.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lord Taron Varkos.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lutecia.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Lutecia.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Marcellus “Marlo” Wick.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Marcellus “Marlo” Wick.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Peeper.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Peeper.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Roggan Stonebrah.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Ronan “Redtooth” Northbourne.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Ronan “Redtooth” Northbourne.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Sibrek Hollowspore.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Sibrek Hollowspore.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Sir Davrik Varkos.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Sir Davrik Varkos.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Svarog 'Blacktide' Valesk.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Svarog 'Blacktide' Valesk.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Tessara “Tess” Northbourne.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Tessara “Tess” Northbourne.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Thordal 'Three Chins' Stonemug.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Thordal 'Three Chins' Stonemug.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Valmorra the Hollowed.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Valmorra the Hollowed.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Valtair Northbourne.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Valtair Northbourne.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Zook.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/minor/Zook.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Kezrin Malvek.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Kezrin Malvek.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Sir Ashwyn Highblade.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Sir Ashwyn Highblade.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Sizzle Scorchmane.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Sizzle Scorchmane.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Solmenda.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Solmenda.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Thistlebog.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Thistlebog.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Velindra Ashveil.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Velindra Ashveil.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/private/Xavier Wulf.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Bezol Beefgut.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Heliana.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Heliana.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Humperdink.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Humperdink.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Kezrin Malvek.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Kezrin Malvek.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/L'Arsene Upin.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/L'Arsene Upin.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Skarguther Dungleboof.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Skarguther Dungleboof.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Zara Blackthorn.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/NPCs/Quest Givers/Zara Blackthorn.mdZone.Identifier\",\n      \"depth\": 2\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_4iKVoohzshujcFOeQ0lVKl8G",
+            "name": "yolo_local__fs_list",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content",
+                "depth": 2,
+                "maxResults": 200
+              },
+              "rawText": "{\"path\":\"content\",\"depth\":2,\"maxResults\":200}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_list\",\n  \"path\": \"content\",\n  \"scope\": \"all\",\n  \"depth\": 2,\n  \"entries\": [\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Adventures\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Arcannabis\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Factions\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Free League of Stickyickistan\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/History\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/House League\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Images\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/index.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Items\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Misc\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/MONs\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Mythmos.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/NPCs\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/PCs\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/POIs\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Regions\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Religion\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Sources\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Species\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Stickyickistan.md\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/YOLO\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Zahur Entertainment Network\",\n      \"depth\": 1\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Adventures/DM Notes\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Arcannabis Cultivation.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Arcannabis Cultivation.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Arcannabis System Rework.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Arcannabis System Rework.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Arcannabis.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Arcannabis.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Fizzlebud.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Fizzlebud.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Impairment Levels.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Arcannabis/Impairment Levels.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Acolytes of Shadash.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Acolytes of Shadash.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Amethyst Academy.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Amethyst Academy.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Factions/Ashen Shadow Society\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Ashenfey.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Ashenfey.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/BASED NEGATIVE SQUAD.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/BASED NEGATIVE SQUAD.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Blighted Ones.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Blighted Ones.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Cough City Crew.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Cough City Crew.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Cult of Goob'lath.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Cult of Goob'lath.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Dungsweepers.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Dungsweepers.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Followers of the Falling Fire.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Followers of the Falling Fire.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Four Founding Houses.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Four Founding Houses.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Frockfit Builder Clan.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Frockfit Builder Clan.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Heralds of Dust.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Heralds of Dust.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Hollowsquad.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Hooded Lanterns.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Hooded Lanterns.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Highblade.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Highblade.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Nevercough.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Nevercough.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Northbourne.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Northbourne.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Stonemug.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Stonemug.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Varkos.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/House Varkos.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Knights of the Silver Order.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Knights of the Silver Order.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Mandem on Booftown.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Mandem on Booftown.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/N.E.R.D.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Nevercough Tribunal.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Nevercough Tribunal.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Order of the Emerald Breath.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Factions/private\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Queen's Men.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Queen's Men.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Shadow Wizard Money Gang.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Shadow Wizard Money Gang.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Drowned Brotherhood.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Drowned Brotherhood.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Forgewright Guild.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Forgewright Guild.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Iron Sovereign.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Iron Sovereign.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Norfies.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Norfies.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Plague Plugz.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Plague Plugz.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Seekers of the Vein.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/The Seekers of the Vein.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Tribunal Highblade Coalition.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Tribunal Highblade Coalition.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Verdanfey.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Verdanfey.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Zooka Mire Collective.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Factions/Zooka Mire Collective.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Character Building.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/DMs Aid.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Free League Ruleset.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/WANTED! Dungeon Masters.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/History/Amethyst Blight.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/History/Amethyst Blight.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/History/Emerald Blight.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/History/Emerald Blight.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/History/Human Colonialism.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/History/Human Colonialism.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/A League of Our Own.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/A League of Our Own.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/Free League of Drakkenheim.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/Free League of the Backlands.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/House League/House League Ruleset.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/House League/private\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/02-001.adventure-cover.jpg\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/02-001.adventure-cover.jpgZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/AL_DMRewards.pdf\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/AL_DMRewards.pdfZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/ChatGPT Image Oct 9, 2025, 06_09_16 PM.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/ChatGPT Image Oct 9, 2025, 06_09_16 PM.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/ChatGPT Image Sep 24, 2025, 09_41_08 AM.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/ChatGPT Image Sep 24, 2025, 09_41_08 AM.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/d&d-adventurers-league-dungeon-masters-guide-v14.0.pdf\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/d&d-adventurers-league-dungeon-masters-guide-v14.0.pdfZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/d&d-adventurers-league-player's-guide-v14.0.pdf\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/d&d-adventurers-league-player's-guide-v14.0.pdfZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/flod.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/flod.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/flotbl2.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/flotbl2.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Lawless-Below-Forgotten-Realms_Adrian_Landeros.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Lawless-Below-Forgotten-Realms_Adrian_Landeros.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Limbo_10.webp\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Limbo_10.webpZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/lol.jpg\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/lol.jpgZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/map-0.01-drakkenheim-player.jpg\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/map-0.01-drakkenheim-player.jpgZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/New Project (8).jpg\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/New Project (8).jpgZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/participating-in-adventurers-league-1.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/participating-in-adventurers-league-1.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Pasted image 20250814124425.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Pasted image 20250814124425.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Screenshot 2025-10-16 104737.png\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Screenshot 2025-10-16 104737.pngZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Stickyickistan.jpg\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Stickyickistan.jpgZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Items/A.S.S sending stones.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Items/A.S.S sending stones.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Items/private\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Alcohol.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Alcohol.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Arcanite.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Arcanite.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Bastions.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Bastions.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Conditions of Drakkenheim.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Conditions of Drakkenheim.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Delerium.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Delerium.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Edicts of Lumen.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Edicts of Lumen.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Elder Caps.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Elder Caps.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Fist.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Fist.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Lean.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Lean.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Magebred Animals.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Magebred Animals.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Magitech.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Magitech.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/Misc/private\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Spiritwax.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Spiritwax.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/The Rolling Papers.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/The Silt Road.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/The Silt Road.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Zooka Malt.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Misc/Zooka Malt.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Cubensis.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Dodecahedrooze.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Dodecahedrooze.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Goob’lath.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Goob’lath.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Juiblex.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Juiblex.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/MONs/private\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Wes Scantlin.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Wes Scantlin.mdZone.Identifier\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/MONs/Zuggtmoy.md\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/NPCs/minor\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/NPCs/private\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/NPCs/Quest Givers\",\n      \"depth\": 2\n    },\n    {\n      \"kind\": \"dir\",\n      \"path\": \"content/PCs/ASS Heist Squad\",\n      \"depth\": 2\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "7155e311-5f80-4d9c-ae0b-dab506fe0c53",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Yes — the example ad should pull from existing Stickyickistan lore instead of inventing Soggybottom/Mayor Gribbit. I’d replace the example with something using known setting pieces like [[The Silt Road]], [[Zooka Mire Collective]], [[Skarguther Dungleboof]], [[Arcannabis]], and [[Cough City Crew]].\n\n<yolo_block filename=\"content/Misc/The Rolling Papers.md\">\n<<<<<<< REPLACE\n[old]\n### Example Ad\n\n```markdown\n## Smoke Over Soggybottom\n\n**Submitted by:** The Auditor of Heroic Overconfidence  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Swamp comedy, monster hunt, light horror  \n**Location:** Soggybottom Bog  \n\n### Headline\n\n> **Local Frog Farmers Report “Unreasonably Tall Heron” Stealing Livestock**\n\n### Public Notice\n\nCitizens of Soggybottom Bog seek brave, waterproof, and preferably expendable adventurers to investigate the disappearance of several prize frogs, two boats, one shed, and Mayor Gribbit’s cousin, who may or may not have deserved it.\n\nWitnesses describe the culprit as “a bird,” “a bad omen,” “too many legs for a bird,” and “absolutely not my problem.”\n\nInterested parties should report to the Crooked Lily Tavern before sunset. Bring boots.\n\n### What Players Should Know\n\n- **Content / vibe:** Gross swamp humor, spooky bird monster, light body horror.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation and a likely boss fight.\n- **Character hooks:** Good for local heroes, monster hunters, bounty seekers, and anyone who owes money in town.\n- **Special notes:** Expect difficult terrain and bad smells.\n\n### Rewards Teaser\n\nThe town is offering coin, a questionable swamp charm, and one favor from Mayor Gribbit.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat.\n```\n=======\n[new]\n### Example Ad\n\n```markdown\n## Smoke on the Silt Road\n\n**Submitted by:** The Auditor of Heroic Overconfidence  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Roadside chaos, caravan trouble, Arcannabis weirdness  \n**Location:** [[The Silt Road]]  \n\n### Headline\n\n> **Caravan Delayed After “Perfectly Legal Shipment” Begins Whispering Prophecies**\n\n### Public Notice\n\nTravelers, guards, troubleshooters, and licensed meddlers are requested for immediate work along [[The Silt Road]], where a shipment of [[Arcannabis]] bound for the [[Zooka Mire Collective]] has become stuck under suspicious circumstances.\n\nThe shipment’s owner insists nothing is wrong. The teamsters insist the crates are breathing. Several witnesses claim members of the [[Cough City Crew]] were seen nearby arguing with a ditch, a lantern, and possibly each other.\n\nInterested adventurers should contact [[Skarguther Dungleboof]] before the cargo “achieves self-actualization” or the road authorities notice the smoke.\n\n### What Players Should Know\n\n- **Content / vibe:** Strange roadside encounters, criminal incompetence, magical contraband comedy.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and likely violence near a wagon.\n- **Character hooks:** Good for caravan guards, bounty hunters, Arcannabis enthusiasts, Zooka Mire contacts, or anyone who owes [[Skarguther Dungleboof]] a favor.\n- **Special notes:** Expect smoke, questionable business practices, and at least one crate that should not be opened.\n\n### Rewards Teaser\n\nPayment may include coin, a favor from [[Skarguther Dungleboof]], access to unusual [[Arcannabis]], or information about who has been interfering with trade along [[The Silt Road]].\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat.\n```\n>>>>>>> END\n</yolo_block>",
+      "id": "8c594d35-85a1-4929-88d7-514522345221",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 31290,
+          "completion_tokens": 884,
+          "total_tokens": 32174,
+          "cache_read_input_tokens": 17920
+        },
+        "durationMs": 20290,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "I like the example, but The Rolling Papers isn't the place for an adventure that someone wouldn't want the \"road authorities\" noticing. The Rolling Papers should be for above the board business only, but this has given me a good idea. Let's make an under the table counterpart to the Rolling papers",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "d70a5772-7943-4d31-88f3-6f09c0a92b23",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 22:47 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Great call. **The Rolling Papers** should be the respectable public bulletin/news outlet, while the shady jobs need their own backchannel.\n\nHere’s an under-the-table counterpart you can add as a new note:\n\n<yolo_block filename=\"content/Misc/The Roach Clip.md\">\n<<<<<<< APPEND\n# The Roach Clip\n\n**The Roach Clip** is the under-the-table counterpart to [[The Rolling Papers]]: a whispered classifieds network for jobs too illegal, embarrassing, dangerous, politically inconvenient, or cursed to print in a respectable newspaper.\n\nIt is not a single newspaper so much as a chain of folded notes, coded matchbooks, tavern bathroom graffiti, enchanted rolling papers, dead drops, and suspiciously well-informed bartenders. If [[The Rolling Papers]] tells Stickyickistan what happened, **The Roach Clip** tells adventurers what someone is willing to pay to make happen quietly.\n\nMost postings are anonymous, half-true, and written by people who absolutely do not want the road authorities, noble houses, temple auditors, guild inspectors, or rival criminals asking questions.\n\n## What Gets Posted Here\n\nUse **The Roach Clip** for adventure hooks involving:\n\n- Smuggling.\n- Theft.\n- Blackmail.\n- Cursed goods.\n- Discreet monster disposal.\n- Faction sabotage.\n- Secret investigations.\n- Bounty work with questionable paperwork.\n- Arcannabis shipments that are not technically licensed.\n- Jobs where the employer says “no witnesses” and then quickly clarifies “I mean, like, no official witnesses.”\n\n## Roach Clip Adventure Advertisement Template\n\nDMs can advertise shady Free League adventures as coded notices, backroom contracts, criminal classifieds, or warnings passed through Stickyickistan’s less reputable channels.\n\n```markdown\n## [Adventure Title]\n\n**Posted by:** [Alias, faction, NPC, or unknown patron]  \n**DM:** [DM name or Cabal title]  \n**Tier:** [Tier 1 / Tier 2 / Tier 3 / Tier 4]  \n**Recommended Level:** [Character level or range]  \n**Expected Length:** [One-shot / 2 sessions / Mini-arc / Ongoing]  \n**Tone:** [Crime, horror, heist, sabotage, black comedy, occult mystery, etc.]  \n**Location:** [Where the job begins or takes place]  \n**Legality:** [Gray / Illegal / Extremely Illegal / Somehow Worse]  \n\n### Coded Notice\n\n> [Write the short suspicious hook as it appears in The Roach Clip.]\n\n### What the Job Actually Is\n\n[Write the out-of-character adventure premise players should understand.]\n\n### What Players Should Know\n\n- **Content / vibe:** [Anything players should know about tone, themes, or boundaries.]\n- **Combat / roleplay / exploration mix:** [Example: Heist-heavy, social infiltration, combat-heavy, investigation-focused.]\n- **Character hooks:** [Why adventurers might take the job.]\n- **Complications:** [Faction heat, law trouble, rival crews, cursed cargo, betrayal risk, etc.]\n- **Lines not to cross:** [Optional safety/boundary notes.]\n\n### Rewards Teaser\n\n[Hint at coin, favors, contraband, secrets, faction reputation, magic items, or story consequences.]\n\n### Sign-Up\n\n**DM:** [Name]  \n**Date / Time:** [Session date and time]  \n**Seats:** [Number of players]  \n**How to join:** [Where players should RSVP]\n```\n\n## Example Roach Clip Ad\n\n```markdown\n## Smoke on the Silt Road\n\n**Posted by:** A Concerned Freight Owner  \n**DM:** The Auditor of Heroic Overconfidence  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Roadside crime, caravan trouble, Arcannabis weirdness  \n**Location:** [[The Silt Road]]  \n**Legality:** Gray trending rapidly toward illegal  \n\n### Coded Notice\n\n> **Need discreet hands for cargo retrieval. Shipment is breathing. Do not involve road authorities. Do not open the third crate. Payment upon silence.**\n\n### What the Job Actually Is\n\nA shipment of [[Arcannabis]] bound for the [[Zooka Mire Collective]] has become stranded along [[The Silt Road]] after interference from the [[Cough City Crew]]. The cargo is beginning to show signs of magical instability, and [[Skarguther Dungleboof]] wants the matter handled before anyone respectable notices.\n\n### What Players Should Know\n\n- **Content / vibe:** Strange roadside encounters, criminal incompetence, magical contraband comedy.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and likely violence near a wagon.\n- **Character hooks:** Good for smugglers, bounty hunters, Arcannabis enthusiasts, Zooka Mire contacts, or anyone who owes [[Skarguther Dungleboof]] a favor.\n- **Complications:** Rival criminals, unstable cargo, witnesses, and the possibility that the third crate has opinions.\n- **Lines not to cross:** Keep it goofy-criminal, not grimdark-criminal.\n\n### Rewards Teaser\n\nPayment may include coin, a favor from [[Skarguther Dungleboof]], access to unusual [[Arcannabis]], or information about who has been interfering with trade along [[The Silt Road]].\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat.\n```\n\n## Relationship to The Rolling Papers\n\n[[The Rolling Papers]] and **The Roach Clip** are rumored to share informants, printers, paper suppliers, and at least one editor who swears the resemblance is purely coincidental.\n\nThe official stance of [[The Rolling Papers]] is that **The Roach Clip** does not exist, has never existed, and certainly is not printed after midnight using the same press.\n\nThe official stance of **The Roach Clip** is that [[The Rolling Papers]] is adorable.\n>>>>>>> END\n</yolo_block>",
+      "id": "e4e0b4f2-8d4e-443d-8aea-68e1fb3382d3",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 32255,
+          "completion_tokens": 1249,
+          "total_tokens": 33504,
+          "cache_read_input_tokens": 30208
+        },
+        "durationMs": 23829,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "lets fix the example ad in this file to reflect those changes, and add a section to the bottom called relation to the roach clip",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "1fe66361-83b8-4f3e-804d-378a6dfc2ac8",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 22:49 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_uNpp3ypziJ4eGiaYVUxLtYIC",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Misc/The Rolling Papers.md",
+              "oldText": "## Smoke Over Soggybottom\n\n**Submitted by:** The Auditor of Heroic Overconfidence  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Swamp comedy, monster hunt, light horror  \n**Location:** Soggybottom Bog  \n\n### Headline\n\n> **Local Frog Farmers Report “Unreasonably Tall Heron” Stealing Livestock**\n\n### Public Notice\n\nCitizens of Soggybottom Bog seek brave, waterproof, and preferably expendable adventurers to investigate the disappearance of several prize frogs, two boats, one shed, and Mayor Gribbit’s cousin, who may or may not have deserved it.\n\nWitnesses describe the culprit as “a bird,” “a bad omen,” “too many legs for a bird,” and “absolutely not my problem.”\n\nInterested parties should report to the Crooked Lily Tavern before sunset. Bring boots.\n\n### What Players Should Know\n\n- **Content / vibe:** Gross swamp humor, spooky bird monster, light body horror.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation and a likely boss fight.\n- **Character hooks:** Good for local heroes, monster hunters, bounty seekers, and anyone who owes money in town.\n- **Special notes:** Expect difficult terrain and bad smells.\n\n### Rewards Teaser\n\nThe town is offering coin, a questionable swamp charm, and one favor from Mayor Gribbit.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat.",
+              "newText": "## Caravans Needed for Silt Road Relief Effort\n\n**Submitted by:** The Public Desk of The Rolling Papers  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Public service adventure, roadside trouble, light investigation  \n**Location:** [[The Silt Road]]  \n\n### Headline\n\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\n\n### Public Notice\n\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\n\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\n\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\n\n### What Players Should Know\n\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\n\n### Rewards Teaser\n\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat."
+            },
+            "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"oldText\":\"## Smoke Over Soggybottom\\n\\n**Submitted by:** The Auditor of Heroic Overconfidence  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Swamp comedy, monster hunt, light horror  \\n**Location:** Soggybottom Bog  \\n\\n### Headline\\n\\n> **Local Frog Farmers Report “Unreasonably Tall Heron” Stealing Livestock**\\n\\n### Public Notice\\n\\nCitizens of Soggybottom Bog seek brave, waterproof, and preferably expendable adventurers to investigate the disappearance of several prize frogs, two boats, one shed, and Mayor Gribbit’s cousin, who may or may not have deserved it.\\n\\nWitnesses describe the culprit as “a bird,” “a bad omen,” “too many legs for a bird,” and “absolutely not my problem.”\\n\\nInterested parties should report to the Crooked Lily Tavern before sunset. Bring boots.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Gross swamp humor, spooky bird monster, light body horror.\\n- **Combat / roleplay / exploration mix:** Balanced, with investigation and a likely boss fight.\\n- **Character hooks:** Good for local heroes, monster hunters, bounty seekers, and anyone who owes money in town.\\n- **Special notes:** Expect difficult terrain and bad smells.\\n\\n### Rewards Teaser\\n\\nThe town is offering coin, a questionable swamp charm, and one favor from Mayor Gribbit.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\",\"newText\":\"## Caravans Needed for Silt Road Relief Effort\\n\\n**Submitted by:** The Public Desk of The Rolling Papers  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Public service adventure, roadside trouble, light investigation  \\n**Location:** [[The Silt Road]]  \\n\\n### Headline\\n\\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\\n\\n### Public Notice\\n\\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\\n\\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\\n\\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\\n\\n### Rewards Teaser\\n\\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\"}"
+          }
+        }
+      ],
+      "id": "a6eb9643-ac15-451a-98f1-8cc2f02bf9a7",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 33558,
+          "completion_tokens": 844,
+          "total_tokens": 34402,
+          "cache_read_input_tokens": 17920
+        },
+        "durationMs": 16964,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_uNpp3ypziJ4eGiaYVUxLtYIC",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Misc/The Rolling Papers.md",
+                "oldText": "## Smoke Over Soggybottom\n\n**Submitted by:** The Auditor of Heroic Overconfidence  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Swamp comedy, monster hunt, light horror  \n**Location:** Soggybottom Bog  \n\n### Headline\n\n> **Local Frog Farmers Report “Unreasonably Tall Heron” Stealing Livestock**\n\n### Public Notice\n\nCitizens of Soggybottom Bog seek brave, waterproof, and preferably expendable adventurers to investigate the disappearance of several prize frogs, two boats, one shed, and Mayor Gribbit’s cousin, who may or may not have deserved it.\n\nWitnesses describe the culprit as “a bird,” “a bad omen,” “too many legs for a bird,” and “absolutely not my problem.”\n\nInterested parties should report to the Crooked Lily Tavern before sunset. Bring boots.\n\n### What Players Should Know\n\n- **Content / vibe:** Gross swamp humor, spooky bird monster, light body horror.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation and a likely boss fight.\n- **Character hooks:** Good for local heroes, monster hunters, bounty seekers, and anyone who owes money in town.\n- **Special notes:** Expect difficult terrain and bad smells.\n\n### Rewards Teaser\n\nThe town is offering coin, a questionable swamp charm, and one favor from Mayor Gribbit.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat.",
+                "newText": "## Caravans Needed for Silt Road Relief Effort\n\n**Submitted by:** The Public Desk of The Rolling Papers  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Public service adventure, roadside trouble, light investigation  \n**Location:** [[The Silt Road]]  \n\n### Headline\n\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\n\n### Public Notice\n\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\n\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\n\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\n\n### What Players Should Know\n\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\n\n### Rewards Teaser\n\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat."
+              },
+              "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"oldText\":\"## Smoke Over Soggybottom\\n\\n**Submitted by:** The Auditor of Heroic Overconfidence  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Swamp comedy, monster hunt, light horror  \\n**Location:** Soggybottom Bog  \\n\\n### Headline\\n\\n> **Local Frog Farmers Report “Unreasonably Tall Heron” Stealing Livestock**\\n\\n### Public Notice\\n\\nCitizens of Soggybottom Bog seek brave, waterproof, and preferably expendable adventurers to investigate the disappearance of several prize frogs, two boats, one shed, and Mayor Gribbit’s cousin, who may or may not have deserved it.\\n\\nWitnesses describe the culprit as “a bird,” “a bad omen,” “too many legs for a bird,” and “absolutely not my problem.”\\n\\nInterested parties should report to the Crooked Lily Tavern before sunset. Bring boots.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Gross swamp humor, spooky bird monster, light body horror.\\n- **Combat / roleplay / exploration mix:** Balanced, with investigation and a likely boss fight.\\n- **Character hooks:** Good for local heroes, monster hunters, bounty seekers, and anyone who owes money in town.\\n- **Special notes:** Expect difficult terrain and bad smells.\\n\\n### Rewards Teaser\\n\\nThe town is offering coin, a questionable swamp charm, and one favor from Mayor Gribbit.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\",\"newText\":\"## Caravans Needed for Silt Road Relief Effort\\n\\n**Submitted by:** The Public Desk of The Rolling Papers  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Public service adventure, roadside trouble, light investigation  \\n**Location:** [[The Silt Road]]  \\n\\n### Headline\\n\\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\\n\\n### Public Notice\\n\\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\\n\\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\\n\\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\\n\\n### Rewards Teaser\\n\\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\"}"
+            }
+          },
+          "response": {
+            "status": "error",
+            "error": "content/Misc/The Rolling Papers.md: Could not find the text to replace. Make sure oldText matches the file exactly, including all whitespace. TIP: Use fs_read to view the actual content first, then retry. No need to explain, just call the tools."
+          }
+        }
+      ],
+      "id": "c80dff40-5255-4216-a4b3-c0282ed5bad9",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_WAoI8vT0qiEGkqyjRKsXJFs7",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Misc/The Rolling Papers.md",
+              "startLine": 55,
+              "endLine": 92,
+              "newText": "## Caravans Needed for Silt Road Relief Effort\n\n**Submitted by:** The Public Desk of The Rolling Papers  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Public service adventure, roadside trouble, light investigation  \n**Location:** [[The Silt Road]]  \n\n### Headline\n\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\n\n### Public Notice\n\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\n\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\n\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\n\n### What Players Should Know\n\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\n\n### Rewards Teaser\n\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat."
+            },
+            "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"startLine\":55,\"endLine\":92,\"newText\":\"## Caravans Needed for Silt Road Relief Effort\\n\\n**Submitted by:** The Public Desk of The Rolling Papers  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Public service adventure, roadside trouble, light investigation  \\n**Location:** [[The Silt Road]]  \\n\\n### Headline\\n\\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\\n\\n### Public Notice\\n\\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\\n\\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\\n\\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\\n\\n### Rewards Teaser\\n\\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\"}"
+          }
+        }
+      ],
+      "id": "a901e581-4994-430d-b10f-5f02837a2c36",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 34477,
+          "completion_tokens": 475,
+          "total_tokens": 34952,
+          "cache_read_input_tokens": 31232
+        },
+        "durationMs": 12019,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_WAoI8vT0qiEGkqyjRKsXJFs7",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Misc/The Rolling Papers.md",
+                "startLine": 55,
+                "endLine": 92,
+                "newText": "## Caravans Needed for Silt Road Relief Effort\n\n**Submitted by:** The Public Desk of The Rolling Papers  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Public service adventure, roadside trouble, light investigation  \n**Location:** [[The Silt Road]]  \n\n### Headline\n\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\n\n### Public Notice\n\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\n\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\n\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\n\n### What Players Should Know\n\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\n\n### Rewards Teaser\n\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat."
+              },
+              "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"startLine\":55,\"endLine\":92,\"newText\":\"## Caravans Needed for Silt Road Relief Effort\\n\\n**Submitted by:** The Public Desk of The Rolling Papers  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Public service adventure, roadside trouble, light investigation  \\n**Location:** [[The Silt Road]]  \\n\\n### Headline\\n\\n> **Licensed Caravan Operators Seek Guards After Trade Delays on the Silt Road**\\n\\n### Public Notice\\n\\nMerchants and community representatives along [[The Silt Road]] are seeking capable adventurers to assist with a lawful relief caravan bound for settlements connected to the [[Zooka Mire Collective]]. Recent delays, damaged wagons, missing supplies, and conflicting witness reports have made ordinary travel difficult.\\n\\nThe caravan organizers stress that all cargo has been properly declared, all fees have been paid, and all paperwork is available for inspection by the appropriate road authorities.\\n\\nInterested adventurers should contact [[Skarguther Dungleboof]] for contract details, hazard pay, and route assignments.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Above-the-board caravan defense, community aid, strange roadside complications.\\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat along the road.\\n- **Character hooks:** Good for caravan guards, public-minded adventurers, monster hunters, Zooka Mire contacts, or anyone looking for legitimate paid work.\\n- **Special notes:** This is a public contract. Characters are expected to avoid unnecessary crimes, protect civilians, and keep the caravan moving.\\n\\n### Rewards Teaser\\n\\nThe contract offers coin, public goodwill along [[The Silt Road]], possible favor with the [[Zooka Mire Collective]], and future access to lawful caravan work.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Misc/The Rolling Papers.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace_lines\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"lineRange\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Misc/The Rolling Papers.md",
+                      "addedLines": 12,
+                      "removedLines": 12,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "520559bb-6e96-4e8e-9d8c-ca1c86c63f4c"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 12,
+                  "totalRemovedLines": 12,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785387017273
+              }
+            }
+          }
+        }
+      ],
+      "id": "520559bb-6e96-4e8e-9d8c-ca1c86c63f4c",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "I fixed the example ad to make it an above-the-board **Rolling Papers** public contract using existing lore: [[The Silt Road]], [[Zooka Mire Collective]], and [[Skarguther Dungleboof]].\n\nI still need to add the **Relation to The Roach Clip** section at the bottom. Here’s the exact section to append:\n\n<yolo_block filename=\"content/Misc/The Rolling Papers.md\">\n<<<<<<< APPEND\n\n## Relation to The Roach Clip\n\n[[The Rolling Papers]] is a public-facing newspaper for lawful notices, respectable contracts, civic warnings, official announcements, interviews, scandals, rumors, and adventure opportunities that can survive being read aloud in front of road authorities.\n\nIts under-the-table counterpart is [[The Roach Clip]], a backchannel for jobs too illegal, embarrassing, cursed, politically inconvenient, or suspicious to print in a respectable paper.\n\nThe official stance of **The Rolling Papers** is that [[The Roach Clip]] does not exist, has never existed, and certainly is not printed after midnight using the same press.\n\nThe official stance of **The Roach Clip** is that [[The Rolling Papers]] is adorable.\n>>>>>>> END\n</yolo_block>",
+      "id": "6568d7be-7356-47b4-9a50-4f43d1429bd8",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 35064,
+          "completion_tokens": 247,
+          "total_tokens": 35311,
+          "cache_read_input_tokens": 18944
+        },
+        "durationMs": 8087,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Rolling Papers.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Rolling Papers.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Misc/The Rolling Papers.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " Make a new Example ad. You can't use the Silt Road because it is an underground trade network",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "15644332"
+      },
+      "id": "d7c686ff-9ce3-4120-8537-38e2e7d1492b",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Free League of Stickyickistan/The Rolling Papers.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 22:51 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_X5GSMqQIZ1NSaFfxU2V7Esgl",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Misc/The Rolling Papers.md",
+              "startLine": 55,
+              "endLine": 93,
+              "newText": "## Monsters at the Northbourne Orchard Festival\n\n**Submitted by:** The Public Desk of The Rolling Papers  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Public festival trouble, monster hunt, light investigation  \n**Location:** [[House Northbourne]] holdings  \n\n### Headline\n\n> **Northbourne Harvest Committee Seeks Licensed Adventurers After Prize Pumpkins Bite Back**\n\n### Public Notice\n\nThe annual Northbourne Orchard Festival is seeking capable adventurers to provide lawful security, investigate unusual disturbances, and protect guests after several prize vegetables, decorative scarecrows, and at least one cider barrel displayed signs of hostile animation.\n\nRepresentatives of [[House Northbourne]] insist the festival remains open, safe, and family friendly, provided no one enters the eastern pumpkin rows without an escort.\n\nInterested adventurers should report to [[Lady Isolde Northbourne]] for guard assignments, hazard pay, and a complimentary festival ribbon.\n\n### What Players Should Know\n\n- **Content / vibe:** Public festival chaos, animated produce, rural mystery, light horror-comedy.\n- **Combat / roleplay / exploration mix:** Balanced, with social scenes, investigation, and likely combat in the orchard.\n- **Character hooks:** Good for monster hunters, local heroes, guards for hire, nobles, food lovers, or anyone seeking legitimate public work.\n- **Special notes:** This is an above-the-board contract. Characters are expected to protect civilians, avoid property damage when possible, and not steal from festival vendors.\n\n### Rewards Teaser\n\nThe festival committee offers coin, public goodwill with [[House Northbourne]], free lodging for the night, and possible access to rare seasonal goods.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat."
+            },
+            "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"startLine\":55,\"endLine\":93,\"newText\":\"## Monsters at the Northbourne Orchard Festival\\n\\n**Submitted by:** The Public Desk of The Rolling Papers  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Public festival trouble, monster hunt, light investigation  \\n**Location:** [[House Northbourne]] holdings  \\n\\n### Headline\\n\\n> **Northbourne Harvest Committee Seeks Licensed Adventurers After Prize Pumpkins Bite Back**\\n\\n### Public Notice\\n\\nThe annual Northbourne Orchard Festival is seeking capable adventurers to provide lawful security, investigate unusual disturbances, and protect guests after several prize vegetables, decorative scarecrows, and at least one cider barrel displayed signs of hostile animation.\\n\\nRepresentatives of [[House Northbourne]] insist the festival remains open, safe, and family friendly, provided no one enters the eastern pumpkin rows without an escort.\\n\\nInterested adventurers should report to [[Lady Isolde Northbourne]] for guard assignments, hazard pay, and a complimentary festival ribbon.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Public festival chaos, animated produce, rural mystery, light horror-comedy.\\n- **Combat / roleplay / exploration mix:** Balanced, with social scenes, investigation, and likely combat in the orchard.\\n- **Character hooks:** Good for monster hunters, local heroes, guards for hire, nobles, food lovers, or anyone seeking legitimate public work.\\n- **Special notes:** This is an above-the-board contract. Characters are expected to protect civilians, avoid property damage when possible, and not steal from festival vendors.\\n\\n### Rewards Teaser\\n\\nThe festival committee offers coin, public goodwill with [[House Northbourne]], free lodging for the night, and possible access to rare seasonal goods.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\"}"
+          }
+        }
+      ],
+      "id": "aceeb47c-098a-4100-8ad9-c9459489f5b0",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 35430,
+          "completion_tokens": 465,
+          "total_tokens": 35895,
+          "cache_read_input_tokens": 34304
+        },
+        "durationMs": 9926,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_X5GSMqQIZ1NSaFfxU2V7Esgl",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Misc/The Rolling Papers.md",
+                "startLine": 55,
+                "endLine": 93,
+                "newText": "## Monsters at the Northbourne Orchard Festival\n\n**Submitted by:** The Public Desk of The Rolling Papers  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** One-shot  \n**Tone:** Public festival trouble, monster hunt, light investigation  \n**Location:** [[House Northbourne]] holdings  \n\n### Headline\n\n> **Northbourne Harvest Committee Seeks Licensed Adventurers After Prize Pumpkins Bite Back**\n\n### Public Notice\n\nThe annual Northbourne Orchard Festival is seeking capable adventurers to provide lawful security, investigate unusual disturbances, and protect guests after several prize vegetables, decorative scarecrows, and at least one cider barrel displayed signs of hostile animation.\n\nRepresentatives of [[House Northbourne]] insist the festival remains open, safe, and family friendly, provided no one enters the eastern pumpkin rows without an escort.\n\nInterested adventurers should report to [[Lady Isolde Northbourne]] for guard assignments, hazard pay, and a complimentary festival ribbon.\n\n### What Players Should Know\n\n- **Content / vibe:** Public festival chaos, animated produce, rural mystery, light horror-comedy.\n- **Combat / roleplay / exploration mix:** Balanced, with social scenes, investigation, and likely combat in the orchard.\n- **Character hooks:** Good for monster hunters, local heroes, guards for hire, nobles, food lovers, or anyone seeking legitimate public work.\n- **Special notes:** This is an above-the-board contract. Characters are expected to protect civilians, avoid property damage when possible, and not steal from festival vendors.\n\n### Rewards Teaser\n\nThe festival committee offers coin, public goodwill with [[House Northbourne]], free lodging for the night, and possible access to rare seasonal goods.\n\n### Sign-Up\n\n**DM:** Chase  \n**Date / Time:** TBD  \n**Seats:** 4 - 5 players  \n**How to join:** Post in the Free League chat."
+              },
+              "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"startLine\":55,\"endLine\":93,\"newText\":\"## Monsters at the Northbourne Orchard Festival\\n\\n**Submitted by:** The Public Desk of The Rolling Papers  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3 - 4  \\n**Expected Length:** One-shot  \\n**Tone:** Public festival trouble, monster hunt, light investigation  \\n**Location:** [[House Northbourne]] holdings  \\n\\n### Headline\\n\\n> **Northbourne Harvest Committee Seeks Licensed Adventurers After Prize Pumpkins Bite Back**\\n\\n### Public Notice\\n\\nThe annual Northbourne Orchard Festival is seeking capable adventurers to provide lawful security, investigate unusual disturbances, and protect guests after several prize vegetables, decorative scarecrows, and at least one cider barrel displayed signs of hostile animation.\\n\\nRepresentatives of [[House Northbourne]] insist the festival remains open, safe, and family friendly, provided no one enters the eastern pumpkin rows without an escort.\\n\\nInterested adventurers should report to [[Lady Isolde Northbourne]] for guard assignments, hazard pay, and a complimentary festival ribbon.\\n\\n### What Players Should Know\\n\\n- **Content / vibe:** Public festival chaos, animated produce, rural mystery, light horror-comedy.\\n- **Combat / roleplay / exploration mix:** Balanced, with social scenes, investigation, and likely combat in the orchard.\\n- **Character hooks:** Good for monster hunters, local heroes, guards for hire, nobles, food lovers, or anyone seeking legitimate public work.\\n- **Special notes:** This is an above-the-board contract. Characters are expected to protect civilians, avoid property damage when possible, and not steal from festival vendors.\\n\\n### Rewards Teaser\\n\\nThe festival committee offers coin, public goodwill with [[House Northbourne]], free lodging for the night, and possible access to rare seasonal goods.\\n\\n### Sign-Up\\n\\n**DM:** Chase  \\n**Date / Time:** TBD  \\n**Seats:** 4 - 5 players  \\n**How to join:** Post in the Free League chat.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Misc/The Rolling Papers.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace_lines\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"lineRange\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Misc/The Rolling Papers.md",
+                      "addedLines": 12,
+                      "removedLines": 13,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "f0161bd2-7af8-4631-8b1a-5881af7c0af5"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 12,
+                  "totalRemovedLines": 13,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785387129688
+              }
+            }
+          }
+        }
+      ],
+      "id": "f0161bd2-7af8-4631-8b1a-5881af7c0af5",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I replaced the example ad with an above-the-board public festival contract tied to [[House Northbourne]] and [[Lady Isolde Northbourne]], avoiding [[The Silt Road]] since that belongs more in [[The Roach Clip]] territory.",
+      "id": "2fadf56a-0518-4a64-b010-951039afdf7f",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 36011,
+          "completion_tokens": 54,
+          "total_tokens": 36065,
+          "cache_read_input_tokens": 34304
+        },
+        "durationMs": 2419,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Rolling Papers.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Rolling Papers.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Misc/The Rolling Papers.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " needs a \"What gets posted here\" section like ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Roach Clip.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Roach Clip.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Misc/The Roach Clip.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "0fc55029"
+      },
+      "id": "7d69e8b1-43b6-4c67-b3c3-c8074e0e62a1",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Free League of Stickyickistan/The Rolling Papers.md"
+        },
+        {
+          "type": "file",
+          "file": "content/Free League of Stickyickistan/The Roach Clip.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 23:08 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_qAJX66Vx53d1sSPbgVI7VkUv",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Misc/The Rolling Papers.md"
+              ],
+              "startLine": 1,
+              "endLine": 15
+            },
+            "rawText": "{\"paths\":[\"content/Misc/The Rolling Papers.md\"],\"startLine\":1,\"endLine\":15}"
+          }
+        }
+      ],
+      "id": "ba88665a-0475-425f-9ba4-6afe2161b664",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 36334,
+          "completion_tokens": 39,
+          "total_tokens": 36373,
+          "cache_read_input_tokens": 35328
+        },
+        "durationMs": 3318,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_qAJX66Vx53d1sSPbgVI7VkUv",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Misc/The Rolling Papers.md"
+                ],
+                "startLine": 1,
+                "endLine": 15
+              },
+              "rawText": "{\"paths\":[\"content/Misc/The Rolling Papers.md\"],\"startLine\":1,\"endLine\":15}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_qAJX66Vx53d1sSPbgVI7VkUv\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Misc/The Rolling Papers.md\",\n      \"ok\": true,\n      \"totalLines\": 99,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 15\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 16,\n      \"content\": \"1|**The Rolling Papers** is Stickyickistan’s most widely circulated newspaper, equal parts investigative journalism, rumor mill, scandal sheet, and rolling tray liner. Its reporters chase stories across taverns, trade roads, noble courts, dungeon entrances, and suspiciously smoking back alleys, publishing whatever they can verify, mostly verify, or at least make entertaining.\\n2|\\n3|The paper is famous for bold headlines, anonymous sources, dramatic woodcut illustrations, and a surprisingly consistent record of being right about things no one wanted printed. Adventurers often find their exploits exaggerated in its pages, while villains, politicians, Guildmasters, and minor gods dread seeing their names above the fold.\\n4|\\n5|Its motto is simple:\\n6|\\n7|> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\\n8|\\n9|# Adventure Advertisement Template\\n10|\\n11|DMs can advertise upcoming Free League adventures as notices, classifieds, or dramatic front-page warnings in **The Rolling Papers**.\\n12|\\n13|Use the following template when posting an adventure ad:\\n14|\\n15|```markdown\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 15,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "4596d57c-0f6f-4a8c-9583-de443110e068",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_SqHikkcZ1X5gobflOJbmBNED",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Misc/The Rolling Papers.md",
+              "oldText": "Its motto is simple:\n\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\n\n# Adventure Advertisement Template",
+              "newText": "Its motto is simple:\n\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\n\n# What Gets Posted Here\n\nUse **The Rolling Papers** for adventure hooks involving:\n\n- Public contracts.\n- Legal bounty work.\n- Festival security.\n- Caravan guard jobs on official roads.\n- Missing persons notices.\n- Monster attacks near towns, farms, roads, or trade routes.\n- Civic emergencies.\n- Noble announcements and public scandals.\n- Guild postings with proper paperwork.\n- Temple requests, relief efforts, and charity drives.\n- Investigations where witnesses are expected to talk openly.\n- Jobs where the employer is comfortable being named in print.\n- Problems the authorities know about, tolerate, or actively want solved.\n\nIf a job requires secrecy, fake names, bribes, contraband, sabotage, theft, or the phrase “do not involve the authorities,” it probably belongs in [[The Roach Clip]] instead.\n\n# Adventure Advertisement Template"
+            },
+            "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"oldText\":\"Its motto is simple:\\n\\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\\n\\n# Adventure Advertisement Template\",\"newText\":\"Its motto is simple:\\n\\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\\n\\n# What Gets Posted Here\\n\\nUse **The Rolling Papers** for adventure hooks involving:\\n\\n- Public contracts.\\n- Legal bounty work.\\n- Festival security.\\n- Caravan guard jobs on official roads.\\n- Missing persons notices.\\n- Monster attacks near towns, farms, roads, or trade routes.\\n- Civic emergencies.\\n- Noble announcements and public scandals.\\n- Guild postings with proper paperwork.\\n- Temple requests, relief efforts, and charity drives.\\n- Investigations where witnesses are expected to talk openly.\\n- Jobs where the employer is comfortable being named in print.\\n- Problems the authorities know about, tolerate, or actively want solved.\\n\\nIf a job requires secrecy, fake names, bribes, contraband, sabotage, theft, or the phrase “do not involve the authorities,” it probably belongs in [[The Roach Clip]] instead.\\n\\n# Adventure Advertisement Template\"}"
+          }
+        }
+      ],
+      "id": "9bbf74ec-5601-4b06-a813-7d3f90b5246f",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 36764,
+          "completion_tokens": 291,
+          "total_tokens": 37055,
+          "cache_read_input_tokens": 34304
+        },
+        "durationMs": 7568,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_SqHikkcZ1X5gobflOJbmBNED",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Misc/The Rolling Papers.md",
+                "oldText": "Its motto is simple:\n\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\n\n# Adventure Advertisement Template",
+                "newText": "Its motto is simple:\n\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\n\n# What Gets Posted Here\n\nUse **The Rolling Papers** for adventure hooks involving:\n\n- Public contracts.\n- Legal bounty work.\n- Festival security.\n- Caravan guard jobs on official roads.\n- Missing persons notices.\n- Monster attacks near towns, farms, roads, or trade routes.\n- Civic emergencies.\n- Noble announcements and public scandals.\n- Guild postings with proper paperwork.\n- Temple requests, relief efforts, and charity drives.\n- Investigations where witnesses are expected to talk openly.\n- Jobs where the employer is comfortable being named in print.\n- Problems the authorities know about, tolerate, or actively want solved.\n\nIf a job requires secrecy, fake names, bribes, contraband, sabotage, theft, or the phrase “do not involve the authorities,” it probably belongs in [[The Roach Clip]] instead.\n\n# Adventure Advertisement Template"
+              },
+              "rawText": "{\"path\":\"content/Misc/The Rolling Papers.md\",\"oldText\":\"Its motto is simple:\\n\\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\\n\\n# Adventure Advertisement Template\",\"newText\":\"Its motto is simple:\\n\\n> **“If it burns, bleeds, or blazes, it belongs in The Rolling Papers.”**\\n\\n# What Gets Posted Here\\n\\nUse **The Rolling Papers** for adventure hooks involving:\\n\\n- Public contracts.\\n- Legal bounty work.\\n- Festival security.\\n- Caravan guard jobs on official roads.\\n- Missing persons notices.\\n- Monster attacks near towns, farms, roads, or trade routes.\\n- Civic emergencies.\\n- Noble announcements and public scandals.\\n- Guild postings with proper paperwork.\\n- Temple requests, relief efforts, and charity drives.\\n- Investigations where witnesses are expected to talk openly.\\n- Jobs where the employer is comfortable being named in print.\\n- Problems the authorities know about, tolerate, or actively want solved.\\n\\nIf a job requires secrecy, fake names, bribes, contraband, sabotage, theft, or the phrase “do not involve the authorities,” it probably belongs in [[The Roach Clip]] instead.\\n\\n# Adventure Advertisement Template\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Misc/The Rolling Papers.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Misc/The Rolling Papers.md",
+                      "addedLines": 20,
+                      "removedLines": 0,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "d4954e66-a16c-4f63-a2d3-fea6cffeb661"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 20,
+                  "totalRemovedLines": 0,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785388101106
+              }
+            }
+          }
+        }
+      ],
+      "id": "d4954e66-a16c-4f63-a2d3-fea6cffeb661",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I added a **“What Gets Posted Here”** section to `The Rolling Papers.md`, clarifying that it’s for public, legal, above-the-board adventure postings, and pointing shady work toward [[The Roach Clip]].",
+      "id": "13ae10cd-3fbf-49a7-8fb1-13124770d346",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 37165,
+          "completion_tokens": 52,
+          "total_tokens": 37217,
+          "cache_read_input_tokens": 36352
+        },
+        "durationMs": 4868,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The Example shouldn't tell the players about anything happening behind the scenes in the adventure",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "4a7f58df-150f-45cb-a7df-4d9471ab1ce9",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-29 23:17 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_zfcP0PEKpJpm0XDrSMY7zPV0",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Free League of Stickyickistan/The Roach Clip.md"
+              ],
+              "startLine": 66,
+              "endLine": 101
+            },
+            "rawText": "{\"paths\":[\"content/Free League of Stickyickistan/The Roach Clip.md\"],\"startLine\":66,\"endLine\":101}"
+          }
+        }
+      ],
+      "id": "6911cc05-99cc-43a7-bf63-cf9081b4e1fe",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 37261,
+          "completion_tokens": 45,
+          "total_tokens": 37306,
+          "cache_read_input_tokens": 36352
+        },
+        "durationMs": 2396,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_zfcP0PEKpJpm0XDrSMY7zPV0",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Free League of Stickyickistan/The Roach Clip.md"
+                ],
+                "startLine": 66,
+                "endLine": 101
+              },
+              "rawText": "{\"paths\":[\"content/Free League of Stickyickistan/The Roach Clip.md\"],\"startLine\":66,\"endLine\":101}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_zfcP0PEKpJpm0XDrSMY7zPV0\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Free League of Stickyickistan/The Roach Clip.md\",\n      \"ok\": true,\n      \"totalLines\": 111,\n      \"returnedRange\": {\n        \"startLine\": 66,\n        \"endLine\": 101\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 102,\n      \"content\": \"66|# Example: Smoke on the Silt Road\\n67|\\n68|**Posted by:** A Concerned Freight Owner  \\n69|**DM:** Initiate of Tribulation, Vorg Lordcaster\\n70|**Tier:** Tier 1  \\n71|**Recommended Level:** 3 - 4  \\n72|**Expected Length:** ~4 hours \\n73|**Tone:** Roadside crime, caravan trouble, Arcannabis weirdness  \\n74|**Location:** [[The Silt Road]]  \\n75|**Legality:** Gray trending rapidly toward illegal  \\n76|\\n77|### Coded Notice\\n78|\\n79|> **Need discreet hands for cargo retrieval. Shipment is breathing. Do not involve road authorities. Do not open the third crate. Payment upon silence.**\\n80|\\n81|### What the Job Actually Is\\n82|\\n83|A shipment of [[Arcannabis]] bound for the [[Zooka Mire Collective]] has become stranded along [[The Silt Road]] after interference from the [[Cough City Crew]]. The cargo is beginning to show signs of magical instability, and [[Skarguther Dungleboof]] wants the matter handled before anyone respectable notices.\\n84|\\n85|### What Players Should Know\\n86|\\n87|- **Content / vibe:** Strange roadside encounters, criminal incompetence, magical contraband comedy.\\n88|- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and likely violence near a wagon.\\n89|- **Character hooks:** Good for smugglers, bounty hunters, Arcannabis enthusiasts, Zooka Mire contacts, or anyone who owes [[Skarguther Dungleboof]] a favor.\\n90|- **Complications:** Rival criminals, unstable cargo, witnesses, and the possibility that the third crate has opinions.\\n91|- **Lines not to cross:** Keep it goofy-criminal, not grimdark-criminal.\\n92|\\n93|### Rewards Teaser\\n94|\\n95|Payment may include coin, a favor from [[Skarguther Dungleboof]], access to unusual [[Arcannabis]], or information about who has been interfering with trade along [[The Silt Road]].\\n96|\\n97|### Sign-Up\\n98|\\n99|**DM:** Chase  \\n100|**Date / Time:** TBD  \\n101|**Seats:** 4 - 5 players  \",\n      \"wikilinks\": [\n        {\n          \"link\": \"The Silt Road\",\n          \"path\": \"content/Misc/The Silt Road.md\"\n        },\n        {\n          \"link\": \"Arcannabis\",\n          \"path\": \"content/Arcannabis/Arcannabis.md\"\n        },\n        {\n          \"link\": \"Zooka Mire Collective\",\n          \"path\": \"content/Factions/Zooka Mire Collective.md\"\n        },\n        {\n          \"link\": \"Cough City Crew\",\n          \"path\": \"content/Factions/Cough City Crew.md\"\n        },\n        {\n          \"link\": \"Skarguther Dungleboof\",\n          \"path\": \"content/NPCs/Quest Givers/Skarguther Dungleboof.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 66,
+                  "endLine": 101,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "f9a65245-af66-4ad6-acdb-7c053fecb313",
+      "metadata": {
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "You’re right. The example should read like a **player-facing ad**, not a DM-facing adventure summary. It can hint at suspicious stuff, but it shouldn’t reveal who is behind it, what faction caused it, or what the twist is.\n\nHere’s a cleaner replacement for the example section:\n\n<yolo_block filename=\"content/Free League of Stickyickistan/The Roach Clip.md\">\n<<<<<<< REPLACE\n[old]\n# Example: Smoke on the Silt Road\n\n**Posted by:** A Concerned Freight Owner  \n**DM:** Initiate of Tribulation, Vorg Lordcaster\n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** ~4 hours \n**Tone:** Roadside crime, caravan trouble, Arcannabis weirdness  \n**Location:** [[The Silt Road]]  \n**Legality:** Gray trending rapidly toward illegal  \n\n### Coded Notice\n\n> **Need discreet hands for cargo retrieval. Shipment is breathing. Do not involve road authorities. Do not open the third crate. Payment upon silence.**\n\n### What the Job Actually Is\n\nA shipment of [[Arcannabis]] bound for the [[Zooka Mire Collective]] has become stranded along [[The Silt Road]] after interference from the [[Cough City Crew]]. The cargo is beginning to show signs of magical instability, and [[Skarguther Dungleboof]] wants the matter handled before anyone respectable notices.\n\n### What Players Should Know\n\n- **Content / vibe:** Strange roadside encounters, criminal incompetence, magical contraband comedy.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and likely violence near a wagon.\n- **Character hooks:** Good for smugglers, bounty hunters, Arcannabis enthusiasts, Zooka Mire contacts, or anyone who owes [[Skarguther Dungleboof]] a favor.\n- **Complications:** Rival criminals, unstable cargo, witnesses, and the possibility that the third crate has opinions.\n- **Lines not to cross:** Keep it goofy-criminal, not grimdark-criminal.\n\n### Rewards Teaser\n\nPayment may include coin, a favor from [[Skarguther Dungleboof]], access to unusual [[Arcannabis]], or information about who has been interfering with trade along [[The Silt Road]].\n=======\n[new]\n# Example: Smoke on the Silt Road\n\n**Posted by:** A Concerned Freight Owner  \n**DM:** Initiate of Tribulation, Vorg Lordcaster  \n**Tier:** Tier 1  \n**Recommended Level:** 3 - 4  \n**Expected Length:** ~4 hours  \n**Tone:** Roadside crime, caravan trouble, Arcannabis weirdness  \n**Location:** [[The Silt Road]]  \n**Legality:** Gray trending rapidly toward illegal  \n\n### Coded Notice\n\n> **Need discreet hands for cargo retrieval. Shipment delayed. Cargo temperamental. Do not involve road authorities. Do not open anything marked with blue twine. Payment upon silence.**\n\n### Public-Facing Job Pitch\n\nA private freight owner is seeking capable, discreet adventurers to recover delayed cargo from a troublesome stretch of [[The Silt Road]]. The employer claims the matter is time-sensitive, reputationally delicate, and “not worth bothering officials over.”\n\nThe job requires finding the shipment, confirming its condition, and ensuring it reaches the correct recipient without unnecessary attention.\n\n### What Players Should Know\n\n- **Content / vibe:** Shady roadside work, suspicious cargo, criminal comedy, possible magical weirdness.\n- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat.\n- **Character hooks:** Good for smugglers, discreet troubleshooters, bounty hunters, underworld contacts, or adventurers comfortable with gray-area work.\n- **Player-facing complications:** The cargo may be unstable, other parties may be looking for it, and the employer is clearly not telling the whole truth.\n- **Lines not to cross:** Keep it goofy-criminal, not grimdark-criminal.\n\n### Rewards Teaser\n\nPayment may include coin, a useful favor, access to unusual goods, or information valuable to characters with underworld or trade connections.\n>>>>>>> END\n</yolo_block>",
+      "id": "91b9ca3e-839e-4a82-b560-a7d763c47265",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          },
+          "reasoningType": "openai"
+        },
+        "usage": {
+          "prompt_tokens": 38134,
+          "completion_tokens": 858,
+          "total_tokens": 38992,
+          "cache_read_input_tokens": 35328
+        },
+        "durationMs": 16736,
+        "generationState": "completed",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1785369575022,
-  "updatedAt": 1785369618395,
+  "updatedAt": 1785388647471,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
