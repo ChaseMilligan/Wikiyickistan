@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "a97f11c0": {
+      "hash": "a97f11c0",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Arcannabis/Arcannabis System Rework.md`\n  - L3 # Landrace Strains\n  - L20 # Weed 'em And Reap\n  - L21 ## Seeds\n  - L24 ## Soil\n  - L34 ## Fertilizer\n  - L39 ## Water\n  - L42 #### *Drizzlemote Pot*\n  - L51 # Mix, Mix, Swirl, Mix\n  - L61 ## Brewing Checks\n  - L71 ## Strains\n  - L87 ## Example Staple Strains\n  - L89 #### Novice\n  - L101 #### Journeyman\n  - L113 #### Expert\n  - L121 #### Artisan\n  - L128 ## [Edible Monster Component Summary](https://www.dndbeyond.com/sources/dnd/hgtmh1/crafting#EdibleComponentEffects)\n  - L131 # Pass The Dutchie to the Left\n  - L133 ## Roll up\n  - L137 ##### Tweaker Table (see [[Conditions of Drakkenheim]])\n  - L148 ## Blaze\n  - L151 ## Puff, Puff, Pass\n  - L155 # Quirks\n  - L157 #### Quirks Gained\n  - L170 #### Pack Flaws\n  - L183 #### Pack Boons\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHeliana tiers are journeyman expert and master. the services are manufacturing, enchanting, forging, cooking, and alchemy (cooking for arcannabis using Arcannabis System Rework.md )\n\n"
+        }
+      ],
+      "createdAt": 1785467102365,
+      "updatedAt": 1785467102365
+    },
+    "8a8ab126": {
+      "hash": "8a8ab126",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/private/WIP Shop Template.md`\n  - L5 ## Overview\n  - L18 # Description\n  - L24 # Staff\n  - L26 ## {Owner}\n  - L35 ### Knows\n  - L45 ## Employees\n  - L54 # Services\n  - L70 # Heliana Crafting Services\n  - L72 ### Can Craft\n  - L82 ### Required From Customer\n  - L89 ### Crafting Modifier\n  - L95 # Harvest Purchasing\n  - L107 ### Especially Interested In\n  - L115 # Special Inventory\n  - L117 ## Always Available\n  - L123 ## Rotating Stock\n  - L138 # Special Recipes\n  - L150 # Monster Contracts\n  - L161 # Rumors\n  - L170 # Secrets\n  - L182 # Quest Hooks\n  - L190 # Stickyickistan Flavor\n  - L202 # Notes\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\ngive me a whole template to replace WIP Shop Template.md \n\n"
+        }
+      ],
+      "createdAt": 1785467340626,
+      "updatedAt": 1785467340626
+    }
+  }
+}

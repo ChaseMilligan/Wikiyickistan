@@ -4,7 +4,7 @@ Crimson Candleworks is optimized for five 3rd-level characters. This adventure s
 
 The adventure takes place in the city of [[Stickyickistan]], where a seemingly ordinary candle maker's workshop conceals an illegal Bloodwalker OG distribution operation beneath its floorboards. Hired by the [[Tribunal Highblade Coalition]], the characters investigate the business, uncover its hidden cellar, and dismantle the criminal enterprise operating below.
 
-# Outline
+# Intro
 
 ## Adjusting Encounters
 
@@ -18,11 +18,11 @@ Consult with your players before beginning if adjustments seem appropriate. You 
 
 The following information is key to the adventure's story.
 
-Part 1: [[The Rolling Papers]]. The characters discover a bounty posted by the Tribunal Highblade Coalition seeking adventurers willing to raid a suspected Bloodwalker OG distribution site operating beneath a candle maker's workshop.
+**Part 1:** [[The Rolling Papers]]. The characters discover a bounty posted by the Tribunal Highblade Coalition seeking adventurers willing to raid a suspected Bloodwalker OG distribution site operating beneath a candle maker's workshop.
 
-Part 2: Wick & Wax Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.
+**Part 2:** Wick & Wax Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.
 
-Conclusion: Another Candle Extinguished. After dismantling the operation, the characters recover evidence pointing toward the unknown producers of Bloodwalker OG before returning to the Tribunal Highblade Coalition to claim their reward.
+**Conclusion:** Another Candle Extinguished. After dismantling the operation, the characters recover evidence pointing toward the unknown producers of Bloodwalker OG before returning to the Tribunal Highblade Coalition to claim their reward.
 
 ---
 
@@ -42,7 +42,8 @@ The following stat blocks are used in this adventure:
 - [[Shadow]]
 - [[Vampirate Mage]]
 
-Text that appears in a box like this is intended to be read aloud or paraphrased for the players when their characters first arrive at a location or under the circumstances described.
+> [!Read Aloud]
+> Text that appears in a box like this is intended to be read aloud or paraphrased for the players when their characters first arrive at a location or under the circumstances described.
 
 ---
 
@@ -77,13 +78,7 @@ Unable to obtain sufficient evidence for a lawful raid, Coalition investigators 
 
 Unknown to the authorities, the candle workshop serves as little more than a façade. Beneath a faded rug inside the workshop lies a concealed trapdoor leading into a cellar where Bloodwalker OG is packaged, stored, and distributed throughout the city. Shipments arrive from hidden cultivation sites elsewhere in Stickyickistan, while victims murdered during the operation have their hearts harvested and returned to the growers for future production.
 
-The cellar is commanded by a Vampirate and several undead accomplices, all of whom have consumed Bloodwalker OG and now zealously protect the operation. If the workshop is exposed, the Coalition hopes the evidence recovered below will reveal who truly controls the BloodwalkerOG supply.
-
-I like this. It makes Part 1 feel much more like The Village of Hommlet. Burne is the face of that adventure, and Ziggy can fill the same role here. Since he's a goblin rogue, he also immediately establishes the slightly goofy-but-professional tone of Stickyickistan.
-
-I'd also make The Rolling Papers itself feel like a piece of worldbuilding instead of just a bulletin board. Players physically picking up a newspaper with classifieds and bounty listings is memorable.
-
-Here's how I'd write Part 1.
+The cellar is commanded by a Vampirate and several undead accomplices, all of whom have consumed Bloodwalker OG and now zealously protect the operation. If the workshop is exposed, the Coalition hopes the evidence recovered below will reveal who truly controls the Bloodwalker OG supply.
 
 ---
 
@@ -381,7 +376,7 @@ The Cultists continue fighting, buying time for their master.
 
 Alternatively, if the characters entered through the hidden well, Marek remains in his office until he hears combat below in Part 3. He then descends into the cellar through the trapdoor at the start of the second round of combat.
 
-# Development
+## Development
 
 If the characters defeat the workshop occupants, they eventually discover the concealed trapdoor beneath Marek's office, or they take too long and Marek escapes with his henchmen and the product.
 
@@ -394,7 +389,7 @@ In either case, proceed to Part 3: The Hidden Cellar.
 # Part 3: The Hidden Cellar
 *Estimated Duration: 45 Minutes*
 
-![Map](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/8ff3cec6011be1aaccef529d03c7892f.webp)
+![Map](cellar.png)
 
 Hidden beneath Wick & Wax Candleworks lies Branch Seven's distribution center. Here, Bloodwalker OG is weighed, packaged, and prepared for shipment throughout Stickyickistan. Unlike the orderly storefront above, the cellar serves only one purpose—keeping The Bloodline's illicit trade moving.
 
@@ -404,13 +399,10 @@ If the characters discovered the hidden well, they enter through area C2. Otherw
 
 Unless otherwise noted, the cellar has the following features.
 
-Ceilings. The ceilings are 8 feet high.
-
-Lighting. Hooded lanterns provide dim light throughout the cellar.
-
-Walls. Rough stone walls are reinforced with heavy timber supports.
-
-Smell. Damp earth, mildew, lamp oil, and the pungent aroma of processed Bloodwalker OG fill the air.
+- **Ceilings.** The ceilings are 8 feet high.
+- **Lighting**. Hooded lanterns provide dim light throughout the cellar.
+- **Walls**. Rough stone walls are reinforced with heavy timber supports.
+- **Smell**. Damp earth, mildew, lamp oil, and the pungent aroma of processed Bloodwalker OG fill the air.
 
 ---
 
@@ -438,16 +430,15 @@ Characters entering through the well begin the encounter here.
 
 Read or paraphrase the following:
 
-Long wooden tables divide the largest chamber of the cellar. Bundles of dried crimson Arcannabis lie beside scales, sealing wax, twine, and stacks of shipping crates. Lantern light flickers across dozens of neatly wrapped packages awaiting collection.
+> [!Read Aloud]
+> *Long wooden tables divide the largest chamber of the cellar. Bundles of dried crimson Arcannabis lie beside scales, sealing wax, twine, and stacks of shipping crates. Lantern light flickers across dozens of neatly wrapped packages awaiting collection.*
 
 This is no hidden laboratory. It is a warehouse built to move product.
 
 Unless they have already been defeated, the following creatures occupy this room:
 
 - 1 Apprentice Vamplock
-    
 - 2 Cultists
-    
 
 The cultists are packaging shipments while the Apprentice Vamplock oversees the evening's work.
 
@@ -469,44 +460,40 @@ No destinations or names are recorded.
 
 ---
 
-## Marek Arrives
+### Marek Arrives
 
 Marek joins the encounter under either of the following circumstances:
 
 - He escaped from the workshop using Dimension Door, arriving through area C1 with the strongbox.
-    
 - The characters entered through the hidden well and combat breaks out in the cellar.
-    
 
 Read or paraphrase:
 
-Heavy footsteps echo overhead, followed by the crash of a trapdoor opening.
-
-Marek Flint descends quickly, an iron strongbox tucked securely beneath one arm.
-
-His eyes dart briefly toward the well before settling on the intruders.
-
-"You've already cost me tonight's shipment."
-
-He sighs, adjusts his grip on the strongbox, and raises a hand crackling with necrotic energy.
-
-"I won't allow you to cost me the rest."
+> [!Read Aloud]
+> *Heavy footsteps echo overhead, followed by the crash of a trapdoor opening.*
+> 
+> *Marek Flint descends quickly, an iron strongbox tucked securely beneath one arm.*
+> 
+> *His eyes dart briefly toward the well before settling on the intruders.*
+> 
+> *"You've already cost me tonight's shipment."*
+> 
+> *He sighs, adjusts his grip on the strongbox, and raises a hand crackling with necrotic energy.*
+> 
+> *"I won't allow you to cost me the rest."*
 
 Roll initiative for Marek if he has not already acted.
 
 ### Marek's Goal
 
-Marek has no intention of dying beneath the workshop.
-
-His priority is protecting Bloodline property.
-
-If an opportunity presents itself, Marek attempts to fight his way to the smuggler's well and escape with the strongbox.
-
-He only abandons the strongbox if doing so is necessary to preserve his own unlife.
+- Marek has no intention of dying beneath the workshop.
+- His priority is protecting Bloodline property.
+- If an opportunity presents itself, Marek attempts to fight his way to the smuggler's well and escape with the strongbox.
+- He only abandons the strongbox if doing so is necessary to preserve his own unlife.
 
 ---
 
-## Shadows
+### Shadows
 
 Marek's Energy Drain creates Shadows as described in his stat block.
 
@@ -536,7 +523,7 @@ The Bloodwalker OG stored within the cellar can be confiscated or destroyed, pre
 
 The evidence recovered from Marek's office confirms that Branch Seven is only one small part of a much larger criminal syndicate known as The Bloodline. Returning this evidence to Ziggy Tootokes completes the investigation and provides the Tribunal Highblade Coalition with its first tangible lead into the organization.
 
-## Conclusion
+# Conclusion
 
 Read or paraphrase the following:
 
@@ -558,37 +545,16 @@ Whether Marek Flint escaped or was defeated, the destruction of Branch Seven dea
 
 Unfortunately, the evidence recovered from his office suggests the organization extends far beyond a single candle shop.
 
-I like all of these changes. They actually make it feel more like an official organized play adventure.
-
-- Three Treasure Bundles is much cleaner than six.
-    
-- Not all magic items is realistic. Treasure Bundles should include consumables and valuables.
-    
-- Story Award tied to Ziggy makes him a recurring ally instead of just "the quest giver."
-    
-- Halfway to level 4 is more appropriate than a level up.
-    
-- Copper / Silver / Gold rumors is exactly how I would end the adventure. The DM can use them as seeds depending on how much information the characters earn.
-    
-
-Here's how I'd rewrite those sections.
-
----
-
-# Rewards
+## Rewards
 
 Upon returning to Ziggy Tootokes, each character receives the promised bounty for dismantling Branch Seven.
 
 The characters also recover the following treasure during the adventure.
 
 - 185 gp
-    
 - Three garnets worth 50 gp each
-    
 - A silver signet ring engraved with The Bloodline's symbol
-    
 - Any mundane equipment recovered from defeated enemies
-    
 
 ## Treasure Bundles
 
@@ -603,7 +569,7 @@ At the conclusion of the adventure, award one Treasure Bundle to the party. Roll
 
 ---
 
-# Story Award
+## Story Award
 
 ## Friend of Ziggy
 
@@ -618,14 +584,6 @@ If Ziggy appears in a future adventure, he greets the characters as trusted asso
 # Experience
 
 Characters who complete this adventure earn 1,350 XP, approximately enough to advance a 3rd-level character halfway to 4th level.
-
-If using milestone advancement, ignore this award.
-
----
-
-I actually love this mechanic. It makes gathering rumors into a resource-management decision instead of just "roll until you know everything."
-
-I also think each tier should come from a different type of contact, which naturally explains why the information becomes more accurate.
 
 ---
 
@@ -702,7 +660,3 @@ As an investigator with the Tribunal Highblade Coalition, Ziggy has access to co
 |4|Wick & Wax Candleworks appears to be a distribution point, not the source of Bloodwalker OG. Someone else is supplying the operation.|
 |5|Coalition informants believe Marek keeps his most important records in his office rather than the cellar below.|
 |6|Criminal correspondence refers to Wick & Wax as Branch Seven, implying it is only one part of a much larger network.|
-
-  
-  
-**

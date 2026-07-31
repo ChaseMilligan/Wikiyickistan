@@ -2279,7 +2279,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "15644332"
+        "hash": "5b67ab65"
       },
       "id": "d7c686ff-9ce3-4120-8537-38e2e7d1492b",
       "mentionables": [
@@ -2546,7 +2546,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "0fc55029"
+        "hash": "859cc272"
       },
       "id": "7d69e8b1-43b6-4c67-b3c3-c8074e0e62a1",
       "mentionables": [
@@ -7169,7 +7169,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "1cf121d9"
+        "hash": "14fcbad1"
       },
       "id": "bc5a613c-ecca-428d-896d-86da2e7201da",
       "mentionables": [
@@ -7335,10 +7335,102 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Help me make a template for shops in my setting considering I am using Heliana's Guide to Monster Hunting",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "29b12498-10e8-4e33-bc6e-b898bf92bd22",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-30 20:00 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "0c6e2351-93c2-4546-91f1-50fbbe165a0a",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "durationMs": 1021,
+        "generationState": "error",
+        "errorMessage": "429 The usage limit has been reached\nCaused by: The usage limit has been reached",
+        "branchConversationId": "38bb2c48-a6a4-44ef-9d2f-ba511c333a5a",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1785369575022,
-  "updatedAt": 1785395473921,
+  "updatedAt": 1785463230792,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
