@@ -1,8 +1,8 @@
-Doobius House is a village in [[Stickyickistan]] inhabited by indigenous Halflings, and a small population of mixed folk called Twothirdlings. This village was founded in the earliest years of [[Human Colonialism]] and is named after the head of [[House Highblade]], and a great military leader of old, [[Duke Doobius Highblade]]. A thriving village in its hay day, it boasted the highest population of any inland settlement. In the current day, it is a run-down village with a very similar population to what it had in its prime. The growth of the town stagnated once the frontier, and native populations had been conquered / assimilated and there was no longer a need for a major inland post.
+Doobius House is a village in [[The Outback]] of [[Stickyickistan]] inhabited by indigenous [[Twothirdlings]], and a few full Halflings. This village was founded in the earliest years of [[Human Colonialism]] and is named after the head of [[House Highblade]], and a great military leader of old, [[Duke Doobius Highblade]]. A thriving village in its hay day, it boasted the highest population of any inland settlement. In the current day, it is a run-down village with a very similar population to what it had in its prime. The growth of the town stagnated once the frontier, and native populations had been conquered / assimilated and there was no longer a need for a major inland post.
 
 # History
 
-During it's hay day the town had a bustling economy relative to the time. Many adventurers would pass through the village streets, and although it is nothing like the city of today, the village had plenty of options for commerce.
+During it's hay day the town had a bustling economy relative to the time. Many adventurers would pass through the village streets, and although it is nothing like the city of Stickyickistan today, the village had plenty of options for commerce.
 
 # POIs
 

@@ -22,6 +22,61 @@
       ],
       "createdAt": 1785467340626,
       "updatedAt": 1785467340626
+    },
+    "72ff3d5e": {
+      "hash": "72ff3d5e",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/minor/Jimmyjock Labingi.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you help me  improve this write up Jimmyjock Labingi.md \n\n"
+        }
+      ],
+      "createdAt": 1785480951321,
+      "updatedAt": 1785480951321
+    },
+    "c4915ea2": {
+      "hash": "c4915ea2",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Regions/Molten Maw.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you exapnd this a bit Molten Maw.md \n\n"
+        }
+      ],
+      "createdAt": 1785481805909,
+      "updatedAt": 1785481805909
+    },
+    "9b3ee119": {
+      "hash": "9b3ee119",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Regions/City of Stickyickistan/Upper South Booftown.md`\n  - L1 ## The Ashtray\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nhelp me improve this write up Upper South Booftown.md \n\n"
+        }
+      ],
+      "createdAt": 1785482219025,
+      "updatedAt": 1785482219025
+    },
+    "bc78ea13": {
+      "hash": "bc78ea13",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Regions/City of Stickyickistan/Springwood.md\" startLine=\"1\" endLine=\"5\">\n```content/Regions/City of Stickyickistan/Springwood.md\n1|Springwood is a MASSIVE naturalized park in the middle [[Stickyickistan]]. Even the [[Human Colonialism]] settlers knew these woods were too sacred to defile.\n2|\n3|The Springwood is a broad, temperate forest filled with deciduous trees that existed in a state of perpetual spring, and dotted with a handful of human and gnomish settlements. [[Kerning’s Crossing]] lies along the region’s main trade route. The small town is mostly known for its apothecaries and proximity to the [[Solarium Botanica]], the driving force behind the local economy. Local alchemists and merchants have shuttered their shops without the garden’s resources to sell or transport. \n4|\n5|The forest has begun to change rapidly due to the influx of creatures fleeing the Plane of Fey and bringing with them a plethora of rapidly-growing fey seeds. Flights of glittering fairies flit about the treetops, and the wind carries tantalizing fragrances that cloud mortal minds. Songs are heard in the woods at night, and rainbow lights dance along the water’s surface, seducing mortals to explore the hungry forest. \n```\n</user_selected_content>\n\n\nSpringwood.md (169 Words) please improve this write up\n\n"
+        }
+      ],
+      "createdAt": 1785483005956,
+      "updatedAt": 1785483005956
+    },
+    "6bd8e5f7": {
+      "hash": "6bd8e5f7",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/N.E.R.D.md`\n- `content/PCs/FLS/Bartholomew Dorkymin V.md`\n  - L3 # Factions\n  - L6 # Allies\n  - L11 ## NPCs\n  - L15 # Backstory\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nGive me a small write up for N.E.R.D.md and use some context from Bartholomew Dorkymin V.md backstory\n\n"
+        }
+      ],
+      "createdAt": 1785483360111,
+      "updatedAt": 1785483360111
     }
   }
 }

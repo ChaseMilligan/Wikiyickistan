@@ -1,204 +1,121 @@
-#Shop 
-
-> *"Grown with love and not for greed."*
+> *"Shop slogan or memorable quote."*
 
 ## Overview
+
 **Type:** Arcannabis Dispensary
 
 **Owner:** [[Gideon Cloudwalker]], Eladrin, He/Him, LG
 
-**Location:** [[Nevercough Island]], Shopping District
+**Location:** [[Old Market District]], [[Nevercough Island]]
 
-**Hours:** Dawn–Dusk (or whatever)
+**Hours:** Always open
 
-**Faction Affiliation:** None / Guild / THC / A.S.S. / etc.
+**Faction Affiliation:** None.
 
----
+**Tier:** Journeyman
 
-# Description
-
-A small storefront along the sidewalk of a main street sits the Green Grimoire. Customers are welcomed by a mural of a Pixie and an Elf flying on a green spellbook through a [[Springwood|fey-touched forest]].
+**Services:** Manufacturing / Enchanting / Alchemy
 
 ---
 
-# Staff
+## Description
 
-## {Owner}
+Short description of the shop’s look, smell, atmosphere, customers, and one memorable detail.
 
-**Race:**
-**Class/Occupation:**
-**Personality:**
-**Ideal:**
-**Bond:**
-**Flaw:**
-
-### Knows
-
-- Important local rumors
-- Recent monster sightings
-- Current contracts
-- Valuable crafting recipes
-- Local politics
+A very small shop on a usually bustling street. The building is 
 
 ---
 
-## Employees
+## Staff
+
+**Owner Personality:**  
+**Owner Wants:**  
+**Owner Knows:** Rumors / Monster sightings / Recipes / Contracts / Local politics  
 
 | Name | Role | Notes |
-|------|------|------|
-| | | |
-| | | |
+|---|---|---|
+|  |  |  |
 
 ---
 
-# Services
+## Inventory & Services
 
-- Buying mundane equipment
-- Selling equipment
-- Repairs
-- Commission work
-- Crafting
-- Identification
-- Harvest appraisal
-- Cooking
-- Harvest preservation
-- Storage
-- Monster trophy mounting
+| Item / Service | Price | Notes |
+|---|---:|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Crafting Bonus:** +X  
+**Rush Jobs:** Yes / No / Double cost  
 
 ---
 
-# Heliana Crafting Services
+## Harvest Purchasing
 
-### Can Craft
+| Wanted Parts | Creature Types | Price Modifier | Notes |
+|---|---|---:|---|
+|  |  | 100% |  |
+|  |  | 125% |  |
+|  |  | 75% |  |
 
-| Item Tier | Available |
-|------------|-----------|
-| Common | ✓ |
-| Uncommon | ✓ |
-| Rare | ✓ |
-| Very Rare | ✗ |
-| Legendary | ✗ |
-
-### Required From Customer
-
-- Required monster parts
-- Required crafting components
-- Crafting fee
-- Downtime
-
-### Crafting Modifier
-
-**Crafting Bonus:** +X
+**Refuses:** Diseased parts / Intelligent remains / Uncontained ooze, acid, poison, or curses
 
 ---
 
-# Harvest Purchasing
+## Recipes
 
-The shop buys the following monster parts:
-
-| Type | Price Modifier |
-|------|----------------|
-| Beast | 100% |
-| Dragon | 125% |
-| Fiend | 150% |
-| Aberration | 80% |
-| Plant | 90% |
-
-### Especially Interested In
-
-- Item
-- Item
-- Item
+| Recipe | Service | Tier | Required Part |
+|---|---|---|---|
+|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  |
+|  |  |  |  |
 
 ---
 
-# Special Inventory
+## Monster Contracts
 
-## Always Available
-
-- Common equipment
-- Ammunition
-- Basic tools
-
-## Rotating Stock
-
-Roll or choose each tenday.
-
-| d6 | Item |
-|----|------|
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+| Monster | Wanted Part | Reward | Status |
+|---|---|---:|---|
+|  |  |  | Available / Claimed / Secret |
+|  |  |  |  |
 
 ---
 
-# Special Recipes
+## Arcannabis Notes
 
-The owner knows the following recipes:
+Use only if relevant. Arcannabis usually counts as **Cooking**.
 
-- Recipe
-- Recipe
-- Recipe
-
-Characters may purchase or earn these recipes.
+**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals
 
 ---
 
-# Monster Contracts
+## Rumors, Secrets, Hooks
 
-The shop currently offers:
+**Rumors:**
+1. 
+2. 
 
-| Monster | Reward | Status |
-|----------|--------|--------|
-| | | |
-| | | |
+**Secrets:**
+- 
+- 
 
----
-
-# Rumors
-
-1.
-2.
-3.
-4.
+**Quest Hooks:**
+- 
+- 
 
 ---
 
-# Secrets
+## Stickyickistan Flavor
 
-Things the players won't immediately know.
-
--
-
--
-
--
+- Unique local product:
+- Local law or taboo:
+- Weird customer:
+- Disturbing thing outsiders notice:
 
 ---
 
-# Quest Hooks
-
-- Hook
-- Hook
-- Hook
-
----
-
-# Stickyickistan Flavor
-
-Unique products only found here.
-
--
-
--
-
--
-
----
-
-# Notes
+## Notes
 
 Additional DM notes.
+
+#Shop 

@@ -1,4 +1,0 @@
-- [[Molten Maw]], is a colossal underground volcanic city in the [[Underdark]] inhabited mainly by [[Duergar]] and [[Svirfneblin]], that serves as both a natural forge and a deadly hazard.
-- Rivers of semi-intelligent, magically charged lava course through the tunnels, sometimes forming elemental creatures that guard the flows.
-- Criminals and rebels on the surface sometimes flee to Molten Maw, surviving in its hidden smuggler dens and fire-resistant cave networks.
-- Thus, Molten Maw is the heart of a literal underground criminal market known as [[The Silt Road]].

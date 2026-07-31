@@ -846,10 +846,1893 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Let's make it much simpler",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "eda8b83a-a045-45fc-98c6-189a5ae4cbee",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 00:31 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_LCaJ5VSlm2BHlhigNfRbFWwp",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/POIs/private/WIP Shop Template.md",
+              "content": "# {{Shop Name}}\n\n> *\"Shop slogan, warning, or memorable quote.\"*\n\n## Overview\n\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\n\n**Owner:** [[Name]], Race, Pronouns\n\n**Location:** District, [[Settlement]]\n\n**Hours:** Dawn–Dusk / By appointment / Always open\n\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\n\n**Shop Tier:** Journeyman / Expert / Master\n\n**Primary Service:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\n\n**Secondary Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy / None\n\n---\n\n# Description\n\nDescribe the shop’s appearance, atmosphere, smells, sounds, customers, visible wares, and one memorable oddity.\n\n---\n\n# Staff\n\n## {{Owner}}\n\n**Race:**  \n**Occupation:**  \n**Personality:**  \n**Wants:**  \n**Secret:**  \n\n### Knows\n\n- Recent monster sightings\n- Current contracts\n- Useful recipes\n- Local rumors\n- Valuable or dangerous monster parts\n\n## Employees\n\n| Name | Role | Notes |\n|---|---|---|\n|  |  |  |\n\n---\n\n# Services\n\n| Service | Available | Tier | Notes |\n|---|---:|---|---|\n| Manufacturing | ✓ / ✗ | Journeyman / Expert / Master | Gear, tools, containers, monster-part processing |\n| Enchanting | ✓ / ✗ | Journeyman / Expert / Master | Magical infusion, charms, runes, magic items |\n| Forging | ✓ / ✗ | Journeyman / Expert / Master | Weapons, armor, metal, bone, chitin, scales |\n| Cooking | ✓ / ✗ | Journeyman / Expert / Master | Meals, buffs, edible monster parts, Arcannabis edibles |\n| Alchemy | ✓ / ✗ | Journeyman / Expert / Master | Potions, oils, toxins, antitoxins, extracts |\n\n**Crafting Bonus:** +X  \n**Relevant Tools:**  \n**Rush Jobs:** Yes / No / Only for allies / Double cost  \n\n## Customer Must Provide\n\n- Required monster parts\n- Required crafting components\n- Recipe or formula, unless the shop already knows it\n- Crafting fee\n- Downtime\n\n---\n\n# Harvest Purchasing\n\n| Creature Type | Price Modifier | Interest | Notes |\n|---|---:|---|---|\n| Aberration | 80% / 100% / 125% | Low / Medium / High |  |\n| Beast | 100% | Low / Medium / High |  |\n| Celestial | 100% / 150% | Low / Medium / High |  |\n| Construct | 75% / 100% | Low / Medium / High |  |\n| Dragon | 125% / 150% | Low / Medium / High |  |\n| Elemental | 100% / 125% | Low / Medium / High |  |\n| Fey | 90% / 125% | Low / Medium / High |  |\n| Fiend | 125% / 150% | Low / Medium / High |  |\n| Giant | 90% / 100% | Low / Medium / High |  |\n| Humanoid | 0% / Illegal | None | Usually refused |\n| Monstrosity | 100% / 125% | Low / Medium / High |  |\n| Ooze | 75% / 125% | Low / Medium / High | Must be sealed |\n| Plant | 90% / 125% | Low / Medium / High | Good for Arcannabis / alchemy / cooking |\n| Undead | 50% / 125% | Low / Medium / High | Usually needs cleansing |\n\n## Especially Interested In\n\n- \n- \n- \n\n## Refused Materials\n\n- Diseased parts\n- Uncontained acid, poison, or ooze\n- Intelligent creature remains\n- Anything still whispering, twitching, or cursed\n\n---\n\n# Inventory\n\n## Always Available\n\n- Common equipment\n- Basic tools\n- Harvesting knives\n- Preservative jars\n- Field dressing supplies\n- Local bestiary notes\n- Copies or excerpts of [[Heliana's Guide to Monster Hunting]]\n\n## Special Stock\n\n| Item | Price | Notes |\n|---|---:|---|\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n---\n\n# Recipes\n\nThe shop knows these recipes.\n\n| Recipe | Service | Tier | Required Part | How to Learn |\n|---|---|---|---|---|\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  | Buy / Quest / Favor |\n|  |  |  |  |  |\n|  |  |  |  |  |\n\n---\n\n# Monster Contracts\n\n| Monster | Location | Desired Parts | Reward | Status |\n|---|---|---|---:|---|\n|  |  |  |  | Available / Claimed / Secret |\n|  |  |  |  |  |\n\n---\n\n# Arcannabis Notes\n\nUse only if relevant.\n\n**Arcannabis Service Tier:** Journeyman / Expert / Master  \n**Associated Service:** Cooking  \n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals  \n\n## Arcannabis Products\n\n| Product | Strain / Component | Effect | Price | Notes |\n|---|---|---|---:|---|\n|  |  |  |  |  |\n|  |  |  |  |  |\n\n---\n\n# Rumors\n\n1. \n2. \n3. \n\n---\n\n# Secrets\n\n- \n- \n- \n\n---\n\n# Quest Hooks\n\n- \n- \n- \n\n---\n\n# Stickyickistan Flavor\n\n- Unique local product:\n- Local law or taboo:\n- Weird customer:\n- Thing outsiders find disturbing:\n\n---\n\n# Notes\n\nAdditional DM notes.\n"
+            },
+            "rawText": "{\"path\":\"content/POIs/private/WIP Shop Template.md\",\"content\":\"# {{Shop Name}}\\n\\n> *\\\"Shop slogan, warning, or memorable quote.\\\"*\\n\\n## Overview\\n\\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\\n\\n**Owner:** [[Name]], Race, Pronouns\\n\\n**Location:** District, [[Settlement]]\\n\\n**Hours:** Dawn–Dusk / By appointment / Always open\\n\\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\\n\\n**Shop Tier:** Journeyman / Expert / Master\\n\\n**Primary Service:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\\n\\n**Secondary Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy / None\\n\\n---\\n\\n# Description\\n\\nDescribe the shop’s appearance, atmosphere, smells, sounds, customers, visible wares, and one memorable oddity.\\n\\n---\\n\\n# Staff\\n\\n## {{Owner}}\\n\\n**Race:**  \\n**Occupation:**  \\n**Personality:**  \\n**Wants:**  \\n**Secret:**  \\n\\n### Knows\\n\\n- Recent monster sightings\\n- Current contracts\\n- Useful recipes\\n- Local rumors\\n- Valuable or dangerous monster parts\\n\\n## Employees\\n\\n| Name | Role | Notes |\\n|---|---|---|\\n|  |  |  |\\n\\n---\\n\\n# Services\\n\\n| Service | Available | Tier | Notes |\\n|---|---:|---|---|\\n| Manufacturing | ✓ / ✗ | Journeyman / Expert / Master | Gear, tools, containers, monster-part processing |\\n| Enchanting | ✓ / ✗ | Journeyman / Expert / Master | Magical infusion, charms, runes, magic items |\\n| Forging | ✓ / ✗ | Journeyman / Expert / Master | Weapons, armor, metal, bone, chitin, scales |\\n| Cooking | ✓ / ✗ | Journeyman / Expert / Master | Meals, buffs, edible monster parts, Arcannabis edibles |\\n| Alchemy | ✓ / ✗ | Journeyman / Expert / Master | Potions, oils, toxins, antitoxins, extracts |\\n\\n**Crafting Bonus:** +X  \\n**Relevant Tools:**  \\n**Rush Jobs:** Yes / No / Only for allies / Double cost  \\n\\n## Customer Must Provide\\n\\n- Required monster parts\\n- Required crafting components\\n- Recipe or formula, unless the shop already knows it\\n- Crafting fee\\n- Downtime\\n\\n---\\n\\n# Harvest Purchasing\\n\\n| Creature Type | Price Modifier | Interest | Notes |\\n|---|---:|---|---|\\n| Aberration | 80% / 100% / 125% | Low / Medium / High |  |\\n| Beast | 100% | Low / Medium / High |  |\\n| Celestial | 100% / 150% | Low / Medium / High |  |\\n| Construct | 75% / 100% | Low / Medium / High |  |\\n| Dragon | 125% / 150% | Low / Medium / High |  |\\n| Elemental | 100% / 125% | Low / Medium / High |  |\\n| Fey | 90% / 125% | Low / Medium / High |  |\\n| Fiend | 125% / 150% | Low / Medium / High |  |\\n| Giant | 90% / 100% | Low / Medium / High |  |\\n| Humanoid | 0% / Illegal | None | Usually refused |\\n| Monstrosity | 100% / 125% | Low / Medium / High |  |\\n| Ooze | 75% / 125% | Low / Medium / High | Must be sealed |\\n| Plant | 90% / 125% | Low / Medium / High | Good for Arcannabis / alchemy / cooking |\\n| Undead | 50% / 125% | Low / Medium / High | Usually needs cleansing |\\n\\n## Especially Interested In\\n\\n- \\n- \\n- \\n\\n## Refused Materials\\n\\n- Diseased parts\\n- Uncontained acid, poison, or ooze\\n- Intelligent creature remains\\n- Anything still whispering, twitching, or cursed\\n\\n---\\n\\n# Inventory\\n\\n## Always Available\\n\\n- Common equipment\\n- Basic tools\\n- Harvesting knives\\n- Preservative jars\\n- Field dressing supplies\\n- Local bestiary notes\\n- Copies or excerpts of [[Heliana's Guide to Monster Hunting]]\\n\\n## Special Stock\\n\\n| Item | Price | Notes |\\n|---|---:|---|\\n|  |  |  |\\n|  |  |  |\\n|  |  |  |\\n\\n---\\n\\n# Recipes\\n\\nThe shop knows these recipes.\\n\\n| Recipe | Service | Tier | Required Part | How to Learn |\\n|---|---|---|---|---|\\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  | Buy / Quest / Favor |\\n|  |  |  |  |  |\\n|  |  |  |  |  |\\n\\n---\\n\\n# Monster Contracts\\n\\n| Monster | Location | Desired Parts | Reward | Status |\\n|---|---|---|---:|---|\\n|  |  |  |  | Available / Claimed / Secret |\\n|  |  |  |  |  |\\n\\n---\\n\\n# Arcannabis Notes\\n\\nUse only if relevant.\\n\\n**Arcannabis Service Tier:** Journeyman / Expert / Master  \\n**Associated Service:** Cooking  \\n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals  \\n\\n## Arcannabis Products\\n\\n| Product | Strain / Component | Effect | Price | Notes |\\n|---|---|---|---:|---|\\n|  |  |  |  |  |\\n|  |  |  |  |  |\\n\\n---\\n\\n# Rumors\\n\\n1. \\n2. \\n3. \\n\\n---\\n\\n# Secrets\\n\\n- \\n- \\n- \\n\\n---\\n\\n# Quest Hooks\\n\\n- \\n- \\n- \\n\\n---\\n\\n# Stickyickistan Flavor\\n\\n- Unique local product:\\n- Local law or taboo:\\n- Weird customer:\\n- Thing outsiders find disturbing:\\n\\n---\\n\\n# Notes\\n\\nAdditional DM notes.\\n\"}"
+          }
+        }
+      ],
+      "id": "514b3f28-21f7-4e86-a2f1-fc57ab8b6455",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 22462,
+          "completion_tokens": 1501,
+          "total_tokens": 23963
+        },
+        "durationMs": 29700,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_LCaJ5VSlm2BHlhigNfRbFWwp",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/POIs/private/WIP Shop Template.md",
+                "content": "# {{Shop Name}}\n\n> *\"Shop slogan, warning, or memorable quote.\"*\n\n## Overview\n\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\n\n**Owner:** [[Name]], Race, Pronouns\n\n**Location:** District, [[Settlement]]\n\n**Hours:** Dawn–Dusk / By appointment / Always open\n\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\n\n**Shop Tier:** Journeyman / Expert / Master\n\n**Primary Service:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\n\n**Secondary Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy / None\n\n---\n\n# Description\n\nDescribe the shop’s appearance, atmosphere, smells, sounds, customers, visible wares, and one memorable oddity.\n\n---\n\n# Staff\n\n## {{Owner}}\n\n**Race:**  \n**Occupation:**  \n**Personality:**  \n**Wants:**  \n**Secret:**  \n\n### Knows\n\n- Recent monster sightings\n- Current contracts\n- Useful recipes\n- Local rumors\n- Valuable or dangerous monster parts\n\n## Employees\n\n| Name | Role | Notes |\n|---|---|---|\n|  |  |  |\n\n---\n\n# Services\n\n| Service | Available | Tier | Notes |\n|---|---:|---|---|\n| Manufacturing | ✓ / ✗ | Journeyman / Expert / Master | Gear, tools, containers, monster-part processing |\n| Enchanting | ✓ / ✗ | Journeyman / Expert / Master | Magical infusion, charms, runes, magic items |\n| Forging | ✓ / ✗ | Journeyman / Expert / Master | Weapons, armor, metal, bone, chitin, scales |\n| Cooking | ✓ / ✗ | Journeyman / Expert / Master | Meals, buffs, edible monster parts, Arcannabis edibles |\n| Alchemy | ✓ / ✗ | Journeyman / Expert / Master | Potions, oils, toxins, antitoxins, extracts |\n\n**Crafting Bonus:** +X  \n**Relevant Tools:**  \n**Rush Jobs:** Yes / No / Only for allies / Double cost  \n\n## Customer Must Provide\n\n- Required monster parts\n- Required crafting components\n- Recipe or formula, unless the shop already knows it\n- Crafting fee\n- Downtime\n\n---\n\n# Harvest Purchasing\n\n| Creature Type | Price Modifier | Interest | Notes |\n|---|---:|---|---|\n| Aberration | 80% / 100% / 125% | Low / Medium / High |  |\n| Beast | 100% | Low / Medium / High |  |\n| Celestial | 100% / 150% | Low / Medium / High |  |\n| Construct | 75% / 100% | Low / Medium / High |  |\n| Dragon | 125% / 150% | Low / Medium / High |  |\n| Elemental | 100% / 125% | Low / Medium / High |  |\n| Fey | 90% / 125% | Low / Medium / High |  |\n| Fiend | 125% / 150% | Low / Medium / High |  |\n| Giant | 90% / 100% | Low / Medium / High |  |\n| Humanoid | 0% / Illegal | None | Usually refused |\n| Monstrosity | 100% / 125% | Low / Medium / High |  |\n| Ooze | 75% / 125% | Low / Medium / High | Must be sealed |\n| Plant | 90% / 125% | Low / Medium / High | Good for Arcannabis / alchemy / cooking |\n| Undead | 50% / 125% | Low / Medium / High | Usually needs cleansing |\n\n## Especially Interested In\n\n- \n- \n- \n\n## Refused Materials\n\n- Diseased parts\n- Uncontained acid, poison, or ooze\n- Intelligent creature remains\n- Anything still whispering, twitching, or cursed\n\n---\n\n# Inventory\n\n## Always Available\n\n- Common equipment\n- Basic tools\n- Harvesting knives\n- Preservative jars\n- Field dressing supplies\n- Local bestiary notes\n- Copies or excerpts of [[Heliana's Guide to Monster Hunting]]\n\n## Special Stock\n\n| Item | Price | Notes |\n|---|---:|---|\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n---\n\n# Recipes\n\nThe shop knows these recipes.\n\n| Recipe | Service | Tier | Required Part | How to Learn |\n|---|---|---|---|---|\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  | Buy / Quest / Favor |\n|  |  |  |  |  |\n|  |  |  |  |  |\n\n---\n\n# Monster Contracts\n\n| Monster | Location | Desired Parts | Reward | Status |\n|---|---|---|---:|---|\n|  |  |  |  | Available / Claimed / Secret |\n|  |  |  |  |  |\n\n---\n\n# Arcannabis Notes\n\nUse only if relevant.\n\n**Arcannabis Service Tier:** Journeyman / Expert / Master  \n**Associated Service:** Cooking  \n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals  \n\n## Arcannabis Products\n\n| Product | Strain / Component | Effect | Price | Notes |\n|---|---|---|---:|---|\n|  |  |  |  |  |\n|  |  |  |  |  |\n\n---\n\n# Rumors\n\n1. \n2. \n3. \n\n---\n\n# Secrets\n\n- \n- \n- \n\n---\n\n# Quest Hooks\n\n- \n- \n- \n\n---\n\n# Stickyickistan Flavor\n\n- Unique local product:\n- Local law or taboo:\n- Weird customer:\n- Thing outsiders find disturbing:\n\n---\n\n# Notes\n\nAdditional DM notes.\n"
+              },
+              "rawText": "{\"path\":\"content/POIs/private/WIP Shop Template.md\",\"content\":\"# {{Shop Name}}\\n\\n> *\\\"Shop slogan, warning, or memorable quote.\\\"*\\n\\n## Overview\\n\\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\\n\\n**Owner:** [[Name]], Race, Pronouns\\n\\n**Location:** District, [[Settlement]]\\n\\n**Hours:** Dawn–Dusk / By appointment / Always open\\n\\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\\n\\n**Shop Tier:** Journeyman / Expert / Master\\n\\n**Primary Service:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\\n\\n**Secondary Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy / None\\n\\n---\\n\\n# Description\\n\\nDescribe the shop’s appearance, atmosphere, smells, sounds, customers, visible wares, and one memorable oddity.\\n\\n---\\n\\n# Staff\\n\\n## {{Owner}}\\n\\n**Race:**  \\n**Occupation:**  \\n**Personality:**  \\n**Wants:**  \\n**Secret:**  \\n\\n### Knows\\n\\n- Recent monster sightings\\n- Current contracts\\n- Useful recipes\\n- Local rumors\\n- Valuable or dangerous monster parts\\n\\n## Employees\\n\\n| Name | Role | Notes |\\n|---|---|---|\\n|  |  |  |\\n\\n---\\n\\n# Services\\n\\n| Service | Available | Tier | Notes |\\n|---|---:|---|---|\\n| Manufacturing | ✓ / ✗ | Journeyman / Expert / Master | Gear, tools, containers, monster-part processing |\\n| Enchanting | ✓ / ✗ | Journeyman / Expert / Master | Magical infusion, charms, runes, magic items |\\n| Forging | ✓ / ✗ | Journeyman / Expert / Master | Weapons, armor, metal, bone, chitin, scales |\\n| Cooking | ✓ / ✗ | Journeyman / Expert / Master | Meals, buffs, edible monster parts, Arcannabis edibles |\\n| Alchemy | ✓ / ✗ | Journeyman / Expert / Master | Potions, oils, toxins, antitoxins, extracts |\\n\\n**Crafting Bonus:** +X  \\n**Relevant Tools:**  \\n**Rush Jobs:** Yes / No / Only for allies / Double cost  \\n\\n## Customer Must Provide\\n\\n- Required monster parts\\n- Required crafting components\\n- Recipe or formula, unless the shop already knows it\\n- Crafting fee\\n- Downtime\\n\\n---\\n\\n# Harvest Purchasing\\n\\n| Creature Type | Price Modifier | Interest | Notes |\\n|---|---:|---|---|\\n| Aberration | 80% / 100% / 125% | Low / Medium / High |  |\\n| Beast | 100% | Low / Medium / High |  |\\n| Celestial | 100% / 150% | Low / Medium / High |  |\\n| Construct | 75% / 100% | Low / Medium / High |  |\\n| Dragon | 125% / 150% | Low / Medium / High |  |\\n| Elemental | 100% / 125% | Low / Medium / High |  |\\n| Fey | 90% / 125% | Low / Medium / High |  |\\n| Fiend | 125% / 150% | Low / Medium / High |  |\\n| Giant | 90% / 100% | Low / Medium / High |  |\\n| Humanoid | 0% / Illegal | None | Usually refused |\\n| Monstrosity | 100% / 125% | Low / Medium / High |  |\\n| Ooze | 75% / 125% | Low / Medium / High | Must be sealed |\\n| Plant | 90% / 125% | Low / Medium / High | Good for Arcannabis / alchemy / cooking |\\n| Undead | 50% / 125% | Low / Medium / High | Usually needs cleansing |\\n\\n## Especially Interested In\\n\\n- \\n- \\n- \\n\\n## Refused Materials\\n\\n- Diseased parts\\n- Uncontained acid, poison, or ooze\\n- Intelligent creature remains\\n- Anything still whispering, twitching, or cursed\\n\\n---\\n\\n# Inventory\\n\\n## Always Available\\n\\n- Common equipment\\n- Basic tools\\n- Harvesting knives\\n- Preservative jars\\n- Field dressing supplies\\n- Local bestiary notes\\n- Copies or excerpts of [[Heliana's Guide to Monster Hunting]]\\n\\n## Special Stock\\n\\n| Item | Price | Notes |\\n|---|---:|---|\\n|  |  |  |\\n|  |  |  |\\n|  |  |  |\\n\\n---\\n\\n# Recipes\\n\\nThe shop knows these recipes.\\n\\n| Recipe | Service | Tier | Required Part | How to Learn |\\n|---|---|---|---|---|\\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  | Buy / Quest / Favor |\\n|  |  |  |  |  |\\n|  |  |  |  |  |\\n\\n---\\n\\n# Monster Contracts\\n\\n| Monster | Location | Desired Parts | Reward | Status |\\n|---|---|---|---:|---|\\n|  |  |  |  | Available / Claimed / Secret |\\n|  |  |  |  |  |\\n\\n---\\n\\n# Arcannabis Notes\\n\\nUse only if relevant.\\n\\n**Arcannabis Service Tier:** Journeyman / Expert / Master  \\n**Associated Service:** Cooking  \\n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals  \\n\\n## Arcannabis Products\\n\\n| Product | Strain / Component | Effect | Price | Notes |\\n|---|---|---|---:|---|\\n|  |  |  |  |  |\\n|  |  |  |  |  |\\n\\n---\\n\\n# Rumors\\n\\n1. \\n2. \\n3. \\n\\n---\\n\\n# Secrets\\n\\n- \\n- \\n- \\n\\n---\\n\\n# Quest Hooks\\n\\n- \\n- \\n- \\n\\n---\\n\\n# Stickyickistan Flavor\\n\\n- Unique local product:\\n- Local law or taboo:\\n- Weird customer:\\n- Thing outsiders find disturbing:\\n\\n---\\n\\n# Notes\\n\\nAdditional DM notes.\\n\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/POIs/private/WIP Shop Template.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/POIs/private/WIP Shop Template.md",
+                      "addedLines": 85,
+                      "removedLines": 445,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "d8c42f76-fc09-446a-abd0-6c5bd138614f"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 85,
+                  "totalRemovedLines": 445,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785479592969
+              }
+            }
+          }
+        }
+      ],
+      "id": "d8c42f76-fc09-446a-abd0-6c5bd138614f",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I simplified `content/POIs/private/WIP Shop Template.md`.\n\nThe new version is much shorter and keeps only the most useful sections:\n\n- Overview\n- Description\n- Staff\n- Services\n- Harvest Purchasing\n- Inventory\n- Recipes\n- Monster Contracts\n- Arcannabis Notes\n- Rumors\n- Secrets\n- Quest Hooks\n- Stickyickistan Flavor\n- Notes\n\nI also kept the Heliana structure simple:\n\n- **Shop Tier:** Journeyman / Expert / Master\n- **Services:** Manufacturing, Enchanting, Forging, Cooking, Alchemy\n- **Arcannabis:** optional, tied to Cooking when relevant.",
+      "id": "d597d2b5-c62f-4bab-a975-89cc3700c46b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 24049,
+          "completion_tokens": 140,
+          "total_tokens": 24189,
+          "cache_read_input_tokens": 22016
+        },
+        "durationMs": 4413,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "that is still too much",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "868abbe9-3824-4eca-b5e1-dcc8d19b130b",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 00:34 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_ediL5xZMMeNT7ENVMrbTZRh2",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/POIs/private/WIP Shop Template.md",
+              "content": "# {{Shop Name}}\n\n> *\"Shop slogan or memorable quote.\"*\n\n## Overview\n\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\n\n**Owner:** [[Name]], Race, Pronouns\n\n**Location:** District, [[Settlement]]\n\n**Hours:** Dawn–Dusk / By appointment / Always open\n\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\n\n**Tier:** Journeyman / Expert / Master\n\n**Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\n\n---\n\n## Description\n\nShort description of the shop’s look, smell, atmosphere, customers, and one memorable detail.\n\n---\n\n## Staff\n\n**Owner Personality:**  \n**Owner Wants:**  \n**Owner Knows:** Rumors / Monster sightings / Recipes / Contracts / Local politics  \n\n| Name | Role | Notes |\n|---|---|---|\n|  |  |  |\n\n---\n\n## Inventory & Services\n\n| Item / Service | Price | Notes |\n|---|---:|---|\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n**Crafting Bonus:** +X  \n**Rush Jobs:** Yes / No / Double cost  \n\n---\n\n## Harvest Purchasing\n\n| Wanted Parts | Creature Types | Price Modifier | Notes |\n|---|---|---:|---|\n|  |  | 100% |  |\n|  |  | 125% |  |\n|  |  | 75% |  |\n\n**Refuses:** Diseased parts / Intelligent remains / Uncontained ooze, acid, poison, or curses\n\n---\n\n## Recipes\n\n| Recipe | Service | Tier | Required Part |\n|---|---|---|---|\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  |\n|  |  |  |  |\n\n---\n\n## Monster Contracts\n\n| Monster | Wanted Part | Reward | Status |\n|---|---|---:|---|\n|  |  |  | Available / Claimed / Secret |\n|  |  |  |  |\n\n---\n\n## Arcannabis Notes\n\nUse only if relevant. Arcannabis usually counts as **Cooking**.\n\n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals\n\n---\n\n## Rumors, Secrets, Hooks\n\n**Rumors:**\n1. \n2. \n\n**Secrets:**\n- \n- \n\n**Quest Hooks:**\n- \n- \n\n---\n\n## Stickyickistan Flavor\n\n- Unique local product:\n- Local law or taboo:\n- Weird customer:\n- Disturbing thing outsiders notice:\n\n---\n\n## Notes\n\nAdditional DM notes.\n"
+            },
+            "rawText": "{\"path\":\"content/POIs/private/WIP Shop Template.md\",\"content\":\"# {{Shop Name}}\\n\\n> *\\\"Shop slogan or memorable quote.\\\"*\\n\\n## Overview\\n\\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\\n\\n**Owner:** [[Name]], Race, Pronouns\\n\\n**Location:** District, [[Settlement]]\\n\\n**Hours:** Dawn–Dusk / By appointment / Always open\\n\\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\\n\\n**Tier:** Journeyman / Expert / Master\\n\\n**Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\\n\\n---\\n\\n## Description\\n\\nShort description of the shop’s look, smell, atmosphere, customers, and one memorable detail.\\n\\n---\\n\\n## Staff\\n\\n**Owner Personality:**  \\n**Owner Wants:**  \\n**Owner Knows:** Rumors / Monster sightings / Recipes / Contracts / Local politics  \\n\\n| Name | Role | Notes |\\n|---|---|---|\\n|  |  |  |\\n\\n---\\n\\n## Inventory & Services\\n\\n| Item / Service | Price | Notes |\\n|---|---:|---|\\n|  |  |  |\\n|  |  |  |\\n|  |  |  |\\n\\n**Crafting Bonus:** +X  \\n**Rush Jobs:** Yes / No / Double cost  \\n\\n---\\n\\n## Harvest Purchasing\\n\\n| Wanted Parts | Creature Types | Price Modifier | Notes |\\n|---|---|---:|---|\\n|  |  | 100% |  |\\n|  |  | 125% |  |\\n|  |  | 75% |  |\\n\\n**Refuses:** Diseased parts / Intelligent remains / Uncontained ooze, acid, poison, or curses\\n\\n---\\n\\n## Recipes\\n\\n| Recipe | Service | Tier | Required Part |\\n|---|---|---|---|\\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  |\\n|  |  |  |  |\\n\\n---\\n\\n## Monster Contracts\\n\\n| Monster | Wanted Part | Reward | Status |\\n|---|---|---:|---|\\n|  |  |  | Available / Claimed / Secret |\\n|  |  |  |  |\\n\\n---\\n\\n## Arcannabis Notes\\n\\nUse only if relevant. Arcannabis usually counts as **Cooking**.\\n\\n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals\\n\\n---\\n\\n## Rumors, Secrets, Hooks\\n\\n**Rumors:**\\n1. \\n2. \\n\\n**Secrets:**\\n- \\n- \\n\\n**Quest Hooks:**\\n- \\n- \\n\\n---\\n\\n## Stickyickistan Flavor\\n\\n- Unique local product:\\n- Local law or taboo:\\n- Weird customer:\\n- Disturbing thing outsiders notice:\\n\\n---\\n\\n## Notes\\n\\nAdditional DM notes.\\n\"}"
+          }
+        }
+      ],
+      "id": "ded7724b-f8bf-4ea5-a198-bf94cdab6f8b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 24218,
+          "completion_tokens": 733,
+          "total_tokens": 24951
+        },
+        "durationMs": 15008,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_ediL5xZMMeNT7ENVMrbTZRh2",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/POIs/private/WIP Shop Template.md",
+                "content": "# {{Shop Name}}\n\n> *\"Shop slogan or memorable quote.\"*\n\n## Overview\n\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\n\n**Owner:** [[Name]], Race, Pronouns\n\n**Location:** District, [[Settlement]]\n\n**Hours:** Dawn–Dusk / By appointment / Always open\n\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\n\n**Tier:** Journeyman / Expert / Master\n\n**Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\n\n---\n\n## Description\n\nShort description of the shop’s look, smell, atmosphere, customers, and one memorable detail.\n\n---\n\n## Staff\n\n**Owner Personality:**  \n**Owner Wants:**  \n**Owner Knows:** Rumors / Monster sightings / Recipes / Contracts / Local politics  \n\n| Name | Role | Notes |\n|---|---|---|\n|  |  |  |\n\n---\n\n## Inventory & Services\n\n| Item / Service | Price | Notes |\n|---|---:|---|\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n**Crafting Bonus:** +X  \n**Rush Jobs:** Yes / No / Double cost  \n\n---\n\n## Harvest Purchasing\n\n| Wanted Parts | Creature Types | Price Modifier | Notes |\n|---|---|---:|---|\n|  |  | 100% |  |\n|  |  | 125% |  |\n|  |  | 75% |  |\n\n**Refuses:** Diseased parts / Intelligent remains / Uncontained ooze, acid, poison, or curses\n\n---\n\n## Recipes\n\n| Recipe | Service | Tier | Required Part |\n|---|---|---|---|\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  |\n|  |  |  |  |\n\n---\n\n## Monster Contracts\n\n| Monster | Wanted Part | Reward | Status |\n|---|---|---:|---|\n|  |  |  | Available / Claimed / Secret |\n|  |  |  |  |\n\n---\n\n## Arcannabis Notes\n\nUse only if relevant. Arcannabis usually counts as **Cooking**.\n\n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals\n\n---\n\n## Rumors, Secrets, Hooks\n\n**Rumors:**\n1. \n2. \n\n**Secrets:**\n- \n- \n\n**Quest Hooks:**\n- \n- \n\n---\n\n## Stickyickistan Flavor\n\n- Unique local product:\n- Local law or taboo:\n- Weird customer:\n- Disturbing thing outsiders notice:\n\n---\n\n## Notes\n\nAdditional DM notes.\n"
+              },
+              "rawText": "{\"path\":\"content/POIs/private/WIP Shop Template.md\",\"content\":\"# {{Shop Name}}\\n\\n> *\\\"Shop slogan or memorable quote.\\\"*\\n\\n## Overview\\n\\n**Type:** Blacksmith / Alchemist / Arcannabis Dispensary / Cookhouse / Magic Shop / Hunter’s Lodge / etc.\\n\\n**Owner:** [[Name]], Race, Pronouns\\n\\n**Location:** District, [[Settlement]]\\n\\n**Hours:** Dawn–Dusk / By appointment / Always open\\n\\n**Faction Affiliation:** None / Guild / THC / A.S.S. / [[The Loot Tavern]] / etc.\\n\\n**Tier:** Journeyman / Expert / Master\\n\\n**Services:** Manufacturing / Enchanting / Forging / Cooking / Alchemy\\n\\n---\\n\\n## Description\\n\\nShort description of the shop’s look, smell, atmosphere, customers, and one memorable detail.\\n\\n---\\n\\n## Staff\\n\\n**Owner Personality:**  \\n**Owner Wants:**  \\n**Owner Knows:** Rumors / Monster sightings / Recipes / Contracts / Local politics  \\n\\n| Name | Role | Notes |\\n|---|---|---|\\n|  |  |  |\\n\\n---\\n\\n## Inventory & Services\\n\\n| Item / Service | Price | Notes |\\n|---|---:|---|\\n|  |  |  |\\n|  |  |  |\\n|  |  |  |\\n\\n**Crafting Bonus:** +X  \\n**Rush Jobs:** Yes / No / Double cost  \\n\\n---\\n\\n## Harvest Purchasing\\n\\n| Wanted Parts | Creature Types | Price Modifier | Notes |\\n|---|---|---:|---|\\n|  |  | 100% |  |\\n|  |  | 125% |  |\\n|  |  | 75% |  |\\n\\n**Refuses:** Diseased parts / Intelligent remains / Uncontained ooze, acid, poison, or curses\\n\\n---\\n\\n## Recipes\\n\\n| Recipe | Service | Tier | Required Part |\\n|---|---|---|---|\\n|  | Manufacturing / Enchanting / Forging / Cooking / Alchemy | Journeyman / Expert / Master |  |\\n|  |  |  |  |\\n\\n---\\n\\n## Monster Contracts\\n\\n| Monster | Wanted Part | Reward | Status |\\n|---|---|---:|---|\\n|  |  |  | Available / Claimed / Secret |\\n|  |  |  |  |\\n\\n---\\n\\n## Arcannabis Notes\\n\\nUse only if relevant. Arcannabis usually counts as **Cooking**.\\n\\n**Products:** Flower / Edibles / Tinctures / Oils / Smoke Blends / Monster-Infused Meals\\n\\n---\\n\\n## Rumors, Secrets, Hooks\\n\\n**Rumors:**\\n1. \\n2. \\n\\n**Secrets:**\\n- \\n- \\n\\n**Quest Hooks:**\\n- \\n- \\n\\n---\\n\\n## Stickyickistan Flavor\\n\\n- Unique local product:\\n- Local law or taboo:\\n- Weird customer:\\n- Disturbing thing outsiders notice:\\n\\n---\\n\\n## Notes\\n\\nAdditional DM notes.\\n\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/POIs/private/WIP Shop Template.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/POIs/private/WIP Shop Template.md",
+                      "addedLines": 52,
+                      "removedLines": 143,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "bafa4e67-cf6e-40d7-9baa-962c9e32fee2"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 52,
+                  "totalRemovedLines": 143,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785479713622
+              }
+            }
+          }
+        }
+      ],
+      "id": "bafa4e67-cf6e-40d7-9baa-962c9e32fee2",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I made it much leaner.\n\nThe template is now focused on only the essentials:\n\n- Overview\n- Description\n- Staff\n- Inventory & Services\n- Harvest Purchasing\n- Recipes\n- Monster Contracts\n- Arcannabis Notes\n- Rumors / Secrets / Hooks\n- Stickyickistan Flavor\n- Notes\n\nIt still keeps the important Heliana structure, but without all the extra tables and explanations.",
+      "id": "d1709e24-3956-4d93-bcb7-c47e652f4288",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 25037,
+          "completion_tokens": 89,
+          "total_tokens": 25126,
+          "cache_read_input_tokens": 23040
+        },
+        "durationMs": 3370,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you help me  improve this write up ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Jimmyjock Labingi.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Jimmyjock Labingi.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/NPCs/minor/Jimmyjock Labingi.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "72ff3d5e"
+      },
+      "id": "37fa661f-d391-49b2-b685-d1c9cc686704",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/NPCs/minor/Jimmyjock Labingi.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 00:55 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_8TzGxN0chmazk3XlE06hVUnu",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/NPCs/minor/Jimmyjock Labingi.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/NPCs/minor/Jimmyjock Labingi.md\"]}"
+          }
+        }
+      ],
+      "id": "ca963d40-0162-4e38-bda1-30d5d00000f1",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 25218,
+          "completion_tokens": 36,
+          "total_tokens": 25254,
+          "cache_read_input_tokens": 23040
+        },
+        "durationMs": 2829,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_8TzGxN0chmazk3XlE06hVUnu",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/NPCs/minor/Jimmyjock Labingi.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/NPCs/minor/Jimmyjock Labingi.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_8TzGxN0chmazk3XlE06hVUnu\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/NPCs/minor/Jimmyjock Labingi.md\",\n      \"ok\": true,\n      \"totalLines\": 1,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|Jimmyjock Labingi was a legendary bard, and the bastard son of a native concubine and [[Duke Doobius Highblade]]. There are little to no records of who his mother was, as she is only ever marked in official documents as Mary Halfling-woman. Doobius never truly accepted Jimmyjock as his actual son since he wasn't fully human. Doobius eventually went on to marry a human woman, have fully human children with her, and left all of his estate to them when he passed away leaving Jimmyjock with nothing. In light of who his father was, Jimmyjock staunchly opposed the incursion of settlers upon his maternal ancestral lands. He was highly educated for the time, a talented poet, and man of the people, so when the Duke croaked, the [[Twothirdlings]] who heavily outnumbered the Elyrian population, made [[content/Regions/private/Doobius House|Doobius House]] their own settlement, and elected Jimmyjock the leader.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Duke Doobius Highblade\",\n          \"path\": \"content/NPCs/minor/Duke Doobius Highblade.md\"\n        },\n        {\n          \"link\": \"Twothirdlings\",\n          \"path\": \"content/Species/Twothirdlings.md\"\n        },\n        {\n          \"link\": \"content/Regions/private/Doobius House\",\n          \"path\": \"content/Regions/private/Doobius House.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "0ec04180-b840-403e-8c17-9855b852d3dd",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Right now the write-up has a strong core: **illegitimate noble son, erased mother, rejected by father, educated bard, anti-settler leader, elected by the Twothirdlings**. I’d improve it by giving the note clearer structure, making Jimmyjock more usable at the table, and sharpening the historical tone.\n\nHere’s a cleaner replacement:\n\n<yolo_block filename=\"content/NPCs/minor/Jimmyjock Labingi.md\">\n<<<<<<< REPLACE\n[old]\nJimmyjock Labingi was a legendary bard, and the bastard son of a native concubine and [[Duke Doobius Highblade]]. There are little to no records of who his mother was, as she is only ever marked in official documents as Mary Halfling-woman. Doobius never truly accepted Jimmyjock as his actual son since he wasn't fully human. Doobius eventually went on to marry a human woman, have fully human children with her, and left all of his estate to them when he passed away leaving Jimmyjock with nothing. In light of who his father was, Jimmyjock staunchly opposed the incursion of settlers upon his maternal ancestral lands. He was highly educated for the time, a talented poet, and man of the people, so when the Duke croaked, the [[Twothirdlings]] who heavily outnumbered the Elyrian population, made [[content/Regions/private/Doobius House|Doobius House]] their own settlement, and elected Jimmyjock the leader.\n=======\n[new]\n# Jimmyjock Labingi\n\n**Jimmyjock Labingi** was a legendary bard, poet, and early leader of the [[Twothirdlings]] of [[content/Regions/private/Doobius House|Doobius House]]. He is best remembered as a sharp-tongued champion of his mother’s people and one of the loudest voices against Elyrian settlement of his maternal ancestral lands.\n\n## Background\n\nJimmyjock was the illegitimate son of [[Duke Doobius Highblade]] and a native concubine whose real name has been almost entirely erased from official records. Surviving Elyrian documents refer to her only as **“Mary Halfling-woman,”** a label that says more about the recordkeepers than it does about her.\n\nThough Jimmyjock was raised with an unusual level of education for the time, Duke Doobius never truly accepted him as a legitimate son, largely because Jimmyjock was not fully human. Doobius later married a human woman, fathered human heirs, and left his estate to them when he died, leaving Jimmyjock with neither inheritance nor recognition.\n\n## Rise to Leadership\n\nRather than seek acceptance from the family that rejected him, Jimmyjock turned toward his mother’s people. A gifted bard, poet, and speaker, he became known as a man of the people: educated enough to argue with nobles, angry enough to mock them in verse, and beloved enough that common folk repeated his songs long after officials tried to silence them.\n\nWhen Duke Doobius finally died, the [[Twothirdlings]], who heavily outnumbered the Elyrian population around Doobius House, seized the moment. They claimed the estate and surrounding settlement as their own and elected Jimmyjock as their leader.\n\n## Legacy\n\nTo the Twothirdlings, Jimmyjock Labingi is remembered as a folk hero: the disinherited son who chose his mother’s people over his father’s name. To Elyrian loyalists, he was a rebel, demagogue, and thief of noble property. Both versions agree on one thing: Jimmyjock knew exactly how to turn a song into a weapon.\n\n## Traits\n\n- **Role:** Legendary bard, poet, folk leader\n- **Known For:** Anti-settler resistance, revolutionary songs, leadership of Doobius House\n- **Personality:** Charismatic, defiant, witty, bitter toward noble hypocrisy\n- **Ideal:** A people have the right to rule the land that remembers them.\n- **Bond:** His erased mother and the Twothirdlings who claimed him as kin.\n- **Flaw:** His hatred of Elyrian nobility could make compromise nearly impossible.\n\n## Possible Sayings\n\n> *“My father gave me no house, so my mother’s people gave me a homeland.”*\n\n> *“A duke may own a deed. A people own the dirt beneath it.”*\n\n> *“If they write your mother out of the records, sing her name louder.”*\n>>>>>>> END\n</yolo_block>",
+      "id": "c3dd78ae-0e1a-42db-a128-28e8dea2a242",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 25710,
+          "completion_tokens": 945,
+          "total_tokens": 26655,
+          "cache_read_input_tokens": 24064
+        },
+        "durationMs": 18593,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you exapnd this a bit ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Molten Maw.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Molten Maw.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Regions/Molten Maw.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "c4915ea2"
+      },
+      "id": "5e1df1ff-e740-420d-981a-f6dff9429486",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Regions/Greater Stickyickistan/Molten Maw.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 01:10 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_2wiXACgynWGuRIxV0JwxE2VP",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Regions/Molten Maw.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Regions/Molten Maw.md\"]}"
+          }
+        }
+      ],
+      "id": "1901248b-f832-4db3-8503-5e27ce5a6046",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 26728,
+          "completion_tokens": 30,
+          "total_tokens": 26758,
+          "cache_read_input_tokens": 24064
+        },
+        "durationMs": 3634,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_2wiXACgynWGuRIxV0JwxE2VP",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Regions/Molten Maw.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Regions/Molten Maw.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_2wiXACgynWGuRIxV0JwxE2VP\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Regions/Molten Maw.md\",\n      \"ok\": true,\n      \"totalLines\": 4,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|- [[Molten Maw]], is a colossal underground volcanic city in the [[Underdark]] inhabited mainly by [[Duergar]] and [[Svirfneblin]], that serves as both a natural forge and a deadly hazard.\\n2|- Rivers of semi-intelligent, magically charged lava course through the tunnels, sometimes forming elemental creatures that guard the flows.\\n3|- Criminals and rebels on the surface sometimes flee to Molten Maw, surviving in its hidden smuggler dens and fire-resistant cave networks.\\n4|- Thus, Molten Maw is the heart of a literal underground criminal market known as [[The Silt Road]].\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Molten Maw\",\n          \"path\": \"content/Regions/Molten Maw.md\"\n        },\n        {\n          \"link\": \"Underdark\",\n          \"path\": \"content/Regions/Mythmos/Underdark.md\"\n        },\n        {\n          \"link\": \"The Silt Road\",\n          \"path\": \"content/Misc/The Silt Road.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "cc327941-93a9-481f-9ad5-ebde6add0b84",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s an expanded version that keeps your original ideas, but gives Molten Maw more atmosphere, factions, dangers, and adventure use:\n\n<yolo_block filename=\"content/Regions/Molten Maw.md\">\n<<<<<<< REPLACE\n[old]\n- [[Molten Maw]], is a colossal underground volcanic city in the [[Underdark]] inhabited mainly by [[Duergar]] and [[Svirfneblin]], that serves as both a natural forge and a deadly hazard.\n- Rivers of semi-intelligent, magically charged lava course through the tunnels, sometimes forming elemental creatures that guard the flows.\n- Criminals and rebels on the surface sometimes flee to Molten Maw, surviving in its hidden smuggler dens and fire-resistant cave networks.\n- Thus, Molten Maw is the heart of a literal underground criminal market known as [[The Silt Road]].\n=======\n[new]\n# Molten Maw\n\n**Molten Maw** is a colossal underground volcanic city in the [[Underdark]], inhabited mainly by [[Duergar]] and [[Svirfneblin]]. Built around a vast open caldera beneath the earth, the city serves as both a natural forge and a deadly hazard. Its streets are carved into black basalt terraces, iron gantries, cooled lava shelves, and tunnels reinforced against constant tremors.\n\nRivers of semi-intelligent, magically charged lava course through the city’s depths. Locals call these flows **the Red Veins**, and treat them less like ordinary magma and more like dangerous spirits of the earth. The lava sometimes changes course without warning, answers certain forms of elemental magic, or rises into half-formed elemental creatures that guard the flows from thieves, miners, and careless outsiders.\n\n## Character\n\nMolten Maw is brutal, smoky, rich, and paranoid. Every surface is warm. Every shadow glows faintly red. The air tastes of metal, ash, and old bargains. Duergar foundries hammer day and night, while Svirfneblin engineers maintain hidden vents, cooling chambers, pressure gates, and secret escape tunnels.\n\nThe city is famous for:\n\n- Infernal heat and volcanic hazards\n- Masterwork metal, obsidian, glass, and gemstone craft\n- Hidden smuggler dens\n- Elemental lava cults\n- Political exiles and escaped criminals\n- The underground black market known as [[The Silt Road]]\n\n## The Silt Road\n\nCriminals, rebels, fugitives, and desperate surface-folk sometimes flee to Molten Maw, surviving in fire-resistant cave networks and hidden market warrens. Over time, these routes became the heart of [[The Silt Road]], a literal underground criminal market that moves contraband, people, secrets, cursed goods, monster parts, and forbidden magic beneath the notice of surface authorities.\n\nThe Silt Road does not truly belong to any one faction. Duergar clans tax it, Svirfneblin guides navigate it, smugglers profit from it, and local gangs bleed for control of it.\n\n## Notable Features\n\n- **The Red Veins:** Semi-intelligent lava rivers that move through the city like living arteries.\n- **The Chain Terraces:** Stacked residential districts connected by chains, lifts, bridges, and mine platforms.\n- **The Cinder Warrens:** Smuggler caves, fugitive dens, and black-market stalls hidden behind cooling vents.\n- **The Glass Forges:** Workshops where volcanic glass, enchanted slag, and fire-tempered gems are shaped.\n- **The Ash Courts:** Harsh civic chambers where Duergar clan leaders, Svirfneblin engineers, and criminal brokers negotiate.\n- **The Mouth Below:** A deeper volcanic pit believed to be either a planar wound, sleeping primordial, or the source of the Red Veins.\n\n## Dangers\n\n- Sudden lava surges\n- Toxic gas pockets\n- Collapsing tunnels\n- Elemental guardians\n- Duergar press gangs\n- Svirfneblin sabotage traps\n- Criminal ambushes\n- Heat exhaustion\n- Deals that are harder to escape than the city itself\n\n## Adventure Hooks\n\n- A fugitive the party needs has vanished into the Cinder Warrens.\n- A shipment moving along [[The Silt Road]] contains something far worse than contraband.\n- One of the Red Veins has begun spelling warnings in molten stone.\n- A Duergar clan hires the party to recover a stolen forge-secret.\n- A Svirfneblin engineer believes the Mouth Below is waking up.\n- Surface rebels want weapons from Molten Maw, but buying them may empower the wrong faction.\n>>>>>>> END\n</yolo_block>",
+      "id": "2c386f6a-6670-47ad-a9c5-0fd4e4ba4790",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 27106,
+          "completion_tokens": 948,
+          "total_tokens": 28054,
+          "cache_read_input_tokens": 25088
+        },
+        "durationMs": 18626,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "help me improve this write up ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Upper South Booftown.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Upper South Booftown.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Regions/City of Stickyickistan/Upper South Booftown.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "9b3ee119"
+      },
+      "id": "5a65aeb1-9f03-4488-ad20-d4bf7e1922c2",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Regions/City of Stickyickistan/Upper South Booftown.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 01:16 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_WoyJpXe9QPCnVGKnwKccB5xk",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Regions/City of Stickyickistan/Upper South Booftown.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Regions/City of Stickyickistan/Upper South Booftown.md\"]}"
+          }
+        }
+      ],
+      "id": "026c278b-a2d5-48a6-99b6-bbe01707a104",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 28158,
+          "completion_tokens": 38,
+          "total_tokens": 28196,
+          "cache_read_input_tokens": 26112
+        },
+        "durationMs": 3304,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_WoyJpXe9QPCnVGKnwKccB5xk",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Regions/City of Stickyickistan/Upper South Booftown.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Regions/City of Stickyickistan/Upper South Booftown.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_WoyJpXe9QPCnVGKnwKccB5xk\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Regions/City of Stickyickistan/Upper South Booftown.md\",\n      \"ok\": true,\n      \"totalLines\": 9,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|## The Ashtray\\n2|\\n3|Upper South Booftown, better known as \\\"The Ashtray\\\", is where the streets are rough, the air is thick with soot, and the law only exists if you can enforce it yourself. Wedged between the slow-churning lava flows of [[Mount Zooka]] and the more \\\"civilized\\\" parts of the city, this is a place where the strong thrive, the weak disappear, and everyone learns to hustle.\\n4|\\n5|The native halfling population makes up a significant portion of The Ashtray’s residents, though the district is home to a chaotic mix of outcasts, criminals, and those who simply don’t fit in anywhere else. Here, the [[Mandem on Booftown]] (MOB) and the [[Cough City Crew]] (CCC) fight an endless turf war over control of illicit [[Arcannabis]] strains, underground fight rings, and black-market [[Magitech]].\\n6|\\n7|Buildings climb over one another in a tangled mess of shoddy construction, creating multi-layered alleyways where anything can happen—and usually does. Hidden apothecaries peddle rare poisons, backroom taverns serve bootlegged [[Alcohol]], and bounty hunters stalk their marks through the smog-choked streets.\\n8|\\n9|Despite its lawless reputation, Upper South Booftown isn’t just a den of crime—it’s a proving ground. Here, fortunes are made and lost in a single dice roll, gangsters rule like kings, and even the smallest [[Halflings]] can rise to power—if they’re ruthless enough.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Mount Zooka\",\n          \"path\": \"content/Regions/City of Stickyickistan/Mount Zooka.md\"\n        },\n        {\n          \"link\": \"Mandem on Booftown\",\n          \"path\": \"content/Factions/Mandem on Booftown.md\"\n        },\n        {\n          \"link\": \"Cough City Crew\",\n          \"path\": \"content/Factions/Cough City Crew.md\"\n        },\n        {\n          \"link\": \"Arcannabis\",\n          \"path\": \"content/Arcannabis/Arcannabis.md\"\n        },\n        {\n          \"link\": \"Magitech\",\n          \"path\": \"content/Misc/Magitech.md\"\n        },\n        {\n          \"link\": \"Alcohol\",\n          \"path\": \"content/Misc/Alcohol.md\"\n        },\n        {\n          \"link\": \"Halflings\",\n          \"path\": \"content/Species/Halflings.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "b2ea913a-22d7-4074-bb4b-22ac95de19b9",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a stronger, more usable version that keeps the same gritty tone but gives **Upper South Booftown / The Ashtray** clearer identity, landmarks, factions, and adventure hooks.\n\n<yolo_block filename=\"content/Regions/City of Stickyickistan/Upper South Booftown.md\">\n<<<<<<< REPLACE\n[old]\n## The Ashtray\n\nUpper South Booftown, better known as \"The Ashtray\", is where the streets are rough, the air is thick with soot, and the law only exists if you can enforce it yourself. Wedged between the slow-churning lava flows of [[Mount Zooka]] and the more \"civilized\" parts of the city, this is a place where the strong thrive, the weak disappear, and everyone learns to hustle.\n\nThe native halfling population makes up a significant portion of The Ashtray’s residents, though the district is home to a chaotic mix of outcasts, criminals, and those who simply don’t fit in anywhere else. Here, the [[Mandem on Booftown]] (MOB) and the [[Cough City Crew]] (CCC) fight an endless turf war over control of illicit [[Arcannabis]] strains, underground fight rings, and black-market [[Magitech]].\n\nBuildings climb over one another in a tangled mess of shoddy construction, creating multi-layered alleyways where anything can happen—and usually does. Hidden apothecaries peddle rare poisons, backroom taverns serve bootlegged [[Alcohol]], and bounty hunters stalk their marks through the smog-choked streets.\n\nDespite its lawless reputation, Upper South Booftown isn’t just a den of crime—it’s a proving ground. Here, fortunes are made and lost in a single dice roll, gangsters rule like kings, and even the smallest [[Halflings]] can rise to power—if they’re ruthless enough.\n=======\n[new]\n# Upper South Booftown\n\n## The Ashtray\n\n**Upper South Booftown**, better known as **The Ashtray**, is where the streets are rough, the air is thick with soot, and the law only exists if someone nearby is willing to enforce it. Wedged between the slow-churning lava flows of [[Mount Zooka]] and the more “civilized” parts of the city, The Ashtray is a district of smoke-blackened rooftops, crooked tenements, ash-slick alleys, and hustlers who can smell weakness through a closed door.\n\nThe native [[Halflings|halfling]] population makes up a significant portion of the district’s residents, though The Ashtray is also home to outcasts, fugitives, dock toughs, failed apprentices, smugglers, off-duty mercenaries, and anyone else too useful, desperate, or dangerous to fit anywhere cleaner. It is not a safe neighborhood, but it is an honest one in its own crooked way: everyone knows what everything costs, even if the price is not always paid in coin.\n\n## Character\n\nThe Ashtray feels like a city stacked on top of itself. Buildings climb over one another in a tangled mess of shoddy construction, patched bridges, rooftop walkways, hanging laundry lines, and half-legal expansions. The ground level belongs to carts, gangs, gamblers, and stray dogs. The upper levels belong to lookouts, rooftop gardens, hidden grow rooms, and people who do not want to be found.\n\nThe air is always warm and dirty. Ash from [[Mount Zooka]] settles on windowsills, food stalls, shrine steps, and sleeping children. Locals joke that if you leave a white shirt outside overnight, it wakes up as part of the neighborhood.\n\n## Power on the Streets\n\nThe [[Mandem on Booftown]] (MOB) and the [[Cough City Crew]] (CCC) fight an endless turf war over illicit [[Arcannabis]] strains, underground fight rings, protection rackets, backroom gambling, bootlegged [[Alcohol]], and black-market [[Magitech]]. Their conflict is loud enough to terrify outsiders but familiar enough that residents know when to duck, when to run, and when to pretend they saw nothing.\n\nNeither gang fully controls The Ashtray. Power shifts block by block, rooftop by rooftop, and business by business. A tea shop might pay MOB on Mondays, CCC on Fridays, and a local auntie every day because everyone knows she is the one actually keeping the street alive.\n\n## Notable Features\n\n- **The Sootsteps:** A maze of exterior stairs, ladders, rope bridges, and rooftop shortcuts used by locals to avoid gang checkpoints.\n- **Cinder Courts:** Open lots where dice games, fistfights, public arguments, and informal trials are held.\n- **Backroom Taverns:** Hidden drinking halls serving bootlegged [[Alcohol]], bad decisions, and worse information.\n- **Ash Gardens:** Rooftop planters where locals grow hardy food, medicinal herbs, and discreet [[Arcannabis]] strains under layers of volcanic grit.\n- **The Black Stalls:** A shifting night market for stolen goods, rare poisons, counterfeit papers, and illegal [[Magitech]] parts.\n- **Smoke Chapels:** Tiny street shrines where residents pray for protection, revenge, luck, or a clean death.\n\n## Reputation\n\nDespite its lawless reputation, Upper South Booftown is not just a den of crime. It is a proving ground. Fortunes are made and lost in a single dice roll. Gangsters rule like kings until someone hungrier takes their corner. Bounty hunters stalk their marks through smog-choked streets, and even the smallest [[Halflings]] can rise to power if they are clever, ruthless, and loved by the right people.\n\nTo outsiders, The Ashtray is dangerous. To locals, it is home.\n\n## Adventure Hooks\n\n- A gang truce collapses after someone steals a rare Arcannabis strain from a rooftop grow.\n- A bounty target is hiding in the Sootsteps, protected by locals who hate the person hunting them.\n- A batch of black-market Magitech starts malfunctioning and setting buildings on fire.\n- A respected halfling elder asks the party to remove a gang lieutenant without starting a district war.\n- A child finds something valuable, cursed, or alive in a fresh fall of ash from [[Mount Zooka]].\n- The MOB and CCC both want the same monster part, and neither side knows why the other wants it.\n>>>>>>> END\n</yolo_block>",
+      "id": "bc785d77-223f-4069-abe7-4f5cced932a3",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 28877,
+          "completion_tokens": 1331,
+          "total_tokens": 30208,
+          "cache_read_input_tokens": 27136
+        },
+        "durationMs": 29272,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Springwood.md (169 Words)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Springwood.md (169 Words)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "content/Regions/City of Stickyickistan/Springwood.md",
+                    "startLine": 1,
+                    "endLine": 5,
+                    "source": "selection-sync",
+                    "contentHash": "d70b45db",
+                    "contentCount": 169,
+                    "contentUnit": "words"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " please improve this write up",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "bc78ea13"
+      },
+      "id": "34b273ac-8460-4c79-b0f2-4579be2def4c",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "Springwood is a MASSIVE naturalized park in the middle [[Stickyickistan]]. Even the [[Human Colonialism]] settlers knew these woods were too sacred to defile.\n\nThe Springwood is a broad, temperate forest filled with deciduous trees that existed in a state of perpetual spring, and dotted with a handful of human and gnomish settlements. [[Kerning’s Crossing]] lies along the region’s main trade route. The small town is mostly known for its apothecaries and proximity to the [[Solarium Botanica]], the driving force behind the local economy. Local alchemists and merchants have shuttered their shops without the garden’s resources to sell or transport. \n\nThe forest has begun to change rapidly due to the influx of creatures fleeing the Plane of Fey and bringing with them a plethora of rapidly-growing fey seeds. Flights of glittering fairies flit about the treetops, and the wind carries tantalizing fragrances that cloud mortal minds. Songs are heard in the woods at night, and rainbow lights dance along the water’s surface, seducing mortals to explore the hungry forest. ",
+          "file": "content/Regions/Greater Stickyickistan/Springwood.md",
+          "startLine": 1,
+          "endLine": 5,
+          "source": "selection-sync",
+          "contentHash": "d70b45db",
+          "contentCount": 169,
+          "contentUnit": "words"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 01:30 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a cleaner, more atmospheric version that keeps your core ideas while making **Springwood** feel more distinct and usable:\n\n<yolo_block filename=\"content/Regions/City of Stickyickistan/Springwood.md\">\n<<<<<<< REPLACE\n[old]\nSpringwood is a MASSIVE naturalized park in the middle [[Stickyickistan]]. Even the [[Human Colonialism]] settlers knew these woods were too sacred to defile.\n\nThe Springwood is a broad, temperate forest filled with deciduous trees that existed in a state of perpetual spring, and dotted with a handful of human and gnomish settlements. [[Kerning’s Crossing]] lies along the region’s main trade route. The small town is mostly known for its apothecaries and proximity to the [[Solarium Botanica]], the driving force behind the local economy. Local alchemists and merchants have shuttered their shops without the garden’s resources to sell or transport. \n\nThe forest has begun to change rapidly due to the influx of creatures fleeing the Plane of Fey and bringing with them a plethora of rapidly-growing fey seeds. Flights of glittering fairies flit about the treetops, and the wind carries tantalizing fragrances that cloud mortal minds. Songs are heard in the woods at night, and rainbow lights dance along the water’s surface, seducing mortals to explore the hungry forest. \n=======\n[new]\n# Springwood\n\n**Springwood** is a massive naturalized park in the heart of [[Stickyickistan]], an ancient sacred woodland so revered that even the settlers of [[Human Colonialism]] hesitated to defile it. The forest has always existed in a state of impossible spring: bright leaves, blooming flowers, soft rain, birdsong, and warm green air no matter the season beyond its borders.\n\nThe woodland is broad and temperate, dominated by old deciduous trees and dotted with small human, halfling, and gnomish settlements. [[Kerning’s Crossing]] sits along the main trade road, known for its apothecaries and its dependence on the nearby [[Solarium Botanica]]. When the Botanica thrives, merchants, alchemists, herbalists, and Arcannabis growers prosper. When its resources dry up, whole storefronts shutter within days.\n\nRecently, Springwood has begun changing faster than anyone can explain. Creatures fleeing the Plane of Fey have carried strange seeds into the forest, and those seeds are taking root with alarming speed. Glittering fairies flit through the canopy, perfumes drift on the wind and cloud mortal judgment, and songs echo between the trees at night. Rainbow lights shimmer across ponds and streams, luring travelers off the path and deeper into a forest that feels less like a park each day and more like a hungry dream.\n>>>>>>> END\n</yolo_block>",
+      "id": "3a9648c9-0fb4-40b8-9b12-38b49e46be8d",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 30528,
+          "completion_tokens": 573,
+          "total_tokens": 31101,
+          "cache_read_input_tokens": 26112
+        },
+        "durationMs": 12223,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give me a small write up for ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "N.E.R.D.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "N.E.R.D.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Factions/N.E.R.D.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " and use some context from ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Bartholomew Dorkymin V.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Bartholomew Dorkymin V.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/PCs/FLS/Bartholomew Dorkymin V.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " backstory",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "6bd8e5f7"
+      },
+      "id": "e0e6cbd6-5f3f-4cdb-b103-c1a580c77dad",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Factions/N.E.R.D.md"
+        },
+        {
+          "type": "file",
+          "file": "content/PCs/FLS/Bartholomew Dorkymin V.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 01:35 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_50DTWSIYrzDOGWoyaMrpszIY",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Factions/N.E.R.D.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Factions/N.E.R.D.md\"]}"
+          }
+        },
+        {
+          "id": "call_e1UElTM0zKUBJ7wj1P5wSAJ0",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/PCs/FLS/Bartholomew Dorkymin V.md"
+              ],
+              "startLine": 15,
+              "maxLines": 80
+            },
+            "rawText": "{\"paths\":[\"content/PCs/FLS/Bartholomew Dorkymin V.md\"],\"startLine\":15,\"maxLines\":80}"
+          }
+        }
+      ],
+      "id": "3f8f4d4c-2003-470c-b624-afc7fdf8ba61",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 31247,
+          "completion_tokens": 91,
+          "total_tokens": 31338,
+          "cache_read_input_tokens": 28160
+        },
+        "durationMs": 3182,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_50DTWSIYrzDOGWoyaMrpszIY",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Factions/N.E.R.D.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Factions/N.E.R.D.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_50DTWSIYrzDOGWoyaMrpszIY\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Factions/N.E.R.D.md\",\n      \"ok\": true,\n      \"totalLines\": 3,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|N.E.R.D - Nerds Enjoy Researching Data\\n2|\\n3|An arcane educational institution of [[Stickyickistan]]\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_e1UElTM0zKUBJ7wj1P5wSAJ0",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/PCs/FLS/Bartholomew Dorkymin V.md"
+                ],
+                "startLine": 15,
+                "maxLines": 80
+              },
+              "rawText": "{\"paths\":[\"content/PCs/FLS/Bartholomew Dorkymin V.md\"],\"startLine\":15,\"maxLines\":80}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_e1UElTM0zKUBJ7wj1P5wSAJ0\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/PCs/FLS/Bartholomew Dorkymin V.md\",\n      \"ok\": true,\n      \"totalLines\": 19,\n      \"returnedRange\": {\n        \"startLine\": 15,\n        \"endLine\": 19\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"15|# Backstory\\n16|\\n17|Bartholomew Dorkymin the fifth, aka Bart, displayed immense intellect from an early age, earning admission to [[N.E.R.D]]. Institutions at the age of 13. There he studied a vast array of subjects, including casting magic through glyphs, solving complex mathematical equations, studying history, and approaching problems with a critical mindset. While spending a long night before an exam deep in one of the libraries, Bartholomew came across an ornately bound dusty tome. Curiosity compelled him to explore the contents of the book, where he first learned about angels and the transformation they went through when one fell from grace, becoming a devil or daemon. After that night he signed up for an obscure class that explored this newfound interest in depth, exoterosology. The word derives from ancient [[Abyss]]al, meaning 'outer,' referring to how these powerful beings reside beyond the material plane. Now, nineteen years old, Bartholomew has just completed his first year of exoterosology with the understanding that, if he ever wants answers from these planar beings, he will need to get more powerful. With the whole summer ahead, he decided to look for tribulations to solve, as overcoming difficult situations strengthens oneself. When a professor of his told him about a request for help investigating a mine that started having supernatural occurrences, Bartholomew Dorkymin V knew it was time to embark on his first adventure.    \\n18|\\n19|N.E.R.D - Nerds Enjoy Researching Data    \",\n      \"wikilinks\": [\n        {\n          \"link\": \"N.E.R.D\",\n          \"path\": \"content/Factions/N.E.R.D.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 15,
+                  "endLine": 19,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "24b0b74e-4259-4083-a5a0-a46aa71e918c",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a small improved write-up for `N.E.R.D.md` using Bartholomew’s backstory:\n\n<yolo_block filename=\"content/Factions/N.E.R.D.md\">\n<<<<<<< REPLACE\n[old]\nN.E.R.D - Nerds Enjoy Researching Data\n\nAn arcane educational institution of [[Stickyickistan]]\n=======\n[new]\n# N.E.R.D\n\n**N.E.R.D**, short for **Nerds Enjoy Researching Data**, is an arcane educational institution in [[Stickyickistan]] known for producing brilliant, obsessive, and occasionally dangerous young scholars. Its curriculum mixes traditional magical study with mathematics, history, glyphwork, critical reasoning, planar theory, and whatever obscure electives the faculty can justify keeping funded.\n\nStudents of N.E.R.D are encouraged to solve problems through research, experimentation, and careful analysis, though this often leads them into trouble. The institution’s libraries are famous for containing dusty tomes, forgotten theories, and books that probably should have been locked away more securely.\n\nOne of its notable students, [[Bartholomew Dorkymin V]], was admitted at only thirteen years old. During a late night in the library, he discovered a tome on angels, fallen celestials, devils, daemons, and other beings beyond the Material Plane. This led him into the obscure field of **exoterosology**, the study of powerful outer-planar beings and the realms they inhabit.\n\nN.E.R.D is respected as a place of learning, but it also has a reputation for creating exactly the sort of people who read one forbidden book and decide the next logical step is field research.\n>>>>>>> END\n</yolo_block>",
+      "id": "b0169287-db9f-4354-9724-7b0874db56ae",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 32036,
+          "completion_tokens": 345,
+          "total_tokens": 32381,
+          "cache_read_input_tokens": 30208
+        },
+        "durationMs": 8708,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "make a seperate section for Bart",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "685c69ce-b889-4a59-ba58-d22b37150879",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 01:37 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Use this version instead, with Bart separated into his own section:\n\n<yolo_block filename=\"content/Factions/N.E.R.D.md\">\n<<<<<<< REPLACE\n[old]\nN.E.R.D - Nerds Enjoy Researching Data\n\nAn arcane educational institution of [[Stickyickistan]]\n=======\n[new]\n# N.E.R.D\n\n**N.E.R.D**, short for **Nerds Enjoy Researching Data**, is an arcane educational institution in [[Stickyickistan]] known for producing brilliant, obsessive, and occasionally dangerous young scholars. Its curriculum mixes traditional magical study with mathematics, history, glyphwork, critical reasoning, planar theory, and whatever obscure electives the faculty can justify keeping funded.\n\nStudents of N.E.R.D are encouraged to solve problems through research, experimentation, and careful analysis, though this often leads them into trouble. The institution’s libraries are famous for containing dusty tomes, forgotten theories, and books that probably should have been locked away more securely.\n\nN.E.R.D is respected as a place of learning, but it also has a reputation for creating exactly the sort of people who read one forbidden book and decide the next logical step is field research.\n\n## Notable Students\n\n### [[Bartholomew Dorkymin V]]\n\n[[Bartholomew Dorkymin V]], also known as Bart, was admitted to N.E.R.D at only thirteen years old due to his immense intellect. During his studies, he explored glyph-based magic, complex mathematics, history, and critical reasoning.\n\nOne late night before an exam, Bart discovered an ornately bound dusty tome in one of the institution’s libraries. The book introduced him to angels, fallen celestials, devils, daemons, and other beings beyond the Material Plane. This discovery led him into the obscure field of **exoterosology**, the study of outer-planar beings and the realms they inhabit.\n>>>>>>> END\n</yolo_block>",
+      "id": "57542581-f16f-4cfa-a341-78909f9570a1",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 32411,
+          "completion_tokens": 394,
+          "total_tokens": 32805,
+          "cache_read_input_tokens": 30208
+        },
+        "durationMs": 9251,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Dont include anything about Bart. Add more links to the write up like locations and possible factions",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "29041b0e-1921-4cf3-a415-103dddc49f46",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 01:38 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Got it — here’s a Bart-free version with more useful internal links and possible faction/location connections:\n\n<yolo_block filename=\"content/Factions/N.E.R.D.md\">\n<<<<<<< REPLACE\n[old]\nN.E.R.D - Nerds Enjoy Researching Data\n\nAn arcane educational institution of [[Stickyickistan]]\n=======\n[new]\n# N.E.R.D\n\n**N.E.R.D**, short for **Nerds Enjoy Researching Data**, is an arcane educational institution in [[Stickyickistan]] dedicated to magical research, mathematical theory, glyphwork, history, planar studies, and experimental problem-solving.\n\nThe institution is known for producing brilliant scholars, eccentric mages, obsessive researchers, and the occasional overconfident disaster. Its halls are filled with lecture chambers, enchanted chalkboards, sealed archives, unstable student projects, and libraries containing books that probably should not be available to first-year students.\n\n## Role in Stickyickistan\n\nN.E.R.D serves as one of [[Stickyickistan|Stickyickistan’s]] major centers of arcane education and magical research. Its professors and students are often consulted by city officials, adventuring parties, merchants, and private patrons when a problem requires brains, spells, obscure citations, or dangerous fieldwork.\n\nThe institution maintains an uneasy relationship with practical power. It claims to pursue knowledge for its own sake, but its research is valuable to nobles, guilds, inventors, monster hunters, and political factions across the region.\n\n## Areas of Study\n\n- Glyph-based magic\n- Arcane mathematics\n- History and archaeology\n- Planar studies\n- Exoterosology\n- Magical engineering\n- [[Magitech]]\n- Monster research\n- Alchemy\n- Linguistics and dead languages\n- Defensive spellcraft\n- Experimental enchantment\n\n## Possible Connections\n\n- [[Stickyickistan]] — The institution’s home city and primary source of students, funding, and problems.\n- [[The Loot Tavern]] — A potential partner for monster research, field studies, and practical applications of dangerous knowledge.\n- [[Heliana]] — Her work may be cited in monster biology, harvesting, and field research courses.\n- [[Arcannabis]] — Studied by alchemists, botanists, and experimental herbalists within the institution.\n- [[Magitech]] — A major field of research, invention, and frequent explosions.\n- [[Solarium Botanica]] — Possible partner or rival in botanical, alchemical, and Arcannabis-related research.\n- [[Underdark]] — Source of field expeditions, dangerous samples, lost ruins, and things the faculty insists are “manageable risks.”\n- [[The Silt Road]] — Officially condemned, unofficially useful for acquiring restricted texts, rare reagents, and questionable artifacts.\n- [[Abyss]] — A subject of planar study, religious caution, and several banned dissertations.\n\n## Reputation\n\nN.E.R.D is respected, mocked, feared, and heavily footnoted. Graduates are known for being clever, curious, and alarmingly willing to test theories in real-world conditions.\n\nThe common saying is:\n\n> *“If N.E.R.D says it is theoretically safe, stand behind something expensive and duck.”*\n>>>>>>> END\n</yolo_block>",
+      "id": "908878f6-ffd1-4c1f-a9b2-9d46996880aa",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 32851,
+          "completion_tokens": 662,
+          "total_tokens": 33513,
+          "cache_read_input_tokens": 31232
+        },
+        "durationMs": 14764,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give me some quest hooks",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "9ee69706-ddee-4020-8bbf-428eacaf0a1c",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-07-31 01:41 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Here are some quest hooks you can add to `N.E.R.D.md`:\n\n```markdown\n## Quest Hooks\n\n- **The Unpeer-Reviewed Portal:** A student thesis accidentally opens a portal to somewhere in the [[Abyss]], and the faculty needs outsiders to close it before accreditation inspectors arrive.\n\n- **Missing Field Researchers:** A N.E.R.D expedition into the [[Underdark]] vanished while collecting samples for a [[Magitech]] thesis. Their last sending mentioned “singing crystals” and “something grading us.”\n\n- **The Forbidden Citation:** A sealed archive book has started adding new footnotes in fresh blood. The professors want the party to find the original author before the bibliography becomes a summoning circle.\n\n- **Botanical Rivalry:** A rare plant sample from the [[Solarium Botanica]] has been stolen, mutated, or mislabeled, and now several Arcannabis researchers are accusing one another of academic sabotage.\n\n- **The Silt Road Syllabus:** Restricted reagents purchased through [[The Silt Road]] have gone missing from a locked laboratory. N.E.R.D wants them recovered quietly before anyone asks why the school had them.\n\n- **Monster Biology Practical:** A captured monster meant for a [[Heliana]]-style dissection lab escapes into the campus stacks. The faculty insists it is “mostly sedated.”\n\n- **Magitech Midterm Meltdown:** A student-built [[Magitech]] engine begins warping gravity in one wing of the institution. The party must stabilize it while students argue over whether this still counts for extra credit.\n\n- **The Plagiarist’s Curse:** Several students copied from an ancient planar text, and now each has been cursed with a different extraplanar side effect. The party must trace the curse back to its source text.\n\n- **Tenure Track Assassination:** A professor researching politically sensitive magic is targeted by rival scholars, hired killers, or a faction that does not want their findings published.\n\n- **Knowledge for Its Own Sake:** N.E.R.D hires the party to retrieve an artifact from [[The Loot Tavern]], the [[Underdark]], or a black-market auction, but neglects to mention that the artifact is still awake.\n```",
+      "id": "b620b2be-4f90-4e8f-b789-9016385f11da",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 33546,
+          "completion_tokens": 454,
+          "total_tokens": 34000,
+          "cache_read_input_tokens": 31232
+        },
+        "durationMs": 9723,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1785466135590,
-  "updatedAt": 1785467436756,
+  "updatedAt": 1785483687685,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",

@@ -1,8 +1,10 @@
-Springwood is a massive naturalized park in the middle [[Stickyickistan]]. Even the [[Human Colonialism]] settlers knew these woods were too sacred to defile.
+# Springwood
 
-The Springwood is a broad, temperate forest filled with deciduous trees that existed in a state of perpetual spring, and dotted with a handful of human and gnomish settlements. [[Kerning’s Crossing]] lies along the region’s main trade route. The small town is mostly known for its apothecaries and proximity to the [[Solarium Botanica]], the driving force behind the local economy. Local alchemists and merchants have shuttered their shops without the garden’s resources to sell or transport. 
+**Springwood** is a massive naturalized park in the heart of [[Stickyickistan]], an ancient sacred woodland so revered that even the [[Human Colonialism|Elyrian settlers]] hesitated to defile it. The forest has always existed in a state of impossible spring: bright leaves, blooming flowers, soft rain, birdsong, and warm green air no matter the season beyond its borders.
 
-The forest has begun to change rapidly due to the influx of creatures fleeing the Plane of Fey and bringing with them a plethora of rapidly-growing fey seeds. Flights of glittering fairies flit about the treetops, and the wind carries tantalizing fragrances that cloud mortal minds. Songs are heard in the woods at night, and rainbow lights dance along the water’s surface, seducing mortals to explore the hungry forest. 
+The woodland is broad and temperate, dominated by old deciduous trees and dotted with small human, halfling, and gnomish settlements. [[Kerning’s Crossing]] sits along the main trade road, known for its apothecaries and its dependence on the nearby [[Solarium Botanica]]. When the Botanica thrives, merchants, alchemists, herbalists, and Arcannabis growers prosper. When its resources dry up, whole storefronts shutter within days.
+
+Recently, Springwood has begun changing faster than anyone can explain. Creatures fleeing the Plane of Fey have carried strange seeds into the forest, and those seeds are taking root with alarming speed. Glittering fairies flit through the canopy, perfumes drift on the wind and cloud mortal judgment, and songs echo between the trees at night. Rainbow lights shimmer across ponds and streams, luring travelers off the path and deeper into a forest that feels less like a park each day and more like a hungry dream.
 
 # Regional Effects 
 

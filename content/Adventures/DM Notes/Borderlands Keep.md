@@ -12,6 +12,6 @@ This region has no government to speak of. The Keep is the only semblance of law
 
 # Stickyickistan
 
-The Keep could be the current day town of [[Regions/Doobius House|Doobius House]]. This area is kind of all that remains of the frontier on the island. It is too far from the city, and the coast to attract many residents, but it does attract burgeoning adventurers from the city who are looking to get their foot in the door of a guild. Most people who live here are native [[Halflings]], or [[Twothirdling]], but the guard is comprised mostly of [[Humans]] that are sent from the city in shifts by the [[Tribunal Highblade Coalition]].
+The Keep could be the current day town of [[Doobius House|Doobius House]]. This area is kind of all that remains of the frontier on the island. It is too far from the city, and the coast to attract many residents, but it does attract burgeoning adventurers from the city who are looking to get their foot in the door of a guild. Most people who live here are native [[Halflings]], or [[Twothirdling]], but the guard is comprised mostly of [[Humans]] that are sent from the city in shifts by the [[Tribunal Highblade Coalition]].
 
 ![[02-001.adventure-cover.jpg]]
