@@ -70,7 +70,7 @@ Body horror, illicit drug trafficking, undead, murder, and references to harvest
 
 Among the most infamous is [[Bloodwalker OG]], a strain outlawed by the [[Stickyickistanian Department of Public Health]] after investigators discovered it was manufactured using harvested humanoid hearts, celestial remains, and other forbidden monster components.
 
-Responsibility for enforcing that ban falls to the Tribunal Highblade Coalition (THC). For months, Coalition investigators have pursued dealers distributing Bloodwalker OG throughout the city, but every trail has ended before reaching the source.
+Responsibility for enforcing that ban falls to the [[Tribunal Highblade Coalition]] (THC). For months, Coalition investigators have pursued dealers distributing Bloodwalker OG throughout the city, but every trail has ended before reaching the source.
 
 Their investigation finally uncovered a consistent pattern. Couriers supplying local dealers repeatedly visited an aging candle maker's workshop tucked away among the city's older commercial district. Although the storefront appeared to conduct legitimate business during the day, surveillance revealed unusual deliveries after dark and an impossible amount of traffic for a struggling artisan.
 
@@ -123,7 +123,7 @@ Report immediately to Highblade Tower, ask for Ziggy.
 Read or paraphrase the following:
 
 > [!Read Aloud]
-> *The Tribunal Highblade Coalition precinct is a sturdy brick building with polished brass lanterns flanking its entrance. Green-cloaked officers bustle between offices carrying bundles of reports, confiscated Arcannabis, and evidence boxes sealed with wax.*
+> *The Highblade Tower is a sturdy brick building with polished brass lanterns flanking its entrance. Green-cloaked officers bustle between offices carrying bundles of reports, confiscated Arcannabis, and evidence boxes sealed with wax.*
 > 
 > *A goblin wearing a neatly pressed investigator's coat stands balanced on a chair behind the front counter, sorting paperwork into surprisingly tidy piles. Without looking up, he points toward a nearby office.*
 > 
@@ -194,7 +194,7 @@ When the characters arrive at Wick & Wax Candleworks, proceed to Part 2.
 
 ![Map](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/f4f4dcdd80c0028155b6bcd834377216.webp)
 
-In this part, the characters investigate Wick & Wax Candleworks, an aging candle maker's shop in the Old Market District suspected of concealing an illegal Bloodwalker OG distribution operation. During the day, the building operates as a legitimate business serving ordinary customers. After dark, it becomes the public face of a criminal organization, with shipments arriving and departing under the cover of night.
+In this part, the characters investigate Wick & Wax Candleworks, an aging candle maker's shop in the [[Old Market District]] suspected of concealing an illegal Bloodwalker OG distribution operation. During the day, the building operates as a legitimate business serving ordinary customers. After dark, it becomes the public face of a criminal organization, with shipments arriving and departing under the cover of night.
 
 The workshop conceals two entrances into the hidden cellar below. The first is a trapdoor hidden beneath a crimson rug inside the manager's office. The second is a forgotten smuggler's entrance hidden within an abandoned well in the alley beside the building.
 

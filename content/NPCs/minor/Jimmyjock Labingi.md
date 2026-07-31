@@ -9,9 +9,17 @@ Though Jimmyjock was raised with an unusual level of education for the time, Duk
 
 ## Rise to Leadership
 
-Rather than seek acceptance from the family that rejected him, Jimmyjock turned toward his mother’s people. A gifted bard, poet, and speaker, he became known as a man of the people: educated enough to argue with nobles, angry enough to mock them in verse, and beloved enough that common folk repeated his songs long after officials tried to silence them.
+Rather than seek acceptance from the family that rejected him, Jimmyjock turned toward his mother’s people. A gifted bard, poet, and speaker, he became known as a man of the people: educated enough to argue with nobles, angry enough to mock them in verse, and beloved enough that his kin folk have continued to repeat his songs long after officials tried to silence them.
 
-When Duke Doobius finally died, the [[Twothirdlings]], who heavily outnumbered the Elyrian population around Doobius House, seized the moment. They claimed the estate and surrounding settlement as their own and elected Jimmyjock as their leader.
+When Duke Doobius finally died, the [[Twothirdlings]], who heavily outnumbered the Elyrian population around Doobius House, seized the moment. They claimed the estate and surrounding settlement as their own and elected Jimmyjock as their leader. He formed a provisional government, and began negotiations with the Elyrian nobility of [[Nevercough City]]. 
+
+## Battle of the [[Grim Forest]]
+
+Jimmyjock's negotiations were not received well by the Elyrian nobility, which led to a series of skirmishes between the volunteer militia of Doobius House, and ironically the forces of [[House Highblade]] in what is now known as the Grim Forest. These battles are where the area got its modern colloquial name due to the amount of bloodshed throughout Elyrian expansion into [[The Outback]]. These battles also caused fractures among the [[Four Founding Houses]], eventually leading to the [[Arcane Civil War]].
+
+Despite the Elyrian forces vastly outnumbering the volunteers, the militia from Doobius House had significantly better knowledge of the environment which they used to their advantage. They employed brutal guerilla tactics using old war machines, ballistae, and trained beasts to catch their foes off guard, often preferring to attack at night.
+
+Eventually peace talks began as the nobles of Nevercough City grew weary of how much they were spending on trying to dominate this village and its people who clearly weren't giving up anytime soon. Jimmyjock used his settler knowledge and indigenous values to secure a future for the twothirdlings of Doobius House.
 
 ## Legacy
 
