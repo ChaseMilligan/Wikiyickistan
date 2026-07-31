@@ -18,7 +18,7 @@ Despite his brutal methods, Dr. Rothvell did achieve impressive research results
 
 # Current Role
 
-As [[Wraith]] has made a recent departure from [[ASSCUNT]] for further education, Dr. Rothvell will be joining the party to conduct research. His focus will be on biomantic weapons that can be created from the monsters hunted by the party. Besides the research opportunity, the Doctor will also be evaluating the party and department on their allegiance and loyalty to the Citadel. This is due to Wraith's recent failed attack on a higher-ranking bounty hunter.
+As [[Wraith]] has made a recent departure from [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce]] for further education, Dr. Rothvell will be joining the party to conduct research. His focus will be on biomantic weapons that can be created from the monsters hunted by the party. Besides the research opportunity, the Doctor will also be evaluating the party and department on their allegiance and loyalty to the Citadel. This is due to Wraith's recent failed attack on a higher-ranking bounty hunter.
 
 # Character Traits
 

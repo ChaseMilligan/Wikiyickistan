@@ -4,7 +4,7 @@ The **Shadow Wizard Money Gang** (_SWMG_) are an infamous crew of spell-slinging
 
 The Shadows’ philosophy is simple:
 
-> _“We love drugs. We love guns. We love nukes. We love drinking lean, and Runescape. We love robbing people on Runescape. But most of all—we love casting spells.”_
+> _“We love drugs. We love guns. We love nukes. We love drinking lean, and Runescape. We love robbing people on Runescape. But most of all, we love casting spells.”_
 
 In their eyes, everything is currency—whether it’s coin, contraband, pixels, or power. They can often be seen abusing healing magic even when at full health just for the rush.
 

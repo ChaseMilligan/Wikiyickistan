@@ -7,7 +7,7 @@ Stickyickistan is an island on the planet of [[Mythmos]], shrouded in magic and 
 The waters around Stickyickistan form a region much like a magical Bermuda Triangle. Pilots and sailors report violent weather, distorted horizons, impossible currents, and terrifying creatures from above and below. Vast deposits of [[Arcanite]] beneath [[Mount Zooka]] have warped time, space, and the Weave around the island, producing these phenomena and making accurate maps difficult to create. Stickyickistan can be seen from [[Lumytholarispace]] and appears on maps of Mythmos, but it always looks smaller than it seems when approached.
 
 ![[city_of_stick_2026.png]]
-
+*This map is not to scale, and does not include all regions.*
 # Modern Stickyickistan
 
 Stickyickistan is a city-state built around the active [[Mount Zooka]], whose obsidian slopes and glowing Arcanite veins dominate the island’s skyline. Approximately 27 million people live across a dense network of terraced districts connected by bridges, roads, canals, lifts, and industrial transit lines. The Capitol stands on [[Nevercough Island]], a small landmass sheltered within the [[Percolat Inlet]]. The climate is generally tropical, with hot, humid weather across the urban core. Farther inland, desertification has created increasingly arid regions, a legacy of [[Human Colonialism]] and industrialization.
