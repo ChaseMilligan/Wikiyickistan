@@ -3719,7 +3719,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "5b122549"
+        "hash": "22fa6fe4"
       },
       "id": "0f30bbd7-f10d-4d0e-ad4e-8dc2afcc75c5",
       "mentionables": [
@@ -5760,7 +5760,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "967f3242"
+        "hash": "00a072d9"
       },
       "id": "74b72ae7-eb1c-42f8-b53a-6df319bc22dc",
       "mentionables": [
@@ -7316,10 +7316,1728 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "How many hours should each tracking check represent?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "3d178e3a-f7f0-4eaa-ba14-aec081aa22e4",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-02 08:16 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "For this adventure, I’d make each tracking check represent **about 1 hour**, with the whole tracking stage taking **roughly 3 hours in-world**.\n\nThat keeps it meaningful without turning the hunt into a full travel day.\n\nSuggested breakdown:\n\n| Check | Area | Time Represented | Why |\n|---:|---|---:|---|\n| 1 | The approach trail | 1 hour | Reaching the marked territory, checking old signs, getting oriented |\n| 2 | The feeding grounds | 1 hour | Studying kills, droppings, drag marks, broken trees, scattered bones |\n| 3 | The nesting cliffs | 1 hour | Climbing, scouting ledges, finding the active nest or baiting the wyvern |\n\nI’d phrase it in the adventure like this:\n\n```markdown\nEach Tracking check represents about **1 hour** of careful travel, searching, scouting, and interpreting signs. The full tracking stage usually takes **3 hours in-world**, plus any extra time the party spends resting, setting bait, casting rituals, or preparing an ambush.\n```\n\nIf you want failures to matter without adding more checks, you can tie time to complications:\n\n```markdown\nA failed Tracking check still moves the party forward, but the complication usually costs resources, worsens positioning, or adds **1 extra hour** to the hunt.\n```\n\nSo the simple rule would be:\n\n- **Normal tracking stage:** 3 hours\n- **Each failed check:** +1 hour\n- **Critical failure:** +1 hour and the wyvern gains **1 Hunt Advantage**\n- **Party stops for a short rest / elaborate ambush prep:** add that time normally\n\nThis creates a nice pressure point because the Society gave them a **3-day limit**, but the more immediate danger is that lingering in wyvern territory gives the creature more chances to notice them.",
+      "id": "12ff04c6-9473-4fea-8453-33cc14f4fece",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 83319,
+          "completion_tokens": 386,
+          "total_tokens": 83705
+        },
+        "durationMs": 9730,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nice can you add that to part 2",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "29535c4e-62fa-4fd1-8e5f-3673f781b337",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-02 08:16 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_KRl4QCGjRNdTXV9keFW0W9Kd",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md"
+              ],
+              "startLine": 189,
+              "endLine": 222
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\"],\"startLine\":189,\"endLine\":222}"
+          }
+        }
+      ],
+      "id": "89f46d94-8f9d-43dc-95a1-948a5f2f183e",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 83742,
+          "completion_tokens": 55,
+          "total_tokens": 83797,
+          "cache_read_input_tokens": 82432
+        },
+        "durationMs": 2494,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_KRl4QCGjRNdTXV9keFW0W9Kd",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md"
+                ],
+                "startLine": 189,
+                "endLine": 222
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\"],\"startLine\":189,\"endLine\":222}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_KRl4QCGjRNdTXV9keFW0W9Kd\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\n      \"ok\": true,\n      \"totalLines\": 430,\n      \"returnedRange\": {\n        \"startLine\": 189,\n        \"endLine\": 222\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 223,\n      \"content\": \"189|### Setting the Tracking Challenge\\n190|\\n191|Use **three fixed Tracking checks**. Do not add extra checks for failures. Instead, each check determines how cleanly the party advances through the hunt and whether they gain useful information or suffer complications before the wyvern fight.\\n192|\\n193|Divide the hunt into three quick areas:\\n194|\\n195|| Check | Area | What It Represents |\\n196||---:|---|---|\\n197|| 1 | The approach trail | Reaching the marked territory and spotting signs of wyvern activity |\\n198|| 2 | The feeding grounds | Reading kills, droppings, drag marks, broken branches, or frightened wildlife |\\n199|| 3 | The nesting cliffs | Finding the active lair or choosing a safer place to draw the wyvern out |\\n200|\\n201|A success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table. A natural 1 or failure by 10 or more causes a complication and also gives the wyvern **1 Hunt Advantage**.\\n202|\\n203|Surpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.\\n204|\\n205|### Making Tracking Checks\\n206|\\n207|After the party chooses an environment, ask how the characters approach the hunt. They might follow tracks, study feeding grounds, question local creatures, survey the terrain, imitate the wyvern’s call, use bait, or rely on magical tracking. Work with the players to choose an appropriate ability and skill or tool, then set the DC according to the method and circumstances.\\n208|\\n209|Use these suggested DCs:\\n210|\\n211|- **DC 11:** Straightforward tracking through favorable terrain, identifying a wyvern’s feeding pattern, or asking local creatures for information.\\n212|- **DC 16:** Following tracks across difficult ground, locating a hidden nest, imitating a wyvern’s call, or surveying a large area quickly.\\n213|- **DC 21:** Following a flying creature by studying its kills and droppings, tracking it across bare rock or after a storm, or using an unusual but plausible method.\\n214|\\n215|Players may use different abilities with the same skill or tool when their approach supports it. To encourage varied plans, the DM may prevent the party from repeating the same ability and skill or tool combination until two other combinations have been attempted.\\n216|\\n217|A Tracking check can represent any amount of time, from a few minutes to several days. The DM should shorten the interval when encounters are frequent and lengthen it during long journeys through empty terrain.\\n218|\\n219|### Tracking Consequences\\n220|\\n221|On a successful check, describe the changing landscape and give the party one useful benefit. On a failed check, the party still progresses, but the wyvern or the environment gains leverage. Avoid adding full extra combats unless you have time; use complications, hazards, and foreshadowing instead.\\n222|\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 189,
+                  "endLine": 222,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "259936ed-3c9b-465f-ac70-6af523ce7e5e",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_cMOuXilgkfgKX7PbRfTWND9h",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+              "oldText": "A success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table. A natural 1 or failure by 10 or more causes a complication and also gives the wyvern **1 Hunt Advantage**.\n\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.",
+              "newText": "Each Tracking check represents about **1 hour** of careful travel, searching, scouting, and interpreting signs. The full tracking stage usually takes **3 hours in-world**, plus any extra time the party spends resting, setting bait, casting rituals, or preparing an ambush.\n\nA success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table and usually adds **1 extra hour** to the hunt. A natural 1 or failure by 10 or more causes a complication, adds **1 extra hour**, and also gives the wyvern **1 Hunt Advantage**.\n\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\"oldText\":\"A success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table. A natural 1 or failure by 10 or more causes a complication and also gives the wyvern **1 Hunt Advantage**.\\n\\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.\",\"newText\":\"Each Tracking check represents about **1 hour** of careful travel, searching, scouting, and interpreting signs. The full tracking stage usually takes **3 hours in-world**, plus any extra time the party spends resting, setting bait, casting rituals, or preparing an ambush.\\n\\nA success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table and usually adds **1 extra hour** to the hunt. A natural 1 or failure by 10 or more causes a complication, adds **1 extra hour**, and also gives the wyvern **1 Hunt Advantage**.\\n\\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.\"}"
+          }
+        }
+      ],
+      "id": "19f2f579-a071-4a81-9889-48eed81d7d3c",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 84629,
+          "completion_tokens": 333,
+          "total_tokens": 84962
+        },
+        "durationMs": 10860,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_cMOuXilgkfgKX7PbRfTWND9h",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+                "oldText": "A success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table. A natural 1 or failure by 10 or more causes a complication and also gives the wyvern **1 Hunt Advantage**.\n\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.",
+                "newText": "Each Tracking check represents about **1 hour** of careful travel, searching, scouting, and interpreting signs. The full tracking stage usually takes **3 hours in-world**, plus any extra time the party spends resting, setting bait, casting rituals, or preparing an ambush.\n\nA success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table and usually adds **1 extra hour** to the hunt. A natural 1 or failure by 10 or more causes a complication, adds **1 extra hour**, and also gives the wyvern **1 Hunt Advantage**.\n\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\"oldText\":\"A success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table. A natural 1 or failure by 10 or more causes a complication and also gives the wyvern **1 Hunt Advantage**.\\n\\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.\",\"newText\":\"Each Tracking check represents about **1 hour** of careful travel, searching, scouting, and interpreting signs. The full tracking stage usually takes **3 hours in-world**, plus any extra time the party spends resting, setting bait, casting rituals, or preparing an ambush.\\n\\nA success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table and usually adds **1 extra hour** to the hunt. A natural 1 or failure by 10 or more causes a complication, adds **1 extra hour**, and also gives the wyvern **1 Hunt Advantage**.\\n\\nSurpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+                      "addedLines": 3,
+                      "removedLines": 1,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "e39f85c9-d67b-44bf-8975-14024f5b8b58"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 3,
+                  "totalRemovedLines": 1,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785680224989
+              }
+            }
+          }
+        }
+      ],
+      "id": "e39f85c9-d67b-44bf-8975-14024f5b8b58",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I added that timing guidance to **Part 2**.\n\nIt now says:\n\n- Each Tracking check represents about **1 hour**\n- The full tracking stage usually takes **3 hours in-world**\n- Extra prep/rest/bait/ritual time is added normally\n- A failed check still progresses, but usually adds **1 extra hour**\n- A critical failure adds **1 extra hour** and gives the wyvern **1 Hunt Advantage**",
+      "id": "19cea210-be5b-4471-ab3f-e182982aa918",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 85088,
+          "completion_tokens": 94,
+          "total_tokens": 85182,
+          "cache_read_input_tokens": 83456
+        },
+        "durationMs": 6141,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Wyvern and the Wyrm… (102 Words)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Wyvern and the Wyrmhole.md (102 Words)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+                    "startLine": 272,
+                    "endLine": 276,
+                    "source": "selection-sync",
+                    "contentHash": "57cbb948",
+                    "contentCount": 102,
+                    "contentUnit": "words"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " Please correct this section. Wyverns don't have a breath weapon. Here is their stat block:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Wyvern",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Large Dragon, Unaligned",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "AC 14    Initiative +0 (10)",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "HP 127 (15d10 + 45)",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Speed 30 ft., Fly 80 ft.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Mod",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Save",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "STR",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "19",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+4",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+4",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "DEX",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "10",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+0",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+0",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "CON",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "16",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+3",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+3",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Mod",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Save",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "INT",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "5",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "−3",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "−3",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "WIS",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "12",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+1",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "+1",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "CHA",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "6",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "−2",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 2,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "\t",
+                  "type": "tab",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "−2",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Skills Perception +4",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Senses Darkvision 120 ft.; Passive Perception 14",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Languages None",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "CR 6 (XP 2,300; PB +3)",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Actions",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Multiattack. The wyvern makes one Bite attack and one Sting attack.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Sting. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage plus 24 (7d6) Poison damage, and the target has the Poisoned condition until the start of the wyvern’s next turn.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Opportunistic predators, wyverns are draconic ambushers that strike from above. These territorial hunters attack with their fangs and stinger­-tipped tails. Wyvern stingers drip with deadly venom, a painful toxin feared by monster hunters and coveted by alchemists.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Wyverns are aggressive and claim sizable territories around the mountains, crags, and ruins where they dwell. Despite their considerable strength, they’re opportunistic hunters that target unwitting livestock and groups of encamped travelers. Wyverns usually land only to finish off creatures they’ve weakened with their poison and strafing attacks. Creatures that fight back or take flight might deter wyverns, convincing them to search for easier prey.",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Once wyverns overpower a quarry, they carry it to their cavernous lairs to either consume it in safety or trap it to eat later. Most wyverns don’t hoard treasure, but their lairs are littered with the possessions of past victims. It isn’t uncommon for wyverns to carry off chests, carts, or small boats along with their prey.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "ec8375b2"
+      },
+      "id": "b8518f0a-702b-4370-be72-16689bbf2690",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\n\nThe wyvern fights cautiously. It uses its flight, breath weapon, and terrain to isolate a target before retreating when seriously threatened. It does not fight to the death in the open unless cornered.\n\nWhen the wyvern retreats, the characters must track it to its lair. On a failed tracking check, they lose time and encounter another wilderness hazard before finding the lair. On a successful check, they reach the lair before the wyvern can fully recover.",
+          "file": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+          "startLine": 272,
+          "endLine": 276,
+          "source": "selection-sync",
+          "contentHash": "57cbb948",
+          "contentCount": 102,
+          "contentUnit": "words"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-02 08:31 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_xtAk2m5gSFhzHzivVRqvd6C0",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+              "oldText": "The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\n\nThe wyvern fights cautiously. It uses its flight, breath weapon, and terrain to isolate a target before retreating when seriously threatened. It does not fight to the death in the open unless cornered.\n\nWhen the wyvern retreats, the characters must track it to its lair. On a failed tracking check, they lose time and encounter another wilderness hazard before finding the lair. On a successful check, they reach the lair before the wyvern can fully recover.",
+              "newText": "The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\n\nThe wyvern fights like an opportunistic aerial predator. It uses its 80-foot fly speed, fangs, venomous stinger, and high terrain to strafe exposed targets, poison or weaken them, and isolate one creature from the group. It usually lands only to finish off a badly wounded target or seize prey it thinks it can carry away.\n\nThe wyvern does not fight to the death in the open unless cornered. If the characters fight back effectively, take flight, seriously wound it, or deny it an easy target, the wyvern retreats toward its lair in search of a more favorable battlefield.\n\nWhen the wyvern retreats, the characters must follow it to its lair. Do not add a full extra tracking stage; instead, use the party’s existing tracking results and any Hunt Advantage to determine how favorable the lair approach is. If you want one final check, call for a single DC 16 Wisdom (Survival) or Wisdom (Perception) check. On a success, the characters reach the lair before the wyvern fully settles. On a failure, they lose 1 hour and the wyvern gains 1 Hunt Advantage."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\"oldText\":\"The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\\n\\nThe wyvern fights cautiously. It uses its flight, breath weapon, and terrain to isolate a target before retreating when seriously threatened. It does not fight to the death in the open unless cornered.\\n\\nWhen the wyvern retreats, the characters must track it to its lair. On a failed tracking check, they lose time and encounter another wilderness hazard before finding the lair. On a successful check, they reach the lair before the wyvern can fully recover.\",\"newText\":\"The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\\n\\nThe wyvern fights like an opportunistic aerial predator. It uses its 80-foot fly speed, fangs, venomous stinger, and high terrain to strafe exposed targets, poison or weaken them, and isolate one creature from the group. It usually lands only to finish off a badly wounded target or seize prey it thinks it can carry away.\\n\\nThe wyvern does not fight to the death in the open unless cornered. If the characters fight back effectively, take flight, seriously wound it, or deny it an easy target, the wyvern retreats toward its lair in search of a more favorable battlefield.\\n\\nWhen the wyvern retreats, the characters must follow it to its lair. Do not add a full extra tracking stage; instead, use the party’s existing tracking results and any Hunt Advantage to determine how favorable the lair approach is. If you want one final check, call for a single DC 16 Wisdom (Survival) or Wisdom (Perception) check. On a success, the characters reach the lair before the wyvern fully settles. On a failure, they lose 1 hour and the wyvern gains 1 Hunt Advantage.\"}"
+          }
+        }
+      ],
+      "id": "2d4d90ee-b1d5-4069-8d81-ca0ffbadc60b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 85924,
+          "completion_tokens": 451,
+          "total_tokens": 86375,
+          "cache_read_input_tokens": 83456
+        },
+        "durationMs": 11440,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_xtAk2m5gSFhzHzivVRqvd6C0",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+                "oldText": "The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\n\nThe wyvern fights cautiously. It uses its flight, breath weapon, and terrain to isolate a target before retreating when seriously threatened. It does not fight to the death in the open unless cornered.\n\nWhen the wyvern retreats, the characters must track it to its lair. On a failed tracking check, they lose time and encounter another wilderness hazard before finding the lair. On a successful check, they reach the lair before the wyvern can fully recover.",
+                "newText": "The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\n\nThe wyvern fights like an opportunistic aerial predator. It uses its 80-foot fly speed, fangs, venomous stinger, and high terrain to strafe exposed targets, poison or weaken them, and isolate one creature from the group. It usually lands only to finish off a badly wounded target or seize prey it thinks it can carry away.\n\nThe wyvern does not fight to the death in the open unless cornered. If the characters fight back effectively, take flight, seriously wound it, or deny it an easy target, the wyvern retreats toward its lair in search of a more favorable battlefield.\n\nWhen the wyvern retreats, the characters must follow it to its lair. Do not add a full extra tracking stage; instead, use the party’s existing tracking results and any Hunt Advantage to determine how favorable the lair approach is. If you want one final check, call for a single DC 16 Wisdom (Survival) or Wisdom (Perception) check. On a success, the characters reach the lair before the wyvern fully settles. On a failure, they lose 1 hour and the wyvern gains 1 Hunt Advantage."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\"oldText\":\"The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\\n\\nThe wyvern fights cautiously. It uses its flight, breath weapon, and terrain to isolate a target before retreating when seriously threatened. It does not fight to the death in the open unless cornered.\\n\\nWhen the wyvern retreats, the characters must track it to its lair. On a failed tracking check, they lose time and encounter another wilderness hazard before finding the lair. On a successful check, they reach the lair before the wyvern can fully recover.\",\"newText\":\"The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.\\n\\nThe wyvern fights like an opportunistic aerial predator. It uses its 80-foot fly speed, fangs, venomous stinger, and high terrain to strafe exposed targets, poison or weaken them, and isolate one creature from the group. It usually lands only to finish off a badly wounded target or seize prey it thinks it can carry away.\\n\\nThe wyvern does not fight to the death in the open unless cornered. If the characters fight back effectively, take flight, seriously wound it, or deny it an easy target, the wyvern retreats toward its lair in search of a more favorable battlefield.\\n\\nWhen the wyvern retreats, the characters must follow it to its lair. Do not add a full extra tracking stage; instead, use the party’s existing tracking results and any Hunt Advantage to determine how favorable the lair approach is. If you want one final check, call for a single DC 16 Wisdom (Survival) or Wisdom (Perception) check. On a success, the characters reach the lair before the wyvern fully settles. On a failure, they lose 1 hour and the wyvern gains 1 Hunt Advantage.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+                      "addedLines": 4,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "fe016259-b4ee-4bda-b1c1-fd9a19bb3e91"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 4,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785681129600
+              }
+            }
+          }
+        }
+      ],
+      "id": "fe016259-b4ee-4bda-b1c1-fd9a19bb3e91",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Corrected — I removed the breath weapon reference and rewrote that section around how wyverns actually fight:\n\n- Aerial ambush predator\n- Uses **80 ft. fly speed**\n- Attacks with **bite and venomous stinger**\n- Strafes and isolates exposed targets\n- Lands only to finish off or carry away prey\n- Retreats if the party fights back effectively\n- No extra full tracking stage after retreat unless you want one quick final check\n\nI also changed the retreat follow-up so it fits the new tracking system:\n\n- Use existing tracking results and **Hunt Advantage**\n- Optional final check: **DC 16 Wisdom (Survival) or Wisdom (Perception)**\n- On failure: lose **1 hour** and the wyvern gains **1 Hunt Advantage**",
+      "id": "03ccfe39-9099-486f-a571-be2c5880b0be",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 86505,
+          "completion_tokens": 165,
+          "total_tokens": 86670,
+          "cache_read_input_tokens": 84480
+        },
+        "durationMs": 4537,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you also update the lair based on that info",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "9d92a5a9-5a45-4099-b4e5-6da7d0720756",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-02 08:40 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_uJ7KKc0Ymz3HAjOWeeDNB5Qs",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md"
+              ],
+              "startLine": 276,
+              "endLine": 310
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\"],\"startLine\":276,\"endLine\":310}"
+          }
+        }
+      ],
+      "id": "1f99b08d-b12c-4c94-b193-6d8aff4975b7",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 86705,
+          "completion_tokens": 55,
+          "total_tokens": 86760,
+          "cache_read_input_tokens": 85504
+        },
+        "durationMs": 2684,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_uJ7KKc0Ymz3HAjOWeeDNB5Qs",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md"
+                ],
+                "startLine": 276,
+                "endLine": 310
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\"],\"startLine\":276,\"endLine\":310}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_uJ7KKc0Ymz3HAjOWeeDNB5Qs\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\n      \"ok\": true,\n      \"totalLines\": 434,\n      \"returnedRange\": {\n        \"startLine\": 276,\n        \"endLine\": 310\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 311,\n      \"content\": \"276|The wyvern does not fight to the death in the open unless cornered. If the characters fight back effectively, take flight, seriously wound it, or deny it an easy target, the wyvern retreats toward its lair in search of a more favorable battlefield.\\n277|\\n278|When the wyvern retreats, the characters must follow it to its lair. Do not add a full extra tracking stage; instead, use the party’s existing tracking results and any Hunt Advantage to determine how favorable the lair approach is. If you want one final check, call for a single DC 16 Wisdom (Survival) or Wisdom (Perception) check. On a success, the characters reach the lair before the wyvern fully settles. On a failure, they lose 1 hour and the wyvern gains 1 Hunt Advantage.\\n279|\\n280|## Wyvern Lair\\n281|\\n282|The wyvern’s lair contains bones, torn hides, scraps of equipment, and the remains of previous prey. The creature has chosen a defensible position with a clear flight path and narrow approaches.\\n283|\\n284|When the characters enter the lair, the wyvern regains 2d10 hit points. It fights to the death because the characters threaten its home, territory, and food supply.\\n285|\\n286|Possible lair hazards include:\\n287|\\n288|- Unstable ledges or loose stone.\\n289|- Deep shafts and sudden drops.\\n290|- Difficult terrain caused by bones and debris.\\n291|- Narrow passages that limit flight.\\n292|- Wind, smoke, steam, or volcanic heat.\\n293|- Food stores that attract scavengers during the battle.\\n294|\\n295|## Preserving the Corpse\\n296|\\n297|The characters must preserve the corpse before leaving the lair or beginning the ritual. They may use magic, alchemy, cold, embalming, or another appropriate method.\\n298|\\n299|If the characters fail to preserve the corpse, the Society requires them to locate and slay another wyvern. The DM may treat this as a second hunt or allow the party to recover by securing a fresh corpse from the same region.\\n300|\\n301|The corpse’s magical essence is consumed by the ritual. Effects used to preserve the corpse do not carry over to the Bicephal Wyrmhole.\\n302|\\n303|---\\n304|\\n305|# Part 3: The Wyrmhole Rite\\n306|\\n307|*Estimated Duration: 60 minutes*\\n308|\\n309|The characters perform the ritual wherever they have secured the corpse. A lair is the safest location because it offers shelter and defensive terrain, but the party may choose another site.\\n310|\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 276,
+                  "endLine": 310,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "22c94baf-0a2c-4ed2-b4ed-a99ffff3c43c",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_NMQcMVpUG8SeGDcvzOgDlHuP",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+              "oldText": "## Wyvern Lair\n\nThe wyvern’s lair contains bones, torn hides, scraps of equipment, and the remains of previous prey. The creature has chosen a defensible position with a clear flight path and narrow approaches.\n\nWhen the characters enter the lair, the wyvern regains 2d10 hit points. It fights to the death because the characters threaten its home, territory, and food supply.\n\nPossible lair hazards include:\n\n- Unstable ledges or loose stone.\n- Deep shafts and sudden drops.\n- Difficult terrain caused by bones and debris.\n- Narrow passages that limit flight.\n- Wind, smoke, steam, or volcanic heat.\n- Food stores that attract scavengers during the battle.",
+              "newText": "## Wyvern Lair\n\nThe wyvern’s lair is a high cavern, cliffside hollow, or ruined watchpost with a wide opening large enough for the creature to fly through. It has chosen the site for visibility, vertical space, and easy escape routes rather than comfort. The floor is littered with bones, torn hides, splintered carts, broken tack, cracked chests, scraps of armor, and the remains of previous prey dragged here to be eaten in safety.\n\nThe lair should make the wyvern feel like an aerial ambusher, not a dragon defending a treasure hoard. It uses ledges, ceiling height, wind, and narrow approaches to stay mobile while forcing the characters to deal with bad footing and exposed positions. Most wyverns do not hoard treasure intentionally, but useful loot may be mixed into the debris from victims, livestock caravans, small boats, or wagons carried off with prey.\n\nWhen the characters enter the lair, the wyvern may regain **2d10 hit points** if it had time to retreat, settle, and recover. It fights more aggressively here, but it is still an animalistic opportunist. It defends its food, territory, and escape route, but it does not need to fight to the death if an obvious way out remains. If reduced to low hit points and given a clear flight path, it may try to flee deeper into the mountains unless the characters corner it or force the final confrontation.\n\nPossible lair hazards include:\n\n- **High ledges.** The wyvern perches above the party and drops onto exposed targets.\n- **Deep shafts and sudden drops.** A shoved, grappled, or careless creature risks falling.\n- **Loose stone and unstable scree.** Fast movement may trigger slides or difficult terrain.\n- **Bone piles and prey debris.** The ground is difficult terrain and may hide useful salvage.\n- **Narrow approaches.** The party may have to enter single file while the wyvern has room to fly.\n- **Crosswinds, smoke, steam, or volcanic heat.** Ranged attacks and flight may be complicated by the terrain.\n- **Trapped food stores.** Half-dead prey, scavengers, or venom-tainted carcasses may distract or endanger the party."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\"oldText\":\"## Wyvern Lair\\n\\nThe wyvern’s lair contains bones, torn hides, scraps of equipment, and the remains of previous prey. The creature has chosen a defensible position with a clear flight path and narrow approaches.\\n\\nWhen the characters enter the lair, the wyvern regains 2d10 hit points. It fights to the death because the characters threaten its home, territory, and food supply.\\n\\nPossible lair hazards include:\\n\\n- Unstable ledges or loose stone.\\n- Deep shafts and sudden drops.\\n- Difficult terrain caused by bones and debris.\\n- Narrow passages that limit flight.\\n- Wind, smoke, steam, or volcanic heat.\\n- Food stores that attract scavengers during the battle.\",\"newText\":\"## Wyvern Lair\\n\\nThe wyvern’s lair is a high cavern, cliffside hollow, or ruined watchpost with a wide opening large enough for the creature to fly through. It has chosen the site for visibility, vertical space, and easy escape routes rather than comfort. The floor is littered with bones, torn hides, splintered carts, broken tack, cracked chests, scraps of armor, and the remains of previous prey dragged here to be eaten in safety.\\n\\nThe lair should make the wyvern feel like an aerial ambusher, not a dragon defending a treasure hoard. It uses ledges, ceiling height, wind, and narrow approaches to stay mobile while forcing the characters to deal with bad footing and exposed positions. Most wyverns do not hoard treasure intentionally, but useful loot may be mixed into the debris from victims, livestock caravans, small boats, or wagons carried off with prey.\\n\\nWhen the characters enter the lair, the wyvern may regain **2d10 hit points** if it had time to retreat, settle, and recover. It fights more aggressively here, but it is still an animalistic opportunist. It defends its food, territory, and escape route, but it does not need to fight to the death if an obvious way out remains. If reduced to low hit points and given a clear flight path, it may try to flee deeper into the mountains unless the characters corner it or force the final confrontation.\\n\\nPossible lair hazards include:\\n\\n- **High ledges.** The wyvern perches above the party and drops onto exposed targets.\\n- **Deep shafts and sudden drops.** A shoved, grappled, or careless creature risks falling.\\n- **Loose stone and unstable scree.** Fast movement may trigger slides or difficult terrain.\\n- **Bone piles and prey debris.** The ground is difficult terrain and may hide useful salvage.\\n- **Narrow approaches.** The party may have to enter single file while the wyvern has room to fly.\\n- **Crosswinds, smoke, steam, or volcanic heat.** Ranged attacks and flight may be complicated by the terrain.\\n- **Trapped food stores.** Half-dead prey, scavengers, or venom-tainted carcasses may distract or endanger the party.\"}"
+          }
+        }
+      ],
+      "id": "a9ff7f2b-4ece-406b-b424-a85f30894151",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 87503,
+          "completion_tokens": 688,
+          "total_tokens": 88191,
+          "cache_read_input_tokens": 85504
+        },
+        "durationMs": 14193,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_NMQcMVpUG8SeGDcvzOgDlHuP",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+                "oldText": "## Wyvern Lair\n\nThe wyvern’s lair contains bones, torn hides, scraps of equipment, and the remains of previous prey. The creature has chosen a defensible position with a clear flight path and narrow approaches.\n\nWhen the characters enter the lair, the wyvern regains 2d10 hit points. It fights to the death because the characters threaten its home, territory, and food supply.\n\nPossible lair hazards include:\n\n- Unstable ledges or loose stone.\n- Deep shafts and sudden drops.\n- Difficult terrain caused by bones and debris.\n- Narrow passages that limit flight.\n- Wind, smoke, steam, or volcanic heat.\n- Food stores that attract scavengers during the battle.",
+                "newText": "## Wyvern Lair\n\nThe wyvern’s lair is a high cavern, cliffside hollow, or ruined watchpost with a wide opening large enough for the creature to fly through. It has chosen the site for visibility, vertical space, and easy escape routes rather than comfort. The floor is littered with bones, torn hides, splintered carts, broken tack, cracked chests, scraps of armor, and the remains of previous prey dragged here to be eaten in safety.\n\nThe lair should make the wyvern feel like an aerial ambusher, not a dragon defending a treasure hoard. It uses ledges, ceiling height, wind, and narrow approaches to stay mobile while forcing the characters to deal with bad footing and exposed positions. Most wyverns do not hoard treasure intentionally, but useful loot may be mixed into the debris from victims, livestock caravans, small boats, or wagons carried off with prey.\n\nWhen the characters enter the lair, the wyvern may regain **2d10 hit points** if it had time to retreat, settle, and recover. It fights more aggressively here, but it is still an animalistic opportunist. It defends its food, territory, and escape route, but it does not need to fight to the death if an obvious way out remains. If reduced to low hit points and given a clear flight path, it may try to flee deeper into the mountains unless the characters corner it or force the final confrontation.\n\nPossible lair hazards include:\n\n- **High ledges.** The wyvern perches above the party and drops onto exposed targets.\n- **Deep shafts and sudden drops.** A shoved, grappled, or careless creature risks falling.\n- **Loose stone and unstable scree.** Fast movement may trigger slides or difficult terrain.\n- **Bone piles and prey debris.** The ground is difficult terrain and may hide useful salvage.\n- **Narrow approaches.** The party may have to enter single file while the wyvern has room to fly.\n- **Crosswinds, smoke, steam, or volcanic heat.** Ranged attacks and flight may be complicated by the terrain.\n- **Trapped food stores.** Half-dead prey, scavengers, or venom-tainted carcasses may distract or endanger the party."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\"oldText\":\"## Wyvern Lair\\n\\nThe wyvern’s lair contains bones, torn hides, scraps of equipment, and the remains of previous prey. The creature has chosen a defensible position with a clear flight path and narrow approaches.\\n\\nWhen the characters enter the lair, the wyvern regains 2d10 hit points. It fights to the death because the characters threaten its home, territory, and food supply.\\n\\nPossible lair hazards include:\\n\\n- Unstable ledges or loose stone.\\n- Deep shafts and sudden drops.\\n- Difficult terrain caused by bones and debris.\\n- Narrow passages that limit flight.\\n- Wind, smoke, steam, or volcanic heat.\\n- Food stores that attract scavengers during the battle.\",\"newText\":\"## Wyvern Lair\\n\\nThe wyvern’s lair is a high cavern, cliffside hollow, or ruined watchpost with a wide opening large enough for the creature to fly through. It has chosen the site for visibility, vertical space, and easy escape routes rather than comfort. The floor is littered with bones, torn hides, splintered carts, broken tack, cracked chests, scraps of armor, and the remains of previous prey dragged here to be eaten in safety.\\n\\nThe lair should make the wyvern feel like an aerial ambusher, not a dragon defending a treasure hoard. It uses ledges, ceiling height, wind, and narrow approaches to stay mobile while forcing the characters to deal with bad footing and exposed positions. Most wyverns do not hoard treasure intentionally, but useful loot may be mixed into the debris from victims, livestock caravans, small boats, or wagons carried off with prey.\\n\\nWhen the characters enter the lair, the wyvern may regain **2d10 hit points** if it had time to retreat, settle, and recover. It fights more aggressively here, but it is still an animalistic opportunist. It defends its food, territory, and escape route, but it does not need to fight to the death if an obvious way out remains. If reduced to low hit points and given a clear flight path, it may try to flee deeper into the mountains unless the characters corner it or force the final confrontation.\\n\\nPossible lair hazards include:\\n\\n- **High ledges.** The wyvern perches above the party and drops onto exposed targets.\\n- **Deep shafts and sudden drops.** A shoved, grappled, or careless creature risks falling.\\n- **Loose stone and unstable scree.** Fast movement may trigger slides or difficult terrain.\\n- **Bone piles and prey debris.** The ground is difficult terrain and may hide useful salvage.\\n- **Narrow approaches.** The party may have to enter single file while the wyvern has room to fly.\\n- **Crosswinds, smoke, steam, or volcanic heat.** Ranged attacks and flight may be complicated by the terrain.\\n- **Trapped food stores.** Half-dead prey, scavengers, or venom-tainted carcasses may distract or endanger the party.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md",
+                      "addedLines": 11,
+                      "removedLines": 8,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "002a628e-5896-4cd2-940b-f3a206eedcd8"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 11,
+                  "totalRemovedLines": 8,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1785681621830
+              }
+            }
+          }
+        }
+      ],
+      "id": "002a628e-5896-4cd2-940b-f3a206eedcd8",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I updated the **Wyvern Lair** section to better match actual wyvern behavior.\n\nChanges include:\n\n- The lair is now a **high cavern, cliffside hollow, or ruined watchpost** with a wide flight entrance.\n- The wyvern is framed as an **aerial ambusher**, not a treasure-hoarding dragon.\n- The lair contains victims’ remains, broken carts, tack, chests, armor, and other things dragged in with prey.\n- Treasure is now incidental, not intentional hoarding.\n- The wyvern may still regain **2d10 HP** if it had time to retreat and recover.\n- It fights more aggressively in the lair, but still may flee if badly wounded and given an escape route.\n- Hazards now support its actual tactics:\n  - High ledges\n  - Deep drops\n  - Loose scree\n  - Bone piles\n  - Narrow approaches\n  - Crosswinds / smoke / volcanic heat\n  - Trapped food stores and venom-tainted carcasses",
+      "id": "e1e8172a-7d5c-45f0-8ca6-29abc4d71423",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 88317,
+          "completion_tokens": 215,
+          "total_tokens": 88532,
+          "cache_read_input_tokens": 86528
+        },
+        "durationMs": 5299,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1785466135590,
-  "updatedAt": 1785558998855,
+  "updatedAt": 1785681627360,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",

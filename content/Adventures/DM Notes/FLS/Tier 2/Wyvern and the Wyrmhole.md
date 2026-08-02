@@ -2,7 +2,7 @@
 
 **Wyvern and the Wyrmhole** is optimized for five 5th-level characters. The adventure should take approximately four hours to complete.
 
-The characters are hired by the [[Ashen Shadow Society]] through an ad in [[The Roach Clip]] to hunt a [[Wyvern]] in the wilderness. The contract appears to be a straightforward monster hunt, but the Society has a second objective: use a [[Mind Blade]] and the wyvern’s preserved corpse to create an aberrant entity called a [[Bicephal Wyrmhole]]. The characters must survive the ritual, defeat the resulting creature, and recover its claws for study and weapon development.
+The characters are discreetly hired by the [[Ashen Shadow Society]] through an ad in [[The Roach Clip]] to hunt a [[Wyvern]] in the wilderness. The contract appears to be a straightforward monster hunt, but the Society has a second objective: use a [[Mind Blade]] and the wyvern’s preserved corpse to create an aberrant entity called a [[Bicephal Wyrmhole]]. The characters must survive the ritual, defeat the resulting creature, and recover its claws for study and weapon development.
 
 # Introduction
 
@@ -57,7 +57,7 @@ The [[Ashen Shadow Society]] has learned that a rare aberrant weapon attachment 
 
 The Society wants the resulting creature neutralized and harvested. The operation is deliberately dangerous because the experiment requires a living field team rather than a laboratory. A controlled environment would not reveal how the Wyrmhole behaves when exposed to hunters, hostile terrain, or a damaged ritual site.
 
-The Society does not require [[Dr. Cessix Rothvell]] to participate. The Mind Blade is supplied by a mind flayer or obtained from an existing source, and its intended wielder must be either the mind flayer that created it or one of that mind flayer’s thralls. Any other character can carry the blade and use it as a normal sword, but cannot attune to it or access its magic. The rite can be performed by any character who can carry out the required arcane work; the ritual does not change who the blade is attuned to. Rothvell can appear as an optional adviser, rival researcher, or replacement party member, but the adventure does not depend on him.
+The Society does not require [[Dr. Cessix Rothvell]] to participate, but he is useful as an NPC. The Mind Blade is supplied by a mind flayer or obtained from an existing source, and its intended wielder must be either the mind flayer that created it or one of that mind flayer’s thralls. Any other character can carry the blade and use it as a normal sword, but cannot attune to it or access its magic. The rite can be performed by any character who can carry out the required arcane work; the ritual does not change who the blade is attuned to. Rothvell can appear as an optional adviser, rival researcher, or replacement party member, but the adventure does not depend on him.
 
 ---
 
@@ -77,7 +77,7 @@ Before the Society summons the characters to the Ashen Citadel, the assignment m
 > 
 > A private client seeks four to five capable adventurers for a wilderness retrieval operation.
 > 
-> **Dead Drop:** Retrieve the contract from the third rusted shrine-box along the [[Sootsteps]] in [[Upper South Booftown]]. Knock twice, whisper **“Gravity squeezes harder,”** and open the compartment beneath the offering tray.
+> **Dead Drop:** Retrieve the contract from the third rusted shrine-box along the [[Sootsteps]] in [[Upper South Booftown]]. Knock twice, whisper **“Gravity squeezes harder,”** to open the compartment beneath the offering tray.
 > 
 > **Target:** One wyvern, preferably alive long enough to become dead.
 > 
@@ -123,7 +123,7 @@ Read or paraphrase the following:
 > 2. Preserve the wyvern’s corpse without harvesting it or damaging its heart.
 > 3. Use the supplied Mind Blade in the corpse’s heart and perform the enclosed rite.
 > 4. Defeat the creature created by the rite.
-> 5. Harvest the creature’s claws and return them to the Ashen Shadow Society.
+> 5. Harvest the creature’s claws and return them to the Ashen Citadel.
 >
 > The final page contains a brief warning:
 >
@@ -198,7 +198,9 @@ Divide the hunt into three quick areas:
 | 2 | The feeding grounds | Reading kills, droppings, drag marks, broken branches, or frightened wildlife |
 | 3 | The nesting cliffs | Finding the active lair or choosing a safer place to draw the wyvern out |
 
-A success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table. A natural 1 or failure by 10 or more causes a complication and also gives the wyvern **1 Hunt Advantage**.
+Each Tracking check represents about **1 hour** of careful travel, searching, scouting, and interpreting signs. The full tracking stage usually takes **3 hours in-world**, plus any extra time the party spends resting, setting bait, casting rituals, or preparing an ambush.
+
+A success gives the party useful information, a better approach, or a chance to prepare. A failure still moves the hunt forward, but causes a complication from the **Tracking Complications** table and usually adds **1 extra hour** to the hunt. A natural 1 or failure by 10 or more causes a complication, adds **1 extra hour**, and also gives the wyvern **1 Hunt Advantage**.
 
 Surpassing the DC by 10 or more grants an additional benefit from the **Quick Success Benefits** table. This rewards excellent tracking without shortening the scene or changing the number of checks.
 
@@ -269,24 +271,29 @@ When a character succeeds on a Tracking check, choose or roll one benefit.
 
 The wyvern attacks the characters while they are following its trail. It targets the most exposed character first, especially a character who resembles its usual prey.
 
-The wyvern fights cautiously. It uses its flight, breath weapon, and terrain to isolate a target before retreating when seriously threatened. It does not fight to the death in the open unless cornered.
+The wyvern fights like an opportunistic aerial predator. It uses its 80-foot fly speed, fangs, venomous stinger, and high terrain to strafe exposed targets, poison or weaken them, and isolate one creature from the group. It usually lands only to finish off a badly wounded target or seize prey it thinks it can carry away.
 
-When the wyvern retreats, the characters must track it to its lair. On a failed tracking check, they lose time and encounter another wilderness hazard before finding the lair. On a successful check, they reach the lair before the wyvern can fully recover.
+The wyvern does not fight to the death in the open unless cornered. If the characters fight back effectively, take flight, seriously wound it, or deny it an easy target, the wyvern retreats toward its lair in search of a more favorable battlefield.
+
+When the wyvern retreats, the characters must follow it to its lair. Do not add a full extra tracking stage; instead, use the party’s existing tracking results and any Hunt Advantage to determine how favorable the lair approach is. If you want one final check, call for a single DC 16 Wisdom (Survival) or Wisdom (Perception) check. On a success, the characters reach the lair before the wyvern fully settles. On a failure, they lose 1 hour and the wyvern gains 1 Hunt Advantage.
 
 ## Wyvern Lair
 
-The wyvern’s lair contains bones, torn hides, scraps of equipment, and the remains of previous prey. The creature has chosen a defensible position with a clear flight path and narrow approaches.
+The wyvern’s lair is a high cavern, cliffside hollow, or ruined watchpost with a wide opening large enough for the creature to fly through. It has chosen the site for visibility, vertical space, and easy escape routes rather than comfort. The floor is littered with bones, torn hides, splintered carts, broken tack, cracked chests, scraps of armor, and the remains of previous prey dragged here to be eaten in safety.
 
-When the characters enter the lair, the wyvern regains 2d10 hit points. It fights to the death because the characters threaten its home, territory, and food supply.
+The lair should make the wyvern feel like an aerial ambusher, not a dragon defending a treasure hoard. It uses ledges, ceiling height, wind, and narrow approaches to stay mobile while forcing the characters to deal with bad footing and exposed positions. Most wyverns do not hoard treasure intentionally, but useful loot may be mixed into the debris from victims, livestock caravans, small boats, or wagons carried off with prey.
+
+When the characters enter the lair, the wyvern may regain **2d10 hit points** if it had time to retreat, settle, and recover. It fights more aggressively here, but it is still an animalistic opportunist. It defends its food, territory, and escape route, but it does not need to fight to the death if an obvious way out remains. If reduced to low hit points and given a clear flight path, it may try to flee deeper into the mountains unless the characters corner it or force the final confrontation.
 
 Possible lair hazards include:
 
-- Unstable ledges or loose stone.
-- Deep shafts and sudden drops.
-- Difficult terrain caused by bones and debris.
-- Narrow passages that limit flight.
-- Wind, smoke, steam, or volcanic heat.
-- Food stores that attract scavengers during the battle.
+- **High ledges.** The wyvern perches above the party and drops onto exposed targets.
+- **Deep shafts and sudden drops.** A shoved, grappled, or careless creature risks falling.
+- **Loose stone and unstable scree.** Fast movement may trigger slides or difficult terrain.
+- **Bone piles and prey debris.** The ground is difficult terrain and may hide useful salvage.
+- **Narrow approaches.** The party may have to enter single file while the wyvern has room to fly.
+- **Crosswinds, smoke, steam, or volcanic heat.** Ranged attacks and flight may be complicated by the terrain.
+- **Trapped food stores.** Half-dead prey, scavengers, or venom-tainted carcasses may distract or endanger the party.
 
 ## Preserving the Corpse
 
