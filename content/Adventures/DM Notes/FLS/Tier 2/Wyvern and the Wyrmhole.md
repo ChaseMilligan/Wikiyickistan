@@ -408,12 +408,12 @@ The party receives the following rewards for completing the assignment:
 - The agreed Society bounty.
 - The recipe for crafting a [[Graviturgic Warp-hilt]].
 - Additional payment for recovering useful organs, residues, or magical materials.
-- Favor with the [[Ashen Shadow Society]].
+- Favor/Renown with the [[Ashen Shadow Society]].
 - Access to future monster-utilization contracts.
 
 ## Story Award: Society Asset
 
-The characters earn the trust of the Society’s monster-utilization division. When they seek specialized equipment, monster-hunting information, or access to a controlled research site, the Society may provide assistance if doing so does not compromise an active operation.
+The characters earn the trust of [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]]. When they seek specialized equipment, monster-hunting information, or access to a controlled research site, the Society may provide assistance if doing so does not compromise an active operation.
 
 ## Experience
 
