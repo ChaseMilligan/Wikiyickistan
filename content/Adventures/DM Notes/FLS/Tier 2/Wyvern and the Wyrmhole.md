@@ -150,6 +150,7 @@ After the players finish reading or hearing the contract, provide the following 
 - If done correctly, the Mind Blade will be consumed by the Wyrmhole.
 - The Society’s primary harvest target is the Wyrmhole’s claws; additional organs, residues, or magical materials are optional bonuses.
 - The Society imposes a formal time limit of 3 days to completion before they start offering the contract to other monster hunters.
+- If no one in the party has the Preserve spell, a spell scroll is included in the dead drop. Only one though.
 
 ### Dead Drop Encounter
 
