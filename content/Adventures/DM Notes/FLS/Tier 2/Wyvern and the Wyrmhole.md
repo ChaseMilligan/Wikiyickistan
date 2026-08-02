@@ -277,6 +277,12 @@ The wyvern does not fight to the death in the open unless cornered. If the chara
 
 When the wyvern retreats, the characters must follow it to its lair. Do not add a full extra tracking stage; instead, use the party’s existing tracking results and any Hunt Advantage to determine how favorable the lair approach is. If you want one final check, call for a single DC 16 Wisdom (Survival) or Wisdom (Perception) check. On a success, the characters reach the lair before the wyvern fully settles. On a failure, they lose 1 hour and the wyvern gains 1 Hunt Advantage.
 
+# Riverside Mill
+
+## Natural Day
+
+![Map|341](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/30fc0c2e8662dfdc004f81de7bd1c1d2.webp)
+
 ## Wyvern Lair
 
 The wyvern’s lair is a high cavern, cliffside hollow, or ruined watchpost with a wide opening large enough for the creature to fly through. It has chosen the site for visibility, vertical space, and easy escape routes rather than comfort. The floor is littered with bones, torn hides, splintered carts, broken tack, cracked chests, scraps of armor, and the remains of previous prey dragged here to be eaten in safety.
@@ -294,6 +300,30 @@ Possible lair hazards include:
 - **Narrow approaches.** The party may have to enter single file while the wyvern has room to fly.
 - **Crosswinds, smoke, steam, or volcanic heat.** Ranged attacks and flight may be complicated by the terrain.
 - **Trapped food stores.** Half-dead prey, scavengers, or venom-tainted carcasses may distract or endanger the party.
+
+# Beetle Tribe Canyon
+
+## Empty Day
+
+![Map|357](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/29bfd8b5fb4e065fd233d239f0346fd7.webp)
+
+# Mountain Logging Camp
+
+## Natural
+
+![Map|355](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/61167c0cdabdf0468383ceafa2e0bf21.webp)
+
+# Gate of Angels
+
+## Platform
+
+![Map|354](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/af917a7fc3dd686338c6daeb3910c7f2.webp)
+
+# Coastal Caverns
+
+## Empty Day
+
+![Map|353](https://content.encounterkit.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://content.encounterkit.com/map/preview/05852b07fa4c549588571d14e19f9b3f.webp)
 
 ## Preserving the Corpse
 
@@ -341,17 +371,9 @@ Read or paraphrase the following:
 >
 > Stones rise from the ground and vanish into the forming darkness. The cave groans around you.
 
-## Gravity Well Hazard
-
-When the transformation completes, the floor opens into a 50-foot-deep chasm centered on the newly formed Wyrmhole. Any creature within 10 feet of the opening must succeed on a DC 15 Dexterity saving throw or fall. A creature that succeeds can move to the nearest safe space.
-
-The chasm is difficult terrain around its rim. Loose objects, unattended equipment, and unsecured creatures are pulled toward it at the start of each round until the Wyrmhole is defeated.
-
-The corpse’s preservation does not protect the Wyrmhole. The new creature is an active aberration with its own abilities and weaknesses.
-
 ## Bicephal Wyrmhole
 
-Use the [[Bicephal Wyrmhole]] stat block. The creature forms with no allegiance to the Society or the party. It immediately attacks the nearest creature or object and continues fighting until destroyed or no longer able to act.
+Use the [[Bicephal Wyrmhole]] stat block. This aberrant creature lashes out immediately, and attacks the nearest creature or object and continues fighting until destroyed or no longer able to act.
 
 The party’s primary objective is to survive and defeat the creature. The Society’s secondary objective is to recover its claws, but the DM should make clear that characters may retreat if the battle becomes impossible.
 
@@ -384,7 +406,7 @@ The claws are intended to create a [[Graviturgic Warp-hilt]], a socketable weapo
 The party receives the following rewards for completing the assignment:
 
 - The agreed Society bounty.
-- The [[Graviturgic Warp-hilt]] or the components required to create it.
+- The recipe for crafting a [[Graviturgic Warp-hilt]].
 - Additional payment for recovering useful organs, residues, or magical materials.
 - Favor with the [[Ashen Shadow Society]].
 - Access to future monster-utilization contracts.
