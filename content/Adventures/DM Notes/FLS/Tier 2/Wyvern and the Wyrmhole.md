@@ -305,7 +305,7 @@ The corpse’s magical essence is consumed by the ritual. Effects used to preser
 
 ---
 
-# Part 3: The Wyrmhole Rite
+# Part 3: The Wyrmhole
 
 *Estimated Duration: 60 minutes*
 
