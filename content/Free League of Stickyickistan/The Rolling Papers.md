@@ -70,13 +70,55 @@ Use the following template when posting an adventure ad:
 ```
 
 ---
+
+# Curse of Slaad
+
+**Submitted by:** [[Ezra Astallon]]  
+**Tier:** Tier 1  
+**Recommended Level:** 3  
+**Expected Length:** Approximately 3–4 hours  
+**Tone:** Agricultural horror, monster hunt, investigation, horror-comedy  
+**Location:** [[Astallon Acres]], [[North Booftown]]  
+
+### Headline
+
+> **ASTALLON ACRES OFFERS REWARD AFTER LIVESTOCK VANISHES AND CROPS BEGIN CROAKING**
+
+### Public Notice
+
+[[Ezra Astallon]] seeks capable adventurers to investigate a series of disappearances at the edge of [[Astallon Acres]]. Livestock has vanished from secured pens, two farmhands have failed to return from the wetlands, and valuable [[Arcannabis]] crops have become twisted, foul-smelling, and strangely mobile.
+
+The source is believed to be an abandoned agricultural greenhouse near [[Zooka Mire]]. Adventurers are asked to identify the cause, rescue anyone still alive, and prevent the infestation from spreading through [[North Booftown]].
+
+Applicants should report to the damaged Astallon Acres farmstead at the end of the north irrigation road. Ask for Ezra Astallon. Do not enter the greenhouse alone.
+
+### What Players Should Know
+
+- **Content / vibe:** Swampy horror-comedy, missing people, corrupted crops, slime, extraplanar creatures, and body horror.
+- **Combat / roleplay / exploration mix:** Investigation and exploration leading to encounters with Slaad and a dangerous final confrontation.
+- **Character hooks:** Good for monster hunters, local heroes, farmers’ allies, bounty hunters, investigators, or adventurers seeking unusual monster components.
+- **Special notes:** The adventure takes place in Stickyickistan and begins in North Booftown. Characters should be prepared for difficult terrain, contaminated farmland, and an infestation beneath an abandoned greenhouse.
+
+### Rewards Teaser
+
+Ezra offers coin, access to Astallon Acres, and additional payment for recovering the planar spore or useful Slaad materials. The farmer also promises to arrange introductions to growers and merchants who can provide future work.
+
+### Sign-Up
+
+**DM:** TBD  
+**Date / Time:** TBD  
+**Seats:** 4–5 players  
+**How to join:** Post in the Free League chat.
+
+---
+
 # Example: Monsters at the Northbourne Orchard Festival
 
 **Posted by:** [[Lady Isolde Northbourne]]  
-**DM:** Initiate of Tribulation, Vorg Lordcaster
+**DM:** Initiate of Tribulation, Vorg Lordcaster  
 **Tier:** Tier 1  
-**Recommended Level:** 3 - 4  
-**Expected Length:** ~4 hours 
+**Recommended Level:** 3–4  
+**Expected Length:** Approximately 4 hours  
 **Tone:** Public festival trouble, monster hunt, light investigation  
 **Location:** [[House Northbourne]] holdings  
 
@@ -107,7 +149,7 @@ The festival committee offers coin, public goodwill with [[House Northbourne]], 
 
 **DM:** Chase  
 **Date / Time:** TBD  
-**Seats:** 4 - 5 players  
+**Seats:** 4–5 players  
 **How to join:** Post in the Free League chat.
 
 ---

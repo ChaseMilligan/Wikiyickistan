@@ -76,7 +76,7 @@ Adventuring is a risky job, and bad things often happen to adventurers. Diseases
 You award the players rewards for their accomplishments in the form of levels, gold, and magic items for their characters, which they record before leaving the table. 
 
 ##### Advancement
-If the adventure has specific leveling instructions, follow those. If it does not, award the opportunity to gain a level after completing a session of play that’s at least two hours long. A character can gain no more than one level per session. Players can always decline to have their character gain a level that is offered.
+If the adventure has specific leveling instructions, follow those. If it does not, award the opportunity to gain a level after completing a session of play that’s at least four hours long. A character can gain no more than one level per session. Players can always decline to have their character gain a level that is offered.
 
 ##### Magic Items
 Characters can use and keep any magic item they find that is specifically mentioned in the encounter in which it’s found (items that the adventure describes as being lent to the characters or destroyed can’t be kept). At the end of the session, each character can keep any of magic items found during the adventure. They may only bring a limited number of these magic items to a session of play as noted in the **D&D Adventurers League Player’s Guide** (see [[A League of Our Own]]). 
