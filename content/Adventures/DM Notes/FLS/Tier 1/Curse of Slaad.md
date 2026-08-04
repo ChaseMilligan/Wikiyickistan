@@ -1,184 +1,252 @@
-If this is for your Free League of Stickyickistan style adventures, I'd keep it to a simple four-part structure that can comfortably fit into a 3–4 hour session while leaving room for roleplay and improvisation.
 
-Adventure Outline
+*Tier 1 Free League of Stickyickistan Adventure*
 
-Hook
+## Introduction
 
-The party is hired to investigate a strange infestation after travelers, livestock, or miners begin disappearing near an overgrown ruin, abandoned greenhouse, sewer garden, or ancient druidic site.
+**Curse of Slaad** is a short monster-hunt adventure designed for a 3–4 hour session. The party investigates a strange infestation near an overgrown ruin, abandoned greenhouse, sewer garden, or ancient druidic site where people and livestock have begun disappearing.
 
-Rumors mention:
+The threat appears at first to be a plant problem: moving vines, acidic pollen, slime-slick roots, and bodies half-dissolved into fertilizer. In truth, the site has become the breeding ground for a bizarre slaad-like infestation of frog-plant creatures known locally as **Salads**.
 
-Plants moving at night.
+## Adventure Background
 
-Strange croaking noises.
+A strange magical seed, planar spore, or contaminated Arcannabis fertilizer has taken root in an old ruin. The growth has warped local plant life into a damp, croaking nest filled with slime pools, pulsing egg sacs, and tadpole-like spawn.
 
-Victims found partially dissolved into fertilizer.
+At the center of the infestation is a larger creature called the **Red Salad**, a violent frog-plant predator that protects its young and feeds victims into the nest. If not destroyed, the infestation will spread into nearby farms, sewers, gardens, or trade roads.
 
-Tiny frog-like creatures dragging food into the brush.
+## Adventure Hook
 
+The party is hired to investigate disappearances near the infected site. Choose an employer:
 
+- A local farmer whose livestock vanished overnight.
+- A frightened apothecary whose herb collectors never returned.
+- A town reeve worried about travelers disappearing from the road.
+- A [[Solarium Botanica]] contact investigating corrupted plant growth.
+- A [[The Loot Tavern|Loot Tavern]] monster board posting offering payment for unusual harvests.
 
----
+### Rumors
 
-Part 1: Investigation
-
-The party gathers information and tracks the infestation.
-
-Possible encounters:
-
-Interview frightened locals.
-
-Examine bodies or damaged crops.
-
-Follow slime trails.
-
-Discover pools filled with eggs.
-
-
-Skill challenges:
-
-Survival to track.
-
-Nature to identify unusual vegetation.
-
-Investigation to locate hidden nests.
-
-
-Reward good investigation by revealing:
-
-The creatures fear fire.
-
-The larger creature protects the tadpoles at all costs.
-
-Their lair has several hidden entrances.
-
-
+| d6 | Rumor |
+|---:|---|
+| 1 | “The plants move after sunset. I saw vines dragging a goat uphill.” |
+| 2 | “There’s croaking in the walls, but no frogs in the pond anymore.” |
+| 3 | “One body came back half-melted, like something had tried to compost him.” |
+| 4 | “Tiny frog-things have been seen carrying scraps into the brush.” |
+| 5 | “Fire scares them. Or maybe it just makes them angry.” |
+| 6 | “The old greenhouse was sealed for a reason.” |
 
 ---
 
-Part 2: The Outer Nest
+# Part 1: Investigation
 
-The party enters the infested area.
+*Estimated Duration: 45 minutes*
 
-This section should drain some resources before the boss.
+The characters gather information, inspect the damage, and follow signs toward the nest.
 
-Possible encounters:
+Read or paraphrase:
 
-4–8 Salad Tadpoles.
+> The air grows wet and green as you approach the infected ground. Leaves shine with a greasy film, and the soil gives slightly beneath each step, as though the earth itself has gone soft.
+>
+> Somewhere ahead, something croaks.
+>
+> Then something smaller croaks back.
 
-Hazardous vines.
+## Investigation Scenes
 
-Acidic pollen clouds.
+Use two or three of the following scenes.
 
-Carnivorous plants.
+### Frightened Locals
 
-Difficult terrain from thick vegetation.
+Witnesses describe missing livestock, moving plants, strange croaking, and small creatures dragging food into the brush.
 
+**Useful Checks:**
 
-Optional additional monsters:
+- **DC 11 Charisma (Persuasion):** Calm witnesses and get a clear description.
+- **DC 11 Wisdom (Insight):** Notice that witnesses are more scared of the croaking than the plants.
+- **DC 13 Intelligence (Investigation):** Piece together that the disappearances are moving outward from one central site.
 
-Twig Blights
+### Damaged Crops or Bodies
 
-Needle Blights
+The party finds ruined crops, slime-burned fences, half-eaten livestock, or a partially dissolved corpse.
 
-Vine Blights
+**Useful Checks:**
 
-Awakened Shrubs
+- **DC 11 Intelligence (Nature):** Identify that the plants are growing too quickly and feeding on organic remains.
+- **DC 13 Wisdom (Medicine):** Determine that acid or digestive slime caused the injuries.
+- **DC 13 Intelligence (Arcana):** Sense planar or chaotic magic in the residue.
 
-Giant Frogs
+### Slime Trail
 
-Violet Fungus
+A slick trail leads toward the nest. Tiny webbed prints and dragged scraps of food mark the path.
 
-Myconids if you want a fungal theme instead.
+**Useful Checks:**
 
+- **DC 11 Wisdom (Survival):** Follow the trail.
+- **DC 13 Wisdom (Perception):** Spot hidden tadpoles watching from the brush.
+- **DC 13 Dexterity (Stealth):** Approach without alerting the outer nest.
 
+## Clues
+
+Reward good investigation with one or more clues:
+
+- The smaller creatures are spawn and will defend egg clusters.
+- The larger creature protects the tadpoles at all costs.
+- Fire frightens or disrupts the plant growth.
+- The lair has several hidden entrances through roots, drains, or burrows.
+- The nest is feeding on victims to grow more spawn.
 
 ---
 
-Part 3: The Heart of the Nest
+# Part 2: The Outer Nest
 
-Boss encounter.
+*Estimated Duration: 45 minutes*
+
+The party enters the infested area. This section should introduce the danger and cost a few resources without becoming the main fight.
+
+Read or paraphrase:
+
+> The path disappears under thick vines and glossy leaves. Bulging pods hang from branches like wet fruit. The ground is broken by puddles of greenish slime, each one trembling whenever something croaks nearby.
+>
+> Small shapes move beneath the leaves.
+
+## Encounter: Salad Tadpoles
+
+Use **4–8 Salad Tadpoles**, depending on party size and level. They harass the party, flee through small gaps, and try to draw intruders toward hazards.
+
+If you do not have custom stats ready, use simple low-CR frog, twig blight, or crawling claw-style creatures with acid or poison flavor.
+
+## Outer Nest Hazards
+
+Choose or roll one hazard.
+
+| d4 | Hazard |
+|---:|---|
+| 1 | **Acidic Pollen.** A disturbed pod bursts. Creatures in a 10-foot radius must succeed on a DC 12 Constitution saving throw or take acid damage and cough loudly, alerting the nest. |
+| 2 | **Grasping Vines.** Vines turn the area into difficult terrain. A creature that dashes must succeed on a DC 12 Dexterity saving throw or fall prone. |
+| 3 | **Slime Sink.** A patch of ground collapses into digestive muck. A creature that steps into it must succeed on a DC 12 Strength saving throw or become restrained until freed. |
+| 4 | **Croaking Alarm.** Tadpoles begin a rhythmic croaking chorus. If not stopped within 2 rounds, the Red Salad is alert during the final encounter. |
+
+---
+
+# Part 3: The Heart of the Nest
+
+*Estimated Duration: 60–75 minutes*
+
+The heart of the nest is a wet chamber, greenhouse, root cellar, sewer dome, or druidic hollow filled with egg sacs and nutrient slime.
+
+Read or paraphrase:
+
+> The nest opens before you in a pulse of wet heat and sour green stink. Egg sacs cling to roots and cracked stone. Slime pools bubble between heaps of bones, tools, boots, and half-digested packs.
+>
+> At the center of it all squats something red, swollen, and alive with twitching leaves. Its throat inflates.
+>
+> The whole chamber croaks back.
+
+## Boss Encounter
 
 Enemies:
 
-1 Red Salad
+- **1 Red Salad**
+- **Several Salad Tadpoles**
 
-Several Salad Tadpoles that emerge throughout the fight.
+If you do not have custom stats ready, use a suitable plant, frog, or slaad-like stat block for the Red Salad and reskin its attacks with acid, vines, and tongue strikes.
 
+## Egg Clusters
 
-Ideas:
+Place **3 egg clusters** around the battlefield.
 
-New tadpoles hatch every other round until the egg clusters are destroyed.
+- Each egg cluster has AC 10 and 10 hit points.
+- Fire damage destroys an egg cluster immediately.
+- At the end of every other round, one intact egg cluster hatches **1 Salad Tadpole**.
+- Destroying all egg clusters stops new tadpoles from appearing.
 
-The Red Salad can swallow or absorb nearby tadpoles to heal.
+## Red Salad Tactics
 
-Acid pools create battlefield hazards.
+The Red Salad is protective and territorial.
 
-Hanging vines provide half cover.
+- It prioritizes characters attacking egg clusters.
+- It uses tadpoles and terrain to slow enemies.
+- It retreats toward underground tunnels if reduced to low hit points.
+- Once per fight, it may consume a nearby tadpole or egg cluster to regain hit points.
 
+## Battlefield Features
 
-Objectives beyond killing everything:
+| Feature | Effect |
+|---|---|
+| Acid Pools | A creature that enters a pool or starts its turn there takes acid damage. |
+| Hanging Vines | Provide half cover and can be cut or burned. |
+| Nutrient Slime | Plant creatures that start their turn in the slime regain a small amount of hit points. |
+| Rotten Walkways | A creature that takes heavy damage while standing on one may need to save or fall. |
+| Egg Sacs | Hatch tadpoles if ignored. |
 
-Burn the egg clusters.
+## Objectives Beyond Killing Everything
 
-Rescue a trapped NPC.
-
-Prevent the Red Salad from escaping into underground tunnels.
-
-
-
----
-
-Part 4: Conclusion
-
-The party clears the infestation.
-
-Possible rewards:
-
-Payment from the employer.
-
-Monster harvesting opportunities (using Heliana's Guide).
-
-A strange magical seed.
-
-A clue leading toward another infestation somewhere else.
-
-
+- Burn the egg clusters.
+- Rescue a trapped NPC wrapped in roots.
+- Stop the Red Salad from escaping into underground tunnels.
+- Recover the strange seed or planar spore at the heart of the nest.
 
 ---
 
-Difficulty
+# Part 4: Conclusion
 
-For 4–5 Level 3 PCs, a reasonable encounter progression could be:
+*Estimated Duration: 30 minutes*
 
-Encounter	Difficulty
+When the Red Salad is defeated and the egg clusters are destroyed, the infestation begins to collapse. Vines loosen, slime pools dry into crust, and the constant croaking finally stops.
 
-Investigation obstacle	Easy
-Outer Nest	Medium
-Hazard/ambush	Easy–Medium
-Red Salad + Tadpoles	Hard
+## Possible Rewards
 
+- Payment from the employer.
+- Harvested monster parts using [[Heliana's Guide to Monster Hunting]].
+- A strange magical seed.
+- Acid glands, sticky slime, or volatile spores.
+- A clue pointing toward another infestation.
+- Gratitude from farmers, apothecaries, or local residents.
 
-The final fight is usually enough if the party has already spent some spells and hit points.
+## Lingering Consequences
 
+Choose one:
+
+- A surviving tadpole escapes into the drainage system.
+- The strange seed is valuable but still faintly alive.
+- The infected soil can be purified, sold, studied, or misused.
+- A faction wants the remains for research.
+- Someone insists the infestation was not an accident.
 
 ---
 
-Environmental Features
+# Difficulty
 
-To make the battlefield memorable, add a few interactive elements:
+For **4–5 level 3 characters**, a reasonable encounter progression is:
 
-Acidic puddles that damage creatures entering them.
+| Encounter | Difficulty |
+|---|---|
+| Investigation obstacle | Easy |
+| Outer Nest tadpoles and hazard | Medium |
+| Optional hazard or ambush | Easy–Medium |
+| Red Salad and tadpoles | Hard |
 
-Dense vines that count as difficult terrain.
+The final fight is usually enough if the party has already spent some spells, hit points, or class resources in the outer nest.
 
-Egg sacs that hatch if ignored.
+---
 
-Giant mushrooms that release spores when struck.
+# DM Notes
 
-Collapsing roots or rotten bridges.
+## Tone
 
-Pools of nutrient-rich slime that heal plant creatures.
+This adventure should feel like a swampy horror-comedy monster hunt: gross, weird, dangerous, and slightly ridiculous. Emphasize wet croaks, twitching plants, sour compost smells, and the unnerving sight of tiny frog-things doing coordinated work.
 
+## Scaling
 
-This gives the encounter more tactical depth than simply fighting the monsters in an open room.
+- For a weaker party, reduce the number of tadpoles and egg clusters.
+- For a stronger party, add more hazards or allow two egg clusters to hatch at once.
+- For a shorter session, skip the optional outer nest combat and use only one hazard before the boss.
+- For a longer session, add a trapped NPC, rival hunters, or a faction trying to steal samples.
+
+## Harvest Ideas
+
+- Red Salad tongue
+- Acidic digestive slime
+- Slaad-touched seed
+- Tadpole glands
+- Egg cluster membrane
+- Planar compost

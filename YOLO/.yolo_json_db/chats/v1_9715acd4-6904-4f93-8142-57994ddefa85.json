@@ -3719,7 +3719,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "22fa6fe4"
+        "hash": "4de1d767"
       },
       "id": "0f30bbd7-f10d-4d0e-ad4e-8dc2afcc75c5",
       "mentionables": [
@@ -5760,7 +5760,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "00a072d9"
+        "hash": "cf542aa6"
       },
       "id": "74b72ae7-eb1c-42f8-b53a-6df319bc22dc",
       "mentionables": [
@@ -9034,10 +9034,246 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "improve ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Curse of Slaad.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Curse of Slaad.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "73cb4184"
+      },
+      "id": "88d61409-8d06-42ce-a39c-f0af34442572",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-03 22:19 (Monday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_VHjA6sqOdxbFozshVhtDBstH",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\"]}"
+          }
+        }
+      ],
+      "id": "62a41d6a-05f2-4f57-817b-e13ea1b80259",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 88764,
+          "completion_tokens": 43,
+          "total_tokens": 88807
+        },
+        "durationMs": 3554,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_VHjA6sqOdxbFozshVhtDBstH",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_VHjA6sqOdxbFozshVhtDBstH\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\",\n      \"ok\": true,\n      \"totalLines\": 184,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|If this is for your Free League of Stickyickistan style adventures, I'd keep it to a simple four-part structure that can comfortably fit into a 3–4 hour session while leaving room for roleplay and improvisation.\\n2|\\n3|Adventure Outline\\n4|\\n5|Hook\\n6|\\n7|The party is hired to investigate a strange infestation after travelers, livestock, or miners begin disappearing near an overgrown ruin, abandoned greenhouse, sewer garden, or ancient druidic site.\\n8|\\n9|Rumors mention:\\n10|\\n11|Plants moving at night.\\n12|\\n13|Strange croaking noises.\\n14|\\n15|Victims found partially dissolved into fertilizer.\\n16|\\n17|Tiny frog-like creatures dragging food into the brush.\\n18|\\n19|\\n20|\\n21|---\\n22|\\n23|Part 1: Investigation\\n24|\\n25|The party gathers information and tracks the infestation.\\n26|\\n27|Possible encounters:\\n28|\\n29|Interview frightened locals.\\n30|\\n31|Examine bodies or damaged crops.\\n32|\\n33|Follow slime trails.\\n34|\\n35|Discover pools filled with eggs.\\n36|\\n37|\\n38|Skill challenges:\\n39|\\n40|Survival to track.\\n41|\\n42|Nature to identify unusual vegetation.\\n43|\\n44|Investigation to locate hidden nests.\\n45|\\n46|\\n47|Reward good investigation by revealing:\\n48|\\n49|The creatures fear fire.\\n50|\\n51|The larger creature protects the tadpoles at all costs.\\n52|\\n53|Their lair has several hidden entrances.\\n54|\\n55|\\n56|\\n57|---\\n58|\\n59|Part 2: The Outer Nest\\n60|\\n61|The party enters the infested area.\\n62|\\n63|This section should drain some resources before the boss.\\n64|\\n65|Possible encounters:\\n66|\\n67|4–8 Salad Tadpoles.\\n68|\\n69|Hazardous vines.\\n70|\\n71|Acidic pollen clouds.\\n72|\\n73|Carnivorous plants.\\n74|\\n75|Difficult terrain from thick vegetation.\\n76|\\n77|\\n78|Optional additional monsters:\\n79|\\n80|Twig Blights\\n81|\\n82|Needle Blights\\n83|\\n84|Vine Blights\\n85|\\n86|Awakened Shrubs\\n87|\\n88|Giant Frogs\\n89|\\n90|Violet Fungus\\n91|\\n92|Myconids if you want a fungal theme instead.\\n93|\\n94|\\n95|\\n96|---\\n97|\\n98|Part 3: The Heart of the Nest\\n99|\\n100|Boss encounter.\\n101|\\n102|Enemies:\\n103|\\n104|1 Red Salad\\n105|\\n106|Several Salad Tadpoles that emerge throughout the fight.\\n107|\\n108|\\n109|Ideas:\\n110|\\n111|New tadpoles hatch every other round until the egg clusters are destroyed.\\n112|\\n113|The Red Salad can swallow or absorb nearby tadpoles to heal.\\n114|\\n115|Acid pools create battlefield hazards.\\n116|\\n117|Hanging vines provide half cover.\\n118|\\n119|\\n120|Objectives beyond killing everything:\\n121|\\n122|Burn the egg clusters.\\n123|\\n124|Rescue a trapped NPC.\\n125|\\n126|Prevent the Red Salad from escaping into underground tunnels.\\n127|\\n128|\\n129|\\n130|---\\n131|\\n132|Part 4: Conclusion\\n133|\\n134|The party clears the infestation.\\n135|\\n136|Possible rewards:\\n137|\\n138|Payment from the employer.\\n139|\\n140|Monster harvesting opportunities (using Heliana's Guide).\\n141|\\n142|A strange magical seed.\\n143|\\n144|A clue leading toward another infestation somewhere else.\\n145|\\n146|\\n147|\\n148|---\\n149|\\n150|Difficulty\\n151|\\n152|For 4–5 Level 3 PCs, a reasonable encounter progression could be:\\n153|\\n154|Encounter\\tDifficulty\\n155|\\n156|Investigation obstacle\\tEasy\\n157|Outer Nest\\tMedium\\n158|Hazard/ambush\\tEasy–Medium\\n159|Red Salad + Tadpoles\\tHard\\n160|\\n161|\\n162|The final fight is usually enough if the party has already spent some spells and hit points.\\n163|\\n164|\\n165|---\\n166|\\n167|Environmental Features\\n168|\\n169|To make the battlefield memorable, add a few interactive elements:\\n170|\\n171|Acidic puddles that damage creatures entering them.\\n172|\\n173|Dense vines that count as difficult terrain.\\n174|\\n175|Egg sacs that hatch if ignored.\\n176|\\n177|Giant mushrooms that release spores when struck.\\n178|\\n179|Collapsing roots or rotten bridges.\\n180|\\n181|Pools of nutrient-rich slime that heal plant creatures.\\n182|\\n183|\\n184|This gives the encounter more tactical depth than simply fighting the monsters in an open room.\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "040139a5-9fbd-40bf-8ffb-42e9698480ca",
+      "metadata": {
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely — the current note is more of a brainstorm/outline, so I’d turn it into a cleaner **Tier 1 Free League of Stickyickistan adventure write-up** with usable sections, read-aloud, investigation clues, encounters, and rewards.\n\nHere’s a full replacement draft:\n\n<yolo_block filename=\"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\">\n<<<<<<< REPLACE\n[old]\nIf this is for your Free League of Stickyickistan style adventures, I'd keep it to a simple four-part structure that can comfortably fit into a 3–4 hour session while leaving room for roleplay and improvisation.\n\nAdventure Outline\n\nHook\n\nThe party is hired to investigate a strange infestation after travelers, livestock, or miners begin disappearing near an overgrown ruin, abandoned greenhouse, sewer garden, or ancient druidic site.\n\nRumors mention:\n\nPlants moving at night.\n\nStrange croaking noises.\n\nVictims found partially dissolved into fertilizer.\n\nTiny frog-like creatures dragging food into the brush.\n\n\n---\n\nPart 1: Investigation\n\nThe party gathers information and tracks the infestation.\n\nPossible encounters:\n\nInterview frightened locals.\n\nExamine bodies or damaged crops.\n\nFollow slime trails.\n\nDiscover pools filled with eggs.\n\nSkill challenges:\n\nSurvival to track.\n\nNature to identify unusual vegetation.\n\nInvestigation to locate hidden nests.\n\nReward good investigation by revealing:\n\nThe creatures fear fire.\n\nThe larger creature protects the tadpoles at all costs.\n\nTheir lair has several hidden entrances.\n\n\n---\n\nPart 2: The Outer Nest\n\nThe party enters the infested area.\n\nThis section should drain some resources before the boss.\n\nPossible encounters:\n\n4–8 Salad Tadpoles.\n\nHazardous vines.\n\nAcidic pollen clouds.\n\nCarnivorous plants.\n\nDifficult terrain from thick vegetation.\n\n\nOptional additional monsters:\n\nTwig Blights\n\nNeedle Blights\n\nVine Blights\n\nAwakened Shrubs\n\nGiant Frogs\n\nViolet Fungus\n\nMyconids if you want a fungal theme instead.\n\n\n---\n\nPart 3: The Heart of the Nest\n\nBoss encounter.\n\nEnemies:\n\n1 Red Salad\n\nSeveral Salad Tadpoles that emerge throughout the fight.\n\nIdeas:\n\nNew tadpoles hatch every other round until the egg clusters are destroyed.\n\nThe Red Salad can swallow or absorb nearby tadpoles to heal.\n\nAcid pools create battlefield hazards.\n\nHanging vines provide half cover.\n\n\nObjectives beyond killing everything:\n\nBurn the egg clusters.\n\nRescue a trapped NPC.\n\nPrevent the Red Salad from escaping into underground tunnels.\n\n\n---\n\nPart 4: Conclusion\n\nThe party clears the infestation.\n\nPossible rewards:\n\nPayment from the employer.\n\nMonster harvesting opportunities (using Heliana's Guide).\n\nA strange magical seed.\n\nA clue leading toward another infestation somewhere else.\n\n\n---\n\nDifficulty\n\nFor 4–5 Level 3 PCs, a reasonable encounter progression could be:\n\nEncounter\tDifficulty\n\nInvestigation obstacle\tEasy\nOuter Nest\tMedium\nHazard/ambush\tEasy–Medium\nRed Salad + Tadpoles\tHard\n\n\nThe final fight is usually enough if the party has already spent some spells and hit points.\n\n\n---\n\nEnvironmental Features\n\nTo make the battlefield memorable, add a few interactive elements:\n\nAcidic puddles that damage creatures entering them.\n\nDense vines that count as difficult terrain.\n\nEgg sacs that hatch if ignored.\n\nGiant mushrooms that release spores when struck.\n\nCollapsing roots or rotten bridges.\n\nPools of nutrient-rich slime that heal plant creatures.\n\n\nThis gives the encounter more tactical depth than simply fighting the monsters in an open room.\n=======\n[new]\n# Curse of Slaad\n\n*Tier 1 Free League of Stickyickistan Adventure*\n\n## Introduction\n\n**Curse of Slaad** is a short monster-hunt adventure designed for a 3–4 hour session. The party investigates a strange infestation near an overgrown ruin, abandoned greenhouse, sewer garden, or ancient druidic site where people and livestock have begun disappearing.\n\nThe threat appears at first to be a plant problem: moving vines, acidic pollen, slime-slick roots, and bodies half-dissolved into fertilizer. In truth, the site has become the breeding ground for a bizarre slaad-like infestation of frog-plant creatures known locally as **Salads**.\n\n## Adventure Background\n\nA strange magical seed, planar spore, or contaminated Arcannabis fertilizer has taken root in an old ruin. The growth has warped local plant life into a damp, croaking nest filled with slime pools, pulsing egg sacs, and tadpole-like spawn.\n\nAt the center of the infestation is a larger creature called the **Red Salad**, a violent frog-plant predator that protects its young and feeds victims into the nest. If not destroyed, the infestation will spread into nearby farms, sewers, gardens, or trade roads.\n\n## Adventure Hook\n\nThe party is hired to investigate disappearances near the infected site. Choose an employer:\n\n- A local farmer whose livestock vanished overnight.\n- A frightened apothecary whose herb collectors never returned.\n- A town reeve worried about travelers disappearing from the road.\n- A [[Solarium Botanica]] contact investigating corrupted plant growth.\n- A [[The Loot Tavern|Loot Tavern]] monster board posting offering payment for unusual harvests.\n\n### Rumors\n\n| d6 | Rumor |\n|---:|---|\n| 1 | “The plants move after sunset. I saw vines dragging a goat uphill.” |\n| 2 | “There’s croaking in the walls, but no frogs in the pond anymore.” |\n| 3 | “One body came back half-melted, like something had tried to compost him.” |\n| 4 | “Tiny frog-things have been seen carrying scraps into the brush.” |\n| 5 | “Fire scares them. Or maybe it just makes them angry.” |\n| 6 | “The old greenhouse was sealed for a reason.” |\n\n---\n\n# Part 1: Investigation\n\n*Estimated Duration: 45 minutes*\n\nThe characters gather information, inspect the damage, and follow signs toward the nest.\n\nRead or paraphrase:\n\n> The air grows wet and green as you approach the infected ground. Leaves shine with a greasy film, and the soil gives slightly beneath each step, as though the earth itself has gone soft.\n>\n> Somewhere ahead, something croaks.\n>\n> Then something smaller croaks back.\n\n## Investigation Scenes\n\nUse two or three of the following scenes.\n\n### Frightened Locals\n\nWitnesses describe missing livestock, moving plants, strange croaking, and small creatures dragging food into the brush.\n\n**Useful Checks:**\n\n- **DC 11 Charisma (Persuasion):** Calm witnesses and get a clear description.\n- **DC 11 Wisdom (Insight):** Notice that witnesses are more scared of the croaking than the plants.\n- **DC 13 Intelligence (Investigation):** Piece together that the disappearances are moving outward from one central site.\n\n### Damaged Crops or Bodies\n\nThe party finds ruined crops, slime-burned fences, half-eaten livestock, or a partially dissolved corpse.\n\n**Useful Checks:**\n\n- **DC 11 Intelligence (Nature):** Identify that the plants are growing too quickly and feeding on organic remains.\n- **DC 13 Wisdom (Medicine):** Determine that acid or digestive slime caused the injuries.\n- **DC 13 Intelligence (Arcana):** Sense planar or chaotic magic in the residue.\n\n### Slime Trail\n\nA slick trail leads toward the nest. Tiny webbed prints and dragged scraps of food mark the path.\n\n**Useful Checks:**\n\n- **DC 11 Wisdom (Survival):** Follow the trail.\n- **DC 13 Wisdom (Perception):** Spot hidden tadpoles watching from the brush.\n- **DC 13 Dexterity (Stealth):** Approach without alerting the outer nest.\n\n## Clues\n\nReward good investigation with one or more clues:\n\n- The smaller creatures are spawn and will defend egg clusters.\n- The larger creature protects the tadpoles at all costs.\n- Fire frightens or disrupts the plant growth.\n- The lair has several hidden entrances through roots, drains, or burrows.\n- The nest is feeding on victims to grow more spawn.\n\n---\n\n# Part 2: The Outer Nest\n\n*Estimated Duration: 45 minutes*\n\nThe party enters the infested area. This section should introduce the danger and cost a few resources without becoming the main fight.\n\nRead or paraphrase:\n\n> The path disappears under thick vines and glossy leaves. Bulging pods hang from branches like wet fruit. The ground is broken by puddles of greenish slime, each one trembling whenever something croaks nearby.\n>\n> Small shapes move beneath the leaves.\n\n## Encounter: Salad Tadpoles\n\nUse **4–8 Salad Tadpoles**, depending on party size and level. They harass the party, flee through small gaps, and try to draw intruders toward hazards.\n\nIf you do not have custom stats ready, use simple low-CR frog, twig blight, or crawling claw-style creatures with acid or poison flavor.\n\n## Outer Nest Hazards\n\nChoose or roll one hazard.\n\n| d4 | Hazard |\n|---:|---|\n| 1 | **Acidic Pollen.** A disturbed pod bursts. Creatures in a 10-foot radius must succeed on a DC 12 Constitution saving throw or take acid damage and cough loudly, alerting the nest. |\n| 2 | **Grasping Vines.** Vines turn the area into difficult terrain. A creature that dashes must succeed on a DC 12 Dexterity saving throw or fall prone. |\n| 3 | **Slime Sink.** A patch of ground collapses into digestive muck. A creature that steps into it must succeed on a DC 12 Strength saving throw or become restrained until freed. |\n| 4 | **Croaking Alarm.** Tadpoles begin a rhythmic croaking chorus. If not stopped within 2 rounds, the Red Salad is alert during the final encounter. |\n\n---\n\n# Part 3: The Heart of the Nest\n\n*Estimated Duration: 60–75 minutes*\n\nThe heart of the nest is a wet chamber, greenhouse, root cellar, sewer dome, or druidic hollow filled with egg sacs and nutrient slime.\n\nRead or paraphrase:\n\n> The nest opens before you in a pulse of wet heat and sour green stink. Egg sacs cling to roots and cracked stone. Slime pools bubble between heaps of bones, tools, boots, and half-digested packs.\n>\n> At the center of it all squats something red, swollen, and alive with twitching leaves. Its throat inflates.\n>\n> The whole chamber croaks back.\n\n## Boss Encounter\n\nEnemies:\n\n- **1 Red Salad**\n- **Several Salad Tadpoles**\n\nIf you do not have custom stats ready, use a suitable plant, frog, or slaad-like stat block for the Red Salad and reskin its attacks with acid, vines, and tongue strikes.\n\n## Egg Clusters\n\nPlace **3 egg clusters** around the battlefield.\n\n- Each egg cluster has AC 10 and 10 hit points.\n- Fire damage destroys an egg cluster immediately.\n- At the end of every other round, one intact egg cluster hatches **1 Salad Tadpole**.\n- Destroying all egg clusters stops new tadpoles from appearing.\n\n## Red Salad Tactics\n\nThe Red Salad is protective and territorial.\n\n- It prioritizes characters attacking egg clusters.\n- It uses tadpoles and terrain to slow enemies.\n- It retreats toward underground tunnels if reduced to low hit points.\n- Once per fight, it may consume a nearby tadpole or egg cluster to regain hit points.\n\n## Battlefield Features\n\n| Feature | Effect |\n|---|---|\n| Acid Pools | A creature that enters a pool or starts its turn there takes acid damage. |\n| Hanging Vines | Provide half cover and can be cut or burned. |\n| Nutrient Slime | Plant creatures that start their turn in the slime regain a small amount of hit points. |\n| Rotten Walkways | A creature that takes heavy damage while standing on one may need to save or fall. |\n| Egg Sacs | Hatch tadpoles if ignored. |\n\n## Objectives Beyond Killing Everything\n\n- Burn the egg clusters.\n- Rescue a trapped NPC wrapped in roots.\n- Stop the Red Salad from escaping into underground tunnels.\n- Recover the strange seed or planar spore at the heart of the nest.\n\n---\n\n# Part 4: Conclusion\n\n*Estimated Duration: 30 minutes*\n\nWhen the Red Salad is defeated and the egg clusters are destroyed, the infestation begins to collapse. Vines loosen, slime pools dry into crust, and the constant croaking finally stops.\n\n## Possible Rewards\n\n- Payment from the employer.\n- Harvested monster parts using [[Heliana's Guide to Monster Hunting]].\n- A strange magical seed.\n- Acid glands, sticky slime, or volatile spores.\n- A clue pointing toward another infestation.\n- Gratitude from farmers, apothecaries, or local residents.\n\n## Lingering Consequences\n\nChoose one:\n\n- A surviving tadpole escapes into the drainage system.\n- The strange seed is valuable but still faintly alive.\n- The infected soil can be purified, sold, studied, or misused.\n- A faction wants the remains for research.\n- Someone insists the infestation was not an accident.\n\n---\n\n# Difficulty\n\nFor **4–5 level 3 characters**, a reasonable encounter progression is:\n\n| Encounter | Difficulty |\n|---|---|\n| Investigation obstacle | Easy |\n| Outer Nest tadpoles and hazard | Medium |\n| Optional hazard or ambush | Easy–Medium |\n| Red Salad and tadpoles | Hard |\n\nThe final fight is usually enough if the party has already spent some spells, hit points, or class resources in the outer nest.\n\n---\n\n# DM Notes\n\n## Tone\n\nThis adventure should feel like a swampy horror-comedy monster hunt: gross, weird, dangerous, and slightly ridiculous. Emphasize wet croaks, twitching plants, sour compost smells, and the unnerving sight of tiny frog-things doing coordinated work.\n\n## Scaling\n\n- For a weaker party, reduce the number of tadpoles and egg clusters.\n- For a stronger party, add more hazards or allow two egg clusters to hatch at once.\n- For a shorter session, skip the optional outer nest combat and use only one hazard before the boss.\n- For a longer session, add a trapped NPC, rival hunters, or a faction trying to steal samples.\n\n## Harvest Ideas\n\n- Red Salad tongue\n- Acidic digestive slime\n- Slaad-touched seed\n- Tadpole glands\n- Egg cluster membrane\n- Planar compost\n>>>>>>> END\n</yolo_block>",
+      "id": "5bd25559-389c-45e6-b3a3-17e66be59ac5",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 90101,
+          "completion_tokens": 3015,
+          "total_tokens": 93116
+        },
+        "durationMs": 56767,
+        "generationState": "completed",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1785466135590,
-  "updatedAt": 1785681627360,
+  "updatedAt": 1785817247798,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
