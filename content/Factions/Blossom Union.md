@@ -17,6 +17,14 @@ The Union maintains the garden through several duties:
 - Protecting the garden during Feyfest.
 - Investigating creatures or magic that disturb Springarden’s natural calm.
 
+## Rivalry with the Order of the Emerald Breath
+
+The [[Blossom Union]] has a long-running rivalry with the [[Order of the Emerald Breath]]. Both factions revere nature, healing, and sacred cultivation, but they disagree sharply over who should control access to [[Springarden]].
+
+The Order believes Springarden’s sacred plants, healing springs, and fey-touched resources should be studied and shared for the good of communities across [[Stickyickistan]]. The Union considers that attitude dangerously extractive. To them, Springarden is not a public apothecary, research garden, or Arcannabis seed vault. It is a living holy site whose first need is protection.
+
+The rivalry is usually political and philosophical rather than violent. Union members may refuse Order researchers access to restricted groves, challenge their cultivation methods, or accuse them of dressing ambition up as compassion. In turn, the Order accuses the Union of hoarding blessings while people elsewhere suffer.
+
 ## Notable Members
 
 - **[[Threeflower]]:** A timid gnome druid who guides visitors and serves as a field representative for the Union.

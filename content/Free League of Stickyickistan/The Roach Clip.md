@@ -51,9 +51,17 @@ DMs can advertise shady Free League adventures as coded notices, backroom contra
 - **Complications:** [Faction heat, law trouble, rival crews, cursed cargo, betrayal risk, etc.]
 - **Lines not to cross:** [Optional safety/boundary notes.]
 
-### Rewards Teaser
+### Rewards
 
-[Hint at coin, favors, contraband, secrets, faction reputation, magic items, or story consequences.]
+[List expected rewards using [[Character Advancement]] guidance. Include XP per character, gold per character or total party payment, contraband, secrets, favors, story awards, faction consequences, and any bonus XP opportunities.]
+
+Example:
+
+- **600 XP each**
+- **225 gp each**
+- A useful underworld favor
+- Possible access to restricted goods
+- Possible bonus XP for keeping the job quiet or avoiding official attention
 
 ### Sign-Up
 
@@ -64,44 +72,45 @@ DMs can advertise shady Free League adventures as coded notices, backroom contra
 ```
 
 ---
-# Example: Smoke on the Silt Road
 
-**Posted by:** A Concerned Freight Owner  
-**DM:** Initiate of Tribulation, Vorg Lordcaster  
+# Example: Quiet Cargo at Greywake Docks
+
+**Posted by:** Salt-Stained Middleman  
+**DM:** Chase  
 **Tier:** Tier 1  
-**Recommended Level:** 3 - 4  
-**Expected Length:** ~4 hours  
-**Tone:** Roadside crime, caravan trouble, Arcannabis weirdness  
-**Location:** [[The Silt Road]]  
-**Legality:** Gray trending rapidly toward illegal  
+**Recommended Level:** 3–4  
+**Expected Length:** Approximately 3–4 hours  
+**Tone:** Dockside crime, suspicious cargo, monster-component trouble, black comedy  
+**Location:** [[Greywake Docks]]  
+**Legality:** Gray, with a strong smell of contraband  
 
 ### Coded Notice
 
-> **Need discreet hands for cargo retrieval. Shipment delayed. Cargo temperamental. Do not involve road authorities. Do not open anything marked with blue twine. Payment upon silence.**
+> **Crate arrived breathing. Owner denies ownership. Dockmaster wants it gone before morning inspection. Bring quiet hands, thick gloves, and no uniforms. Payment after silence.**
 
-### Public-Facing Job Pitch
+### What the Job Actually Is
 
-A private freight owner is seeking capable, discreet adventurers to recover delayed cargo from a troublesome stretch of [[The Silt Road]]. The employer claims the matter is time-sensitive, reputationally delicate, and “not worth bothering officials over.”
-
-The job requires finding the shipment, confirming its condition, and ensuring it reaches the correct recipient without unnecessary attention.
+A sealed cargo crate at [[Greywake Docks]] has started moving, leaking, and making noises that suggest either a smuggled monster component, an illegal familiar, or a very angry mistake. The client wants the party to identify the cargo, remove it from the docks, and prevent customs officials from connecting it to anyone important.
 
 ### What Players Should Know
 
-- **Content / vibe:** Shady roadside work, suspicious cargo, criminal comedy, possible magical weirdness.
-- **Combat / roleplay / exploration mix:** Balanced, with investigation, negotiation, and possible combat.
-- **Character hooks:** Good for smugglers, discreet troubleshooters, bounty hunters, underworld contacts, or adventurers comfortable with gray-area work.
-- **Player-facing complications:** The cargo may be unstable, other parties may be looking for it, and the employer is clearly not telling the whole truth.
+- **Content / vibe:** Shady dockside job, suspicious cargo, possible monster containment, criminal comedy.
+- **Combat / roleplay / exploration mix:** Investigation and negotiation with possible combat if the cargo gets loose.
+- **Character hooks:** Good for smugglers, bounty hunters, monster handlers, dockside locals, debtors, or adventurers comfortable with gray-area work.
+- **Player-facing complications:** Customs inspectors, rival claimants, nervous dockworkers, and whatever is inside the crate.
 - **Lines not to cross:** Keep it goofy-criminal, not grimdark-criminal.
 
-### Rewards Teaser
+### Rewards
 
-Payment may include coin, a useful favor, access to unusual goods, or information valuable to characters with underworld or trade connections.
+- **600 XP each**
+- **225 gp each**
+- A useful dockside favor at [[Greywake Docks]]
+- Possible access to restricted cargo, monster components, or underworld contacts
+- Possible bonus XP for keeping the cargo contained, avoiding customs attention, or discovering who shipped it
 
 ### Sign-Up
 
 **DM:** Chase  
 **Date / Time:** TBD  
-**Seats:** 4 - 5 players  
+**Seats:** 4–5 players  
 **How to join:** Post in the Free League chat.
-
----

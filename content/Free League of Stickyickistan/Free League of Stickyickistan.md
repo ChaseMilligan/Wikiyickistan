@@ -4,6 +4,7 @@ The **Free League of Stickyickistan** is the open-table framework for running re
 
 This page contains the core rules for playing in the Free League. For specific resources, use the links below:
 
+- [[Character Advancement]]
 - [[Character Building]]
 - [[WANTED! Dungeon Masters]]
 - [[DMs Aid]]
@@ -18,6 +19,22 @@ View the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickistan/commit
 
 We will all work together to iteratively build the ruleset.
 
+# Player Accountability
+
+Players are responsible for keeping accurate records of their own characters between Free League sessions. After each adventure, record the:
+- Adventure name
+- Date
+- DM
+- XP earned
+- Gold earned
+- Magic items
+- Consumables
+- Downtime
+- Story awards
+- Any lasting conditions, debts, curses, or other consequences.
+
+Because the Free League can have rotating players and DMs, these records help keep the shared campaign fair and consistent. If a reward, item, level, or consequence is not recorded, the current DM may make a fair ruling based on the available notes. See [[Character Advancement]] for more detailed guidance.
+
 # Sources
 
-Any official or partnered content in D&D Beyond is allowed. Any sources from a third-party must be run past your DM before the PC is playable. I lean very heavily on [[Heliana's Guide to Monster Hunting]], and a small amount of my own homebrew. Other than that I am just using the PHB, DMG, and MM.
+Any official or partnered content in D&D Beyond is allowed. Any sources from a third-party must be run past your DM before the PC is playable. I lean very heavily on [[Heliana's Guide to Monster Hunting]], but pull from any and all sources on D&D Beyond I can access.

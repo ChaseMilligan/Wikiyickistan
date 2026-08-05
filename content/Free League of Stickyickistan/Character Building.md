@@ -4,9 +4,9 @@ Choose one of the following:
 - **Roll stats before game day** with the DM or in the D&D Beyond campaign.
 - Use **standard array** if you are in a bind for time.
 ##### Hit Points
-Fixed value.
+Fixed value, until Level 4.
 ##### PHB+1
-I will be doing away with PHB+1, so feel free to use any and all sources available to you.
+I will be doing away with PHB+1, so feel free to use any and all sources available to you. Hell, mix and and match 'em. Fuck up my games.
 ##### Species
 Stickyickistan is home to all species of the multiverse so go crazy with it if you want.
 #### Guide

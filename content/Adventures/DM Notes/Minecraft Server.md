@@ -6,8 +6,7 @@
 - Must defeat the Wither before the Ender Dragon
 - Only allowed to beat Ender Dragon by summoning one
 - Must get your own Elytra.
-- Vegetarian diet.
-- Nether Spawn (Optional)
+- Nether Spawn
 
 # My Personal Goals
 
