@@ -14,7 +14,7 @@
 >
 > The Blossom Union offers payment to capable adventurers who can identify the creature, protect Springarden, and remove the threat without damaging the shrine or its sacred pools.
 >
-> Applicants should report to [[The Loot Tavern]] and ask for **Threeflower**. He will provide the necessary travel instructions and explain how to reach Springarden.
+> Applicants should report to [[The Loot Tavern]] and ask for **[[Threeflower]]**. He will provide the necessary travel instructions and explain how to reach Springarden.
 
 ## Character Creation
 
