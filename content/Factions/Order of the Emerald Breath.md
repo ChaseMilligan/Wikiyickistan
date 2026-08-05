@@ -25,6 +25,9 @@
 - Druids, monks, rangers, and some clerics.
 - Communities that respect nature and responsible [[Arcannabis Cultivation]]
 
+## Rivals
+- [[Blossom Union]] — respected fellow servants of nature, but frustratingly insular, traditional, and unwilling to let the Order help manage [[Springarden]] or its fey-touched resources.
+
 ## Enemies
 - Necromancers
 - Those who corrupt Arcannabis through profane magic
@@ -41,6 +44,7 @@
 - Every strain has a purpose when cultivated with care.
 - Corrupted strains are an affront to the natural order and must be destroyed.
 - Death is a natural part of life and should never be perverted through undeath.
+- Sacred gardens should serve living communities, not become sealed relics guarded by tradition alone.
 
 ## Duties
 - Heal the sick and injured.
@@ -74,6 +78,8 @@ The Order of the Emerald Breath was founded after a group of healers discovered 
 Over generations, the Order became one of Stickyickistan's most respected charitable organizations, maintaining free gardens, healing sanctuaries, and educational halls across the island. Their members travel far and wide to provide aid during disasters, teach responsible cultivation, and preserve rare strains for future generations.
 
 The Order considers the corruption of Arcannabis to be among the greatest crimes imaginable. Whether the blight stems from demonic influence, necromancy, or reckless experimentation, its members dedicate themselves to cleansing the land and ensuring the Emerald Breath continues to bring life rather than death.
+
+Their rivalry with the [[Blossom Union]] began as a disagreement over access to [[Springarden]]. The Order believes Springarden’s sacred plants, healing springs, and fey-touched crossings should be studied, shared, and carefully used to help communities across [[Stickyickistan]]. The Blossom Union believes the garden must be protected first, even if that means refusing outside healers, scholars, and cultivators. Neither side sees the other as evil, but both believe the other is dangerously wrong.
 
 ## Notable Members
 - **Brother Highwind** – A compassionate monk who volunteered to investigate the corruption beneath Blacklung Quarry in the adventure [[The Tenebrous Stone-r]].

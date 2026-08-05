@@ -1,99 +1,47 @@
-# The Shining Shrine
+# Adventure Summary
 
-*A Tier 1 Free League of Stickyickistan adventure for four 3rd-level characters*
+**The Shining Shrine** is a fey-themed monster hunt set in [[Springwood]], a sacred woodland in [[Stickyickistan]]. The contract circulates through the [[FLS Guildhall]] after appearing in [[The Rolling Papers]], drawing licensed monster hunters, local heroes, and Free League regulars toward [[Springarden]], a holy garden maintained by the [[Blossom Union]]. A dangerous fey creature has occupied the garden’s shrine, disturbed its sacred pools, injured the caretakers, and driven away pilgrims the Blossom Union relies on for donations.
 
-## Adventure Summary
+# The Rolling Papers Advertisement
 
-**The Shining Shrine** is a fey-themed monster hunt set in [[Springwood]], a sacred woodland in [[Stickyickistan]]. The characters are hired to protect [[Springarden]], a holy garden maintained by the [[Blossom Union]]. A dangerous fey creature has occupied the garden’s shrine, disturbed its sacred pools, injured the caretakers, and driven away pilgrims.
+**Submitted by:** Initiate of Tribulation, Vorg Lordcaster  
+**Tier:** Tier 1  
+**Recommended Level:** 3  
+**Expected Length:** One-shot, approximately 3–4 hours  
+**Tone:** Fey monster hunt, sacred garden mystery, whimsical danger  
+**Location:** [[Springwood]] / [[Springarden]]  
 
-## The Rolling Papers Advertisement
+## Headline
 
-> **SPRINGARDEN SEEKS LICENSED MONSTER HUNTERS**
->
-> Pilgrims and travelers are advised to avoid the holy gardens of [[Springwood]] until further notice. A dangerous fey creature has occupied the Shining Shrine, injured members of the [[Blossom Union]], disturbed the sacred waters, and driven away visitors.
->
-> The Blossom Union offers payment to capable adventurers who can identify the creature, protect Springarden, and remove the threat without damaging the shrine or its sacred pools.
->
-> Applicants should report to [[The Loot Tavern]] and ask for **Threeflower**. He will provide the necessary travel instructions and explain how to reach Springarden.
+> **SPRINGARDEN SEEKS LICENSED MONSTER HUNTERS AFTER FEY CREATURE OCCUPIES HOLY SHRINE**
 
-## Character Creation
+## Public Notice
 
-- Feel free to replay any character you have used in the FLS before.
-- If you have not played in the FLS before,
-- Create a **3rd-level** character.
-- Use the character creation rules in [[Character Building]].
-- Any official species, class, or background is welcome. Stickyickistan is home to species from across the multiverse.
-- Use standard array or roll your ability scores before the session. If you do not roll beforehand, use standard array.
-- Use fixed hit points when gaining levels.
-- Choose a non-evil alignment.
-- Your character should have a reason to accept monster-hunting work and cooperate with the rest of the party.
-- Consult the DM before bringing your character to the table. The DM has final approval over character options and concepts.
+Pilgrims and travelers have been advised to avoid the holy gardens of [[Springwood]] until further notice. A dangerous fey creature has occupied [[Springarden]], injured members of the [[Blossom Union]], disturbed the sacred waters, and driven away visitors.
 
-### Starting Equipment
+The Blossom Union offers payment to capable adventurers who can identify the creature, protect Springarden, and remove the threat without damaging the shrine or its sacred pools.
 
-Your 3rd-level character begins with:
+Applicants should register at the [[FLS Guildhall]] after reading this notice. Once a party is formed, report to [[The Loot Tavern]] and ask for **[[Threeflower]]**, who will provide the necessary travel instructions and explain how to reach Springarden.
 
-- Normal starting equipment and gold.
-- An additional 250 gp.
-- One uncommon magic item.
-- One common magic item.
-- One uncommon [[Arcannabis]] zip.
+# What Players Should Know
 
-Potions count as your uncommon magic item.
+- **Content / vibe:** Fey magic, sacred garden trouble, monster hunting, investigation, and whimsical danger.
+- **Combat / roleplay / exploration mix:** Balanced, with travel through Springwood, investigation at the shrine, and a final monster confrontation.
+- **Character hooks:** Good for monster hunters, Free League regulars, Blossom Union allies, fey researchers, or adventurers seeking unusual monster components.
+- **Special notes:** Characters should avoid unnecessary damage to the shrine and sacred pools. Healing, support abilities, exploration skills, and ways to create magical darkness may be especially useful.
 
-## Stickyickistanian Backgrounds
+# Rewards
 
-Choose one of the following connections or create your own:
+- **600 XP each**
+- **225 gp each**
+- Gratitude from the [[Blossom Union]]
+- Future access to [[Springarden]] as trusted guests, assuming the shrine is preserved
+- The opportunity to harvest unusual monster components for crafting up to 3 bespoke Boss Monster magic items
+- Possible bonus XP for preserving the shrine, protecting the sacred pools, or rescuing injured Blossom Union members
 
-- A member or contractor of the [[Ashen Shadow Society]], a bounty-hunting guild that collects bounties, relics, and monster components. Characters associated with the Society are generally lawful neutral and cannot be evil-aligned.
-- A member of the [[Tribunal Highblade Coalition]], a lawful mercenary organization operating throughout Stickyickistan.
-- A pilgrim, gardener, or volunteer connected to the [[Blossom Union]].
-- A resident of [[Springwood]] who wants to protect the forest and its communities.
-- A traveler seeking fey wonders, magical springs, unusual creatures, or the excitement of Feyfest.
-- A monster hunter responding to the public notice in [[The Rolling Papers]].
+# Sign-Up
 
-## Setting Context
-
-- [[Stickyickistan]] is a magical island city-state dominated by the active volcano [[Mount Zooka]].
-- [[Springwood]] is a sacred naturalized park and ancient woodland in a perpetual state of spring.
-- [[Springarden]] lies within Springwood and is maintained by the [[Blossom Union]], a group of druid-monks.
-- The barrier between the Material Plane and the Plane of Fey is unusually thin around Springarden.
-- Feyfest is an annual festival held when a constellation weakens the boundary between the two planes.
-- Small fey creatures sometimes cross into Springarden, and some parts of the adventure involve fey magic rather than ordinary wilderness hazards.
-
-## Useful Skills
-
-Characters proficient in the following skills may find opportunities to contribute:
-
-- Arcana
-- Animal Handling
-- Insight
-- Investigation
-- Nature
-- Perception
-- Religion
-- Survival
-
-Healing, support abilities, exploration skills, and ways to create magical darkness may be especially useful during the shrine encounter.
-
-## What Characters Know
-
-Before play begins, characters know the following:
-
-- A dangerous fey creature has occupied Springarden’s holiest shrine.
-- Several members of the Blossom Union have been injured.
-- The sacred pools have been disturbed, and the garden’s normally calming magic has become unpredictable.
-- Pilgrims have stopped visiting Springarden.
-- A public notice in [[The Rolling Papers]] offers payment for identifying and removing the threat.
-- The job requires traveling through Springwood and investigating the shrine before the final confrontation.
-
-## Character Hooks
-
-Your character might:
-
-- Have answered the public notice in [[The Rolling Papers]].
-- Know or owe a favor to a member of the Blossom Union.
-- Want to explore Springwood or witness Feyfest.
-- Be interested in fey creatures, sacred springs, monster components, or magical research.
-- Be seeking payment, fame, access to Springarden, or future work from the Blossom Union.
-- Have a personal reason to oppose creatures that damage sacred natural sites.
+**DM:** Chase  
+**Date / Time:** TBD  
+**Seats:** 4 players  
+**How to join:** Register through the [[FLS Guildhall]] / post in the Free League chat.
