@@ -130,7 +130,7 @@ The point is simple:
 
 The Dungeon Masters of the Free League are not merely referees, organizers, or adventure-writers.
 
-They are members of **the Cabal of Tribulation**: a secretive fellowship of otherworldly beings, fate-weavers, planar bureaucrats, doom-artisans, trickster-gods, retired villains, prophetic goblins, and cosmic freaks who gather beyond the veil to design trials for the inhabitants of the planes.
+They are members of **the Cabal of Tribulation**: a secretive fellowship of otherworldly beings, fate-weavers, planar bureaucrats, doom-artisans, trickster-gods, retired villains, prophetic goblinoids, and cosmic freaks who gather beyond the veil to design trials for the inhabitants of the planes.
 
 In character, the Cabal is the hidden hand behind strange jobs, impossible coincidences, cursed treasure maps, conveniently unlocked dungeon doors, suspiciously helpful tavern rumors, and villains who monologue just long enough for heroes to interrupt them.
 
@@ -138,28 +138,7 @@ Out of character, the Cabal is the group of DMs who help create, organize, and r
 
 When you run a game, you are not just “DMing.”
 
-You are convening the Cabal.
-
-### What the Cabal Does
-
-Members of the Cabal create tribulations for adventurers to overcome. These tribulations may include:
-
-- Dungeons.
-- Mysteries.
-- Monster hunts.
-- Political disasters.
-- Planar accidents.
-- Curses.
-- Rival adventuring parties.
-- Villains with extremely normal and reasonable hobbies.
-- Taverns that should not exist.
-- Artifacts no one should have touched.
-- Moral dilemmas that were definitely avoidable.
-- Goblins with access to infrastructure.
-
-The Cabal does not exist to punish players. It exists to create glorious problems.
-
-A good tribulation should be dangerous, interesting, and survivable enough that the heroes can make terrible decisions inside it.
+You are performing a rite for the Cabal.
 
 ### Cabal Roleplay
 
@@ -171,29 +150,12 @@ Examples include:
 
 - The Minister of Unopened Doors.
 - The Archivist of Bad Ideas.
-- The Goblin Laureate of Consequences.
+- The Goblinoid Laureate of Consequences.
 - The Baron of Scheduling Conflicts.
 - The Saint of Unbalanced Encounters.
 - The Cartographer of Places That Bite.
 
 Cabal roleplay should be fun, optional, and never required to run games. It is a way for DMs to build a shared identity and make adventure creation feel like part of the setting.
-
-### Cabal Proceedings
-
-When a DM proposes an adventure, they may present it as a **Tribulation** before the Cabal.
-
-A Tribulation might include:
-
-- A title.
-- The intended tier.
-- The planar region, settlement, dungeon, or problem involved.
-- The kind of trouble being inflicted on the heroes.
-- Any factions, monsters, or NPCs involved.
-- Whether the adventure adds anything permanent to the setting.
-
-The Cabal may then offer suggestions, complications, connections to existing lore, or rewards.
-
-This should be collaborative, not restrictive. The Cabal should help DMs make adventures stronger, not bury them in approval processes.
 
 ### Cabal Ranks
 

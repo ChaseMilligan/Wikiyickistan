@@ -4,7 +4,7 @@ Character advancement in the [[Free League of Stickyickistan]] is designed for a
 
 ## Advancement Method
 
-The Free League uses **XP per adventure**.
+The FLS uses **XP per adventure**.
 
 Each adventure has a listed XP reward. When a character completes that adventure, they earn the listed XP and record it with their session rewards. XP is awarded for completing the adventure, not for individually counting every defeated monster, trap, or encounter.
 
@@ -28,8 +28,6 @@ Example:
 
 > **Rewards:** 225 gp each, 600 XP each
 
-For [[Heliana's Guide to Monster Hunting]]-style monster hunts, use the adventure’s listed XP award or convert the hunt into a single adventure XP reward. This keeps Heliana’s monster-hunt reward structure while avoiding the need to track every individual monster or hazard separately.
-
 ## Partial Completion
 
 If the party does not complete the adventure, the DM may award partial XP based on meaningful progress.
@@ -47,7 +45,7 @@ Partial XP is optional. If the party abandons the job, fails the main objective,
 
 Some adventures may offer bonus XP for optional objectives, exceptional problem solving, protecting civilians, rescuing NPCs, preserving important sites, capturing instead of killing, harvesting a dangerous monster cleanly, or preventing collateral damage.
 
-Bonus XP should be listed in the adventure rewards when possible.
+Bonus XP may be listed in the adventure rewards when possible.
 
 Examples:
 

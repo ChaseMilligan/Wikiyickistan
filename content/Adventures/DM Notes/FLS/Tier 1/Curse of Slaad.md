@@ -1,293 +1,1281 @@
-*A Tier 1 Free League of Stickyickistan adventure for four to five 3rd-level characters*
+# **CURSE OF SLAAD
+
+# BEING A SUPPOSEDLY COMPETENT GROUP OF
+
+warriors and explorers, the party has been hired by a Githzerai wizard  
+named Zardan to help him investigate what he fears to be a hostile  
+incursion by monsters from Limbo into the Material Plane. His brother,  
+Drarth, is a monk stationed in one of the Githzerai's outposts located  
+on the fringes of this reality, which is garrisoned to monitor and repel  
+threats from Limbo. Drarth and his comrades have been unreachable  
+lately, even through magical means, and Zardan fears the worst might  
+have happened. 
+
+Beings of Order. Ever since their emancipation from the terrible mind  
+flayers millenia ago, the Gith have battled against the illithids and  
+all manner of aberrations from alternate dimensions. The Githzerai chose  
+a path of strict mental discipline to achieve their goals and primarily  
+built their fortresses in the chaos of Limbo. Their psionic abilities  
+and mental fortitude allow them to thrive in this malleable environment,  
+from which they departed in their quest to explore new realities and  
+hunt down alien monsters. 
+
+ZARDAN, THE GITHZERAI Wizard 
+
+Zardan is a 3rd-level wizard of the divination school of magic. You can  
+roleplay him however you want and take actions for him in combat. 
+
+Zardan doesn't possess the mental fortitude of his brethren and can't  
+withstand the chaotic energy of Limbo, which is why he settled in the  
+Material Plane. His superior memorization skills and natural learning  
+abilities allowed him to quickly become a competent wizard. 
+
+Given his Portent class feature, roll two d20s at the start of the  
+adventure and record the numbers rolled. Each of these numbers can be  
+used once during the one-shot to replace a roll made by Zardan or a  
+creature he can see, but you must choose to do this before the roll is  
+made. 
+
+You enter a room that seems to serve multiple purposes: racks of basic  
+survival equipment and weapons line one wall, cooking utensils and  
+chests of non-perishable foods occupy a corner, shelves of maps and  
+leather-bound tomes surround meditation mats, and a long table stands in  
+the 
+
+center. A Githzerai sits alone at this table, his back to you. 
+
+Githzerai Corpse. If players choose to approach or investigate the  
+figure, they notice that the body is withered and smells of decay. Deep  
+slashes are gouged in its neck, and a massive hole gapes where its belly  
+should be. A trail of dry blood and intestines sprawls on the table in  
+front of it. A DC12 Investigation, Perception, or Medicine check reveals  
+that the stomach seems to have burst outward, as if something was  
+violently ejected from it. Struggling to contain his grief, Zardan  
+recognizes this corpse as his brother and given the evidence, he  
+believes that a red slaad killed him. 
+
+SLAADI, THE Terrors from LIMBO 
+
+If players don't know what slaadi are, you can have Zardan explain the  
+following. 
+
+Slaadi are large, malevolent, toad-like aberrations that spawned from  
+the chaos of Limbo eons ago. They are extremely dangerous and follow  
+their only instinct, which is to destroy inferior life forms. The  
+Githzerai are committed to eliminating threats posed by these vile  
+abominations, but rarely succeed without significant losses. 
+
+The two types of slaadi reproduce parasitically in an unnatural cycle: a  
+red slaad plants eggs in a living humanoid, which hatch into a blue  
+slaad; conversely, a blue slaad infects a humanoid with a disease called  
+"chaos phage" that transforms the afflicted creature into a red slaad. 
+
+Additional slaad lore can be found in MM274. 
+
+# CHAPTER 1: COMPROMISED CITADEL
+
+As the party stands before the small citadel's door, Zardan warns that  
+they may encounter unimaginable monstrosities and incomprehensible  
+dangers, and that his brother may be dead, or, even worse, no longer  
+himself. He takes a breath and opens the door. 
+
+# A BROTHER'S FATE
+
+You may read from the following text box to describe the Githzerai  
+citadel's first floor to the party: 
+
+# SLAAD ENCOUNTER
+
+A staircase leads from the citadel's ground-level floor of operations to  
+the second-story habitation. In this room are five simple beds with  
+chests containing the monks' personal belongings (robes, writing  
+supplies, small wooden humanoid effigies, personal trinkets; nothing of  
+value). 
+
+The four other monks stationed in this outpost are piled in the center  
+of the room. Their bodies are riddled with claw marks, but perceptive  
+characters note that their pallid faces, sweat-covered brows, contorted  
+expressions, and ragged breaths suggest that they are alive, but in  
+excruciating pain. Even more perceptive characters notice that their  
+stomachs are obscenely swollen. 
+
+2 
+
+3 
+
+If a character approaches or tries to investigate, one of the monks  
+feebly lifts his head and implores the party to put an end to their  
+agony, when all of a sudden, the Githzerai's stomachs burst in unison.  
+Four squalling slaadi tadpoles (MM276) wriggle onto the floor and attack  
+the party. 
+
+The party should easily finish this combat in 2 rounds; it is meant to  
+provide them a false sense of confidence before encountering a real  
+slaad threat. Zardan laments that all the Githzerai were infected, but  
+is troubled that they haven't actually found the red slaad itself. As a  
+side note, he wonders aloud what might have happened to the tadpole that  
+spawned from his brother... 
+
+# A BLUE SLAAD ENRAGED
+
+As the wizard finishes his thought, a blue slaad (MM276) crashes down  
+from a shadowy alcove of the high ceiling and cries out in rage at the  
+sight of its slaughtered baby brothers. Its monstrous croaking is  
+psychically translated in the party's brains as a vengeful vow that  
+announces their doom. 
+
+Blue Slaad Combat. The blue slaad fights to the death and specifically  
+targets the characters that killed a tadpole with its claws. Through  
+violent psychic outbursts that accompany its attacks, the party learns  
+that it slaughtered and ate the red slaad that spawned it, with the  
+intent to freely terrorize the Material Plane with its brothers when  
+they hatched. In order to make the fight manageable for a small group,  
+you can choose to remove the slaad's Regeneration trait, reasoning that  
+the slaad can't heal itself outside of Limbo's chaos. 
+
+Take note of which characters fail the blue slaad's Claw attack saving  
+throw, as these characters are now afflicted with chaos phage. 
 
-# Introduction
+# GRAVE AFTERMATH
 
-**Curse of Slaad** is a short monster-hunt adventure set in [[Stickyickistan]] and designed for a three- to four-hour session. The characters investigate disappearances and corrupted crops in [[North Booftown]], the city-state’s agricultural heartland. The infestation begins near [[Astallon Acres]], along the wetlands bordering [[Zooka Mire]], and threatens the region’s livestock, farm workers, and [[Arcannabis]] fields.
+After defeating the blue slaad, Zardan is pale. He explains that anyone  
+slashed by a blue slaad's claws has only a few days to live before the  
+chaos phage that infected them turns them into a red slaad. Save for the  
+wish spell, there is no way to stop this disease. 
 
-The adventure is intended to feel like swampy horror-comedy: gross, weird, dangerous, and slightly ridiculous. Emphasize wet croaks, twitching vegetation, sour compost smells, and the unsettling sight of tiny frog-things working together.
+But there is hope. His sister Lez'lin, a monk that still resides in  
+Limbo, is more knowledgeable than he is in matters of the many planes'  
+aberrations. She may know of a supernatural means to cure them of this  
+curse. He pulls a planar hourglass from his satchel, explaining that  
+once he turns the hourglass upside down, the party will be teleported to  
+his sister in Limbo for 4 hours. Zardan can't accompany them due to his  
+insufficient mental fortitude. However, he hands them a planar recall  
+bead, which they can crush to instantly summon him should their need be  
+dire. 
 
-## Adventure Background
+Zardan bids the party good luck, then turns over the hourglass. 
 
-The infestation began when the [[Zooka Mire Collective]] deliberately contaminated a batch of [[Arcannabis]] fertilizer with a planar spore and redirected it toward an abandoned agricultural greenhouse on the edge of [[Astallon Acres]]. The Collective intended to seed the area with a new growth colony and use the resulting creatures to expand its influence toward [[North Booftown]].
+The planar hourglass and planar recall bead are magic items | made up  
+for the purpose of this one-shot. They don't have any specific mechanics  
+other than the functional properties described above. 
 
-[[Ezra Astallon]] ordered workers to dispose of the fertilizer after it spoiled. He believed it was merely ruined and did not know it had been contaminated. When the fertilizer entered the greenhouse’s irrigation system, the spore infected the plants and created the first Slaad Tadpoles. Ezra hired the characters to stop the infestation before it spreads or his careless disposal is discovered.
+# CHAPTER 2: LIMBO MONASTERY
 
-The Collective’s involvement is not immediately obvious. Evidence of its work can be found in the planar spore, the contaminated fertilizer, and the unusual fungal and insect markings around the nest.
+You may use the following text box to describe what the characters feel  
+when they first arrive in the plane of chaos: 
 
-At the center of the infestation is a **Red Slaad**, a violent extraplanar predator that protects its spawn and feeds victims into the nest. Unless the infestation is stopped, the slaad will spread through the farms of [[North Booftown]], into [[Zooka Mire]], and eventually toward Stickyickistan’s food and Arcannabis production.
+You feel your body violently jerk as you materialize in the interminable  
+flux of Limbo. Physics and matter aren't bound 
 
-## Adventure Hook
+by the constraints of the Material Plane here: in the absence of  
+gravity, you can float wherever you want at your normal speed by simply  
+thinking about where you want to go; across the sea of churning energy  
+and shifting substances, parcels of recognizable terrain, such as a tree  
+on a grassy mound, a wooden hut on dirt foundations, and even a stone 
 
-The adventure is posted in [[The Rolling Papers]] as a public agricultural emergency notice. The characters see the following advertisement:
+watchtower, drift, crash, and morph in a constant boil of 
 
-> **ASTALLON ACRES OFFERS REWARD AFTER LIVESTOCK VANISHES AND CROPS BEGIN CROAKING**
->
-> [[Ezra Astallon]] seeks capable adventurers to investigate disappearances and crop damage at the edge of [[Astallon Acres]]. Livestock has vanished from secured pens, two farmhands are missing, and valuable [[Arcannabis]] crops have become twisted and foul-smelling.
->
-> Applicants should report to the damaged Astallon Acres farmstead at the end of the north irrigation road and ask for Ezra Astallon. Payment will be provided for identifying the cause, rescuing survivors, and preventing the infestation from spreading toward [[Zooka Mire]].
+chaos. 
 
-The characters travel into [[North Booftown]] and begin Part 1 when they arrive at the damaged farmstead, where Ezra meets them.
+# THE EVER-CHANGING CHAOS OF LIMBO
 
-### Opening Scene
+Limbo's chaos holds great potential for creation, but its instability  
+threatens to render the weak-willed mad. Adventurers that first come  
+into contact with this plane's overwhelming flux of energy must make a  
+DC14 Wisdom saving throw. On a failed save, they suffer a random  
+indefinite madness, as described in the Indefinite Madness table  
+(DMG260). This flaw must be roleplayed until cured. The madness can be  
+dispelled with the calm emotions, lesser restoration, or remove curse  
+spells, and it ends if the character takes a short 
 
-Read or paraphrase:
+rest. 
 
-> The farmstead lies at the edge of [[Astallon Acres]], where cultivated fields give way to wet ground and tangled reeds. Rows of Arcannabis plants lean toward the road, their leaves swollen and darkened with a greasy green film.
->
-> The livestock pens stand open and empty. A broken fence disappears beneath a mat of vines, and something wet has dragged a furrow through the mud toward the distant wetlands.
->
-> [[Ezra Astallon]] waits beside the farmhouse, dressed too well for the mud and speaking in a low, impatient voice.
->
-> “The animals vanished first. Then two workers went looking for them. The crops began changing yesterday. If this reaches the rest of North Booftown, we could lose half the harvest.”
->
-> From beyond the fields, something croaks.
->
-> A smaller voice answers from somewhere beneath the reeds.
+The planar travelers are suffused with chaos and feel that the turmoil  
+is theirs to shape, if they can sufficiently exert their willpower over  
+it. For the duration of their stay in Limbo, they gain the temporary  
+features described in the Chaos Control sidebar, which you can share  
+with your players. 
 
-Ezra provides the characters with directions to the abandoned greenhouse and promises payment for stopping the infestation. The characters then begin Part 1 by interviewing farm workers, examining the damaged crops, or following the first slime trail.
+The indefinite madness feature for Limbo was added by myself, based on  
+Pandemonium's optional rule Mad Winds (DMG62), while the Chaos Control  
+features are derived from Limbo's optional rule Power of the Mind  
+(DMG61-62). You can choose to ignore these rules to lessen your group's  
+roleplay or gameplay load. 
 
-### Rumors
+# CHAOS CONTROL
 
-The characters may hear one or more of the following rumors before reaching the greenhouse:
+Creatures in Limbo gain the following action options. 
 
-| d6 | Rumor |
-|---:|---|
-| 1 | “The plants move after sunset. I saw vines dragging a goat uphill.” |
-| 2 | “There’s croaking in the irrigation channels, but no frogs in the fields anymore.” |
-| 3 | “One body came back half-melted, like something had tried to compost him.” |
-| 4 | “Tiny slaad tadpoles have been seen carrying scraps toward the old greenhouse.” |
-| 5 | “Fire scares them. Or maybe it just makes them angry.” |
-| 6 | “The greenhouse was sealed after the last crop failed. Nobody remembers who locked it.” |
+Telekinesis. You can spend an action to mentally move an object you can  
+see that is within 30 feet of you. Make a Wisdom check. On a successful  
+roll, you move the object 5 feet plus 1 foot for every point by which  
+you beat the DC, which is indicated in the DC by Object Size table  
+below. 
 
----
+Transmutation. You can spend an action to alter a nonmagical object you  
+can see that isn't being worn or carried and that is within 30 feet of  
+you. Make a Wisdom check. On a successful roll, you change the object  
+into another nonliving form of the same size (for example, a boulder  
+into a ball of fire). The number to beat is indicated in the DC by  
+Object Size table below. 
 
-# Part 1: Investigation
+Permanence. You can spend an action to stabilize a spherical area  
+centered around yourself. Make a Wisdom check. The DC is 5 for a 10-foot  
+radius sphere, and increases by 5 for every 10 feet you add to the  
+radius. On a successful roll, the area can't be altered by the plane for  
+24 hours, or until you use this ability again. 
 
-*Estimated Duration: 45 minutes*
+# DC BY OBJECT SIZE
 
-Part 1 begins when the characters arrive at the damaged farmstead in [[Astallon Acres]]. They investigate the missing livestock and workers, inspect the corrupted Arcannabis fields, and follow signs toward the abandoned greenhouse near [[Zooka Mire]]. They do not need to discover every clue. Two or three successful investigation scenes are enough to point them toward the Outer Nest.
+Telekinesis DC Transmutation DC 
 
-Read or paraphrase:
+Object Size 
 
-> The air grows wet and green as you approach the infected ground. Leaves shine with a greasy film, and the soil gives slightly beneath each step, as though the earth itself has gone soft.
->
-> Somewhere ahead, something croaks.
->
-> Then something smaller croaks back.
+Tiny 
 
-## Investigation Scenes
+5 
 
-Use two or three of the following scenes. Each scene should provide a clue even if the characters fail a check. A failed check may cost time, attract attention, or create a later complication.
+10 
 
-### Frightened Locals
+Small 
 
-Witnesses describe missing livestock, moving plants, strange croaking, and small creatures dragging food into the brush.
+10 
 
-**Useful Checks:**
+15 
 
-- **DC 11 Charisma (Persuasion):** Calm witnesses and get a clear description.
-- **DC 11 Wisdom (Insight):** Notice that witnesses are more frightened by the croaking than by the plants.
-- **DC 13 Intelligence (Investigation):** Piece together that the disappearances are spreading outward from one central site.
+Medium 
 
-**Clue:** The creatures are collecting food rather than merely attacking at random.
+15 
 
-### Damaged Crops or Bodies
+20 
 
-The party finds ruined crops, slime-burned fences, half-eaten livestock, or a partially dissolved corpse.
+Large 
 
-**Useful Checks:**
+20 
 
-- **DC 11 Intelligence (Nature):** Identify that the plants are growing too quickly and feeding on organic remains.
-- **DC 13 Wisdom (Medicine):** Determine that acid or digestive slime caused the injuries.
-- **DC 13 Intelligence (Arcana):** Sense planar or chaotic magic in the residue.
+25 
 
-**Clue:** The infestation is both botanical and extraplanar, and it is converting organic matter into growth.
+Huge or larger 
 
-### Slime Trail
+25 
 
-A slick trail leads toward the nest. Tiny webbed prints and dragged scraps of food mark the path.
+25 
 
-**Useful Checks:**
+# ENCOUNTER ON THE MONASTIC ISLAND
 
-- **DC 11 Wisdom (Survival):** Follow the trail.
-- **DC 13 Wisdom (Perception):** Spot hidden tadpoles watching from the brush.
-- **DC 13 Dexterity (Stealth):** Approach without alerting the outer nest.
+The first thing the party notices after acclimating to the chaos is the  
+Githzerai monastery before them, a spire- like stone structure connected  
+at both ends to grassy islands. It is shaped like the column formed when  
+a stalagmite and a stalactite meet, and it is held together thanks to  
+Zardan's sister's sheer willpower. On the steps leading to one of its  
+entrances, a Githzerai monk (MM161), Lez'lin, is defending herself  
+against 2d4 chaos flumphs. 
 
-**Clue:** The trail leads toward an overgrown structure, drainage tunnel, or root-choked hollow where the creatures are nesting.
+Lez'lin's mind keeps the area around her monastery relatively stable,  
+but some of Limbo's chaos permeates this oasis anyways. If you want to  
+inject some of this plane's chaotic matter shifts into this encounter,  
+use the tables in Appendix B to randomize the battlefield. 
 
-## Clues
+"Chaos flumphs" are a homebrew monster I created to serve as Limbo's  
+low-level life forms of chaos. They essentially have the same stat block  
+as normal flumphs (MM135), but the Stench Spray action is replaced by  
+the Chaotic Release action. 
 
-Reward good investigation with one or more of the following clues:
+# CHAOS FLUMPH
 
-- The smaller creatures are spawn and will defend egg clusters.
-- A larger creature protects the tadpoles at all costs.
-- Fire frightens or disrupts the plant growth.
-- The lair has hidden entrances through roots, drains, or burrows.
-- The nest is feeding on victims to grow more spawn.
-- The infestation is spreading outward from a central chamber.
+Small aberration, chaotic evil 
 
-Once the characters have enough information, proceed to Part 2.
+Armor Class 12 
 
----
+Hit Points 7 (2d6) 
 
-# Part 2: The Outer Nest
+Speed 0 ft., fly 15 ft. (hover) 
 
-*Estimated Duration: 45 minutes*
+# STR
 
-The characters enter the infected greenhouse and its surrounding irrigation channels. This section establishes the danger and drains a few resources without overshadowing the final encounter.
+6 (-2) 
 
-## Encounter: Slaad Tadpoles
+# DEX
 
-Read or paraphrase:
+# CON
 
-> The path disappears beneath thick vines and glossy leaves. Bulging pods hang from the greenhouse rafters like wet fruit. Greenish slime trembles in shallow irrigation channels whenever something croaks nearby.
->
-> Small shapes move beneath the leaves.
->
-> One of them stops.
->
-> Then all of them start croaking at once.
+# INT
 
-Use **4–8 Slaad Tadpoles**, depending on party size and remaining resources. The tadpoles harass the party, retreat through small gaps, and try to draw intruders toward hazards rather than fight to the death.
+# WIS
 
-The tadpoles defend routes to the inner chamber, but they prioritize sounding alarms and protecting the egg clusters over killing intruders.
+# CHA
 
-## Outer Nest Hazards
+15 (+2) 
 
-Choose or roll one hazard during the tadpole encounter or immediately afterward.
+10 (+0) 
 
-| d4 | Hazard |
-|---:|---|
-| 1 | **Acidic Pollen.** A disturbed pod bursts. Creatures within 10 feet must succeed on a DC 12 Constitution saving throw or take acid damage and cough loudly, alerting the nest. |
-| 2 | **Grasping Vines.** Vines turn the area into difficult terrain. A creature that dashes must succeed on a DC 12 Dexterity saving throw or fall prone. |
-| 3 | **Slime Sink.** A patch of ground collapses into digestive muck. A creature that enters it must succeed on a DC 12 Strength saving throw or become restrained until freed. |
-| 4 | **Croaking Alarm.** The tadpoles begin a rhythmic chorus. If they are not stopped within 2 rounds, the Red Slaad is alert during the final encounter and cannot be surprised. |
+14 (+2) 
 
----
+14 (+2) 
 
-# Part 3: The Heart of the Nest
+11 (+0) 
 
-*Estimated Duration: 60–75 minutes*
+Senses darkvision 60 ft., passive Perception 12 Languages understands  
+Common and Gith but can't speak Challenge 1/8 (25 XP) 
 
-The heart of the nest lies beneath the greenhouse in a flooded root cellar connected to the old irrigation system. The chamber is filled with egg clusters, nutrient slime, and the remains of the creatures and workers consumed by the infestation.
+Proficiency Bonus +2 
 
-Read or paraphrase:
+# ACTIONS
 
-> The greenhouse floor gives way to a flooded chamber beneath the roots. Egg sacs cling to cracked stone and rusted irrigation pipes. Slime pools bubble between heaps of bones, tools, boots, and half-digested packs.
->
-> At the center of the chamber stands a tall, red-skinned creature with a frog-like head and long claws. It turns toward you, its throat inflating as it prepares to croak.
->
-> The whole chamber answers.
+Tendrils. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit:  
+4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each  
+of its turns, the target must make a DC10 Constitution saving throw,  
+taking 2 (1d4) acid damage on a failure or ending the recurring acid  
+damage on a success. A lesser restoration spell cast on the target also  
+ends the recurring acid damage. 
 
-## Boss Encounter
+Chaotic Release (Recharge 6). The chaos flumph unleashes a spout of  
+noxious Limbo energy in a direction of its choice. Each creature in a  
+15-foot cone originating from the chaos flumph must succeed on a DC10  
+Dexterity saving throw or suffer a random effect until the end of their  
+next turn: 
 
-Enemies:
+1. Blinded. The target can't see and automatically fails ability checks  
+    that require sight. Attack rolls against them have advantage, and  
+    their own attack rolls have disadvantage. 
+    
+2. Charmed. The target can't attack the chaos flumph or target 
+    
 
-- **1 Red Slaad**
-- **Several Slaad Tadpoles**
+it with harmful abilities or magical effects. 
 
-Use the official **Red Slaad** and **Slaad Tadpole** stat blocks from the 5.5e *Monster Manual*. The final encounter has three objectives: defeat the Red Slaad, prevent more tadpoles from hatching, and stop the creature from escaping into the surrounding farmland.
+3. Deafened. The target can't hear and automatically fails any 
+    
 
-## Egg Clusters
+ability check that requires hearing. 
 
-Place **3 egg clusters** around the battlefield.
+4. Invisible. The target is impossible to see without the aid of 
+    
 
-- Each egg cluster has AC 10 and 10 hit points.
-- Fire damage destroys an egg cluster immediately.
-- At the end of every other round, one intact egg cluster hatches **1 Slaad Tadpole**.
-- Destroying all egg clusters stops new tadpoles from appearing.
+magic or a special sense. For the purpose of hiding, they are heavily  
+obscured. Their location can be detected if they make noise or leave  
+tracks. Attack rolls against them have disadvantage, and their own  
+attack rolls have advantage. 5. Poisoned. The target has disadvantage on  
+attack rolls and 
 
-## Red Slaad Tactics
+ability checks. 
 
-The Red Slaad is protective and territorial.
+6. Restrained. The target's speed becomes 0 and they can't 
+    
 
-- It prioritizes characters attacking egg clusters.
-- It uses Slaad Tadpoles and terrain to slow enemies.
-- It retreats toward the greenhouse tunnels if reduced to low hit points.
-- Once per fight, it may consume a nearby Slaad Tadpole or egg cluster to regain hit points.
-- If escape is possible, it tries to reach the irrigation channels and spread the infestation into the surrounding farms.
+benefit from any bonus to their speed. Attack rolls against them have  
+advantage, and their own attack rolls have disadvantage. They have  
+disadvantage on Dexterity saving throws. 
 
-## Battlefield Features
+# THE PACIFIST'S HOSPITALITY
 
-| Feature | Effect |
-|---|---|
-| Acid Pools | A creature that enters a pool or starts its turn there takes acid damage. |
-| Hanging Vines | Provide half cover and can be cut or burned. |
-| Nutrient Slime | A creature that starts its turn in the slime regains a small amount of hit points. |
-| Rotten Walkways | A creature that takes heavy damage while standing on one may need to save or fall. |
-| Egg Sacs | Hatch Slaad Tadpoles if ignored. |
+If the party helps her eliminate the pesky chaos flumphs, Lez'lin  
+expresses her gratitude. She is inclined to aid the disoriented  
+newcomers, especially upon learning that her brother Zardan sent them.  
+She seems unsurprised to learn that some party members are infected with  
+chaos phage, pointing out that the slaad infection has visibly advanced  
+to a critical stage. 
 
-## Objectives Beyond Killing Everything
+4 
 
-The characters may also:
+# LO
 
-- Destroy the egg clusters.
-- Rescue a missing farmhand wrapped in roots.
-- Prevent the Red Slaad from escaping into the irrigation system.
-- Recover the planar spore at the heart of the nest.
-- Secure samples without allowing the infestation to spread.
+5 
 
----
+Indeed, the adventurers realize that the sudden exposure to Limbo's  
+chaos aggravated the chaos phage. Their physical appearances become more  
+toad-like, as determined randomly by the Chaos Phage Visible Symptoms  
+table, and their hit point maximums are reduced by 3d6. They also become  
+proficient with their Chaos Control features, meaning they can add their  
+proficiency bonus to Wisdom checks made for the Telekinesis,  
+Transmutation, and Permanence actions. 
 
-# Part 4: Conclusion
+CHAOS PHAge Visible SYMPTOMS 
 
-*Estimated Duration: 30 minutes*
+d8 Symptom 
 
-When the Red Slaad is defeated and the egg clusters are destroyed, the infestation begins to collapse. Vines loosen, slime pools dry into crust, and the constant croaking finally stops.
+1 Your skin becomes lumpy and covered in warts. 
 
-If the characters do not destroy the egg clusters, the infestation survives even if the Red Slaad dies. Surviving Slaad Tadpoles may retreat into the irrigation system, drains, or nearby farmland.
+2 Your skin takes on a mottled reddish hue. 
 
-## Possible Rewards
+3 Your eyes bulge, your sclerae become yellow, and your 
 
-- Payment from [[Ezra Astallon]].
-- Harvested monster parts using [[Heliana's Guide to Monster Hunting]].
-- The planar spore, if recovered intact.
-- Acid glands, sticky slime, or volatile residue from the infestation.
-- A clue identifying the source of the contaminated fertilizer.
-- Ezra’s gratitude and continued access to Astallon Acres.
+pupils become horizontal. 
 
-## Lingering Consequences
+4 Your skin becomes dry and new glands on your back and 
 
-- A surviving Slaad Tadpole escapes into the irrigation system.
-- The planar spore remains valuable but faintly alive.
-- Infected soil can be purified, sold, studied, or misused.
-- A faction discovers the infestation and seeks to recover the spore.
-- Destroying the nest releases a burst of planar energy that mutates nearby plants.
+shoulders produce a mildly poisonous secretion that causes minor  
+allergic reactions. 
 
----
+5 A vocal sac grows on your neck, making you croak 
 
-# Difficulty
+intermittently. 
 
-For **four to five 3rd-level characters**, use the following progression:
+6 Black claws start growing from your fingertips. 
 
-| Encounter | Difficulty |
-|---|---|
-| Investigation obstacle | Easy |
-| Outer Nest Slaad Tadpoles and hazard | Medium |
-| Red Slaad and Slaad Tadpoles | Hard |
+7 Your teeth fall out and your tongue grows long and sticky. 
 
-The final fight is usually sufficient if the party has already spent some spells, hit points, or class resources in the Outer Nest.
+You aren't used to its new length, so it often gets in your way when  
+talk. 
 
----
+you 
 
-# DM Notes
+8 Roll twice, ignoring this result on a subsequent roll. 
 
-## Tone
+Lez'LIN, THE GITHZERAI MONK 
 
-Keep the adventure swampy, gross, and strange rather than relentlessly grim. The danger should feel real, but the Slaad’s behavior can remain bizarre and darkly funny. Emphasize coordinated Slaad Tadpoles, wet vegetation, sour smells, and the unsettling transformation of victims into fertilizer.
+Unlike her brother Zardan, Lez'lin possesses incredible mental fortitude  
+and thrived in the chaotic boil of Limbo. She adheres to the monastic  
+principles of her people, but her pacifist worldviews led her to isolate  
+herself from Githzerai communities. She is loath to cause harm to any  
+creature, no matter how vile or pesky, unless in self-defense. She lives  
+alone in her small monastery and strives to maintain its structural  
+integrity, so it may stand as a bastion of nonviolence. 
 
-## Scaling
+She recalls her brothers fondly, but hasn't seen them for many years  
+ever since they relocated to the Material Plane. News of Drarth's death  
+saddens her deeply, but she doesn't let her emotions cloud her focus on  
+the present. 
 
-- For a weaker party, use fewer Slaad Tadpoles, reduce the number of egg clusters to two, and remove one battlefield hazard.
-- For a stronger party, add Slaad Tadpoles, allow two egg clusters to hatch at once, or give the Red Slaad an additional use of its strongest ability.
-- For a shorter session, skip the Outer Nest combat and use one investigation hazard before the boss.
-- For a longer session, add a rival salvage crew trying to steal the planar spore.
+Lez'lin invites the party inside her foyer, where floating chairs  
+provide enough comfort for a short rest while the Githzerai assesses  
+their predicament. Other than the wish spell, she knows of only one way  
+to cure chaos phage: a death slaad's magic. 
 
-## Harvest Ideas
+# DEATH SLAADI AND YOU
 
-- Red Slaad tongue
-- Acidic digestive slime
-- Planar spore
-- Slaad Tadpole glands
-- Egg cluster membrane
-- Contaminated Arcannabis fertilizer
+Death slaadi are the peak of slaad evolution: stronger, viler, and more  
+brutal, these monsters are corrupted by the Negative Energy Plane and  
+take sadistic pleasure in killing and propagating slaadi dominance  
+across dimensions. The only way to compel a death slaad to remove chaos  
+phage is by acquiring its control gem, a magical fragment inside most  
+slaadi's brains that allows whoever possesses it to subjugate the slaad.  
+Removing the control gem is a near-impossible, very dangerous feat that  
+can be approached in two ways: 
+
+1. The first method is a lengthy surgical procedure that can only be  
+    attempted if the slaad is incapacitated. A creature must spend 1  
+    uninterrupted minute and succeed on a DC20 Medicine check to extract  
+    the gem. Every failed attempt deals 4d10 psychic damage to the  
+    slaad. 
+    
+2. A control gem can also be obtained through magical 
+    
+
+means, such as the 9th-level spell imprisonment (PHB252-253). However,  
+this spell takes 1 minute to cast and requires the caster to see the  
+target and stay within 30 feet of it, and the spell is not guaranteed to  
+succeed. 
+
+In short, no matter the method they attempt, the party will undoubtedly  
+need to incapacitate or restrain a live death slaad for 1 minute in  
+order to acquire its control gem. Being a pacifist, Lez'lin won't  
+directly help the party harm a living being, but she is willing to part  
+with two legendary items that can help them, as long as they are able to  
+secure the items themselves. 
+
+After they have rested, Lez'lin leads the party into the other half of  
+her monastery, in which some of Limbo's chaos roils. 
+
+# SPELL SCROLL OF IMPRISONMENT
+
+The first legendary item provides a way to extract a slaad's control  
+gem. It is protected by 3 layers, which must be removed sequentially to  
+access it: 
+
+First, a Large ball of fire, which can be targeted with Transmutation or  
+extinguished with 10 gallons of water (or any spell that could sensibly  
+put out a large fire). 
+
+Second, a Medium hollow diamond, which can be transformed with  
+Transmutation or cracked open with the shatter spell (PHB275). 
+
+Lastly, a 2-foot diameter sphere of annihilation (DMG201) encases the  
+spell scroll. A character can recognize this hole in the multiverse with  
+a successful DC20 Arcana check (a result between 10 and 20 gives them  
+the gist). The sphere and the spell scroll move independently of one  
+another. A creature within 60 feet of the sphere can move it with a  
+successful DC25 Arcana check. The distance moved is 5 × the creature's  
+Intelligence modifier (minimum 5 feet). If a creature fails this check,  
+the sphere moves 10 feet towards them. If the sphere enters a creature's  
+space, that creature must make a DC13 Dexterity saving throw or touch  
+it. A creature that voluntarily or involuntarily touches the sphere  
+takes 4d10 force damage. The sphere can also be moved with a  
+disadvantaged DC10 Telekinesis check. Moving the sphere of annihilation  
+by at least 5 feet makes the spell scroll of imprisonment accessible.  
+Using the Spell Scroll. A low-level warlock or wizard can attempt to  
+cast imprisonment (PHB252-253) without the required components by  
+reading the scroll. The user must first make a DC19 saving throw  
+(Charisma for warlocks and Intelligence for wizards). On a failed save,  
+the scroll disintegrates. On a successful save, the user can cast the  
+spell. If the target 
+
+stays visible and within 30 feet of the caster for 1 
+
+minute, it must make a DC19 Wisdom saving throw. If a targeted slaad  
+fails this save, its control gem appears in the caster's hand. Whether  
+the target fails or succeeds on its save, the scroll disintegrates. If  
+the casting time is interrupted, nothing happens (see DMG200 for more  
+rules on spell scrolls). 
+
+# THE ZERTHIMON STEELBEAST
+
+The second legendary item gives the party a chance to go toe-to-toe with  
+a death slaad and even incapacitate it for several minutes. To access  
+this artifact, the party must first breach its casing of stone. 
+
+The Huge mass of stone can be affected by Transmutation. It cracks if it  
+receives 15 bludgeoning damage in one hit (AC17), revealing a steel  
+barrel. This is the Zerthimon Steelbeast, a legendary artifact of the  
+Githzerai (in essence, it is a modified Apparatus of Kwalish (DMG151),  
+but adapted to better navigate Limbo and suit the party's needs). It has  
+sensors that can locate slaadi while exploring Limbo, and its claws can  
+enter a sphere of annihilation without suffering any consequences,  
+giving the party an additional way to obtain the spell scroll of  
+imprisonment. 
+
+After acquiring these legendary magic items, the party has all they need  
+to gain the upper hand on a death slaad and steal its control gem. They  
+must act quickly, however, as the four hours allotted to them in Limbo  
+by Zardan's planar hourglass are quickly elapsing... 
+
+Zerthimon STEELBEAST 
+
+Wondrous item, artifact (requires attunement) 
+
+This item first appears to be a Huge steel barrel weighing 500 pounds.  
+The barrel's door can be forced. open with a successful DC20 Strength  
+check, or a successful DC20 Dexterity check made with thieves' tools.  
+The surest way to gain access to this sentient artifact, however, is by  
+succeeding on a DC15 Persuasion check to instantly attune with it. If a  
+creature that tries to attune with the Steelbeast is a Githzerai or  
+lawful good, it gets advantage on this check. If its alignment is  
+chaotic or evil, the check is made with disadvantage. If a creature  
+forces its way into the Steelbeast without attuning to it first, it must  
+spend a short rest inside it learning how to operate its features and  
+acquainting itself with this wondrous item. 
+
+When the Steelbeast is activated, thrusters appear around its rear  
+circumference, its front surface turns into reinforced glass, two  
+periscopes extend from either side, a long stinger tail expands from its  
+back, and two massive pincers unfold. Up to six Medium creatures can fit  
+inside the Steelbeast, but only the creature attuned to it can direct  
+its actions. 
+
+Sentience. The Zerthimon Steelbeast is a sentient lawful good artifact  
+with hearing and blindvision out to a range of 60 feet. 
+
+The item can speak, read, and understand Common and Gith, and can  
+communicate telepathically with the creature attuned to it if that  
+creature is within 60 feet of it. It can also communicate in this way  
+with all creatures inside it. While you are attuned to it, the  
+Steelbeast also understands every language you know. 
+
+Personality. The Zerthimon Steelbeast speaks in a friendly tone and is  
+inclined to trust the creature attuned to it. 
+
+Its purpose is to eliminate aberrations, such as illithids and slaadi.  
+It is amiable and courteous with all other creatures (especially  
+Githzerai), but harbors deep loathing for Limbo's aberrations. It feels  
+great sorrow for creatures infected by chaos phage or slaad tadpoles and  
+won't attack them until they become slaadi themselves, or the tadpoles  
+hatch. 
+
+The Steelbeast obeys the creature attuned to it on all matters, but will  
+attack any slaadi it encounters regardless of its master's orders. A  
+DC15 Charisma check is the only way to regain control of the Steelbeast.  
+See Appendix C for the Zerthimon Steelbeast's stat block. 
+
+# CHAPTER 3: SLAAD ASSAULT
+
+Use the following text box to set the tone for the final battle: 
+
+Safe in the belly of the steel apparatus, you have been roaming for what  
+feels like too long in the chaotic void of Limbo, searching for a death  
+slaad amidst the flux. Those of you afflicted by chaos phage can see  
+your symptoms worsening; you feel in the pit of your stomach that very  
+little time remains. The Zerthimon Steelbeast's sensors lead you further  
+and further into the primordial soup until, finally, an earthy cliff  
+fragment melts into bubbles, revealing a grey- skinned, necrotic toad.  
+The Steelbeast's alarms blare and it rushes forward to meet this deadly  
+foe, intent on subduing it. The battle of your lives begins now. 
+
+# DEATH SLAAD DEN
+
+You can use the tables in appendix B to generate a random battlefield of  
+chaos for the showdown against the death slaad. Death slaadi are at home  
+in the most chaotic environments of Limbo, so don't hold back on the  
+initial generation and the terrain's subsequent randomization. 
+
+Treat the Zerthimon Steelbeast as untouchable by Limbo's chaotic shifts  
+as with the Permanence feature of Chaos Control, in case matter randomly  
+spawns in its area. New matter can instead appear around it. 
+
+6 
+
+7 
+
+# ATTACKING AS THE DEATH SLAAD
+
+The death slaad (MM278) relishes this challenge and attacks the  
+Steelbeast mercilessly with its claws, bite, and 
+
+greatsword. It stays close to attack while still trying evade the  
+Steelbeast's pincers. After a few rounds or after the party performs an  
+action that would reveal their existence, the slaad shifts its murderous  
+focus to the characters. 
+
+For example, it can telepathically threaten or taunt them, cast fear on  
+the group, or cast cloudkill inside the Steelbeast. 
+
+The slaad fights to the death and prioritizes freeing itself if it is  
+restrained, unless it sadistically perceives a way to cause pain and  
+death while grappled. 
+
+# OBTAINING THE CONTROL GEM
+
+The Steelbeast can use its Shock Stinger or Sleep Gas actions on the  
+death slaad to incapacitate it for a few minutes (grappling it with  
+Pincer Grab beforehand can help). The party then has that amount of time  
+to attempt to extract the slaad's control gem using the method of their  
+choice. 
+
+If the party wants to use the spell scroll of imprisonment but there are  
+no wizards nor warlocks among them, they can summon Zardan using the  
+planar recall bead he gave them earlier. The wizard needs to spend one  
+minute after materializing to acclimate to Limbo's wracking chaos before  
+he can take actions. If Zardan succeeds on a DC19 Intelligence saving  
+throw, he can proceed to cast the spell. Otherwise, the scroll  
+disintegrates. 
+
+Keep in mind that Zardan can use the two rolls from his Portent class  
+feature during this encounter, if he hasn't used them already. 
+
+If the death slaad stays within sight and within 30 feet of the scroll's  
+user for the minute required to cast the spell, it must make a DC19  
+Wisdom saving throw (with advantage, as per its Magic Resistance trait).  
+If it succeeds on this saving throw, the spell scroll disintegrates. If  
+it fails, the death slaad's eyes gloss over and its entire body relaxes.  
+The scroll disintegrates and is replaced by a cloudy grey asymmetrical  
+gemstone in the palm of the scroll user's hand. 
+
+# EPILOGUE
+
+If the party successfully defeats the death slaad and obtains its  
+control gem, they can force it to magically reverse the chaos phage  
+afflicting their members (no roll required). The previously ill  
+characters regain their original hit point maximums, lose their  
+proficiency with Chaos Control, and their physical and mental states  
+revert to normal. The party can force the slaad to perform any other  
+action they desire, so long as they remain in control of its control  
+gem. 
+
+The Zerthimon Steelbeast brings them back to Lez'lin's monastery, where  
+she reunites with Zardan if the party summoned him. They exchange words  
+of mourning over their brother Drarth's passing, and thank the group for  
+risking their lives for this mission. The Githzerai then make plans to  
+inform their people of a Material Plane citadel's fall and the  
+Steelbeast expresses its wish to continue eradicating aberrations with  
+them, despite its attachment to the creature attuned to it. 
+
+Everyone bids each other farewell before the planar hourglass's four  
+hours are up and the party is gently displaced back to the Material  
+Plane. 
+
+# APPENDIX A: ZARDAN CHARACTER SHEET
+
+# DUNGEONS & DRAGONS®
+
+Zardan 
+
+# CHARACTER NAME
+
+Wizard 3 (divination) 
+
+# CLASS & LEVEL
+
+Githzerai 
+
+# RACE
+
+Sage 
+
+# BACKGROUND
+
+Lawful Neutral 
+
+# ALIGNMENT
+
+# PLAYER NAME
+
+# EXPERIENCE POINTS
+
++2 
+
+# PROFICIENCY BONUS
+
+12 
+
++2 
+
+30ft. 
+
+# INSPIRATION
+
+# ARMOR CLASS
+
+# INITIATIVE
+
+# SPEED
+
+# PERSONALITY TRAITS
+
+21 
+
+12 
+
+# SAVING THROWS
+
+# ATHLETICS
+
+# HIT POINT MAXIMUM
+
++1 
+
+# STRENGTH
+
+15 
+
++2 
+
+# DEXTERITY
+
+# SAVING THROWS
+
+# ACROBATICS
+
+# SLEIGHT OF HAND
+
+# STEALTH
+
+Total 
+
+3d6 
+
+16 
+
+# SAVING THROWS
+
++3 
+
+# CONSTITUTION
+
++6 
+
+18 
+
+# SAVING THROWS
+
++6 
+
+# ARCANA
+
++6 
+
++4 
+
+# INTELLIGENCE
+
+# HISTORY
+
+# INVESTIGATION
+
+# NATURE
+
+# RELIGION
+
+9 
+
+-1 
+
+# WISDOM
+
++1 
+
+= | | = | = | 
+
++1 
+
+# SAVING THROWS
+
+# ANIMAL HANDLING
+
+# INSIGHT
+
+# +1 MEDICINE
+
+# PERCEPTION
+
+# SURVIVAL
+
+13 
+
++1 
+
+# CHARISMA
+
+# SAVING THROWS
+
+# DECEPTION
+
+# INTIMIDATION
+
+# PERFORMANCE
+
+# PERSUASION
+
+9 
+
+# PASSIVE WISDOM (PERCEPTION)
+
+# CURRENT HIT POINTS
+
+# TEMPORARY HIT POINTS
+
+# HIT DICE
+
+# SUCCESSES
+
+# FAILURES
+
+# DEATH SAVES
+
+# ATK BONUS DAMAGE/TYPE
+
+1d6/1d8 + 1 
+
+# NAME
+
+Quarterstaff 
+
++3 
+
+Githzerai Psionics (Wis) 
+
+- Mage Hand 
+    
+- Shield (1/lr) 
+    
+
+# ATTACKS & SPELLCASTING
+
+Researcher 
+
+# IDEALS
+
+# BONDS
+
+# FLAWS
+
+Mental Discipline 
+
+Arcane Recovery 
+
+Divination Savant 
+
+Portent 
+
+# FEATURES & TRAITS
+
+Common 
+
+Gith 
+
+Deep Speech Slaad 
+
+Daggers, darts, slings, quarterstaffs, light crossbows 
+
+Quarterstaff 
+
+Component pouch + spellbook 
+
+Scholar's pack 
+
+Bottle of black ink + quill 
+
+Small knife 
+
+Letter from a dead colleague posing unanswered question Common clothes,  
+pouch containing 10gp 
+
+# OTHER PROFICIENCIES & LANGUAGES
+
+# EQUIPMENT & CHARACTER NOTES
+
+8 
+
+9 
+
+# SPELLS KNOWN
+
+# SPELLCASTING
+
+# CLASS
+
+Wizard 
+
+# D&D
+
+# R
+
+Acid splash 
+
+Fire bolt 
+
+Shocking grasp 
+
+# SPELL LEVEL
+
+# CANTRIPS
+
+# SLOTS TOTAL
+
+# SLOTS EXPENDED
+
+1 
+
+4 
+
+Burning hands 
+
+Chromatic orb 
+
+Fog cloud 
+
+Grease 
+
+Mage armor 
+
+Magic missile 
+
+Tenser's floating disk 
+
+# SPELL NAME
+
+2 
+
+2 
+
+Enlarge/reduce 
+
+Misty step 
+
+Web 
+
+3 
+
+4 
+
+Int 
+
+# SPELLCASTING ABILITY
+
+14 
+
+# SPELL SAVE DC
+
++6 
+
+# SPELL ATTACK BONUS
+
+6 
+
+7 
+
+8 
+
+5 
+
+9 
+
+# APPENDIX B: CHAOTIC ENVIRONMENTS
+
+1 
+
+# HEN RUNNING A COMBAT ENCOUNTER IN THE
+
+unstable plane of Limbo, you may want to bring extra chaos to the  
+battlefield. Use the tables and steps below to introduce random matter  
+shifts to the combat environment. First of all, separate the combat map  
+into an appropriate number of equal-sized sections. 
+
+1. Every time you introduce a new pocket of matter, 
+    
+
+select a random section of the battlefield in which it will appear,  
+either by rolling a die, generating a random number, or choosing  
+yourself. 
+
+2. Roll on the Size of New Matter table. 
+    
+3. Roll on the Type of New Matter table. 
+    
+
+If the selected section of the battlefield already contains matter, the  
+new matter you are rolling for replaces it. If the matter would spawn in  
+a creature's space, that creature is pushed into the nearest empty  
+space. As the DM, you decide how the new matter is formed: whether it  
+arrives from a specific direction, spawns from nothing, transmutes from  
+preexisting matter, etc. 
+
+Use the Floating Terrain table to populate the death slaad encounter  
+with some crazy environmental elements. All the list elements are Huge  
+in size, meaning they occupy a 15 foot by 15 foot space. Don't shy away  
+from rerolling some of the terrain after a few rounds. 
+
+# SIZE OF NEW MATTER
+
+FLOATING Terrain 
+
+d10 
+
+Terrain Element 
+
+1 
+
+A wooden hut 
+
+2 
+
+Part of a stone battlement 
+
+3 
+
+A tree 
+
+4 
+
+A glowing meteor 
+
+5 
+
+A marble statue 
+
+6 
+
+Part of a dwarven forge 
+
+7 
+
+An earthen island 
+
+8 
+
+A sandy oasis 
+
+9 
+
+Pieces of a sailing ship 
+
+10 
+
+Part of a snowy mountain 
+
+d4 Size (Monastery) 
+
+1 Tiny 
+
+2 Small 
+
+3 Medium 
+
+4 Large 
+
+# TYPE OF NEW MATTER
+
+d12 Matter 
+
+Size (Death Slaad Den) 
+
+Medium 
+
+Large 
+
+Huge 
+
+Gargantuan 
+
+1 
+
+Stone 
+
+2 
+
+Earth 
+
+3 
+
+Fire 
+
+4 
+
+Water 
+
+5 
+
+6 
+
+Ice 
+
+Electricity 
+
+7 
+
+Metal (you decide which type) 
+
+8 
+
+Diamond 
+
+9 Wood 
+
+10 
+
+Air 
+
+11 
+
+Bubbles 
+
+12 Glass 
+
+10 
+
+11 
+
+# APPENDIX C: HANDOUTS
+
+# CHAOS CONTROL
+
+Creatures in Limbo gain the following action options. 
+
+Telekinesis. You can spend an action to mentally move an object you can  
+see that is within 30 feet of you. Make a Wisdom check. On a successful  
+roll, you move the object 5 feet plus 1 foot for every point by which  
+you beat the DC, which is indicated in the DC by Object Size table  
+below. 
+
+Transmutation. You can spend an action to alter a nonmagical object you  
+can see that isn't being worn or carried and that is within 30 feet of  
+you. Make a Wisdom check. On a successful roll, you change the object  
+into another nonliving form of the same size (for example, a boulder  
+into a ball of fire). The number to beat is indicated in the DC by  
+Object Size table below. 
+
+Permanence. You can spend an action to stabilize a spherical area  
+centered around yourself. Make a Wisdom check. The DC is 5 for a 10-foot  
+radius sphere, and increases by 5 for every 10 feet you add to the  
+radius. On a successful roll, the area can't be altered by the plane for  
+24 hours, or until you use this ability again. 
+
+# DC BY OBJECT SIZE
+
+Object Size 
+
+Tiny 
+
+Small 
+
+Medium 
+
+Telekinesis DC Transmutation DC 
+
+5 
+
+10 
+
+10 
+
+15 
+
+15 
+
+20 
+
+Large 
+
+25 
+
+Huge or larger 
+
+25 
+
+25 
+
+220 
+
+ZERTHIMON STEELBEAST Huge artifact, lawful good 
+
+Armor Class 20 Hit Points 150 
+
+Speed 30 ft. fly (hover) 
+
+# STR
+
+# DEX
+
+# CON
+
+# INT
+
+# WIS
+
+# CHA
+
+20 (+5) 
+
+6 (-2) 
+
+10 (+0) 
+
+16 (+3) 
+
+12 (+1) 
+
+10 (+0) 
+
+Damage Immunities poison 
+
+Condition Immunities blinded, poisoned, prone 
+
+Senses blindvision 60 ft. 
+
+Languages Common, Gith, understands the languages of the 
+
+creature attuned to it 
+
+Proficiency Bonus +4 
+
+# ACTIONS
+
+Claw Snap. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit:  
+4d10 + 5 bludgeoning damage. 
+
+Pincer Grab. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.  
+Hit: the target is grappled (escape DC15). Until this grapple ends, the  
+Steelbeast can't use Claw Snap and Pincer Grab on another target. 
+
+Shock Stinger. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.  
+Hit: 3d12 + 3 lightning damage. If the target is below half its hit  
+point maximum, it must make a DC15 Constitution saving throw. On a  
+failed save, the target is stunned for 1d4 minutes. 
+
+Sleep Gas. Every creature within a 30-ft. radius of the Steelbeast must  
+make a DC18 Constitution saving throw. If the creature fails its save  
+and is still within 30 feet of the Steelbeast by the end of its next  
+turn, it falls unconscious for 1d6 + 2 minutes. The creature can  
+reattempt the saving throw if it takes damage while unconscious. 
+
+Improvised Action. If a creature attuned to the Steelbeast succeeds on a  
+DC15 Intelligence check, they can make the Steelbeast improvise an  
+action that isn't reasonably outside of its capabilities.**

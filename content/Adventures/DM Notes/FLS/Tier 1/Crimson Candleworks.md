@@ -547,43 +547,52 @@ Unfortunately, the evidence recovered from his office suggests the organization 
 
 ## Rewards
 
-Upon returning to Ziggy Tootokes, each character receives the promised bounty for dismantling Branch Seven.
+Upon returning to Ziggy Tootokes, each character receives the promised bounty for dismantling Branch Seven. Record the adventure rewards using [[Character Advancement]].
 
-The characters also recover the following treasure during the adventure.
+### Adventure Rewards
 
-- 185 gp
-- Three garnets worth 50 gp each
-- A silver signet ring engraved with The Bloodline's symbol
-- Any mundane equipment recovered from defeated enemies
+- **1,200 XP per character** for completing the adventure.
+- **185 gp per character** from the Coalition bounty and recovered currency.
+- Three garnets worth 50 gp each, divided among the party or sold for **150 gp total**.
+- A silver signet ring engraved with The Bloodline’s symbol.
+- Any mundane equipment recovered from defeated enemies.
 
-## Treasure Bundles
+The 1,200 XP award is the completion award for the adventure and replaces individual monster XP. If the party only partially completes the adventure, the DM may award partial XP according to [[Character Advancement]]:
 
-At the conclusion of the adventure, award one Treasure Bundle to the party. Roll on the table below or choose the result that best fits your campaign.
+- Minor progress: 25% of the adventure XP.
+- Major progress with the objective incomplete: 50%.
+- Main objective complete with major complications unresolved: 75%.
+- Adventure complete: 100%.
 
-|   |   |
-|---|---|
-|Options|Treasure Bundle|
-|1|Portable Hole. Wrapped in waxed linen with an inventory tag reading Branch Property – Destination: Branch Three.|
-|2|Alchemist's Cache. A sturdy leather case containing an Alchemy Jug, and 75 gp.|
-|3|Explorer's Kit. A beautifully crafted Lantern of Revealing, a Potion of Greater Healing.|
+### Treasure Bundles
+
+At the conclusion of the adventure, award one Treasure Bundle to the party. Roll on the table below or choose the result that best fits the campaign. Any item awarded becomes the party’s property unless the adventure states otherwise.
+
+| Option | Treasure Bundle |
+|---:|---|
+| 1 | **Portable Hole.** Wrapped in waxed linen with an inventory tag reading “Branch Property, Destination: Branch Three.” |
+| 2 | **Alchemist’s Cache.** A sturdy leather case containing an *alchemy jug* and 75 gp. |
+| 3 | **Explorer’s Kit.** A beautifully crafted *lantern of revealing* and a *potion of greater healing*. |
+
+The Portable Hole is recovered from the strongbox if Marek is defeated. If the party already recovered it, treat Treasure Bundle option 1 as unavailable and roll again or choose another option.
 
 ---
 
 ## Story Award
 
-## Friend of Ziggy
+### Friend of Ziggy
 
-The characters have earned the trust and respect of Ziggy Tootokes, Investigator of the Tribunal Highblade Coalition.
+The characters have earned the trust and respect of [[Ziggy Tootokes]], Investigator of the [[Tribunal Highblade Coalition]].
 
 Whenever the characters seek information regarding criminal activity, smuggling operations, or Arcannabis trafficking within Stickyickistan, Ziggy is willing to share what he knows or point them toward new leads, provided doing so does not compromise an ongoing investigation.
 
-If Ziggy appears in a future adventure, he greets the characters as trusted associates and does his best to assist them.
+If Ziggy appears in a future adventure, he greets the characters as trusted associates and does his best to assist them. Record this story award in accordance with [[Character Advancement]].
 
 ---
 
 # Experience
 
-Characters who complete this adventure earn 1,350 XP, approximately enough to advance a 3rd-level character halfway to 4th level.
+Experience is awarded per character, not per defeated creature. Completing **Crimson Candleworks** awards **1,200 XP per character**. This is the adventure’s completion award and should be recorded using [[Character Advancement]].
 
 ---
 

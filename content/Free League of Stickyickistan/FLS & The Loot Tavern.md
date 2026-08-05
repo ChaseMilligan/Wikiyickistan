@@ -10,4 +10,4 @@ As always, individual DMs have final say over what appears at their table. If a 
 
 In short:
 
-**The Loot Tavern is welcome in Stickyickistan. Ask your DM, don’t abuse it, and please stop trying to harvest every NPC.**
+**The Loot Tavern is welcome in Stickyickistan. Ask your DM, don’t abuse it, and please do not harvest my NPCs.**

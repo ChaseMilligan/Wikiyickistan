@@ -2,9 +2,9 @@
 
 The world of **[[Drakkenheim]]** has been semi-incorporated into the greater Stickyickistanian world of [[Mythmos]]. Its factions, history, monsters, magic, contamination, political conflicts, and apocalyptic weirdness may appear in Free League of Stickyickistan lore when they fit the tone of the setting.
 
-In Mythmos, Drakkenheim is treated as a connected but distinct region of the wider world rather than a fully separate setting. Rumors of delerium, contaminated ruins, rival factions, holy crusaders, mageborn politics, and doomed expeditions may travel far beyond the city itself. Drakkenheim material can be used as inspiration for adventures, NPCs, factions, magic items, monsters, and campaign threats within Stickyickistan.
+In Mythmos, Drakkenheim is treated as a connected but distinct region of the wider world rather than a fully separate setting. Rumors of [[Delerium]], contaminated ruins, rival factions, holy crusaders, mageborn politics, and doomed expeditions may travel far beyond the city itself. Drakkenheim material can be used as inspiration for adventures, NPCs, factions, magic items, monsters, and campaign threats within Stickyickistan.
 
-However, ==the **[[Free League of Stickyickistan]] and the **Free League of Drakkenheim** are not character-compatible adventure settings==.
+However, ==the [[Free League of Stickyickistan]] and the **Free League of Drakkenheim** are not character-compatible adventure settings==.
 
 Characters created for the Free League of Stickyickistan are **not automatically eligible** for adventures run under [[Free League of Drakkenheim]]. Likewise, characters made specifically for Drakkenheim are not automatically eligible for standard FLS adventures. The two leagues may share a world, themes, lore, and occasional references, but they use different assumptions about character creation, tone, danger, rewards, and campaign structure.
 
