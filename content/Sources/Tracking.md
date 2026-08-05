@@ -2426,7 +2426,7 @@ The oozekin Splik (CN male drow [spy](https://www.dndbeyond.com/monsters/17021-
 
 ##### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/tracking#3FrankieHopworth)3 - Frankie Hopworth
 
-From a shadowed alcove, the hunched and hulking figure of Frankie Hopworth (LN female [flesh golem](https://www.dndbeyond.com/monsters/16863-flesh-golem)) approaches the party. Covered in a thick, moss-green cloak, the philosophical-but-lonely former lab assistant of Dr. Francis N. Stein requests to buy any preserved monster components the party has. She has a wealth of treasure equal to 500 times the APL in gold pieces and will pay double the normal price for any components.
+From a shadowed alcove, the hunched and hulking figure of Frankie Hopworth (LN female [flesh golem](https://www.dndbeyond.com/monsters/16863-flesh-golem)) approaches the party. Covered in a thick, moss-green cloak, the philosophical-but-lonely former lab assistant of [[Dr. Stein|Dr. Francis Norman Stein]] requests to buy any preserved monster components the party has. She has a wealth of treasure equal to 500 times the APL in gold pieces and will pay double the normal price for any components.
 
 **_History._** After the latent biomantic magic of Stein’s laboratory granted her sentience, Frankie has become a strong proponent of body modification. She has a variety of monster components grafted to her, which the party sees when she reaches for her purse. If the party treats her kindly and politely, she confers information on the environs, granting [advantage](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#AdvantageandDisadvantage) on the party’s next Tracking check.
 

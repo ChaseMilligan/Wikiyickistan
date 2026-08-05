@@ -48,7 +48,7 @@ reactions:
 
 # Description
 
-> _“Heed my words, colleagues! I will take your owlbear and make it into something more monstrous, frightening… fowl! You will rue the day you ridiculed Dr. Francis N. Stein!”_
+> _“Heed my words, colleagues! I will take your owlbear and make it into something more monstrous, frightening… fowl! You will rue the day you ridiculed [[Dr. Stein|Dr. Francis Norman Stein]]!”_
 > 
 > -Dr. Francis N. Stein, after being mocked for his creation of the owlboar
 

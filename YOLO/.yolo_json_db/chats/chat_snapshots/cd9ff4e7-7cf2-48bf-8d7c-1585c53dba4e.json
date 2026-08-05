@@ -1,82 +1,27 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "82827932": {
-      "hash": "82827932",
+    "62502375": {
+      "hash": "62502375",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Items/Mind Blade.md`\n  - L1 # Mind Blade\n  - L9 ## Properties\n  - L15 ## Psychic Edge\n  - L21 ## Ritual Focus\n  - L31 ## Crafting a Mind Blade\n  - L39 ## Destruction\n  - L45 ## Variants\n  - L47 ### Prototype Mind Blade\n  - L51 ### Greater Mind Blade\n  - L55 ### Aberrant Mind Blade\n  - L59 ## Adventure Use\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease correct Mind Blade.md using the actual Mind Blade info:\n\nMind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.\n\n"
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # **CURSE OF SLAAD\n  - L3 # BEING A SUPPOSEDLY COMPETENT GROUP OF\n  - L75 # CHAPTER 1: COMPROMISED CITADEL\n  - L82 # A BROTHER'S FATE\n  - L87 # SLAAD ENCOUNTER\n  - L119 # A BLUE SLAAD ENRAGED\n  - L139 # GRAVE AFTERMATH\n  - L162 # CHAPTER 2: LIMBO MONASTERY\n  - L180 # THE EVER-CHANGING CHAOS OF LIMBO\n  - L205 # CHAOS CONTROL\n  - L228 # DC BY OBJECT SIZE\n  - L264 # ENCOUNTER ON THE MONASTIC ISLAND\n  - L284 # CHAOS FLUMPH\n  - L294 # STR\n  - L298 # DEX\n  - L300 # CON\n  - L302 # INT\n  - L304 # WIS\n  - L306 # CHA\n  - L323 # ACTIONS\n  - L370 # THE PACIFIST'S HOSPITALITY\n  - L381 # LO\n  - L445 # DEATH SLAADI AND YOU\n  - L480 # SPELL SCROLL OF IMPRISONMENT\n  - L521 # THE ZERTHIMON STEELBEAST\n  - L589 # CHAPTER 3: SLAAD ASSAULT\n  - L603 # DEATH SLAAD DEN\n  - L618 # ATTACKING AS THE DEATH SLAAD\n  - L635 # OBTAINING THE CONTROL GEM\n  - L662 # EPILOGUE\n  - L685 # APPENDIX A: ZARDAN CHARACTER SHEET\n  - L687 # DUNGEONS & DRAGONS®\n  - L691 # CHARACTER NAME\n  - L695 # CLASS & LEVEL\n  - L699 # RACE\n  - L703 # BACKGROUND\n  - L707 # ALIGNMENT\n  - L709 # PLAYER NAME\n  - L711 # EXPERIENCE POINTS\n  - L715 # PROFICIENCY BONUS\n  - L723 # INSPIRATION\n  - L725 # ARMOR CLASS\n  - L727 # INITIATIVE\n  - L729 # SPEED\n  - L731 # PERSONALITY TRAITS\n  - L737 # SAVING THROWS\n  - L739 # ATHLETICS\n  - L741 # HIT POINT MAXIMUM\n  - L745 # STRENGTH\n  - L751 # DEXTERITY\n  - L753 # SAVING THROWS\n  - L755 # ACROBATICS\n  - L757 # SLEIGHT OF HAND\n  - L759 # STEALTH\n  - L767 # SAVING THROWS\n  - L771 # CONSTITUTION\n  - L777 # SAVING THROWS\n  - L781 # ARCANA\n  - L787 # INTELLIGENCE\n  - L789 # HISTORY\n  - L791 # INVESTIGATION\n  - L793 # NATURE\n  - L795 # RELIGION\n  - L801 # WISDOM\n  - L809 # SAVING THROWS\n  - L811 # ANIMAL HANDLING\n  - L813 # INSIGHT\n  - L815 # +1 MEDICINE\n  - L817 # PERCEPTION\n  - L819 # SURVIVAL\n  - L825 # CHARISMA\n  - L827 # SAVING THROWS\n  - L829 # DECEPTION\n  - L831 # INTIMIDATION\n  - L833 # PERFORMANCE\n  - L835 # PERSUASION\n  - L839 # PASSIVE WISDOM (PERCEPTION)\n  - L841 # CURRENT HIT POINTS\n  - L843 # TEMPORARY HIT POINTS\n  - L845 # HIT DICE\n  - L847 # SUCCESSES\n  - L849 # FAILURES\n  - L851 # DEATH SAVES\n  - L853 # ATK BONUS DAMAGE/TYPE\n  - L857 # NAME\n  - L870 # ATTACKS & SPELLCASTING\n  - L874 # IDEALS\n  - L876 # BONDS\n  - L878 # FLAWS\n  - L888 # FEATURES & TRAITS\n  - L911 # OTHER PROFICIENCIES & LANGUAGES\n  - L913 # EQUIPMENT & CHARACTER NOTES\n  - L919 # SPELLS KNOWN\n  - L921 # SPELLCASTING\n  - L923 # CLASS\n  - L927 # D&D\n  - L929 # R\n  - L937 # SPELL LEVEL\n  - L939 # CANTRIPS\n  - L941 # SLOTS TOTAL\n  - L943 # SLOTS EXPENDED\n  - L963 # SPELL NAME\n  - L981 # SPELLCASTING ABILITY\n  - L985 # SPELL SAVE DC\n  - L989 # SPELL ATTACK BONUS\n  - L1001 # APPENDIX B: CHAOTIC ENVIRONMENTS\n  - L1005 # HEN RUNNING A COMBAT ENCOUNTER IN THE\n  - L1036 # SIZE OF NEW MATTER\n  - L1094 # TYPE OF NEW MATTER\n  - L1156 # APPENDIX C: HANDOUTS\n  - L1158 # CHAOS CONTROL\n  - L1181 # DC BY OBJECT SIZE\n  - L1223 # STR\n  - L1225 # DEX\n  - L1227 # CON\n  - L1229 # INT\n  - L1231 # WIS\n  - L1233 # CHA\n  - L1259 # ACTIONS\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI still see references to Red Salad in Curse of Slaad.md please fix the whole document\n\n"
         }
       ],
-      "createdAt": 1785535430888,
-      "updatedAt": 1785535430888
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
     },
-    "3e42e015": {
-      "hash": "3e42e015",
+    "95084488": {
+      "hash": "95084488",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/MONs/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a stat block using Blank Statblock.md  with this info:\n\nDecahedrooze\nLarge ooze, unaligned\n\nArmour Class 13 (natural armour)\n\nHit Points 136 (13d10 + 65)\n\nSpeed 25 ft., climb 25 ft.\n\nSTR\n\n18 (+4)\n\nDEX\n\n8 (-1)\n\nCON\n\n21 (+5)\n\nINT\n\n7 (-2)\n\nWIS\n\n6 (-2)\n\nCHA\n\n2 (-4)\n\nSaving Throws Dex +3, Con +9\n\nDamage Resistances see Reactive Mutations\n\nDamage Immunities acid\n\nCondition Immunities blinded, charmed, deafened, exhaustion, frightened, grappled, prone, restrained\n\nSenses blindsight 60 ft. (blind beyond this radius), passive Perception 8\n\nLanguages —\n\nChallenge 9 (5,000 XP) Proficiency Bonus +4\n\nReactive Mutations. Immediately after the ooze takes damage, it gains resistance to that damage type. The ooze can have up to four resistances from this trait. If the ooze has its maximum number of resistances, the oldest resistance is lost when a new one is gained.\n\nSpider Climb. The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\nActions\n\nMultiattack. The ooze makes two Pseudopod attacks. It can replace one attack with Engulf.\n\nEngulf. The ooze moves up to its speed. While doing so, it can enter Large or smaller creatures’ spaces. Whenever the ooze enters a creature’s space, the creature must make a DC 16 Dexterity saving throw.\n\nOn a successful save, the creature can choose to be pushed 5 feet back or to the side of the ooze. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.\n\nOn a failed save, the ooze enters the creature’s space, and the creature takes 11 (2d10) acid damage and is engulfed. The engulfed creature can’t breathe, is restrained, and takes 22 (4d10) acid damage at the start of each of the ooze’s turns. When the ooze moves, the engulfed creature moves with it.\n\nAn engulfed creature can try to escape by taking an action to make a DC 16 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the ooze.\n\nPseudopod. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d8) acid damage and the target suffers one of the following random effects (roll a d10):\n\nThe target takes 5 (1d10) force damage.\nThe target takes 5 (1d10) bludgeoning damage.\nThe target takes 5 (1d10) piercing damage.\nThe target takes 5 (1d10) slashing damage.\nThe target takes 5 (1d10) cold damage.\nThe target takes 5 (1d10) fire damage.\nThe target takes 5 (1d10) lightning damage.\nThe target takes 5 (1d10) thunder damage.\nThe target takes 5 (1d10) necrotic damage.\nThe target takes 5 (1d10) radiant damage.\nLegendary Actions\n\nThe ooze can take 2 legendary actions, choosing the option below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ooze regains spent legendary actions at the start of its turn.\n\nAttack. The ooze makes one Pseudopod attack.\n\n"
+          "text": "<user_selected_content path=\"content/NPCs/Quest Givers/Threeflower.md\" startLine=\"29\" endLine=\"29\">\n```content/NPCs/Quest Givers/Threeflower.md\n29|suneater owlbear\n```\n</user_selected_content>\n\n\nThreeflower.md (2 Words) It still referencing the suneater owlbear. Please check the entire document and remove them\n\n"
         }
       ],
-      "createdAt": 1785437932087,
-      "updatedAt": 1785437932087
-    },
-    "a72f6780": {
-      "hash": "a72f6780",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/MONs/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nmake a stat block using Blank Statblock.md  eith this info:\n\nIcosahedrooze\nGargantuan ooze, unaligned\n\nArmour Class 14 (natural armour)\n\nHit Points 350 (20d20 + 140)\n\nSpeed 30 ft., climb 30 ft.\n\nSTR\n\n23 (+6)\n\nDEX\n\n10 (+0)\n\nCON\n\n25 (+7)\n\nINT\n\n12 (+1)\n\nWIS\n\n6 (-2)\n\nCHA\n\n3 (-4)\n\nSaving Throws Dex +6, Con +13\n\nDamage Resistances see Reactive Mutations\n\nDamage Immunities acid\n\nCondition Immunities blinded, charmed, deafened, exhaustion, frightened, grappled, prone, restrained\n\nSenses blindsight 120 ft. (blind beyond this radius), passive Perception 8\n\nLanguages —\n\nChallenge 20 (25,000 XP) Proficiency Bonus +6\n\nLegendary Resistance (3/Day). If the ooze fails a saving throw, it can choose to succeed instead.\n\nReactive Mutations. Immediately after the ooze takes damage, it gains resistance to that damage type. The ooze can have up to six resistances from this trait. If the ooze has its maximum number of resistances, the oldest resistance is lost when a new one is gained.\n\nSpider Climb. The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\nActions\n\nMultiattack. The ooze uses Engulf and makes three Pseudopod attacks.\n\nEngulf. The ooze moves up to its speed. While doing so, it can enter Gargantuan or smaller creatures’ spaces. Whenever the ooze enters a creature’s space, the creature must make a DC 21 Dexterity saving throw.\n\nOn a successful save, the creature can choose to be pushed 5 feet back or to the side of the ooze. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.\n\nOn a failed save, the ooze enters the creature’s space, and the creature takes 21 (2d20) acid damage and is engulfed. The engulfed creature can’t breathe, is restrained, and takes 42 (4d20) acid damage at the start of each of the ooze’s turns. When the ooze moves, the engulfed creature moves with it.\n\nAn engulfed creature can try to escape by taking an action to make a DC 21 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the ooze.\n\nPseudopod. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 14 (4d6) acid damage and the target suffers one of the following random effects (roll a d20):\n\nThe target takes 10 (1d20) force damage.\nThe target takes 10 (1d20) bludgeoning damage.\nThe target takes 10 (1d20) piercing damage.\nThe target takes 10 (1d20) slashing damage.\nThe target takes 10 (1d20) fire damage.\nThe target takes 10 (1d20) cold damage.\nThe target takes 10 (1d20) lightning damage.\nThe target takes 10 (1d20) thunder damage.\nThe target takes 10 (1d20) necrotic damage.\nThe target takes 10 (1d20) radiant damage.\nThe target takes 10 (1d20) poison damage.\nThe target takes 10 (1d20) psychic damage.\nThe target must succeed on a DC 21 Strength saving throw or be restrained. The target or a creature within reach of the target can use its action to make a DC 21 Strength check, freeing the restrained creature on a success.\nThe target must succeed on a DC 21 Wisdom saving throw or be afflicted by the confusion spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or be afflicted by the reduce effect of the enlarge/reduce spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or be afflicted by the enlarge effect of the enlarge/reduce spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or be afflicted by the zippit!** spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced by 10 (1d20) until it finishes a long rest. The ooze regains a number of hit points equal to this value. A creature whose hit point maximum is reduced to 0 dies.\nThe target must succeed on a DC 21 Strength saving throw or be engulfed by the ooze.\nRoll twice more on this table.\n*These spells don’t require concentration. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n**See Appendix B\n\nLegendary Actions\n\nThe ooze can take 3 legendary actions, choosing the option below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ooze regains spent legendary actions at the start of its turn.\n\nAttack. The ooze makes one Pseudopod attack.\n\n"
-        }
-      ],
-      "createdAt": 1785437932087,
-      "updatedAt": 1785437932087
-    },
-    "2d392436": {
-      "hash": "2d392436",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/MONs/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a stat block using Blank Statblock.md  with this info:\n\nGummydusa Curatrix\nMedium Monstrosity, lawful evil\nArmor Class 15 (natural armour)\nHit Points 97 (13d8 + 39)\nSpeed 30 ft.\nSTR\n12 (+1)\nDEX\n14 (+2)\nCON\n16 (+3)\nINT\n12 (+1)\nWIS\n13 (+1)\nCHA\n15 (+2)\nSaving Throws Wis +4, Cha +5\nSkills Perception +7, Stealth +5\nDamage Resistances acid, poison\nCondition Immunities charmed, petrified, poisoned\nSenses blindsight 30 ft., darkvision 60 ft., passive Perception 17\nLanguages Celestial, Common, Infernal\nChallenge 6 (2,300 XP) Proficiency Bonus +3\nGlaze Gaze. When a creature that can see the Gummydusa's eyes\nstarts its turn within 30 feet of her, the Gummydusa can force it to\nmake a DC 13 Constitution saving throw if the Gummydusa isn't\nincapacitated and can see the creature. If the saving throw fails by 5\nor more, the creature is instantly gummified. Otherwise, a creature\nthat fails the save begins to turn to gelatin and its AC decreases by\n1. The creature must repeat the saving throw at the end of its next\nturn, becoming gummified on a failure or ending the effect on a\nsuccess. A gummified creature's speed is halved, its AC decreases by\n2, and it is assigned a colour that gives it vulnerability to a type of\ndamage. The gummification lasts until the creature is freed by the\ngreater restoration spell or other magic.\nUnless surprised, a creature can avert its eyes to avoid the saving\nthrow at the start of its turn. If the creature does so, it can't see the\nGummydusa until the start of its next turn, when it can avert its eyes\nagain. If the creature looks at the Gummydusa in the meantime, it\nmust immediately make the save.\nIf the Gummydusa sees her reflection within 30 feet of herself in\nan area of bright light, her colour changes and she gains vulnerability\nto a random damage type until the end of her next turn. Roll a\nd6 to determine the colour and damage type for a gummified creature:\n1, blue, cold; 2, red, fire; 3, yellow, lightning; 4, black, necrotic;\n5, green, poison; 6, white, radiant.\nInnate Spellcasting. The Gummydusa's innate spellcasting ability\nis Charisma (spell save DC 13, +5 to hit with spell attacks) and casts\ncantrips as a 6th-level spellcaster. She can innately cast the following\nspells, requiring no material components:\nAt will: acid splash, vicious mockery\n3/day each: acid arrow, Humperdink’s halitosis*\n1/day each: acid rain* c\n*See Appendix B, C indicates concentration, bold indicates combat spell\nLegendary Resistance (2/Day). If the Gummydusa fails a saving\nthrow, she can choose to succeed instead.\nActions\nMultiattack. The Gummydusa makes either two melee attacks—\none with her Hard Candy Shortsword and one with her Sourgum\nSnake Hair—or two ranged attacks with her Gumdrop Volley. She\ncan replace any of these attacks with her Gummy Strike, if available.\nHard Candy Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft.,\none target. Hit: 5 (1d6 + 2) piercing damage.\nGumdrop Volley. Ranged Weapon Attack: +5 to hit, range 100/300 ft.,\none target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target's\nspeed is reduced by 10 feet until the start of its next turn.\nSourgum Snake Hair. Melee Weapon Attack: +5 to hit, reach 5 ft., one\ncreature. Hit: 5 (1d6 + 2) piercing damage plus 7 (2d6) acid damage.\nGummy Strike (Recharge 5-6). The Gummydusa animates a pool of\ngummy material that occupies a volume of at least 5-feet-cubed,\nshaping it into a monstrous snake that lunges at a creature she can see\nwithin 30 feet of the pool. The target must succeed on a DC 13 Dexterity\nsaving throw or take 13 (3d8) bludgeoning damage and be grappled\n(escape DC 13). Until this grapple ends, the target is restrained,\nand the Gummydusa can't animate another gummy serpent.\nLegendary Actions\nThe Gummydusa can take 3 legendary actions, choosing from the\noptions below. Only one legendary action option can be used at a\ntime and only at the end of another creature's turn. The Gummydusa\nregains spent legendary actions at the start of her turn.\nAcid Splash. The Gummydusa casts acid splash.\nCast a Spell (Costs 2 Actions). The Gummydusa casts a spell.\nSour Sussurration (Costs 2 Actions). The Gummydusa chooses one\nwilling creature she can see within 45 feet of her, teleporting to a\nspace adjacent to it and empowering it with her sour magic. The\ncreature gains 10 (3d4 + 3) temporary hit points and has advantage\non its first attack roll before the end of its next turn.\n\n"
-        }
-      ],
-      "createdAt": 1785438483684,
-      "updatedAt": 1785438483684
-    },
-    "a09bf859": {
-      "hash": "a09bf859",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/MONs/Gummydusa Curatrix.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFix stat block syntax in Gummydusa Curatrix.md \n\n"
-        }
-      ],
-      "createdAt": 1785438603620,
-      "updatedAt": 1785438603620
-    },
-    "90376be4": {
-      "hash": "90376be4",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/MONs/Gummydusa Curatrix.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFix syntax in Gummydusa Curatrix.md \n\n"
-        }
-      ],
-      "createdAt": 1785438780569,
-      "updatedAt": 1785438780569
-    },
-    "7d48e9de": {
-      "hash": "7d48e9de",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/MONs/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a stat block using Blank Statblock.md  and this info:\n\nYoung Jörmungummdr\nLarge Dragon, chaotic evil\nArmour Class 17 (natural armour)\nHit Points 144 (14d10 + 56)\nSpeed 40 ft., swim 40 ft.\nSTR\n19 (+4)\nDEX\n14 (+2)\nCON\n19 (+4)\nINT\n12 (+1)\nWIS\n15 (+2)\nCHA\n13 (+1)\nSaving Throws Dex +6, Con +8\nSkills Insight +6, Perception +10, Stealth +6\nDamage Immunities acid, poison\nCondition Immunities charmed, poisoned\nSenses blindsight 30 ft., darkvision 120 ft., passive Perception 20\nLanguages Common, Draconic\nChallenge 9 (5,000 XP) Proficiency Bonus +4\nGummy Body. If Jörmungummdr takes 10 or more fire damage, its\nspeed is halved and it has disadvantage on attack rolls and ability\nchecks until the end of its next turn.\nLegendary Resistance (2/Day). If Jörmungummdr fails a saving\nthrow, it can choose to succeed instead.\nSour Body. When Jörmungummdr is hit by a melee attack from a\ncreature within 5 feet of it, the creature must succeed on a DC 16\nDexterity saving throw or take 7 (2d6) acid damage as acidic slime\nsplashes back.\nActions\nMultiattack. Jörmungummdr makes three attacks: one with its Bite\nand two with its Slam. It can replace any one of these attacks with\nits Acidic Constriction.\nAcidic Constriction. Melee Weapon Attack: +8 to hit, reach 5 ft., one\ncreature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is\ngrappled (escape DC 16). A grappled creature takes 7 (2d6) acid\ndamage at the start of each of its turns. Until this grapple ends,\nthe creature is restrained, and Jörmungummdr can't use Acidic\nConstriction on another target.\nBite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13\n(2d8 + 4) piercing damage.\nSlam. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9\n(2d4 + 4) bludgeoning damage, and the target must succeed on a\nDC 16 Strength saving throw or be knocked prone.\nBreath Weapons (Recharge 5-6). Jörmungummdr uses one of the\nfollowing breath weapons.\nGummy Tide. Jörmungummdr exhales colourful liquid in a 30-\nfoot cone that quickly becomes viscous and sticky. Each creature\nin that area must succeed on a DC 16 Strength saving throw or\nbecome restrained for 1 minute. A creature can use its action to\nmake a DC 16 Strength check, freeing itself or a creature within its\nreach on a success.\nSour Breath. Jörmungummdr exhales acid in a 30-foot cone. Each\ncreature in that area must make a DC 16 Dexterity saving throw,\ntaking 36 (8d8) acid damage on a failed save, or half as much damage\non a successful one.\nLegendary Actions\nJörmungummdr can take 2 legendary actions, choosing from the\noptions below. Only one legendary action option can be used at a\ntime and only at the end of another creature's turn. Jörmungummdr\nregains spent legendary actions at the start of its turn.\nAttack. Jörmungummdr makes one Slam attack.\nOverrun. Jörmungummdr moves up to half its speed, moving\nthrough the spaces of creatures smaller than it. Each creature\nwhose space it moves through must make a DC 16 Dexterity\nsaving throw. A creature takes 3 (1d6) bludgeoning damage\nand is knocked prone on a failure, or takes half as much damage\nand moves into the nearest unoccupied space to it on a success.\nJörmungummdr does not trigger opportunity attacks from creatures\nwhose spaces it moves through in this way.\nSour Shower (Costs 2 Actions). Jörmungummdr shakes, causing a\ncascade of caustic sugar to sprinkle to the ground within 10 feet\nof it. Each creature in the area must make a DC 16 Constitution\nsaving throw, taking 7 (2d6) acid damage on a failure, or half as\nmuch damage on a success.\n\n"
-        }
-      ],
-      "createdAt": 1785438931560,
-      "updatedAt": 1785438931560
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
     },
     "76d6dcad": {
       "hash": "76d6dcad",
@@ -188,28 +133,6 @@
       "createdAt": 1785443949103,
       "updatedAt": 1785443949103
     },
-    "e4e5a68e": {
-      "hash": "e4e5a68e",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Rompopowlbear.md`\n  - L49 # Description\n  - L63 # Pin & Cushion\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat this and add to Rompopowlbear.md :\n\nPin\nWeapon (Rapier), Rare (Requires Attunement)\nComponents: Monstrosity (Rompopowlbear) Stinger\nThere’s no doubt about it: this impressive piece of\nweaponry is sure to catch any bystander’s attention.\nIt’s a good thing then that—should your\nadoring fans get too close—all it takes is a small\npoke from this blade to reclaim that priceless\npersonal space.\nYou gain a +2 bonus to attack rolls and damage\nrolls made using this magic weapon. This weapon\nhas 4 charges and regains 1d4 expended charges\ndaily at dawn.\nPinprick. Once per turn, when you hit a creature\nwith this weapon, you can expend 1 charge to\ncause the weapon to emit a burst of air. The creature\nmust succeed on a DC 15 Strength saving\nthrow or be pushed up to 10 feet away from you.\nEjector Seat. When you take the Attack action,\nyou can expend 1 charge to forego one of your\nattacks and press this weapon into the ground.\nOne Large or smaller creature of your choice on the\nground within 30 feet of you must succeed on a DC\n15 Dexterity saving throw or take 2d6 Bludgeoning\ndamage and be launched 10 feet in a direction\nof your choice, falling Prone when it lands.\nUncommon variant: Reduce the attack and\ndamage bonus to +1 and the DCs to 13.\nVery Rare variant: Increase the attack and damage\nbonus to +3 and the DCs to 16.\n\n"
-        }
-      ],
-      "createdAt": 1785444356260,
-      "updatedAt": 1785444356260
-    },
-    "cf440b33": {
-      "hash": "cf440b33",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Rompopowlbear.md`\n  - L49 # Description\n  - L63 # Pin & Cushion\n  - L65 ## Pin\n  - L82 ## Cushion\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat this and add to Rompopowlbear.md :\n\nCushion\nArmour (Shield), Rare (Requires Attunement)\nComponents: Monstrosity (Rompopowlbear) Pelt\n“Listen, it’s child’s play; just point the\nshield towards the ground when you’re\nabout to hit it, and whoosh! You’ll land\nsoft as a feather. You’ll see; give it a try\non that cliff over there!”\n— Bree the Barbarian to her Wizard\nfriend, forgetting to tell him this item\nrequires attunement\nWhile holding this Shield, you have a +1 bonus to\nAC. This bonus is in addition to the Shield’s normal\nbonus to AC. This Shield has 5 charges, and it regains\n1d4 + 1 expended charges daily at dawn.\nBouncy Pad. As a Bonus Action while you are\non the ground and holding this Shield, you can\nexpend 2 charges to point the Shield’s air bags\ntoward the ground and inflate it, launching yourself\nup to 30 feet vertically into the air and up to\n15 feet horizontally. If a creature is within 5 feet\nof where you land, you can immediately make a\nmelee attack with a weapon or Unarmed Strike\nagainst that creature as part of this Bonus Action.\nOn a hit, the target suffers the attack’s normal\neffects, and any damage you take from the fall is\nreduced by an amount equal to twice your level.\nThat amount is added onto the attack’s damage.\nAirbag. As a Reaction when you take Bludgeoning\ndamage, you can expend 1 charge to inflate\nCushion, granting yourself Resistance to that\ninstance of Bludgeoning damage.\nUncommon variant: Reduce the charges to 3\nand the recharge to 1d3.\nVery Rare variant: Increase the AC bonus to +2,\nthe charges to 7, and the recharge to 1d6 + 1.\n\n"
-        }
-      ],
-      "createdAt": 1785444396913,
-      "updatedAt": 1785444396913
-    },
     "5a2bc923": {
       "hash": "5a2bc923",
       "content": [
@@ -220,61 +143,6 @@
       ],
       "createdAt": 1785444556326,
       "updatedAt": 1785444556326
-    },
-    "1baad626": {
-      "hash": "1baad626",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Zuggtmoy.md`\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd this info to Zuggtmoy.md and format the stat block using Blank Statblock.md :\n\nZuggtmoy\nLarge Fiend (Demon), Chaotic Evil\n\nArmor Class 18 (natural armor)\nHit Points 304 (32d10 + 128)\nSpeed 30 ft.\n\nSTR\n22 (+6)\nDEX\n15 (+2)\nCON\n18 (+4)\nINT\n20 (+5)\nWIS\n19 (+4)\nCHA\n24 (+7)\n\nSaving Throws DEX +9, CON +11, WIS +11\nSkills Perception +11\nDamage Resistances Cold, Fire, Lightning\nDamage Immunities Poison; Bludgeoning, Piercing, and Slashing that is Nonmagical\nCondition Immunities Charmed, Exhaustion, Frightened, Poisoned\nSenses Truesight 120 ft., Passive Perception 21\nLanguages All, Telepathy 120 ft.\nChallenge 23 (50,000 XP)\nProficiency Bonus +7\n\nTraits\nLegendary Resistance (3/Day). If Zuggtmoy fails a saving throw, she can choose to succeed instead.\n\nMagic Resistance. Zuggtmoy has advantage on saving throws against spells and other magical effects.\n\nActions\nMultiattack. Zuggtmoy makes three Pseudopod attacks.\n\nPseudopod. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) force damage plus 9 (2d8) poison damage.\n\nSpellcasting. Zuggtmoy casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will: detect magic, locate animals or plants\n\n3/day each: dispel magic, entangle, plant growth\n\n1/day each: etherealness, teleport\n\nBonus Actions\nInfestation Spores (3/Day). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Any creature in the cloud when it appears, or that enters it later, must make a DC 19 Constitution saving throw. On a successful save, the creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy, which lasts until the creature is cured of the disease or dies. While infected in this way, the creature can’t be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature’s body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it’s a type of creature that can be (see the “Myconids” section in the Monster Manual).\n\nMind Control Spores (Recharge 5–6). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and Beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, a creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is charmed by her and can’t be reinfected by these spores.\n\nReactions\nProtective Thrall. When Zuggtmoy is hit by an attack roll, one creature within 10 feet of her that is charmed by her is hit by the attack instead.\n\nLegendary Actions\nZuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Zuggtmoy regains spent legendary actions at the start of her turn.\n\nAttack. Zuggtmoy makes one Pseudopod attack.\n\nExert Will. One creature charmed by Zuggtmoy that she can see must use its reaction, if available, to move up to its speed as she directs or to make one weapon attack against a target that she designates.\n\nDescription\nThe Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.\n\nZuggtmoy is utterly inhuman, but she can mold her fungoid form into an approximation of a bipedal shape, including the skeletal-thin figure depicted in grimoires and ancient art, draped and veiled in mycelia and lichen. Indeed, much of her appearance and manner, and that of her servants, is a mockery of mortal life and its many facets.\n\nZuggtmoy’s cultists often follow her unwittingly. Most are fungus-infected to some degree, whether through inhaling her mind-controlling spores or being transformed to the point where flesh and fungus become one. Such cultists are fungal extensions of the Demon Queen’s will. Their devotion might begin with the seemingly harmless promises offered by exotic spores and mushrooms, but it quickly consumes them, body and soul.\n\nZuggtmoy’s Lair\nZuggtmoy’s principal lair is her palace on Shedaklah. It consists of two dozen immense mushrooms of pale yellow and rancid brown. These massive fungi are some of the largest in existence. They are surrounded by a field of acidic puffballs and poisonous vapors. The mushrooms are interconnected by bridges of shelf fungus, and countless chambers have been hollowed out inside their rubbery stalks.\n\nLair Actions\nOn initiative count 20 (losing initiative ties), Zuggtmoy can take one of the following lair actions; she can’t take the same lair action two rounds in a row:\n\nRally Plants. Up to four Plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.\n\nSummon Fungi. Zuggtmoy causes four gas spores or violet fungi (both appear in the Monster Manual) to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.\n\nUnleash Spores. Zuggtmoy uses either her Infestation Spores or her Mind Control Spores, centered on a mushroom or other fungus within her lair, instead of on herself.\n\nRegional Effects\nThe region containing Zuggtmoy’s lair is warped by her magic, creating one or more of the following effects:\n\nCorrupted Nature. Within 6 miles of the lair, all Wisdom (Medicine) and Wisdom (Survival) checks have disadvantage.\n\nFungal Infestation. Molds and fungi grow on surfaces within 6 miles of the lair, even where they would normally find no purchase.\n\nMutating Vegetation. Vegetation within 1 mile of the lair becomes infested with parasitic fungi, slowly mutating as it is overwhelmed.\n\nIf Zuggtmoy dies, these effects fade over the course of 1d10 days.\n\nCultists of Zuggtmoy\nZuggtmoy’s cultists are primarily mindless victims of her children’s strange spores. The spores burrow into a victim’s brain, turning it into a fanatic servitor. Each victim gains the Spore Kissed trait.\n\nSpore Kissed. This creature is immune to the charmed and frightened conditions. In addition, if it is reduced to 0 hit points, each creature within 10 feet of it takes poison damage equal to its number of Hit Dice.\n\n"
-        }
-      ],
-      "createdAt": 1785444830888,
-      "updatedAt": 1785444830888
-    },
-    "83f4f79a": {
-      "hash": "83f4f79a",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Zuggtmoy.md`\n  - L1 # Description\n  - L9 # Zuggtmoy’s Lair\n  - L13 ## Lair Actions\n  - L23 ## Regional Effects\n  - L35 # Cultists of Zuggtmoy\n  - L41 # Existing Lore\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd this stat block to Zuggtmoy.md using Blank Statblock.md . Make sure any text containing special characters is wrapped in quotation marks, and dont forget the text saying how many legendary actions it has:\n\nZuggtmoy\nLarge Fiend (Demon), Chaotic Evil\n\nArmor Class 18 (natural armor)\nHit Points 304 (32d10 + 128)\nSpeed 30 ft.\n\nSTR\n22 (+6)\nDEX\n15 (+2)\nCON\n18 (+4)\nINT\n20 (+5)\nWIS\n19 (+4)\nCHA\n24 (+7)\n\nSaving Throws DEX +9, CON +11, WIS +11\nSkills Perception +11\nDamage Resistances Cold, Fire, Lightning\nDamage Immunities Poison; Bludgeoning, Piercing, and Slashing that is Nonmagical\nCondition Immunities Charmed, Exhaustion, Frightened, Poisoned\nSenses Truesight 120 ft., Passive Perception 21\nLanguages All, Telepathy 120 ft.\nChallenge 23 (50,000 XP)\nProficiency Bonus +7\n\nTraits\nLegendary Resistance (3/Day). If Zuggtmoy fails a saving throw, she can choose to succeed instead.\n\nMagic Resistance. Zuggtmoy has advantage on saving throws against spells and other magical effects.\n\nActions\nMultiattack. Zuggtmoy makes three Pseudopod attacks.\n\nPseudopod. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) force damage plus 9 (2d8) poison damage.\n\nSpellcasting. Zuggtmoy casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will: detect magic, locate animals or plants\n\n3/day each: dispel magic, entangle, plant growth\n\n1/day each: etherealness, teleport\n\nBonus Actions\nInfestation Spores (3/Day). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Any creature in the cloud when it appears, or that enters it later, must make a DC 19 Constitution saving throw. On a successful save, the creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy, which lasts until the creature is cured of the disease or dies. While infected in this way, the creature can’t be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature’s body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it’s a type of creature that can be (see the “Myconids” section in the Monster Manual).\n\nMind Control Spores (Recharge 5–6). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and Beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, a creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is charmed by her and can’t be reinfected by these spores.\n\nReactions\nProtective Thrall. When Zuggtmoy is hit by an attack roll, one creature within 10 feet of her that is charmed by her is hit by the attack instead.\n\nLegendary Actions\nZuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Zuggtmoy regains spent legendary actions at the start of her turn.\n\nAttack. Zuggtmoy makes one Pseudopod attack.\n\nExert Will. One creature charmed by Zuggtmoy that she can see must use its reaction, if available, to move up to its speed as she directs or to make one weapon attack against a target that she designates.\n\n"
-        }
-      ],
-      "createdAt": 1785445068369,
-      "updatedAt": 1785445068369
-    },
-    "9bb2fca9": {
-      "hash": "9bb2fca9",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L1 ### A Stickyickistan Adventure for Four to Five 3rd-Level Characters\n  - L7 # Outline\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L52 ## Key NPCs\n  - L63 ## Content Warning\n  - L69 ## Adventure Background\n  - L93 # Part 1: The Rolling Papers\n  - L99 ## Adventure Hook\n  - L107 ### BOUNTY POSTED\n  - L109 #### Tribunal Highblade Coalition\n  - L133 ## [[Highblade Tower]]\n  - L149 ### Ziggy Tootokes\n  - L157 ## The Briefing\n  - L184 ## What Ziggy Knows\n  - L188 ### Bloodwalker OG\n  - L192 ### Wick & Wax Candleworks\n  - L196 ### The Occupants\n  - L200 ### Hidden Storage\n  - L204 ## Treasure\n  - L208 ## Development\n  - L216 # Part 2: Wick & Wax Candleworks\n  - L224 ## General Features\n  - L238 # Arriving at the Workshop\n  - L254 # Visiting During the Day\n  - L272 # Visiting After Dark\n  - L290 # Workshop Occupants\n  - L309 ## Marek Flint\n  - L323 # Searching the Workshop\n  - L327 ### Showroom\n  - L333 ### Workshop\n  - L339 ### Storage\n  - L345 ### Office\n  - L371 #### Strongbox\n  - L404 # The Hidden Well\n  - L418 # Combat\n  - L444 # Development\n  - L458 # Part 3: The Hidden Cellar\n  - L466 ## General Features\n  - L480 ## C1. Trapdoor Entrance\n  - L490 ## C2. Smuggler's Well\n  - L500 ## C3. Distribution Floor\n  - L519 ### Crates\n  - L525 ### Shipment Records\n  - L535 ## Marek Arrives\n  - L560 ### Marek's Goal\n  - L572 ## Shadows\n  - L580 ## C4. Workers' Quarters\n  - L590 ## Development\n  - L602 ## Conclusion\n  - L641 # Rewards\n  - L656 ## Treasure Bundles\n  - L669 # Story Award\n  - L671 ## Friend of Ziggy\n  - L681 # Experience\n  - L695 # Dungeon Master Aid: Rumors\n  - L707 ## Copper Rumors (1 cp)\n  - L731 ## Silver Rumors (1 sp)\n  - L753 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me find any inconsistencies or other mistakes in Crimson Candleworks.md \n\n"
-        }
-      ],
-      "createdAt": 1785446745318,
-      "updatedAt": 1785446745318
-    },
-    "d1fa12d0": {
-      "hash": "d1fa12d0",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L1 ### A Stickyickistan Adventure for Four to Five 3rd-Level Characters\n  - L7 # Outline\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L52 ## Key NPCs\n  - L63 ## Content Warning\n  - L69 ## Adventure Background\n  - L93 # Part 1: The Rolling Papers\n  - L99 ## Adventure Hook\n  - L107 ### BOUNTY POSTED\n  - L109 #### Tribunal Highblade Coalition\n  - L133 ## [[Highblade Tower]]\n  - L149 ### Ziggy Tootokes\n  - L157 ## The Briefing\n  - L184 ## What Ziggy Knows\n  - L188 ### Bloodwalker OG\n  - L192 ### Wick & Wax Candleworks\n  - L196 ### The Occupants\n  - L200 ### Hidden Storage\n  - L204 ## Treasure\n  - L208 ## Development\n  - L216 # Part 2: Wick & Wax Candleworks\n  - L224 ## General Features\n  - L238 # Arriving at the Workshop\n  - L254 # Visiting During the Day\n  - L272 # Visiting After Dark\n  - L290 # Workshop Occupants\n  - L309 ## Marek Flint\n  - L323 # Searching the Workshop\n  - L327 ### Showroom\n  - L333 ### Workshop\n  - L339 ### Storage\n  - L345 ### Office\n  - L371 #### Strongbox\n  - L404 # The Hidden Well\n  - L418 # Combat\n  - L444 # Development\n  - L458 # Part 3: The Hidden Cellar\n  - L466 ## General Features\n  - L480 ## C1. Trapdoor Entrance\n  - L490 ## C2. Smuggler's Well\n  - L500 ## C3. Distribution Floor\n  - L519 ### Crates\n  - L525 ### Shipment Records\n  - L535 ## Marek Arrives\n  - L560 ### Marek's Goal\n  - L572 ## Shadows\n  - L580 ## C4. Workers' Quarters\n  - L590 ## Development\n  - L602 ## Conclusion\n  - L641 # Rewards\n  - L656 ## Treasure Bundles\n  - L669 # Story Award\n  - L671 ## Friend of Ziggy\n  - L681 # Experience\n  - L695 # Dungeon Master Aid: Rumors\n  - L707 ## Copper Rumors (1 cp)\n  - L731 ## Silver Rumors (1 sp)\n  - L753 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI like that, add it to an appropriate spot in Crimson Candleworks.md \n\n"
-        }
-      ],
-      "createdAt": 1785447155537,
-      "updatedAt": 1785447155537
-    },
-    "6da34d99": {
-      "hash": "6da34d99",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Bicephal Wyrmhole.md`\n  - L3 # Description\n  - L14 # Stat Block\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat this info and add to Bicephal Wyrmhole.md :\n\nGraviturgic Warp-hilt\nWondrous Item, Uncommon (Socketable,\nRequires Attunement)\nComponent: Pouch of Aberration (Bicephal Wyrmhole)\nClaws\nRunning around from foe to foe, hunting them\nlike prey, is such a waste of energy. Being a truly\nformidable opponent, one with gravitas, means\nbringing your enemies to you. Let them waste their\nstrength running towards their own slaughter.\nThis distorted, unnatural sword hilt can be\nsocketed onto any magical melee weapon,\nadapting its bizarre geometry to the hilt or\nhandle of its host.\nGravity Well. Once on each of your turns when you\nmake an attack roll using the socketed weapon,\nyou can attack a creature 5 feet farther than your\nnormal reach with the weapon. On a hit, the creature\nis pulled 5 feet directly towards you.\nConsuming Force. As a Bonus Action, you can flourish\nthe socketed weapon and create a miniscule\nblack hole at a point you can see within 20 feet of\nyou. Each creature within 15 feet of the point must\nsucceed on a DC 13 Strength saving throw or\nbe pulled to the unoccupied space nearest the\npoint. When this property is used, roll 1d4. On a 1,\nthe black hole consumes the magic of the socketed\nweapon; the hilt and weapon lose their magical\nproperties until the next dawn.\nArtist: Michelle Mueller\nRare variant: Increase the DC to 15. Creatures\nthat fail their saving throw against the Consuming\nForce property are knocked Prone.\nVery Rare variant: Increase the DC to 16 and the\nreach and the distance pulled of the Gravity Well\nproperty to 10 feet each. Creatures that fail their\nsaving throw against the Consuming Force property\nare knocked Prone.\n\n"
-        }
-      ],
-      "createdAt": 1785447526406,
-      "updatedAt": 1785447526406
     },
     "4b2eb710": {
       "hash": "4b2eb710",
@@ -297,17 +165,6 @@
       ],
       "createdAt": 1785514562528,
       "updatedAt": 1785514562528
-    },
-    "4891c926": {
-      "hash": "4891c926",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Stickyickistan.md`\n  - Properties:\n    - `title`: `History of Stickyickistan`\n  - L7 # Modern Stickyickistan\n  - L22 # Past Stickyickistan\n  - L25 ## [[Human Colonialism]]\n  - L47 ## The Doobius House Resistance\n  - L59 ## The [[Arcane Civil War]]\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease remove all of these \"—\" from Stickyickistan.md and improve the writing.\n\n"
-        }
-      ],
-      "createdAt": 1785514962474,
-      "updatedAt": 1785514962474
     },
     "549d3219": {
       "hash": "549d3219",
@@ -342,83 +199,6 @@
       "createdAt": 1785523492414,
       "updatedAt": 1785523492414
     },
-    "e77ec945": {
-      "hash": "e77ec945",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Seekers' Scrapyard.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you improve the write up in Seekers' Scrapyard.md using context from its related files that are linked to it\n\n"
-        }
-      ],
-      "createdAt": 1785524452014,
-      "updatedAt": 1785524452014
-    },
-    "fee6aea5": {
-      "hash": "fee6aea5",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Ashen Shadow Society/ASSCUNT.md`\n  - L5 # Known Members\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me improve and fill out ASSCUNT.md \n\n"
-        }
-      ],
-      "createdAt": 1785531014394,
-      "updatedAt": 1785531014394
-    },
-    "058ddbf6": {
-      "hash": "058ddbf6",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Zooka Mire Collective.md`\n  - L15 ### Roles\n  - L20 ## Notable Members\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me improve the info layout of Zooka Mire Collective.md \n\n"
-        }
-      ],
-      "createdAt": 1785531585593,
-      "updatedAt": 1785531585593
-    },
-    "b4c140bd": {
-      "hash": "b4c140bd",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Zooka Mire Collective.md`\n  - L1 ## Overview\n  - L7 ## Philosophy\n  - L13 ## Role in Stickyickistan\n  - L19 ## Organization\n  - L29 ## Leadership\n  - L37 ## Succession and Internal Politics\n  - L43 ## Territories\n  - L45 ### Zooka Mire\n  - L49 ### The Undercity\n  - L53 ## Roles\n  - L59 ## Notable Members\n  - L64 ## Adventure Hooks\n- `content/Factions/Dungsweepers.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd to Zooka Mire Collective.md about their relation to the Dungsweepers.md \n\n"
-        }
-      ],
-      "createdAt": 1785531866251,
-      "updatedAt": 1785531866251
-    },
-    "bcd4ae4c": {
-      "hash": "bcd4ae4c",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/The Seekers of the Vein.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me improve the info layout of The Seekers of the Vein.md \n\n"
-        }
-      ],
-      "createdAt": 1785532095890,
-      "updatedAt": 1785532095890
-    },
-    "a27a6b4f": {
-      "hash": "a27a6b4f",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Wyvern and the Wyrmhole.md`\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L559 ## Treasure Bundles\n  - L572 ## Story Award\n  - L574 ## Friend of Ziggy\n  - L584 # Experience\n  - L590 # Dungeon Master Aid: Rumors\n  - L602 ## Copper Rumors (1 cp)\n  - L626 ## Silver Rumors (1 sp)\n  - L648 ## Gold Rumors (1 gp)\n- `content/Adventures/DM Notes/The Wyvern and The Wyrmhole.md`\n  - L3 # Notes\n  - L13 ## The Ritual\n  - L27 ## Maps\n  - L29 ### Mountain\n  - L34 ## How to run\n  - L51 # Message\n  - L57 ### Assignment Designation\n  - L63 ### Parameters\n  - L92 ### Closing\n  - L107 # Sealed Addendum\n  - L114 ### Required Assets\n  - L127 ### Rite Procedure\n  - L143 ### Emergence Window\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you help me make an adventure in Wyvern and the Wyrmhole.md using the structure of Crimson Candleworks.md based on the existing adventure The Wyvern and The Wyrmhole.md . I just want to make the adventure not specifically for Dr. C Rothvell\n\n"
-        }
-      ],
-      "createdAt": 1785533220576,
-      "updatedAt": 1785533220576
-    },
-    "c0587290": {
-      "hash": "c0587290",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L67 # Example: Smoke on the Silt Road\n  - L78 ### Coded Notice\n  - L82 ### Public-Facing Job Pitch\n  - L88 ### What Players Should Know\n  - L96 ### Rewards Teaser\n  - L100 ### Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nNo I want it to be like an ad that would appear in The Roach Clip.md \n\n"
-        }
-      ],
-      "createdAt": 1785534626731,
-      "updatedAt": 1785534626731
-    },
     "ef969acd": {
       "hash": "ef969acd",
       "content": [
@@ -440,28 +220,6 @@
       ],
       "createdAt": 1785534845835,
       "updatedAt": 1785534845835
-    },
-    "e6da7069": {
-      "hash": "e6da7069",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Items/Mind Blade.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFill in Mind Blade.md with info about the DND item Mind Blade\n\n"
-        }
-      ],
-      "createdAt": 1785535057952,
-      "updatedAt": 1785535057952
-    },
-    "e0c29d56": {
-      "hash": "e0c29d56",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md`\n  - L7 # Introduction\n  - L9 ## Adjusting Encounters\n  - L15 ## Key Plot Points\n  - L25 ## Preparation\n  - L35 ### Stat Blocks\n  - L41 ## Key NPCs\n  - L50 ## Content Warning\n  - L54 ## Adventure Background\n  - L64 # Part 1: The Contract\n  - L70 ## Adventure Hook\n  - L74 ### Roach Clip Advertisement\n  - L110 ## The Assignment\n  - L123 ## Crafting the Mind Blade\n  - L131 ## What the Society Knows\n  - L143 ## Development\n  - L149 # Part 2: The Wyvern Hunt\n  - L165 ## Tracking the Wyvern\n  - L173 ## The Trail Assault\n  - L181 ## Wyvern Lair\n  - L196 ## Preserving the Corpse\n  - L206 # Part 3: The Wyrmhole Rite\n  - L212 ## General Features\n  - L222 ## Rite Procedure\n  - L230 ## The Emergence Window\n  - L242 ## Gravity Well Hazard\n  - L250 ## Bicephal Wyrmhole\n  - L256 ## Development\n  - L264 # Conclusion\n  - L280 # Rewards\n  - L290 ## Story Award: Society Asset\n  - L294 ## Experience\n  - L298 # Dungeon Master Aid: Hunting Complications\n  - L311 # Rumors\n  - L315 ## Common Rumors\n  - L322 ## Reliable Rumors\n  - L329 ## Dangerous Rumors\n- `content/Items/Mind Blade.md`\n  - L8 ## Intended Wielder\n  - L14 ## Properties\n  - L24 ## Creation\n  - L30 ## Narrative Use\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease adjust Wyvern and the Wyrmhole.md based on the new info in Mind Blade.md \n\n"
-        }
-      ],
-      "createdAt": 1785536157870,
-      "updatedAt": 1785536157870
     },
     "7f0f8b41": {
       "hash": "7f0f8b41",
@@ -518,17 +276,6 @@
       "createdAt": 1785537798692,
       "updatedAt": 1785537798692
     },
-    "de50dfdc": {
-      "hash": "de50dfdc",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L4 ## Introduction\n  - L10 ## Adventure Background\n  - L16 ## Adventure Hook\n  - L26 ### Rumors\n  - L39 # Part 1: Investigation\n  - L53 ## Investigation Scenes\n  - L57 ### Frightened Locals\n  - L67 ### Damaged Crops or Bodies\n  - L77 ### Slime Trail\n  - L87 ## Clues\n  - L99 # Part 2: The Outer Nest\n  - L111 ## Encounter: Salad Tadpoles\n  - L117 ## Outer Nest Hazards\n  - L130 # Part 3: The Heart of the Nest\n  - L144 ## Boss Encounter\n  - L153 ## Egg Clusters\n  - L162 ## Red Salad Tactics\n  - L171 ## Battlefield Features\n  - L181 ## Objectives Beyond Killing Everything\n  - L190 # Part 4: Conclusion\n  - L196 ## Possible Rewards\n  - L205 ## Lingering Consequences\n  - L217 # Difficulty\n  - L232 # DM Notes\n  - L234 ## Tone\n  - L238 ## Scaling\n  - L245 ## Harvest Ideas\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPart of Curse of Slaad.md doesn't make much sense or flow very well. Please improve\n\n"
-        }
-      ],
-      "createdAt": 1785874476523,
-      "updatedAt": 1785874476523
-    },
     "e4e6bafa": {
       "hash": "e4e6bafa",
       "content": [
@@ -539,28 +286,6 @@
       ],
       "createdAt": 1785874747665,
       "updatedAt": 1785874747665
-    },
-    "cfd16a0a": {
-      "hash": "cfd16a0a",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L15 ## Adventure Hook\n  - L21 ### Opening Scene\n  - L39 ### Rumors\n  - L54 # Part 1: Investigation\n  - L62 # Part 1: Investigation\n  - L76 ## Investigation Scenes\n  - L80 ### Frightened Locals\n  - L92 ### Damaged Crops or Bodies\n  - L104 ### Slime Trail\n  - L116 ## Clues\n  - L131 # Part 2: The Outer Nest\n  - L147 ## Encounter: Salad Tadpoles\n  - L155 ## Outer Nest Hazards\n  - L168 # Part 3: The Heart of the Nest\n  - L182 ## Boss Encounter\n  - L193 ## Egg Clusters\n  - L202 ## Red Salad Tactics\n  - L212 ## Battlefield Features\n  - L222 ## Objectives Beyond Killing Everything\n  - L234 # Part 4: Conclusion\n  - L242 ## Possible Rewards\n  - L251 ## Lingering Consequences\n  - L264 # Difficulty\n  - L279 # DM Notes\n  - L281 ## Tone\n  - L285 ## Scaling\n  - L292 ## Harvest Ideas\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease check Curse of Slaad.md entirely and make sure it is coherent\n\n"
-        }
-      ],
-      "createdAt": 1785876617062,
-      "updatedAt": 1785876617062
-    },
-    "2edcf168": {
-      "hash": "2edcf168",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L15 ## Adventure Hook\n  - L21 ### Opening Scene\n  - L39 ### Rumors\n  - L54 ### Rumors\n  - L69 # Part 1: Investigation\n  - L83 ## Investigation Scenes\n  - L85 ## Investigation Scenes\n  - L89 ### Frightened Locals\n  - L101 ### Damaged Crops or Bodies\n  - L113 ### Slime Trail\n  - L125 ## Clues\n  - L140 # Part 2: The Outer Nest\n  - L143 ## Encounter: Slaad Tadpoles\n  - L156 ## Encounter: Salad Tadpoles\n  - L164 ## Outer Nest Hazards\n  - L177 # Part 3: The Heart of the Nest\n  - L191 ## Boss Encounter\n  - L202 ## Egg Clusters\n  - L211 ## Red Salad Tactics\n  - L221 ## Battlefield Features\n  - L231 ## Objectives Beyond Killing Everything\n  - L243 # Part 4: Conclusion\n  - L251 ## Possible Rewards\n  - L260 ## Lingering Consequences\n  - L273 # Difficulty\n  - L288 # DM Notes\n  - L290 ## Tone\n  - L294 ## Scaling\n  - L301 ## Harvest Ideas\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI still see references to Red Salad in Curse of Slaad.md please fix the whole document\n\n"
-        }
-      ],
-      "createdAt": 1785876741918,
-      "updatedAt": 1785876741918
     },
     "848060e2": {
       "hash": "848060e2",
@@ -573,28 +298,6 @@
       "createdAt": 1785876845763,
       "updatedAt": 1785876845763
     },
-    "af5e650d": {
-      "hash": "af5e650d",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L15 ## Adventure Hook\n  - L21 ### Opening Scene\n  - L39 ### Rumors\n  - L54 # Part 1: Investigation\n  - L68 ## Investigation Scenes\n  - L72 ### Frightened Locals\n  - L84 ### Damaged Crops or Bodies\n  - L96 ### Slime Trail\n  - L108 ## Clues\n  - L123 # Part 2: The Outer Nest\n  - L126 ## Encounter: Slaad Tadpoles\n  - L139 ## Encounter: Salad Tadpoles\n  - L140 ## Encounter: Slaad Tadpoles\n  - L147 ## Outer Nest Hazards\n  - L160 # Part 3: The Heart of the Nest\n  - L174 ## Boss Encounter\n  - L177 ## Boss Encounter\n  - L188 ## Egg Clusters\n  - L197 ## Red Slaad Tactics\n  - L207 ## Battlefield Features\n  - L213 # Part 4: Conclusion\n  - L221 ## Possible Rewards\n  - L230 ## Lingering Consequences\n  - L243 # Difficulty\n  - L258 # DM Notes\n  - L260 ## Tone\n  - L264 ## Scaling\n  - L271 ## Harvest Ideas\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease fix any references to Salad creatures and any duplicate parts of Curse of Slaad.md \n\n"
-        }
-      ],
-      "createdAt": 1785876955863,
-      "updatedAt": 1785876955863
-    },
-    "96dc1a81": {
-      "hash": "96dc1a81",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L73 # Example: Monsters at the Northbourne Orchard Festival\n  - L83 ### Headline\n  - L87 ### Public Notice\n  - L95 ### What Players Should Know\n  - L102 ### Rewards Teaser\n  - L106 ### Sign-Up\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L67 # Example: Smoke on the Silt Road\n  - L78 ### Coded Notice\n  - L82 ### Public-Facing Job Pitch\n  - L88 ### What Players Should Know\n  - L96 ### Rewards Teaser\n  - L100 ### Sign-Up\n- `content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md`\n  - L7 # Introduction\n  - L9 ## Adjusting Encounters\n  - L15 ## Key Plot Points\n  - L25 ## Preparation\n  - L35 ### Stat Blocks\n  - L41 ## Key NPCs\n  - L50 ## Content Warning\n  - L54 ## Adventure Background\n  - L64 # Part 1: The Contract\n  - L70 ## Adventure Hook\n  - L74 ### Roach Clip Advertisement\n  - L155 ### Dead Drop Encounter\n  - L165 #### The Shrine\n  - L170 ## Development\n  - L176 # Part 2: The Wyvern Hunt\n  - L190 ### Setting the Tracking Challenge\n  - L208 ### Making Tracking Checks\n  - L222 ### Tracking Consequences\n  - L228 ## Tracking Complications\n  - L239 ## Tracking Outcomes\n  - L248 ## Hunt Advantage\n  - L260 ## Quick Success Benefits\n  - L271 ## The Trail Assault\n  - L281 # Riverside Mill\n  - L283 ## Natural Day\n  - L287 ## Wyvern Lair\n  - L305 # Beetle Tribe Canyon\n  - L307 ## Empty Day\n  - L311 # Mountain Logging Camp\n  - L313 ## Natural\n  - L317 # Gate of Angels\n  - L319 ## Platform\n  - L323 # Coastal Caverns\n  - L325 ## Empty Day\n  - L329 ## Preserving the Corpse\n  - L339 # Part 3: The Wyrmhole\n  - L345 ## General Features\n  - L355 ## Rite Procedure\n  - L363 ## The Emergence Window\n  - L375 ## Bicephal Wyrmhole\n  - L381 ## Development\n  - L389 # Conclusion\n  - L405 # Rewards\n  - L415 ## Story Award: Society Asset\n  - L419 ## Experience\n  - L423 # Dungeon Master Aid: Hunting Complications\n  - L436 # Rumors\n  - L440 ## Common Rumors\n  - L447 ## Reliable Rumors\n  - L454 ## Dangerous Rumors\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake sure to include a way for the players to find this quest. Is it found in The Rolling Papers.md , The Roach Clip.md or somehwhere else? Follow a structure like this adventure Wyvern and the Wyrmhole.md \n\n"
-        }
-      ],
-      "createdAt": 1785877186985,
-      "updatedAt": 1785877186985
-    },
     "039f2d25": {
       "hash": "039f2d25",
       "content": [
@@ -606,17 +309,6 @@
       "createdAt": 1785877612524,
       "updatedAt": 1785877612524
     },
-    "3151d563": {
-      "hash": "3151d563",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Zooka Mire Collective.md`\n  - L1 ## Overview\n  - L7 ## Philosophy\n  - L13 ## Role in Stickyickistan\n  - L27 ## Organization\n  - L37 ## Leadership\n  - L45 ## Succession and Internal Politics\n  - L51 ## Territories\n  - L53 ### Zooka Mire\n  - L57 ### The Undercity\n  - L61 ## Roles\n  - L67 ## Notable Members\n  - L72 ## Adventure Hooks\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L15 ## Adventure Hook\n  - L27 ### Opening Scene\n  - L45 ### Rumors\n  - L60 # Part 1: Investigation\n  - L74 ## Investigation Scenes\n  - L78 ### Frightened Locals\n  - L90 ### Damaged Crops or Bodies\n  - L102 ### Slime Trail\n  - L114 ## Clues\n  - L129 # Part 2: The Outer Nest\n  - L135 ## Encounter: Slaad Tadpoles\n  - L151 ## Outer Nest Hazards\n  - L164 # Part 3: The Heart of the Nest\n  - L178 ## Boss Encounter\n  - L187 ## Egg Clusters\n  - L196 ## Red Slaad Tactics\n  - L206 ## Battlefield Features\n  - L216 ## Objectives Beyond Killing Everything\n  - L228 # Part 4: Conclusion\n  - L236 ## Possible Rewards\n  - L245 ## Lingering Consequences\n  - L255 # Difficulty\n  - L269 # DM Notes\n  - L271 ## Tone\n  - L275 ## Scaling\n  - L282 ## Harvest Ideas\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI think it would make more sense for the Zooka Mire Collective.md to be behind the contamination. Please update Curse of Slaad.md \n\n"
-        }
-      ],
-      "createdAt": 1785879773857,
-      "updatedAt": 1785879773857
-    },
     "361e8c70": {
       "hash": "361e8c70",
       "content": [
@@ -627,94 +319,6 @@
       ],
       "createdAt": 1785881812631,
       "updatedAt": 1785881812631
-    },
-    "c5461aed": {
-      "hash": "c5461aed",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L19 ## Adventure Hook\n  - L31 ## Part 1: The Port Ale\n  - L37 ### Finding Port Ale\n  - L43 ### Entering the Loot Tavern\n  - L57 ## Threeflower\n  - L75 ## Content Warning\n  - L79 # Part 2: Journey to Springarden\n  - L85 ## Tracking the Road to Springarden\n  - L97 ## Tracking Consequences\n  - L112 ## Arrival at Springarden\n  - L125 ## Springarden\n  - L131 ### General Features\n  - L138 ## Investigation Scenes\n  - L142 ### Pyrax’s Feather\n  - L152 ### Feyfest Flyer\n  - L166 ### Fey Creatures\n  - L174 ## Know Thy Enemy\n  - L186 # Part 2: The Shining Shrine\n  - L192 ## Approaching the Shrine\n  - L196 ### During the Day\n  - L200 ### At Night\n  - L204 ## Emotive Waters\n  - L213 ## Lair Actions\n  - L221 ## Wave 1: Sunbear\n  - L225 ### Enemies\n  - L237 ## Wave 2: Constellation\n  - L260 ## Wave 3: Supernova\n  - L277 ## Objectives Beyond Defeat\n  - L287 # Part 3: Aftermath\n  - L297 ## Rewards\n  - L306 ## Further Adventures\n  - L313 # Difficulty and Scaling\n  - L321 # Harvesting\n- `content/Adventures/DM Notes/FLS/Tier 1/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Free League of Stickyickistan/Character Building.md`\n  - L2 ##### Stat Generation\n  - L6 ##### Hit Points\n  - L8 ##### PHB+1\n  - L10 ##### Species\n  - L12 #### Guide\n  - L25 ##### Starting Play at 3rd Level\n  - L33 ##### Starting Play at 5th Level\n  - L41 # Spell Amendments\n  - L43 ## Silvery Barbs\n  - L47 # Class Amendments\n  - L49 ## Artificer\n  - L53 ## Barbarian\n  - L61 ## Bard\n  - L65 ## Cleric\n  - L73 ## Druid\n  - L78 ## Fighter.\n  - L85 ## Gunslinger (Valda's Spire of Secrets)\n  - L89 ## Monk.\n  - L93 ## Monster Hunter (Grim Hollow Player's Guide)\n  - L97 ## Paladin.\n  - L103 ## Ranger.\n  - L110 ## Rogue.\n  - L115 ## Sorcerer.\n  - L162 ## Warlock.\n  - L166 ## Wizard.\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI need a brief to give my players before we play the game for the adventure The Shining Shrine.md . Use The Tenebrous Stone-r.md  as a boilerplate. Also make sure to abide by the rules in Character Building.md .\n\n"
-        }
-      ],
-      "createdAt": 1785882356046,
-      "updatedAt": 1785882356046
-    },
-    "4d34b7b7": {
-      "hash": "4d34b7b7",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `Springarden.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nGive me a small write up for Springarden.md \n\n"
-        }
-      ],
-      "createdAt": 1785883818727,
-      "updatedAt": 1785883818727
-    },
-    "d7054553": {
-      "hash": "d7054553",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `Blossom Union.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nGive me a small write up for Blossom Union.md \n\n"
-        }
-      ],
-      "createdAt": 1785883869221,
-      "updatedAt": 1785883869221
-    },
-    "fb7a21f3": {
-      "hash": "fb7a21f3",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `Threeflower.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nGive me a small write up for Threeflower.md \n\n"
-        }
-      ],
-      "createdAt": 1785883945030,
-      "updatedAt": 1785883945030
-    },
-    "db6dc730": {
-      "hash": "db6dc730",
-      "content": [
-        {
-          "type": "text",
-          "text": "<user_selected_content path=\"Threeflower.md\" startLine=\"1\" endLine=\"40\">\n```Threeflower.md\n1|# Threeflower\n2|\n3|Threeflower is a timid gnome druid and a field representative of the [[Blossom Union]]. He helps maintain [[Springarden]], guides pilgrims through [[Springwood]], and investigates disturbances along the fragile boundary between the Material Plane and the Plane of Fey.\n4|\n5|Despite his nervous manner, Threeflower is observant, compassionate, and deeply familiar with the garden. He is most comfortable among trees, flowers, warm springs, and small fey creatures. In crowded taverns or unfamiliar company, he fidgets, apologizes frequently, and lets his blink squirrel companion, Moo, do much of the social work.\n6|\n7|Threeflower is currently recruiting adventurers to help remove a dangerous fey owlbear from the Shining Shrine. He meets the party at [[The Loot Tavern]] after they use [[Port Ale]] to reach it, then guides them through the forest to Springarden.\n8|\n9|## Appearance\n10|\n11|Threeflower is a stocky gnome with moss-green hair and a gentle, weathered face. He wears roughspun clothing decorated with feathers, fur, leaves, and small wooden charms collected from creatures that died naturally. He carries a walking staff covered in fresh shoots and is usually accompanied by Moo, a many-eyed blink squirrel.\n12|\n13|## Personality\n14|\n15|- Nervous around strangers and crowded places.\n16|- Relaxed and confident in nature.\n17|- Kind, grateful, and uncomfortable with confrontation.\n18|- Easily distracted by unusual plants, insects, and fey phenomena.\n19|- More courageous when protecting Springarden or Moo.\n20|\n21|## Motivations\n22|\n23|Threeflower wants to protect Springarden, preserve the Blossom Union’s relationship with pilgrims, and keep the garden’s fey crossings peaceful. He hopes the current crisis can be solved without destroying the shrine or harming creatures that can be driven away instead of killed.\n24|\n25|He also wants a quiet, sunlit place to spend his evenings smoking half-leaf. He is reluctant to admit this to strangers, especially if they appear judgmental.\n26|\n27|## Fears\n28|\n29|Threeflower fears offending people, direct confrontation, forest fires, and failing the Blossom Union. He is particularly afraid that the suneater owlbear will damage Springarden beyond repair or that the garden’s corrupted magic will spread into the surrounding [[Springwood]].\n30|\n31|## Moo\n32|\n33|Moo is Threeflower’s blink squirrel companion. Unlike an ordinary squirrel, Moo is a fey creature and does not respond to magic that targets beasts. Moo can teleport between nearby branches, disappears whenever conversation becomes boring, and has an intense interest in candy, shiny objects, and unattended spell components.\n34|\n35|## Mannerisms and Saying\n36|\n37|> “Yawns* Oh, h-h-hello. Am I in your way? No? Sorry. Moo would like to know if you have any candy.”\n38|\n39|Threeflower often rubs his hands together when nervous, checks whether Moo is nearby, and apologizes to plants after stepping on them. When he becomes comfortable in nature, his stammer fades and he speaks with quiet confidence.\n40|\n```\n</user_selected_content>\n\n\nThreeflower.md (436 Words) remove all references to the shining shrine adventure\n\n"
-        }
-      ],
-      "createdAt": 1785884031995,
-      "updatedAt": 1785884031995
-    },
-    "7d3f0120": {
-      "hash": "7d3f0120",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `Threeflower.md`\n  - L1 # Threeflower\n  - L9 ## Appearance\n  - L13 ## Personality\n  - L21 ## Motivations\n  - L27 ## Fears\n  - L31 ## Moo\n  - L35 ## Mannerisms and Saying\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nRemove all references to the shining shrine adventure or the suneather owlbear in Threeflower.md \n\n"
-        }
-      ],
-      "createdAt": 1785884070970,
-      "updatedAt": 1785884070970
-    },
-    "2d67ad38": {
-      "hash": "2d67ad38",
-      "content": [
-        {
-          "type": "text",
-          "text": "<user_selected_content path=\"Threeflower.md\" startLine=\"29\" endLine=\"29\">\n```Threeflower.md\n29|suneater owlbear\n```\n</user_selected_content>\n\n\nThreeflower.md (2 Words) It still referencing the suneater owlbear. Please check the entire document and remove them\n\n"
-        }
-      ],
-      "createdAt": 1785884132368,
-      "updatedAt": 1785884132368
-    },
-    "ad59084d": {
-      "hash": "ad59084d",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Dread and Breakfast.md`\n  - L1 # Dread and Breakfast\n  - L9 ## [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Background)Background\n  - L23 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Summary)Summary\n  - L32 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#AdventureHooks)Adventure Hooks\n  - L42 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#HuntRewardsperPlayerCharacter)Hunt Rewards per Player Character\n  - L50 ## [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Tanglepines)Tanglepines\n  - L54 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Tracking)Tracking\n  - L63 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#UniqueFloraFauna)Unique Flora & Fauna\n  - L83 ## [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#KnowThyEnemy)Know Thy Enemy\n  - L95 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Clue1Acid)Clue 1: Acid\n  - L103 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Clue2MimicTavern)Clue 2: Mimic Tavern\n  - L109 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Clue3Warded)Clue 3: Warded\n  - L125 ## [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#TheBattleAhead)The Battle Ahead\n  - L135 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#WaveDamageThresholds)Wave Damage Thresholds\n  - L142 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#ATavernsDomain)A Tavern’s Domain\n  - L146 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#RegionalEffects)Regional Effects\n  - L156 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#LairActions)Lair Actions\n  - L160 ##### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#VariableLairActionStatistics)Variable Lair Action Statistics\n  - L178 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#EnteringtheTavern)Entering the Tavern\n  - L194 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave1Furniture)Wave 1: Furniture\n  - L204 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave1Enemies)Enemies\n  - L226 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave1Tactics)Tactics\n  - L232 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave2Shrink)Wave 2: Shrink\n  - L242 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave2Enemies)Enemies\n  - L262 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave2Tactics)Tactics\n  - L266 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave3JonjoStarr)Wave 3: Jonjo Starr\n  - L276 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave3Enemies)Enemies\n  - L297 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Wave3Tactics)Tactics\n  - L303 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#OptionalEndingDigestif)Optional Ending: Digestif\n  - L311 ## [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Aftermath)Aftermath\n  - L326 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Cacophonics)Cacophonics\n  - L359 ## [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Treasure)Treasure\n  - L363 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#TavernTreasure)Tavern Treasure\n  - L370 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Harvesting)Harvesting\n  - L374 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#TavernMimicHarvestTable)Tavern Mimic Harvest Table\n  - L385 ### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#Crafting)Crafting\n  - L389 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#TavernMimicCraftableItems)Tavern Mimic Craftable Items\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you help me tie Dread and Breakfast.md into Stickyickistan. Replace names and places where it makes sense.\n\n"
-        }
-      ],
-      "createdAt": 1785947330535,
-      "updatedAt": 1785947330535
     },
     "679a492c": {
       "hash": "679a492c",
@@ -738,61 +342,6 @@
       "createdAt": 1785949974771,
       "updatedAt": 1785949974771
     },
-    "ae929e2e": {
-      "hash": "ae929e2e",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Bezol Beefgut.md`\n  - L3 # Call to Action\n  - L11 # Backstory\n- `content/NPCs/Quest Givers/Heliana.md`\n  - L3 ### Heliana’s Cave\n- `content/NPCs/Quest Givers/Humperdink.md`\n  - L3 ### Humperdink’s Laboratory\n- `content/NPCs/Quest Givers/Humperdink.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Heliana.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Kezrin Malvek.md`\n- `content/NPCs/Quest Givers/Kezrin Malvek.mdZone.Identifier`\n- `content/NPCs/Quest Givers/L'Arsene Upin.mdZone.Identifier`\n- `content/NPCs/Quest Givers/L'Arsene Upin.md`\n  - L3 ### L’Arsène’s Caravan\n- `content/NPCs/Quest Givers/Skarguther Dungleboof.md`\n- `content/NPCs/Quest Givers/Skarguther Dungleboof.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Zara Blackthorn.md`\n- `content/NPCs/Quest Givers/Zara Blackthorn.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Threeflower.md`\n  - L1 # Threeflower\n  - L9 ## Appearance\n  - L13 ## Personality\n  - L21 ## Motivations\n  - L27 ## Fears\n  - L31 ## Moo\n  - L35 ## Mannerisms and Saying\n\n## Mentioned Vault Folders\n- `content/NPCs/Quest Givers`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nLets create a Document for Dr. Stein in the Quest Givers \n\n"
-        }
-      ],
-      "createdAt": 1785950533014,
-      "updatedAt": 1785950533014
-    },
-    "cb786fb8": {
-      "hash": "cb786fb8",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Dr. Stein.md`\n  - L1 # Dr. Francis Norman Stein\n  - L7 ## Role in Stickyickistan\n  - L13 ## Appearance\n  - L19 ## Personality\n  - L28 ## Motivations\n  - L34 ## Mannerisms and Sayings\n- `content/POIs/N.E.R.D.md`\n  - L1 # N.E.R.D\n  - L7 ## Role in Stickyickistan\n  - L13 ## Areas of Study\n  - L28 ## Connections\n  - L40 ## Reputation\n  - L44 ## Quest Hooks\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI think Dr. Stein.md  should have some connection to N.E.R.D.md \n\n"
-        }
-      ],
-      "createdAt": 1785950917707,
-      "updatedAt": 1785950917707
-    },
-    "2e4cdff2": {
-      "hash": "2e4cdff2",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Dread and Breakfast.md`\n  - L1 # Dread and Breakfast\n  - L5 ## Introduction\n  - L11 ## Adventure Background\n  - L25 ## Summary\n  - L33 ## Adventure Hook\n  - L47 ## Dr. Stein\n  - L53 ### Hunt Rewards per Character\n  - L60 ## The Grim Forest\n  - L66 ### Tracking\n  - L74 ### Unique Flora and Fauna\n  - L83 ## Know Thy Enemy\n  - L92 ### Clue 1: Acid\n  - L98 ### Clue 2: The Tavern Mimic\n  - L104 ### Clue 3: Warded Exterior\n  - L108 ### Guthric\n  - L114 ## The Battle Ahead\n  - L126 ### Wave Damage Thresholds\n  - L136 ## A Tavern’s Domain\n  - L145 ### Lair Actions\n  - L159 ## Entering the Tavern\n  - L175 ## Wave 1: Furniture\n  - L185 ## Wave 2: Shrink\n  - L201 ## Wave 3: Jonjo Starr\n  - L215 ### Wave 3 Enemies\n  - L223 ## Optional Ending: Digestif\n  - L229 # Aftermath\n  - L237 ## Further Adventure Hooks\n  - L245 ## Rewards\n  - L261 ## Harvesting\n  - L273 ### Crafting\n  - L277 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#TavernMimicCraftableItems)Tavern Mimic Craftable Items\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make a document in the Adventure Briefs  folder for Dread and Breakfast.md  using the same format as the example in The Rolling Papers.md  just like The Shining Shrine Player Brief.md \n\n"
-        }
-      ],
-      "createdAt": 1785953831020,
-      "updatedAt": 1785953831020
-    },
-    "70e85453": {
-      "hash": "70e85453",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L559 ## Treasure Bundles\n  - L572 ## Story Award\n  - L574 ## Friend of Ziggy\n  - L584 # Experience\n  - L590 # Dungeon Master Aid: Rumors\n  - L602 ## Copper Rumors (1 cp)\n  - L626 ## Silver Rumors (1 sp)\n  - L648 ## Gold Rumors (1 gp)\n- `content/Free League of Stickyickistan/Character Advancement.md`\n  - L1 # Character Advancement\n  - L5 ## Advancement Method\n  - L23 ## Adventure XP\n  - L31 ## Partial Completion\n  - L44 ## Bonus XP\n  - L57 ## Session Length\n  - L65 ## Suggested XP by Adventure Tier\n  - L78 ## Tier of Play\n  - L91 ## Recording Advancement\n  - L109 ## Gold and Treasure\n  - L124 ## Magic Items\n  - L132 ## Consumables\n  - L138 ## Story Awards\n  - L153 ## Downtime\n  - L161 ## Death, Disease, and Curses\n  - L169 ## Player Responsibility\n- `content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L19 ## Adventure Hook\n  - L31 ## Part 1: The Port Ale\n  - L37 ### Finding Port Ale\n  - L43 ### Entering the Loot Tavern\n  - L57 ## Threeflower\n  - L75 ## Content Warning\n  - L79 # Part 2: Journey to Springarden\n  - L85 ## Tracking the Road to Springarden\n  - L97 ## Tracking Consequences\n  - L112 ## Arrival at Springarden\n  - L125 ## Springarden\n  - L131 ### General Features\n  - L138 ## Investigation Scenes\n  - L142 ### Pyrax’s Feather\n  - L152 ### Feyfest Flyer\n  - L166 ### Fey Creatures\n  - L174 ## Know Thy Enemy\n  - L186 # Part 2: The Shining Shrine\n  - L192 ## Approaching the Shrine\n  - L196 ### During the Day\n  - L200 ### At Night\n  - L204 ## Emotive Waters\n  - L213 ## Lair Actions\n  - L221 ## Wave 1: Sunbear\n  - L225 ### Enemies\n  - L237 ## Wave 2: Constellation\n  - L260 ## Wave 3: Supernova\n  - L277 ## Objectives Beyond Defeat\n  - L287 # Part 3: Aftermath\n  - L297 ## Rewards\n  - L306 ## Further Adventures\n  - L313 # Difficulty and Scaling\n  - L321 # Harvesting\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\" startLine=\"548\" endLine=\"586\">\n```content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\n548|## Rewards\n549|\n550|Upon returning to Ziggy Tootokes, each character receives the promised bounty for dismantling Branch Seven.\n551|\n552|The characters also recover the following treasure during the adventure.\n553|\n554|- 185 gp\n555|- Three garnets worth 50 gp each\n556|- A silver signet ring engraved with The Bloodline's symbol\n557|- Any mundane equipment recovered from defeated enemies\n558|\n559|## Treasure Bundles\n560|\n561|At the conclusion of the adventure, award one Treasure Bundle to the party. Roll on the table below or choose the result that best fits your campaign.\n562|\n563||   |   |\n564||---|---|\n565||Options|Treasure Bundle|\n566||1|Portable Hole. Wrapped in waxed linen with an inventory tag reading Branch Property – Destination: Branch Three.|\n567||2|Alchemist's Cache. A sturdy leather case containing an Alchemy Jug, and 75 gp.|\n568||3|Explorer's Kit. A beautifully crafted Lantern of Revealing, a Potion of Greater Healing.|\n569|\n570|---\n571|\n572|## Story Award\n573|\n574|## Friend of Ziggy\n575|\n576|The characters have earned the trust and respect of Ziggy Tootokes, Investigator of the Tribunal Highblade Coalition.\n577|\n578|Whenever the characters seek information regarding criminal activity, smuggling operations, or Arcannabis trafficking within Stickyickistan, Ziggy is willing to share what he knows or point them toward new leads, provided doing so does not compromise an ongoing investigation.\n579|\n580|If Ziggy appears in a future adventure, he greets the characters as trusted associates and does his best to assist them.\n581|\n582|---\n583|\n584|# Experience\n585|\n586|Characters who complete this adventure earn 1,350 XP, approximately enough to advance a 3rd-level character halfway to 4th level.\n```\n</user_selected_content>\n\n\nCrimson Candleworks.md (229 Words) Update the rewards section of Crimson Candleworks.md  to reflect the addition of Character Advancement.md . Use The Shining Shrine.md  as a reference.\n\n"
-        }
-      ],
-      "createdAt": 1785954655267,
-      "updatedAt": 1785954655267
-    },
-    "ab5686cd": {
-      "hash": "ab5686cd",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you fix the formatting of Curse of Slaad.md \n\n"
-        }
-      ],
-      "createdAt": 1785955769762,
-      "updatedAt": 1785955769762
-    },
     "00c909c5": {
       "hash": "00c909c5",
       "content": [
@@ -814,6 +363,457 @@
       ],
       "createdAt": 1785955983623,
       "updatedAt": 1785955983623
+    },
+    "5770b13a": {
+      "hash": "5770b13a",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a stat block using Blank Statblock.md  with this info:\n\nDecahedrooze\nLarge ooze, unaligned\n\nArmour Class 13 (natural armour)\n\nHit Points 136 (13d10 + 65)\n\nSpeed 25 ft., climb 25 ft.\n\nSTR\n\n18 (+4)\n\nDEX\n\n8 (-1)\n\nCON\n\n21 (+5)\n\nINT\n\n7 (-2)\n\nWIS\n\n6 (-2)\n\nCHA\n\n2 (-4)\n\nSaving Throws Dex +3, Con +9\n\nDamage Resistances see Reactive Mutations\n\nDamage Immunities acid\n\nCondition Immunities blinded, charmed, deafened, exhaustion, frightened, grappled, prone, restrained\n\nSenses blindsight 60 ft. (blind beyond this radius), passive Perception 8\n\nLanguages —\n\nChallenge 9 (5,000 XP) Proficiency Bonus +4\n\nReactive Mutations. Immediately after the ooze takes damage, it gains resistance to that damage type. The ooze can have up to four resistances from this trait. If the ooze has its maximum number of resistances, the oldest resistance is lost when a new one is gained.\n\nSpider Climb. The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\nActions\n\nMultiattack. The ooze makes two Pseudopod attacks. It can replace one attack with Engulf.\n\nEngulf. The ooze moves up to its speed. While doing so, it can enter Large or smaller creatures’ spaces. Whenever the ooze enters a creature’s space, the creature must make a DC 16 Dexterity saving throw.\n\nOn a successful save, the creature can choose to be pushed 5 feet back or to the side of the ooze. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.\n\nOn a failed save, the ooze enters the creature’s space, and the creature takes 11 (2d10) acid damage and is engulfed. The engulfed creature can’t breathe, is restrained, and takes 22 (4d10) acid damage at the start of each of the ooze’s turns. When the ooze moves, the engulfed creature moves with it.\n\nAn engulfed creature can try to escape by taking an action to make a DC 16 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the ooze.\n\nPseudopod. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d8) acid damage and the target suffers one of the following random effects (roll a d10):\n\nThe target takes 5 (1d10) force damage.\nThe target takes 5 (1d10) bludgeoning damage.\nThe target takes 5 (1d10) piercing damage.\nThe target takes 5 (1d10) slashing damage.\nThe target takes 5 (1d10) cold damage.\nThe target takes 5 (1d10) fire damage.\nThe target takes 5 (1d10) lightning damage.\nThe target takes 5 (1d10) thunder damage.\nThe target takes 5 (1d10) necrotic damage.\nThe target takes 5 (1d10) radiant damage.\nLegendary Actions\n\nThe ooze can take 2 legendary actions, choosing the option below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ooze regains spent legendary actions at the start of its turn.\n\nAttack. The ooze makes one Pseudopod attack.\n\n"
+        }
+      ],
+      "createdAt": 1785956142843,
+      "updatedAt": 1785956142843
+    },
+    "0a57c7a9": {
+      "hash": "0a57c7a9",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nmake a stat block using Blank Statblock.md  eith this info:\n\nIcosahedrooze\nGargantuan ooze, unaligned\n\nArmour Class 14 (natural armour)\n\nHit Points 350 (20d20 + 140)\n\nSpeed 30 ft., climb 30 ft.\n\nSTR\n\n23 (+6)\n\nDEX\n\n10 (+0)\n\nCON\n\n25 (+7)\n\nINT\n\n12 (+1)\n\nWIS\n\n6 (-2)\n\nCHA\n\n3 (-4)\n\nSaving Throws Dex +6, Con +13\n\nDamage Resistances see Reactive Mutations\n\nDamage Immunities acid\n\nCondition Immunities blinded, charmed, deafened, exhaustion, frightened, grappled, prone, restrained\n\nSenses blindsight 120 ft. (blind beyond this radius), passive Perception 8\n\nLanguages —\n\nChallenge 20 (25,000 XP) Proficiency Bonus +6\n\nLegendary Resistance (3/Day). If the ooze fails a saving throw, it can choose to succeed instead.\n\nReactive Mutations. Immediately after the ooze takes damage, it gains resistance to that damage type. The ooze can have up to six resistances from this trait. If the ooze has its maximum number of resistances, the oldest resistance is lost when a new one is gained.\n\nSpider Climb. The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\nActions\n\nMultiattack. The ooze uses Engulf and makes three Pseudopod attacks.\n\nEngulf. The ooze moves up to its speed. While doing so, it can enter Gargantuan or smaller creatures’ spaces. Whenever the ooze enters a creature’s space, the creature must make a DC 21 Dexterity saving throw.\n\nOn a successful save, the creature can choose to be pushed 5 feet back or to the side of the ooze. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.\n\nOn a failed save, the ooze enters the creature’s space, and the creature takes 21 (2d20) acid damage and is engulfed. The engulfed creature can’t breathe, is restrained, and takes 42 (4d20) acid damage at the start of each of the ooze’s turns. When the ooze moves, the engulfed creature moves with it.\n\nAn engulfed creature can try to escape by taking an action to make a DC 21 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the ooze.\n\nPseudopod. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 14 (4d6) acid damage and the target suffers one of the following random effects (roll a d20):\n\nThe target takes 10 (1d20) force damage.\nThe target takes 10 (1d20) bludgeoning damage.\nThe target takes 10 (1d20) piercing damage.\nThe target takes 10 (1d20) slashing damage.\nThe target takes 10 (1d20) fire damage.\nThe target takes 10 (1d20) cold damage.\nThe target takes 10 (1d20) lightning damage.\nThe target takes 10 (1d20) thunder damage.\nThe target takes 10 (1d20) necrotic damage.\nThe target takes 10 (1d20) radiant damage.\nThe target takes 10 (1d20) poison damage.\nThe target takes 10 (1d20) psychic damage.\nThe target must succeed on a DC 21 Strength saving throw or be restrained. The target or a creature within reach of the target can use its action to make a DC 21 Strength check, freeing the restrained creature on a success.\nThe target must succeed on a DC 21 Wisdom saving throw or be afflicted by the confusion spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or be afflicted by the reduce effect of the enlarge/reduce spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or be afflicted by the enlarge effect of the enlarge/reduce spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or be afflicted by the zippit!** spell for 1 minute*.\nThe target must succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced by 10 (1d20) until it finishes a long rest. The ooze regains a number of hit points equal to this value. A creature whose hit point maximum is reduced to 0 dies.\nThe target must succeed on a DC 21 Strength saving throw or be engulfed by the ooze.\nRoll twice more on this table.\n*These spells don’t require concentration. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n**See Appendix B\n\nLegendary Actions\n\nThe ooze can take 3 legendary actions, choosing the option below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ooze regains spent legendary actions at the start of its turn.\n\nAttack. The ooze makes one Pseudopod attack.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "3a6f85d5": {
+      "hash": "3a6f85d5",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a stat block using Blank Statblock.md  with this info:\n\nGummydusa Curatrix\nMedium Monstrosity, lawful evil\nArmor Class 15 (natural armour)\nHit Points 97 (13d8 + 39)\nSpeed 30 ft.\nSTR\n12 (+1)\nDEX\n14 (+2)\nCON\n16 (+3)\nINT\n12 (+1)\nWIS\n13 (+1)\nCHA\n15 (+2)\nSaving Throws Wis +4, Cha +5\nSkills Perception +7, Stealth +5\nDamage Resistances acid, poison\nCondition Immunities charmed, petrified, poisoned\nSenses blindsight 30 ft., darkvision 60 ft., passive Perception 17\nLanguages Celestial, Common, Infernal\nChallenge 6 (2,300 XP) Proficiency Bonus +3\nGlaze Gaze. When a creature that can see the Gummydusa's eyes\nstarts its turn within 30 feet of her, the Gummydusa can force it to\nmake a DC 13 Constitution saving throw if the Gummydusa isn't\nincapacitated and can see the creature. If the saving throw fails by 5\nor more, the creature is instantly gummified. Otherwise, a creature\nthat fails the save begins to turn to gelatin and its AC decreases by\n1. The creature must repeat the saving throw at the end of its next\nturn, becoming gummified on a failure or ending the effect on a\nsuccess. A gummified creature's speed is halved, its AC decreases by\n2, and it is assigned a colour that gives it vulnerability to a type of\ndamage. The gummification lasts until the creature is freed by the\ngreater restoration spell or other magic.\nUnless surprised, a creature can avert its eyes to avoid the saving\nthrow at the start of its turn. If the creature does so, it can't see the\nGummydusa until the start of its next turn, when it can avert its eyes\nagain. If the creature looks at the Gummydusa in the meantime, it\nmust immediately make the save.\nIf the Gummydusa sees her reflection within 30 feet of herself in\nan area of bright light, her colour changes and she gains vulnerability\nto a random damage type until the end of her next turn. Roll a\nd6 to determine the colour and damage type for a gummified creature:\n1, blue, cold; 2, red, fire; 3, yellow, lightning; 4, black, necrotic;\n5, green, poison; 6, white, radiant.\nInnate Spellcasting. The Gummydusa's innate spellcasting ability\nis Charisma (spell save DC 13, +5 to hit with spell attacks) and casts\ncantrips as a 6th-level spellcaster. She can innately cast the following\nspells, requiring no material components:\nAt will: acid splash, vicious mockery\n3/day each: acid arrow, Humperdink’s halitosis*\n1/day each: acid rain* c\n*See Appendix B, C indicates concentration, bold indicates combat spell\nLegendary Resistance (2/Day). If the Gummydusa fails a saving\nthrow, she can choose to succeed instead.\nActions\nMultiattack. The Gummydusa makes either two melee attacks—\none with her Hard Candy Shortsword and one with her Sourgum\nSnake Hair—or two ranged attacks with her Gumdrop Volley. She\ncan replace any of these attacks with her Gummy Strike, if available.\nHard Candy Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft.,\none target. Hit: 5 (1d6 + 2) piercing damage.\nGumdrop Volley. Ranged Weapon Attack: +5 to hit, range 100/300 ft.,\none target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target's\nspeed is reduced by 10 feet until the start of its next turn.\nSourgum Snake Hair. Melee Weapon Attack: +5 to hit, reach 5 ft., one\ncreature. Hit: 5 (1d6 + 2) piercing damage plus 7 (2d6) acid damage.\nGummy Strike (Recharge 5-6). The Gummydusa animates a pool of\ngummy material that occupies a volume of at least 5-feet-cubed,\nshaping it into a monstrous snake that lunges at a creature she can see\nwithin 30 feet of the pool. The target must succeed on a DC 13 Dexterity\nsaving throw or take 13 (3d8) bludgeoning damage and be grappled\n(escape DC 13). Until this grapple ends, the target is restrained,\nand the Gummydusa can't animate another gummy serpent.\nLegendary Actions\nThe Gummydusa can take 3 legendary actions, choosing from the\noptions below. Only one legendary action option can be used at a\ntime and only at the end of another creature's turn. The Gummydusa\nregains spent legendary actions at the start of her turn.\nAcid Splash. The Gummydusa casts acid splash.\nCast a Spell (Costs 2 Actions). The Gummydusa casts a spell.\nSour Sussurration (Costs 2 Actions). The Gummydusa chooses one\nwilling creature she can see within 45 feet of her, teleporting to a\nspace adjacent to it and empowering it with her sour magic. The\ncreature gains 10 (3d4 + 3) temporary hit points and has advantage\non its first attack roll before the end of its next turn.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "fbfabf6e": {
+      "hash": "fbfabf6e",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Gummydusa Curatrix.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFix stat block syntax in Gummydusa Curatrix.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "69fa1865": {
+      "hash": "69fa1865",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Gummydusa Curatrix.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFix syntax in Gummydusa Curatrix.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "ecbc3a9f": {
+      "hash": "ecbc3a9f",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a stat block using Blank Statblock.md  and this info:\n\nYoung Jörmungummdr\nLarge Dragon, chaotic evil\nArmour Class 17 (natural armour)\nHit Points 144 (14d10 + 56)\nSpeed 40 ft., swim 40 ft.\nSTR\n19 (+4)\nDEX\n14 (+2)\nCON\n19 (+4)\nINT\n12 (+1)\nWIS\n15 (+2)\nCHA\n13 (+1)\nSaving Throws Dex +6, Con +8\nSkills Insight +6, Perception +10, Stealth +6\nDamage Immunities acid, poison\nCondition Immunities charmed, poisoned\nSenses blindsight 30 ft., darkvision 120 ft., passive Perception 20\nLanguages Common, Draconic\nChallenge 9 (5,000 XP) Proficiency Bonus +4\nGummy Body. If Jörmungummdr takes 10 or more fire damage, its\nspeed is halved and it has disadvantage on attack rolls and ability\nchecks until the end of its next turn.\nLegendary Resistance (2/Day). If Jörmungummdr fails a saving\nthrow, it can choose to succeed instead.\nSour Body. When Jörmungummdr is hit by a melee attack from a\ncreature within 5 feet of it, the creature must succeed on a DC 16\nDexterity saving throw or take 7 (2d6) acid damage as acidic slime\nsplashes back.\nActions\nMultiattack. Jörmungummdr makes three attacks: one with its Bite\nand two with its Slam. It can replace any one of these attacks with\nits Acidic Constriction.\nAcidic Constriction. Melee Weapon Attack: +8 to hit, reach 5 ft., one\ncreature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is\ngrappled (escape DC 16). A grappled creature takes 7 (2d6) acid\ndamage at the start of each of its turns. Until this grapple ends,\nthe creature is restrained, and Jörmungummdr can't use Acidic\nConstriction on another target.\nBite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13\n(2d8 + 4) piercing damage.\nSlam. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9\n(2d4 + 4) bludgeoning damage, and the target must succeed on a\nDC 16 Strength saving throw or be knocked prone.\nBreath Weapons (Recharge 5-6). Jörmungummdr uses one of the\nfollowing breath weapons.\nGummy Tide. Jörmungummdr exhales colourful liquid in a 30-\nfoot cone that quickly becomes viscous and sticky. Each creature\nin that area must succeed on a DC 16 Strength saving throw or\nbecome restrained for 1 minute. A creature can use its action to\nmake a DC 16 Strength check, freeing itself or a creature within its\nreach on a success.\nSour Breath. Jörmungummdr exhales acid in a 30-foot cone. Each\ncreature in that area must make a DC 16 Dexterity saving throw,\ntaking 36 (8d8) acid damage on a failed save, or half as much damage\non a successful one.\nLegendary Actions\nJörmungummdr can take 2 legendary actions, choosing from the\noptions below. Only one legendary action option can be used at a\ntime and only at the end of another creature's turn. Jörmungummdr\nregains spent legendary actions at the start of its turn.\nAttack. Jörmungummdr makes one Slam attack.\nOverrun. Jörmungummdr moves up to half its speed, moving\nthrough the spaces of creatures smaller than it. Each creature\nwhose space it moves through must make a DC 16 Dexterity\nsaving throw. A creature takes 3 (1d6) bludgeoning damage\nand is knocked prone on a failure, or takes half as much damage\nand moves into the nearest unoccupied space to it on a success.\nJörmungummdr does not trigger opportunity attacks from creatures\nwhose spaces it moves through in this way.\nSour Shower (Costs 2 Actions). Jörmungummdr shakes, causing a\ncascade of caustic sugar to sprinkle to the ground within 10 feet\nof it. Each creature in the area must make a DC 16 Constitution\nsaving throw, taking 7 (2d6) acid damage on a failure, or half as\nmuch damage on a success.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "fe2b9081": {
+      "hash": "fe2b9081",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Rompopowlbear.md`\n  - L49 # Description\n  - L63 # Pin & Cushion\n  - L66 ## Pin\n  - L83 ## Cushion\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat this and add to Rompopowlbear.md :\n\nPin\nWeapon (Rapier), Rare (Requires Attunement)\nComponents: Monstrosity (Rompopowlbear) Stinger\nThere’s no doubt about it: this impressive piece of\nweaponry is sure to catch any bystander’s attention.\nIt’s a good thing then that—should your\nadoring fans get too close—all it takes is a small\npoke from this blade to reclaim that priceless\npersonal space.\nYou gain a +2 bonus to attack rolls and damage\nrolls made using this magic weapon. This weapon\nhas 4 charges and regains 1d4 expended charges\ndaily at dawn.\nPinprick. Once per turn, when you hit a creature\nwith this weapon, you can expend 1 charge to\ncause the weapon to emit a burst of air. The creature\nmust succeed on a DC 15 Strength saving\nthrow or be pushed up to 10 feet away from you.\nEjector Seat. When you take the Attack action,\nyou can expend 1 charge to forego one of your\nattacks and press this weapon into the ground.\nOne Large or smaller creature of your choice on the\nground within 30 feet of you must succeed on a DC\n15 Dexterity saving throw or take 2d6 Bludgeoning\ndamage and be launched 10 feet in a direction\nof your choice, falling Prone when it lands.\nUncommon variant: Reduce the attack and\ndamage bonus to +1 and the DCs to 13.\nVery Rare variant: Increase the attack and damage\nbonus to +3 and the DCs to 16.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "4d54f0e9": {
+      "hash": "4d54f0e9",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Rompopowlbear.md`\n  - L49 # Description\n  - L63 # Pin & Cushion\n  - L66 ## Pin\n  - L83 ## Cushion\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat this and add to Rompopowlbear.md :\n\nCushion\nArmour (Shield), Rare (Requires Attunement)\nComponents: Monstrosity (Rompopowlbear) Pelt\n“Listen, it’s child’s play; just point the\nshield towards the ground when you’re\nabout to hit it, and whoosh! You’ll land\nsoft as a feather. You’ll see; give it a try\non that cliff over there!”\n— Bree the Barbarian to her Wizard\nfriend, forgetting to tell him this item\nrequires attunement\nWhile holding this Shield, you have a +1 bonus to\nAC. This bonus is in addition to the Shield’s normal\nbonus to AC. This Shield has 5 charges, and it regains\n1d4 + 1 expended charges daily at dawn.\nBouncy Pad. As a Bonus Action while you are\non the ground and holding this Shield, you can\nexpend 2 charges to point the Shield’s air bags\ntoward the ground and inflate it, launching yourself\nup to 30 feet vertically into the air and up to\n15 feet horizontally. If a creature is within 5 feet\nof where you land, you can immediately make a\nmelee attack with a weapon or Unarmed Strike\nagainst that creature as part of this Bonus Action.\nOn a hit, the target suffers the attack’s normal\neffects, and any damage you take from the fall is\nreduced by an amount equal to twice your level.\nThat amount is added onto the attack’s damage.\nAirbag. As a Reaction when you take Bludgeoning\ndamage, you can expend 1 charge to inflate\nCushion, granting yourself Resistance to that\ninstance of Bludgeoning damage.\nUncommon variant: Reduce the charges to 3\nand the recharge to 1d3.\nVery Rare variant: Increase the AC bonus to +2,\nthe charges to 7, and the recharge to 1d6 + 1.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "476b2095": {
+      "hash": "476b2095",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Zuggtmoy.md`\n  - L60 # Zuggtmoy’s Lair\n  - L64 ## Lair Actions\n  - L74 ## Regional Effects\n  - L86 # Cultists of Zuggtmoy\n  - L92 # Existing Lore\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd this info to Zuggtmoy.md and format the stat block using Blank Statblock.md :\n\nZuggtmoy\nLarge Fiend (Demon), Chaotic Evil\n\nArmor Class 18 (natural armor)\nHit Points 304 (32d10 + 128)\nSpeed 30 ft.\n\nSTR\n22 (+6)\nDEX\n15 (+2)\nCON\n18 (+4)\nINT\n20 (+5)\nWIS\n19 (+4)\nCHA\n24 (+7)\n\nSaving Throws DEX +9, CON +11, WIS +11\nSkills Perception +11\nDamage Resistances Cold, Fire, Lightning\nDamage Immunities Poison; Bludgeoning, Piercing, and Slashing that is Nonmagical\nCondition Immunities Charmed, Exhaustion, Frightened, Poisoned\nSenses Truesight 120 ft., Passive Perception 21\nLanguages All, Telepathy 120 ft.\nChallenge 23 (50,000 XP)\nProficiency Bonus +7\n\nTraits\nLegendary Resistance (3/Day). If Zuggtmoy fails a saving throw, she can choose to succeed instead.\n\nMagic Resistance. Zuggtmoy has advantage on saving throws against spells and other magical effects.\n\nActions\nMultiattack. Zuggtmoy makes three Pseudopod attacks.\n\nPseudopod. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) force damage plus 9 (2d8) poison damage.\n\nSpellcasting. Zuggtmoy casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will: detect magic, locate animals or plants\n\n3/day each: dispel magic, entangle, plant growth\n\n1/day each: etherealness, teleport\n\nBonus Actions\nInfestation Spores (3/Day). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Any creature in the cloud when it appears, or that enters it later, must make a DC 19 Constitution saving throw. On a successful save, the creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy, which lasts until the creature is cured of the disease or dies. While infected in this way, the creature can’t be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature’s body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it’s a type of creature that can be (see the “Myconids” section in the Monster Manual).\n\nMind Control Spores (Recharge 5–6). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and Beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, a creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is charmed by her and can’t be reinfected by these spores.\n\nReactions\nProtective Thrall. When Zuggtmoy is hit by an attack roll, one creature within 10 feet of her that is charmed by her is hit by the attack instead.\n\nLegendary Actions\nZuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Zuggtmoy regains spent legendary actions at the start of her turn.\n\nAttack. Zuggtmoy makes one Pseudopod attack.\n\nExert Will. One creature charmed by Zuggtmoy that she can see must use its reaction, if available, to move up to its speed as she directs or to make one weapon attack against a target that she designates.\n\nDescription\nThe Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.\n\nZuggtmoy is utterly inhuman, but she can mold her fungoid form into an approximation of a bipedal shape, including the skeletal-thin figure depicted in grimoires and ancient art, draped and veiled in mycelia and lichen. Indeed, much of her appearance and manner, and that of her servants, is a mockery of mortal life and its many facets.\n\nZuggtmoy’s cultists often follow her unwittingly. Most are fungus-infected to some degree, whether through inhaling her mind-controlling spores or being transformed to the point where flesh and fungus become one. Such cultists are fungal extensions of the Demon Queen’s will. Their devotion might begin with the seemingly harmless promises offered by exotic spores and mushrooms, but it quickly consumes them, body and soul.\n\nZuggtmoy’s Lair\nZuggtmoy’s principal lair is her palace on Shedaklah. It consists of two dozen immense mushrooms of pale yellow and rancid brown. These massive fungi are some of the largest in existence. They are surrounded by a field of acidic puffballs and poisonous vapors. The mushrooms are interconnected by bridges of shelf fungus, and countless chambers have been hollowed out inside their rubbery stalks.\n\nLair Actions\nOn initiative count 20 (losing initiative ties), Zuggtmoy can take one of the following lair actions; she can’t take the same lair action two rounds in a row:\n\nRally Plants. Up to four Plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.\n\nSummon Fungi. Zuggtmoy causes four gas spores or violet fungi (both appear in the Monster Manual) to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.\n\nUnleash Spores. Zuggtmoy uses either her Infestation Spores or her Mind Control Spores, centered on a mushroom or other fungus within her lair, instead of on herself.\n\nRegional Effects\nThe region containing Zuggtmoy’s lair is warped by her magic, creating one or more of the following effects:\n\nCorrupted Nature. Within 6 miles of the lair, all Wisdom (Medicine) and Wisdom (Survival) checks have disadvantage.\n\nFungal Infestation. Molds and fungi grow on surfaces within 6 miles of the lair, even where they would normally find no purchase.\n\nMutating Vegetation. Vegetation within 1 mile of the lair becomes infested with parasitic fungi, slowly mutating as it is overwhelmed.\n\nIf Zuggtmoy dies, these effects fade over the course of 1d10 days.\n\nCultists of Zuggtmoy\nZuggtmoy’s cultists are primarily mindless victims of her children’s strange spores. The spores burrow into a victim’s brain, turning it into a fanatic servitor. Each victim gains the Spore Kissed trait.\n\nSpore Kissed. This creature is immune to the charmed and frightened conditions. In addition, if it is reduced to 0 hit points, each creature within 10 feet of it takes poison damage equal to its number of Hit Dice.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "a2fdb214": {
+      "hash": "a2fdb214",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Zuggtmoy.md`\n  - L60 # Zuggtmoy’s Lair\n  - L64 ## Lair Actions\n  - L74 ## Regional Effects\n  - L86 # Cultists of Zuggtmoy\n  - L92 # Existing Lore\n- `content/Beastiary/private/Blank Statblock.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd this stat block to Zuggtmoy.md using Blank Statblock.md . Make sure any text containing special characters is wrapped in quotation marks, and dont forget the text saying how many legendary actions it has:\n\nZuggtmoy\nLarge Fiend (Demon), Chaotic Evil\n\nArmor Class 18 (natural armor)\nHit Points 304 (32d10 + 128)\nSpeed 30 ft.\n\nSTR\n22 (+6)\nDEX\n15 (+2)\nCON\n18 (+4)\nINT\n20 (+5)\nWIS\n19 (+4)\nCHA\n24 (+7)\n\nSaving Throws DEX +9, CON +11, WIS +11\nSkills Perception +11\nDamage Resistances Cold, Fire, Lightning\nDamage Immunities Poison; Bludgeoning, Piercing, and Slashing that is Nonmagical\nCondition Immunities Charmed, Exhaustion, Frightened, Poisoned\nSenses Truesight 120 ft., Passive Perception 21\nLanguages All, Telepathy 120 ft.\nChallenge 23 (50,000 XP)\nProficiency Bonus +7\n\nTraits\nLegendary Resistance (3/Day). If Zuggtmoy fails a saving throw, she can choose to succeed instead.\n\nMagic Resistance. Zuggtmoy has advantage on saving throws against spells and other magical effects.\n\nActions\nMultiattack. Zuggtmoy makes three Pseudopod attacks.\n\nPseudopod. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) force damage plus 9 (2d8) poison damage.\n\nSpellcasting. Zuggtmoy casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will: detect magic, locate animals or plants\n\n3/day each: dispel magic, entangle, plant growth\n\n1/day each: etherealness, teleport\n\nBonus Actions\nInfestation Spores (3/Day). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Any creature in the cloud when it appears, or that enters it later, must make a DC 19 Constitution saving throw. On a successful save, the creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy, which lasts until the creature is cured of the disease or dies. While infected in this way, the creature can’t be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature’s body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it’s a type of creature that can be (see the “Myconids” section in the Monster Manual).\n\nMind Control Spores (Recharge 5–6). Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and Beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, a creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is charmed by her and can’t be reinfected by these spores.\n\nReactions\nProtective Thrall. When Zuggtmoy is hit by an attack roll, one creature within 10 feet of her that is charmed by her is hit by the attack instead.\n\nLegendary Actions\nZuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Zuggtmoy regains spent legendary actions at the start of her turn.\n\nAttack. Zuggtmoy makes one Pseudopod attack.\n\nExert Will. One creature charmed by Zuggtmoy that she can see must use its reaction, if available, to move up to its speed as she directs or to make one weapon attack against a target that she designates.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "5b903988": {
+      "hash": "5b903988",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L552 ### Adventure Rewards\n  - L567 ### Treasure Bundles\n  - L581 ## Story Award\n  - L583 ### Friend of Ziggy\n  - L593 # Experience\n  - L599 # Dungeon Master Aid: Rumors\n  - L611 ## Copper Rumors (1 cp)\n  - L635 ## Silver Rumors (1 sp)\n  - L657 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me find any inconsistencies or other mistakes in Crimson Candleworks.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "7fb7f299": {
+      "hash": "7fb7f299",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L552 ### Adventure Rewards\n  - L567 ### Treasure Bundles\n  - L581 ## Story Award\n  - L583 ### Friend of Ziggy\n  - L593 # Experience\n  - L599 # Dungeon Master Aid: Rumors\n  - L611 ## Copper Rumors (1 cp)\n  - L635 ## Silver Rumors (1 sp)\n  - L657 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI like that, add it to an appropriate spot in Crimson Candleworks.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "8a9c1550": {
+      "hash": "8a9c1550",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Beastiary/Bicephal Wyrmhole.md`\n  - L4 # Description\n  - L14 # Graviturgic Warp-hilt\n  - L24 ## Properties\n  - L26 ### Gravity Well\n  - L29 ### Consuming Force\n  - L36 ## Higher-Rarity Variants\n  - L38 ### Rare Variant\n  - L42 ### Very Rare Variant\n  - L46 # Stat Block\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat this info and add to Bicephal Wyrmhole.md :\n\nGraviturgic Warp-hilt\nWondrous Item, Uncommon (Socketable,\nRequires Attunement)\nComponent: Pouch of Aberration (Bicephal Wyrmhole)\nClaws\nRunning around from foe to foe, hunting them\nlike prey, is such a waste of energy. Being a truly\nformidable opponent, one with gravitas, means\nbringing your enemies to you. Let them waste their\nstrength running towards their own slaughter.\nThis distorted, unnatural sword hilt can be\nsocketed onto any magical melee weapon,\nadapting its bizarre geometry to the hilt or\nhandle of its host.\nGravity Well. Once on each of your turns when you\nmake an attack roll using the socketed weapon,\nyou can attack a creature 5 feet farther than your\nnormal reach with the weapon. On a hit, the creature\nis pulled 5 feet directly towards you.\nConsuming Force. As a Bonus Action, you can flourish\nthe socketed weapon and create a miniscule\nblack hole at a point you can see within 20 feet of\nyou. Each creature within 15 feet of the point must\nsucceed on a DC 13 Strength saving throw or\nbe pulled to the unoccupied space nearest the\npoint. When this property is used, roll 1d4. On a 1,\nthe black hole consumes the magic of the socketed\nweapon; the hilt and weapon lose their magical\nproperties until the next dawn.\nArtist: Michelle Mueller\nRare variant: Increase the DC to 15. Creatures\nthat fail their saving throw against the Consuming\nForce property are knocked Prone.\nVery Rare variant: Increase the DC to 16 and the\nreach and the distance pulled of the Gravity Well\nproperty to 10 feet each. Creatures that fail their\nsaving throw against the Consuming Force property\nare knocked Prone.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "56695feb": {
+      "hash": "56695feb",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Stickyickistan.md`\n  - Properties:\n    - `title`: `History of Stickyickistan`\n  - L11 # Modern Stickyickistan\n  - L49 # Past Stickyickistan\n  - L53 ## [[Human Colonialism]]\n  - L67 ## The Doobius House Resistance\n  - L79 ## The [[Arcane Civil War]]\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease remove all of these \"—\" from Stickyickistan.md and improve the writing.\n\n"
+        }
+      ],
+      "createdAt": 1785956142844,
+      "updatedAt": 1785956142844
+    },
+    "0ccd2ac4": {
+      "hash": "0ccd2ac4",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Seekers' Scrapyard.md`\n  - L1 # Seekers' Scrapyard\n  - L13 ## The Cult of Goob’lath\n  - L21 ## The Ruined Alchemical Dungeon\n  - L31 ## Dangers\n  - L45 ## Adventure Hooks\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you improve the write up in Seekers' Scrapyard.md using context from its related files that are linked to it\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "d08f1c3d": {
+      "hash": "d08f1c3d",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce.md`\n  - L1 # ASSCUNT\n  - L12 ## Purpose and Mandate\n  - L21 ## Operations\n  - L29 ## Field Protocols\n  - L42 ## Rank and Squad Structure\n  - L48 ## Known Members\n  - L57 ## Known Allies and Contacts\n  - L65 ## Reputation\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me improve and fill out ASSCUNT.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "40aa8115": {
+      "hash": "40aa8115",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Zooka Mire Collective.md`\n  - L1 ## Overview\n  - L7 ## Philosophy\n  - L13 ## Role in Stickyickistan\n  - L27 ## Organization\n  - L37 ## Leadership\n  - L45 ## Succession and Internal Politics\n  - L51 ## Territories\n  - L53 ### Zooka Mire\n  - L57 ### The Undercity\n  - L61 ## Roles\n  - L67 ## Notable Members\n  - L72 ## Adventure Hooks\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me improve the info layout of Zooka Mire Collective.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "6e5476b6": {
+      "hash": "6e5476b6",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Zooka Mire Collective.md`\n  - L1 ## Overview\n  - L7 ## Philosophy\n  - L13 ## Role in Stickyickistan\n  - L27 ## Organization\n  - L37 ## Leadership\n  - L45 ## Succession and Internal Politics\n  - L51 ## Territories\n  - L53 ### Zooka Mire\n  - L57 ### The Undercity\n  - L61 ## Roles\n  - L67 ## Notable Members\n  - L72 ## Adventure Hooks\n- `content/Factions/Dungsweepers.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd to Zooka Mire Collective.md about their relation to the Dungsweepers.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "80a5ce5d": {
+      "hash": "80a5ce5d",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/The Seekers of the Vein.md`\n  - L1 ## Overview\n  - L7 ## Power and Influence\n  - L13 ## Operations\n  - L15 ### Mining and Prospecting\n  - L21 ### Processing and Manufacturing\n  - L27 ### Salvage and Waste\n  - L33 ## Craftsmanship and Commerce\n  - L39 ## Security and Enforcement\n  - L45 ## Relationship with Other Factions\n  - L55 ## Reputation\n  - L61 ## Adventure Hooks\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me improve the info layout of The Seekers of the Vein.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "4f88605a": {
+      "hash": "4f88605a",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md`\n  - L7 # Introduction\n  - L9 ## Adjusting Encounters\n  - L15 ## Key Plot Points\n  - L25 ## Preparation\n  - L35 ### Stat Blocks\n  - L41 ## Key NPCs\n  - L50 ## Content Warning\n  - L54 ## Adventure Background\n  - L64 # Part 1: The Contract\n  - L70 ## Adventure Hook\n  - L74 ### Roach Clip Advertisement\n  - L155 ### Dead Drop Encounter\n  - L165 #### The Shrine\n  - L170 ## Development\n  - L176 # Part 2: The Wyvern Hunt\n  - L190 ### Setting the Tracking Challenge\n  - L208 ### Making Tracking Checks\n  - L222 ### Tracking Consequences\n  - L228 ## Tracking Complications\n  - L239 ## Tracking Outcomes\n  - L248 ## Hunt Advantage\n  - L260 ## Quick Success Benefits\n  - L271 ## The Trail Assault\n  - L281 # Riverside Mill\n  - L283 ## Natural Day\n  - L287 ## Wyvern Lair\n  - L305 # Beetle Tribe Canyon\n  - L307 ## Empty Day\n  - L311 # Mountain Logging Camp\n  - L313 ## Natural\n  - L317 # Gate of Angels\n  - L319 ## Platform\n  - L323 # Coastal Caverns\n  - L325 ## Empty Day\n  - L329 ## Preserving the Corpse\n  - L339 # Part 3: The Wyrmhole\n  - L345 ## General Features\n  - L355 ## Rite Procedure\n  - L363 ## The Emergence Window\n  - L375 ## Bicephal Wyrmhole\n  - L381 ## Development\n  - L389 # Conclusion\n  - L405 # Rewards\n  - L415 ## Story Award: Society Asset\n  - L419 ## Experience\n  - L423 # Dungeon Master Aid: Hunting Complications\n  - L436 # Rumors\n  - L440 ## Common Rumors\n  - L447 ## Reliable Rumors\n  - L454 ## Dangerous Rumors\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L552 ### Adventure Rewards\n  - L567 ### Treasure Bundles\n  - L581 ## Story Award\n  - L583 ### Friend of Ziggy\n  - L593 # Experience\n  - L599 # Dungeon Master Aid: Rumors\n  - L611 ## Copper Rumors (1 cp)\n  - L635 ## Silver Rumors (1 sp)\n  - L657 ## Gold Rumors (1 gp)\n- `content/Adventures/DM Notes/The Wyvern and The Wyrmhole.md`\n  - L3 # Notes\n  - L13 ## The Ritual\n  - L27 ## Maps\n  - L29 ### Mountain\n  - L34 ## How to run\n  - L51 # Message\n  - L57 ### Assignment Designation\n  - L63 ### Parameters\n  - L92 ### Closing\n  - L107 # Sealed Addendum\n  - L114 ### Required Assets\n  - L127 ### Rite Procedure\n  - L143 ### Emergence Window\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you help me make an adventure in Wyvern and the Wyrmhole.md using the structure of Crimson Candleworks.md based on the existing adventure The Wyvern and The Wyrmhole.md . I just want to make the adventure not specifically for Dr. C Rothvell\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "f3879bb2": {
+      "hash": "f3879bb2",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nNo I want it to be like an ad that would appear in The Roach Clip.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "78bfefa3": {
+      "hash": "78bfefa3",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Items/Mind Blade.md`\n  - L8 ## Intended Wielder\n  - L14 ## Properties\n  - L24 ## Creation\n  - L30 ## Narrative Use\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFill in Mind Blade.md with info about the DND item Mind Blade\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "2143bd49": {
+      "hash": "2143bd49",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Items/Mind Blade.md`\n  - L8 ## Intended Wielder\n  - L14 ## Properties\n  - L24 ## Creation\n  - L30 ## Narrative Use\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease correct Mind Blade.md using the actual Mind Blade info:\n\nMind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "75e805f8": {
+      "hash": "75e805f8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md`\n  - L7 # Introduction\n  - L9 ## Adjusting Encounters\n  - L15 ## Key Plot Points\n  - L25 ## Preparation\n  - L35 ### Stat Blocks\n  - L41 ## Key NPCs\n  - L50 ## Content Warning\n  - L54 ## Adventure Background\n  - L64 # Part 1: The Contract\n  - L70 ## Adventure Hook\n  - L74 ### Roach Clip Advertisement\n  - L155 ### Dead Drop Encounter\n  - L165 #### The Shrine\n  - L170 ## Development\n  - L176 # Part 2: The Wyvern Hunt\n  - L190 ### Setting the Tracking Challenge\n  - L208 ### Making Tracking Checks\n  - L222 ### Tracking Consequences\n  - L228 ## Tracking Complications\n  - L239 ## Tracking Outcomes\n  - L248 ## Hunt Advantage\n  - L260 ## Quick Success Benefits\n  - L271 ## The Trail Assault\n  - L281 # Riverside Mill\n  - L283 ## Natural Day\n  - L287 ## Wyvern Lair\n  - L305 # Beetle Tribe Canyon\n  - L307 ## Empty Day\n  - L311 # Mountain Logging Camp\n  - L313 ## Natural\n  - L317 # Gate of Angels\n  - L319 ## Platform\n  - L323 # Coastal Caverns\n  - L325 ## Empty Day\n  - L329 ## Preserving the Corpse\n  - L339 # Part 3: The Wyrmhole\n  - L345 ## General Features\n  - L355 ## Rite Procedure\n  - L363 ## The Emergence Window\n  - L375 ## Bicephal Wyrmhole\n  - L381 ## Development\n  - L389 # Conclusion\n  - L405 # Rewards\n  - L415 ## Story Award: Society Asset\n  - L419 ## Experience\n  - L423 # Dungeon Master Aid: Hunting Complications\n  - L436 # Rumors\n  - L440 ## Common Rumors\n  - L447 ## Reliable Rumors\n  - L454 ## Dangerous Rumors\n- `content/Items/Mind Blade.md`\n  - L8 ## Intended Wielder\n  - L14 ## Properties\n  - L24 ## Creation\n  - L30 ## Narrative Use\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease adjust Wyvern and the Wyrmhole.md based on the new info in Mind Blade.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "7b81a093": {
+      "hash": "7b81a093",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # **CURSE OF SLAAD\n  - L3 # BEING A SUPPOSEDLY COMPETENT GROUP OF\n  - L75 # CHAPTER 1: COMPROMISED CITADEL\n  - L82 # A BROTHER'S FATE\n  - L87 # SLAAD ENCOUNTER\n  - L119 # A BLUE SLAAD ENRAGED\n  - L139 # GRAVE AFTERMATH\n  - L162 # CHAPTER 2: LIMBO MONASTERY\n  - L180 # THE EVER-CHANGING CHAOS OF LIMBO\n  - L205 # CHAOS CONTROL\n  - L228 # DC BY OBJECT SIZE\n  - L264 # ENCOUNTER ON THE MONASTIC ISLAND\n  - L284 # CHAOS FLUMPH\n  - L294 # STR\n  - L298 # DEX\n  - L300 # CON\n  - L302 # INT\n  - L304 # WIS\n  - L306 # CHA\n  - L323 # ACTIONS\n  - L370 # THE PACIFIST'S HOSPITALITY\n  - L381 # LO\n  - L445 # DEATH SLAADI AND YOU\n  - L480 # SPELL SCROLL OF IMPRISONMENT\n  - L521 # THE ZERTHIMON STEELBEAST\n  - L589 # CHAPTER 3: SLAAD ASSAULT\n  - L603 # DEATH SLAAD DEN\n  - L618 # ATTACKING AS THE DEATH SLAAD\n  - L635 # OBTAINING THE CONTROL GEM\n  - L662 # EPILOGUE\n  - L685 # APPENDIX A: ZARDAN CHARACTER SHEET\n  - L687 # DUNGEONS & DRAGONS®\n  - L691 # CHARACTER NAME\n  - L695 # CLASS & LEVEL\n  - L699 # RACE\n  - L703 # BACKGROUND\n  - L707 # ALIGNMENT\n  - L709 # PLAYER NAME\n  - L711 # EXPERIENCE POINTS\n  - L715 # PROFICIENCY BONUS\n  - L723 # INSPIRATION\n  - L725 # ARMOR CLASS\n  - L727 # INITIATIVE\n  - L729 # SPEED\n  - L731 # PERSONALITY TRAITS\n  - L737 # SAVING THROWS\n  - L739 # ATHLETICS\n  - L741 # HIT POINT MAXIMUM\n  - L745 # STRENGTH\n  - L751 # DEXTERITY\n  - L753 # SAVING THROWS\n  - L755 # ACROBATICS\n  - L757 # SLEIGHT OF HAND\n  - L759 # STEALTH\n  - L767 # SAVING THROWS\n  - L771 # CONSTITUTION\n  - L777 # SAVING THROWS\n  - L781 # ARCANA\n  - L787 # INTELLIGENCE\n  - L789 # HISTORY\n  - L791 # INVESTIGATION\n  - L793 # NATURE\n  - L795 # RELIGION\n  - L801 # WISDOM\n  - L809 # SAVING THROWS\n  - L811 # ANIMAL HANDLING\n  - L813 # INSIGHT\n  - L815 # +1 MEDICINE\n  - L817 # PERCEPTION\n  - L819 # SURVIVAL\n  - L825 # CHARISMA\n  - L827 # SAVING THROWS\n  - L829 # DECEPTION\n  - L831 # INTIMIDATION\n  - L833 # PERFORMANCE\n  - L835 # PERSUASION\n  - L839 # PASSIVE WISDOM (PERCEPTION)\n  - L841 # CURRENT HIT POINTS\n  - L843 # TEMPORARY HIT POINTS\n  - L845 # HIT DICE\n  - L847 # SUCCESSES\n  - L849 # FAILURES\n  - L851 # DEATH SAVES\n  - L853 # ATK BONUS DAMAGE/TYPE\n  - L857 # NAME\n  - L870 # ATTACKS & SPELLCASTING\n  - L874 # IDEALS\n  - L876 # BONDS\n  - L878 # FLAWS\n  - L888 # FEATURES & TRAITS\n  - L911 # OTHER PROFICIENCIES & LANGUAGES\n  - L913 # EQUIPMENT & CHARACTER NOTES\n  - L919 # SPELLS KNOWN\n  - L921 # SPELLCASTING\n  - L923 # CLASS\n  - L927 # D&D\n  - L929 # R\n  - L937 # SPELL LEVEL\n  - L939 # CANTRIPS\n  - L941 # SLOTS TOTAL\n  - L943 # SLOTS EXPENDED\n  - L963 # SPELL NAME\n  - L981 # SPELLCASTING ABILITY\n  - L985 # SPELL SAVE DC\n  - L989 # SPELL ATTACK BONUS\n  - L1001 # APPENDIX B: CHAOTIC ENVIRONMENTS\n  - L1005 # HEN RUNNING A COMBAT ENCOUNTER IN THE\n  - L1036 # SIZE OF NEW MATTER\n  - L1094 # TYPE OF NEW MATTER\n  - L1156 # APPENDIX C: HANDOUTS\n  - L1158 # CHAOS CONTROL\n  - L1181 # DC BY OBJECT SIZE\n  - L1223 # STR\n  - L1225 # DEX\n  - L1227 # CON\n  - L1229 # INT\n  - L1231 # WIS\n  - L1233 # CHA\n  - L1259 # ACTIONS\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPart of Curse of Slaad.md doesn't make much sense or flow very well. Please improve\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "8021e1de": {
+      "hash": "8021e1de",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # **CURSE OF SLAAD\n  - L3 # BEING A SUPPOSEDLY COMPETENT GROUP OF\n  - L75 # CHAPTER 1: COMPROMISED CITADEL\n  - L82 # A BROTHER'S FATE\n  - L87 # SLAAD ENCOUNTER\n  - L119 # A BLUE SLAAD ENRAGED\n  - L139 # GRAVE AFTERMATH\n  - L162 # CHAPTER 2: LIMBO MONASTERY\n  - L180 # THE EVER-CHANGING CHAOS OF LIMBO\n  - L205 # CHAOS CONTROL\n  - L228 # DC BY OBJECT SIZE\n  - L264 # ENCOUNTER ON THE MONASTIC ISLAND\n  - L284 # CHAOS FLUMPH\n  - L294 # STR\n  - L298 # DEX\n  - L300 # CON\n  - L302 # INT\n  - L304 # WIS\n  - L306 # CHA\n  - L323 # ACTIONS\n  - L370 # THE PACIFIST'S HOSPITALITY\n  - L381 # LO\n  - L445 # DEATH SLAADI AND YOU\n  - L480 # SPELL SCROLL OF IMPRISONMENT\n  - L521 # THE ZERTHIMON STEELBEAST\n  - L589 # CHAPTER 3: SLAAD ASSAULT\n  - L603 # DEATH SLAAD DEN\n  - L618 # ATTACKING AS THE DEATH SLAAD\n  - L635 # OBTAINING THE CONTROL GEM\n  - L662 # EPILOGUE\n  - L685 # APPENDIX A: ZARDAN CHARACTER SHEET\n  - L687 # DUNGEONS & DRAGONS®\n  - L691 # CHARACTER NAME\n  - L695 # CLASS & LEVEL\n  - L699 # RACE\n  - L703 # BACKGROUND\n  - L707 # ALIGNMENT\n  - L709 # PLAYER NAME\n  - L711 # EXPERIENCE POINTS\n  - L715 # PROFICIENCY BONUS\n  - L723 # INSPIRATION\n  - L725 # ARMOR CLASS\n  - L727 # INITIATIVE\n  - L729 # SPEED\n  - L731 # PERSONALITY TRAITS\n  - L737 # SAVING THROWS\n  - L739 # ATHLETICS\n  - L741 # HIT POINT MAXIMUM\n  - L745 # STRENGTH\n  - L751 # DEXTERITY\n  - L753 # SAVING THROWS\n  - L755 # ACROBATICS\n  - L757 # SLEIGHT OF HAND\n  - L759 # STEALTH\n  - L767 # SAVING THROWS\n  - L771 # CONSTITUTION\n  - L777 # SAVING THROWS\n  - L781 # ARCANA\n  - L787 # INTELLIGENCE\n  - L789 # HISTORY\n  - L791 # INVESTIGATION\n  - L793 # NATURE\n  - L795 # RELIGION\n  - L801 # WISDOM\n  - L809 # SAVING THROWS\n  - L811 # ANIMAL HANDLING\n  - L813 # INSIGHT\n  - L815 # +1 MEDICINE\n  - L817 # PERCEPTION\n  - L819 # SURVIVAL\n  - L825 # CHARISMA\n  - L827 # SAVING THROWS\n  - L829 # DECEPTION\n  - L831 # INTIMIDATION\n  - L833 # PERFORMANCE\n  - L835 # PERSUASION\n  - L839 # PASSIVE WISDOM (PERCEPTION)\n  - L841 # CURRENT HIT POINTS\n  - L843 # TEMPORARY HIT POINTS\n  - L845 # HIT DICE\n  - L847 # SUCCESSES\n  - L849 # FAILURES\n  - L851 # DEATH SAVES\n  - L853 # ATK BONUS DAMAGE/TYPE\n  - L857 # NAME\n  - L870 # ATTACKS & SPELLCASTING\n  - L874 # IDEALS\n  - L876 # BONDS\n  - L878 # FLAWS\n  - L888 # FEATURES & TRAITS\n  - L911 # OTHER PROFICIENCIES & LANGUAGES\n  - L913 # EQUIPMENT & CHARACTER NOTES\n  - L919 # SPELLS KNOWN\n  - L921 # SPELLCASTING\n  - L923 # CLASS\n  - L927 # D&D\n  - L929 # R\n  - L937 # SPELL LEVEL\n  - L939 # CANTRIPS\n  - L941 # SLOTS TOTAL\n  - L943 # SLOTS EXPENDED\n  - L963 # SPELL NAME\n  - L981 # SPELLCASTING ABILITY\n  - L985 # SPELL SAVE DC\n  - L989 # SPELL ATTACK BONUS\n  - L1001 # APPENDIX B: CHAOTIC ENVIRONMENTS\n  - L1005 # HEN RUNNING A COMBAT ENCOUNTER IN THE\n  - L1036 # SIZE OF NEW MATTER\n  - L1094 # TYPE OF NEW MATTER\n  - L1156 # APPENDIX C: HANDOUTS\n  - L1158 # CHAOS CONTROL\n  - L1181 # DC BY OBJECT SIZE\n  - L1223 # STR\n  - L1225 # DEX\n  - L1227 # CON\n  - L1229 # INT\n  - L1231 # WIS\n  - L1233 # CHA\n  - L1259 # ACTIONS\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease check Curse of Slaad.md entirely and make sure it is coherent\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "09ccd7e7": {
+      "hash": "09ccd7e7",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # **CURSE OF SLAAD\n  - L3 # BEING A SUPPOSEDLY COMPETENT GROUP OF\n  - L75 # CHAPTER 1: COMPROMISED CITADEL\n  - L82 # A BROTHER'S FATE\n  - L87 # SLAAD ENCOUNTER\n  - L119 # A BLUE SLAAD ENRAGED\n  - L139 # GRAVE AFTERMATH\n  - L162 # CHAPTER 2: LIMBO MONASTERY\n  - L180 # THE EVER-CHANGING CHAOS OF LIMBO\n  - L205 # CHAOS CONTROL\n  - L228 # DC BY OBJECT SIZE\n  - L264 # ENCOUNTER ON THE MONASTIC ISLAND\n  - L284 # CHAOS FLUMPH\n  - L294 # STR\n  - L298 # DEX\n  - L300 # CON\n  - L302 # INT\n  - L304 # WIS\n  - L306 # CHA\n  - L323 # ACTIONS\n  - L370 # THE PACIFIST'S HOSPITALITY\n  - L381 # LO\n  - L445 # DEATH SLAADI AND YOU\n  - L480 # SPELL SCROLL OF IMPRISONMENT\n  - L521 # THE ZERTHIMON STEELBEAST\n  - L589 # CHAPTER 3: SLAAD ASSAULT\n  - L603 # DEATH SLAAD DEN\n  - L618 # ATTACKING AS THE DEATH SLAAD\n  - L635 # OBTAINING THE CONTROL GEM\n  - L662 # EPILOGUE\n  - L685 # APPENDIX A: ZARDAN CHARACTER SHEET\n  - L687 # DUNGEONS & DRAGONS®\n  - L691 # CHARACTER NAME\n  - L695 # CLASS & LEVEL\n  - L699 # RACE\n  - L703 # BACKGROUND\n  - L707 # ALIGNMENT\n  - L709 # PLAYER NAME\n  - L711 # EXPERIENCE POINTS\n  - L715 # PROFICIENCY BONUS\n  - L723 # INSPIRATION\n  - L725 # ARMOR CLASS\n  - L727 # INITIATIVE\n  - L729 # SPEED\n  - L731 # PERSONALITY TRAITS\n  - L737 # SAVING THROWS\n  - L739 # ATHLETICS\n  - L741 # HIT POINT MAXIMUM\n  - L745 # STRENGTH\n  - L751 # DEXTERITY\n  - L753 # SAVING THROWS\n  - L755 # ACROBATICS\n  - L757 # SLEIGHT OF HAND\n  - L759 # STEALTH\n  - L767 # SAVING THROWS\n  - L771 # CONSTITUTION\n  - L777 # SAVING THROWS\n  - L781 # ARCANA\n  - L787 # INTELLIGENCE\n  - L789 # HISTORY\n  - L791 # INVESTIGATION\n  - L793 # NATURE\n  - L795 # RELIGION\n  - L801 # WISDOM\n  - L809 # SAVING THROWS\n  - L811 # ANIMAL HANDLING\n  - L813 # INSIGHT\n  - L815 # +1 MEDICINE\n  - L817 # PERCEPTION\n  - L819 # SURVIVAL\n  - L825 # CHARISMA\n  - L827 # SAVING THROWS\n  - L829 # DECEPTION\n  - L831 # INTIMIDATION\n  - L833 # PERFORMANCE\n  - L835 # PERSUASION\n  - L839 # PASSIVE WISDOM (PERCEPTION)\n  - L841 # CURRENT HIT POINTS\n  - L843 # TEMPORARY HIT POINTS\n  - L845 # HIT DICE\n  - L847 # SUCCESSES\n  - L849 # FAILURES\n  - L851 # DEATH SAVES\n  - L853 # ATK BONUS DAMAGE/TYPE\n  - L857 # NAME\n  - L870 # ATTACKS & SPELLCASTING\n  - L874 # IDEALS\n  - L876 # BONDS\n  - L878 # FLAWS\n  - L888 # FEATURES & TRAITS\n  - L911 # OTHER PROFICIENCIES & LANGUAGES\n  - L913 # EQUIPMENT & CHARACTER NOTES\n  - L919 # SPELLS KNOWN\n  - L921 # SPELLCASTING\n  - L923 # CLASS\n  - L927 # D&D\n  - L929 # R\n  - L937 # SPELL LEVEL\n  - L939 # CANTRIPS\n  - L941 # SLOTS TOTAL\n  - L943 # SLOTS EXPENDED\n  - L963 # SPELL NAME\n  - L981 # SPELLCASTING ABILITY\n  - L985 # SPELL SAVE DC\n  - L989 # SPELL ATTACK BONUS\n  - L1001 # APPENDIX B: CHAOTIC ENVIRONMENTS\n  - L1005 # HEN RUNNING A COMBAT ENCOUNTER IN THE\n  - L1036 # SIZE OF NEW MATTER\n  - L1094 # TYPE OF NEW MATTER\n  - L1156 # APPENDIX C: HANDOUTS\n  - L1158 # CHAOS CONTROL\n  - L1181 # DC BY OBJECT SIZE\n  - L1223 # STR\n  - L1225 # DEX\n  - L1227 # CON\n  - L1229 # INT\n  - L1231 # WIS\n  - L1233 # CHA\n  - L1259 # ACTIONS\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nPlease fix any references to Salad creatures and any duplicate parts of Curse of Slaad.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "8683eb8c": {
+      "hash": "8683eb8c",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n- `content/Adventures/DM Notes/FLS/Tier 2/Wyvern and the Wyrmhole.md`\n  - L7 # Introduction\n  - L9 ## Adjusting Encounters\n  - L15 ## Key Plot Points\n  - L25 ## Preparation\n  - L35 ### Stat Blocks\n  - L41 ## Key NPCs\n  - L50 ## Content Warning\n  - L54 ## Adventure Background\n  - L64 # Part 1: The Contract\n  - L70 ## Adventure Hook\n  - L74 ### Roach Clip Advertisement\n  - L155 ### Dead Drop Encounter\n  - L165 #### The Shrine\n  - L170 ## Development\n  - L176 # Part 2: The Wyvern Hunt\n  - L190 ### Setting the Tracking Challenge\n  - L208 ### Making Tracking Checks\n  - L222 ### Tracking Consequences\n  - L228 ## Tracking Complications\n  - L239 ## Tracking Outcomes\n  - L248 ## Hunt Advantage\n  - L260 ## Quick Success Benefits\n  - L271 ## The Trail Assault\n  - L281 # Riverside Mill\n  - L283 ## Natural Day\n  - L287 ## Wyvern Lair\n  - L305 # Beetle Tribe Canyon\n  - L307 ## Empty Day\n  - L311 # Mountain Logging Camp\n  - L313 ## Natural\n  - L317 # Gate of Angels\n  - L319 ## Platform\n  - L323 # Coastal Caverns\n  - L325 ## Empty Day\n  - L329 ## Preserving the Corpse\n  - L339 # Part 3: The Wyrmhole\n  - L345 ## General Features\n  - L355 ## Rite Procedure\n  - L363 ## The Emergence Window\n  - L375 ## Bicephal Wyrmhole\n  - L381 ## Development\n  - L389 # Conclusion\n  - L405 # Rewards\n  - L415 ## Story Award: Society Asset\n  - L419 ## Experience\n  - L423 # Dungeon Master Aid: Hunting Complications\n  - L436 # Rumors\n  - L440 ## Common Rumors\n  - L447 ## Reliable Rumors\n  - L454 ## Dangerous Rumors\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake sure to include a way for the players to find this quest. Is it found in The Rolling Papers.md , The Roach Clip.md or somehwhere else? Follow a structure like this adventure Wyvern and the Wyrmhole.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "1d02f4ad": {
+      "hash": "1d02f4ad",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Zooka Mire Collective.md`\n  - L1 ## Overview\n  - L7 ## Philosophy\n  - L13 ## Role in Stickyickistan\n  - L27 ## Organization\n  - L37 ## Leadership\n  - L45 ## Succession and Internal Politics\n  - L51 ## Territories\n  - L53 ### Zooka Mire\n  - L57 ### The Undercity\n  - L61 ## Roles\n  - L67 ## Notable Members\n  - L72 ## Adventure Hooks\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # **CURSE OF SLAAD\n  - L3 # BEING A SUPPOSEDLY COMPETENT GROUP OF\n  - L75 # CHAPTER 1: COMPROMISED CITADEL\n  - L82 # A BROTHER'S FATE\n  - L87 # SLAAD ENCOUNTER\n  - L119 # A BLUE SLAAD ENRAGED\n  - L139 # GRAVE AFTERMATH\n  - L162 # CHAPTER 2: LIMBO MONASTERY\n  - L180 # THE EVER-CHANGING CHAOS OF LIMBO\n  - L205 # CHAOS CONTROL\n  - L228 # DC BY OBJECT SIZE\n  - L264 # ENCOUNTER ON THE MONASTIC ISLAND\n  - L284 # CHAOS FLUMPH\n  - L294 # STR\n  - L298 # DEX\n  - L300 # CON\n  - L302 # INT\n  - L304 # WIS\n  - L306 # CHA\n  - L323 # ACTIONS\n  - L370 # THE PACIFIST'S HOSPITALITY\n  - L381 # LO\n  - L445 # DEATH SLAADI AND YOU\n  - L480 # SPELL SCROLL OF IMPRISONMENT\n  - L521 # THE ZERTHIMON STEELBEAST\n  - L589 # CHAPTER 3: SLAAD ASSAULT\n  - L603 # DEATH SLAAD DEN\n  - L618 # ATTACKING AS THE DEATH SLAAD\n  - L635 # OBTAINING THE CONTROL GEM\n  - L662 # EPILOGUE\n  - L685 # APPENDIX A: ZARDAN CHARACTER SHEET\n  - L687 # DUNGEONS & DRAGONS®\n  - L691 # CHARACTER NAME\n  - L695 # CLASS & LEVEL\n  - L699 # RACE\n  - L703 # BACKGROUND\n  - L707 # ALIGNMENT\n  - L709 # PLAYER NAME\n  - L711 # EXPERIENCE POINTS\n  - L715 # PROFICIENCY BONUS\n  - L723 # INSPIRATION\n  - L725 # ARMOR CLASS\n  - L727 # INITIATIVE\n  - L729 # SPEED\n  - L731 # PERSONALITY TRAITS\n  - L737 # SAVING THROWS\n  - L739 # ATHLETICS\n  - L741 # HIT POINT MAXIMUM\n  - L745 # STRENGTH\n  - L751 # DEXTERITY\n  - L753 # SAVING THROWS\n  - L755 # ACROBATICS\n  - L757 # SLEIGHT OF HAND\n  - L759 # STEALTH\n  - L767 # SAVING THROWS\n  - L771 # CONSTITUTION\n  - L777 # SAVING THROWS\n  - L781 # ARCANA\n  - L787 # INTELLIGENCE\n  - L789 # HISTORY\n  - L791 # INVESTIGATION\n  - L793 # NATURE\n  - L795 # RELIGION\n  - L801 # WISDOM\n  - L809 # SAVING THROWS\n  - L811 # ANIMAL HANDLING\n  - L813 # INSIGHT\n  - L815 # +1 MEDICINE\n  - L817 # PERCEPTION\n  - L819 # SURVIVAL\n  - L825 # CHARISMA\n  - L827 # SAVING THROWS\n  - L829 # DECEPTION\n  - L831 # INTIMIDATION\n  - L833 # PERFORMANCE\n  - L835 # PERSUASION\n  - L839 # PASSIVE WISDOM (PERCEPTION)\n  - L841 # CURRENT HIT POINTS\n  - L843 # TEMPORARY HIT POINTS\n  - L845 # HIT DICE\n  - L847 # SUCCESSES\n  - L849 # FAILURES\n  - L851 # DEATH SAVES\n  - L853 # ATK BONUS DAMAGE/TYPE\n  - L857 # NAME\n  - L870 # ATTACKS & SPELLCASTING\n  - L874 # IDEALS\n  - L876 # BONDS\n  - L878 # FLAWS\n  - L888 # FEATURES & TRAITS\n  - L911 # OTHER PROFICIENCIES & LANGUAGES\n  - L913 # EQUIPMENT & CHARACTER NOTES\n  - L919 # SPELLS KNOWN\n  - L921 # SPELLCASTING\n  - L923 # CLASS\n  - L927 # D&D\n  - L929 # R\n  - L937 # SPELL LEVEL\n  - L939 # CANTRIPS\n  - L941 # SLOTS TOTAL\n  - L943 # SLOTS EXPENDED\n  - L963 # SPELL NAME\n  - L981 # SPELLCASTING ABILITY\n  - L985 # SPELL SAVE DC\n  - L989 # SPELL ATTACK BONUS\n  - L1001 # APPENDIX B: CHAOTIC ENVIRONMENTS\n  - L1005 # HEN RUNNING A COMBAT ENCOUNTER IN THE\n  - L1036 # SIZE OF NEW MATTER\n  - L1094 # TYPE OF NEW MATTER\n  - L1156 # APPENDIX C: HANDOUTS\n  - L1158 # CHAOS CONTROL\n  - L1181 # DC BY OBJECT SIZE\n  - L1223 # STR\n  - L1225 # DEX\n  - L1227 # CON\n  - L1229 # INT\n  - L1231 # WIS\n  - L1233 # CHA\n  - L1259 # ACTIONS\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI think it would make more sense for the Zooka Mire Collective.md to be behind the contamination. Please update Curse of Slaad.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "04f035b4": {
+      "hash": "04f035b4",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L19 ## Adventure Hook\n  - L31 ## Part 1: The Port Ale\n  - L37 ### Finding Port Ale\n  - L43 ### Entering the Loot Tavern\n  - L57 ## Threeflower\n  - L75 ## Content Warning\n  - L79 # Part 2: Journey to Springarden\n  - L85 ## Tracking the Road to Springarden\n  - L97 ## Tracking Consequences\n  - L112 ## Arrival at Springarden\n  - L125 ## Springarden\n  - L131 ### General Features\n  - L138 ## Investigation Scenes\n  - L142 ### Pyrax’s Feather\n  - L152 ### Feyfest Flyer\n  - L166 ### Fey Creatures\n  - L174 ## Know Thy Enemy\n  - L186 # Part 2: The Shining Shrine\n  - L192 ## Approaching the Shrine\n  - L196 ### During the Day\n  - L200 ### At Night\n  - L204 ## Emotive Waters\n  - L213 ## Lair Actions\n  - L221 ## Wave 1: Sunbear\n  - L225 ### Enemies\n  - L237 ## Wave 2: Constellation\n  - L260 ## Wave 3: Supernova\n  - L277 ## Objectives Beyond Defeat\n  - L287 # Part 3: Aftermath\n  - L297 ## Rewards\n  - L306 ## Further Adventures\n  - L313 # Difficulty and Scaling\n  - L321 # Harvesting\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Free League of Stickyickistan/Character Building.md`\n  - L2 ##### Stat Generation\n  - L6 ##### Hit Points\n  - L8 ##### PHB+1\n  - L10 ##### Species\n  - L12 #### Guide\n  - L25 ##### Starting Play at 3rd Level\n  - L33 ##### Starting Play at 5th Level\n  - L41 # Spell Amendments\n  - L43 ## Silvery Barbs\n  - L47 # Class Amendments\n  - L49 ## Artificer\n  - L53 ## Barbarian\n  - L61 ## Bard\n  - L65 ## Cleric\n  - L73 ## Druid\n  - L78 ## Fighter.\n  - L85 ## Gunslinger (Valda's Spire of Secrets)\n  - L89 ## Monk.\n  - L93 ## Monster Hunter (Grim Hollow Player's Guide)\n  - L97 ## Paladin.\n  - L103 ## Ranger.\n  - L110 ## Rogue.\n  - L115 ## Sorcerer.\n  - L162 ## Warlock.\n  - L166 ## Wizard.\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI need a brief to give my players before we play the game for the adventure The Shining Shrine.md . Use The Tenebrous Stone-r.md  as a boilerplate. Also make sure to abide by the rules in Character Building.md .\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "0d8ff1bc": {
+      "hash": "0d8ff1bc",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Springarden.md`\n  - L1 # Springarden\n  - L11 ## Notable Features\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nGive me a small write up for Springarden.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "6f3338d8": {
+      "hash": "6f3338d8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Blossom Union.md`\n  - L1 # Blossom Union\n  - L9 ## Springarden’s Keepers\n  - L20 ## Rivalry with the Order of the Emerald Breath\n  - L28 ## Notable Members\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nGive me a small write up for Blossom Union.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "15a8e462": {
+      "hash": "15a8e462",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Threeflower.md`\n  - L1 # Threeflower\n  - L9 ## Appearance\n  - L13 ## Personality\n  - L21 ## Motivations\n  - L27 ## Fears\n  - L31 ## Moo\n  - L35 ## Mannerisms and Saying\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nGive me a small write up for Threeflower.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "6f24f04c": {
+      "hash": "6f24f04c",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/NPCs/Quest Givers/Threeflower.md\" startLine=\"1\" endLine=\"40\">\n```content/NPCs/Quest Givers/Threeflower.md\n1|# Threeflower\n2|\n3|Threeflower is a timid gnome druid and a field representative of the [[Blossom Union]]. He helps maintain [[Springarden]], guides pilgrims through [[Springwood]], and investigates disturbances along the fragile boundary between the Material Plane and the Plane of Fey.\n4|\n5|Despite his nervous manner, Threeflower is observant, compassionate, and deeply familiar with the garden. He is most comfortable among trees, flowers, warm springs, and small fey creatures. In crowded taverns or unfamiliar company, he fidgets, apologizes frequently, and lets his blink squirrel companion, Moo, do much of the social work.\n6|\n7|Threeflower is currently recruiting adventurers to help remove a dangerous fey owlbear from the Shining Shrine. He meets the party at [[The Loot Tavern]] after they use [[Port Ale]] to reach it, then guides them through the forest to Springarden.\n8|\n9|## Appearance\n10|\n11|Threeflower is a stocky gnome with moss-green hair and a gentle, weathered face. He wears roughspun clothing decorated with feathers, fur, leaves, and small wooden charms collected from creatures that died naturally. He carries a walking staff covered in fresh shoots and is usually accompanied by Moo, a many-eyed blink squirrel.\n12|\n13|## Personality\n14|\n15|- Nervous around strangers and crowded places.\n16|- Relaxed and confident in nature.\n17|- Kind, grateful, and uncomfortable with confrontation.\n18|- Easily distracted by unusual plants, insects, and fey phenomena.\n19|- More courageous when protecting Springarden or Moo.\n20|\n21|## Motivations\n22|\n23|Threeflower wants to protect Springarden, preserve the Blossom Union’s relationship with pilgrims, and keep the garden’s fey crossings peaceful. He hopes the current crisis can be solved without destroying the shrine or harming creatures that can be driven away instead of killed.\n24|\n25|He also wants a quiet, sunlit place to spend his evenings smoking half-leaf. He is reluctant to admit this to strangers, especially if they appear judgmental.\n26|\n27|## Fears\n28|\n29|Threeflower fears offending people, direct confrontation, forest fires, and failing the Blossom Union. He is particularly afraid that the suneater owlbear will damage Springarden beyond repair or that the garden’s corrupted magic will spread into the surrounding [[Springwood]].\n30|\n31|## Moo\n32|\n33|Moo is Threeflower’s blink squirrel companion. Unlike an ordinary squirrel, Moo is a fey creature and does not respond to magic that targets beasts. Moo can teleport between nearby branches, disappears whenever conversation becomes boring, and has an intense interest in candy, shiny objects, and unattended spell components.\n34|\n35|## Mannerisms and Saying\n36|\n37|> “Yawns* Oh, h-h-hello. Am I in your way? No? Sorry. Moo would like to know if you have any candy.”\n38|\n39|Threeflower often rubs his hands together when nervous, checks whether Moo is nearby, and apologizes to plants after stepping on them. When he becomes comfortable in nature, his stammer fades and he speaks with quiet confidence.\n40|\n```\n</user_selected_content>\n\n\nThreeflower.md (436 Words) remove all references to the shining shrine adventure\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "94d4c184": {
+      "hash": "94d4c184",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Threeflower.md`\n  - L1 # Threeflower\n  - L9 ## Appearance\n  - L13 ## Personality\n  - L21 ## Motivations\n  - L27 ## Fears\n  - L31 ## Moo\n  - L35 ## Mannerisms and Saying\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nRemove all references to the shining shrine adventure or the suneather owlbear in Threeflower.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "82d3f53f": {
+      "hash": "82d3f53f",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Dread and Breakfast.md`\n  - L1 # Dread and Breakfast\n  - L5 ## Introduction\n  - L11 ## Adventure Background\n  - L25 ## Summary\n  - L33 ## Adventure Hook\n  - L47 ## Dr. Stein\n  - L53 ### Hunt Rewards per Character\n  - L60 ## The Grim Forest\n  - L66 ### Tracking\n  - L74 ### Unique Flora and Fauna\n  - L83 ## Know Thy Enemy\n  - L92 ### Clue 1: Acid\n  - L98 ### Clue 2: The Tavern Mimic\n  - L104 ### Clue 3: Warded Exterior\n  - L108 ### Guthric\n  - L114 ## The Battle Ahead\n  - L126 ### Wave Damage Thresholds\n  - L136 ## A Tavern’s Domain\n  - L145 ### Lair Actions\n  - L159 ## Entering the Tavern\n  - L175 ## Wave 1: Furniture\n  - L185 ## Wave 2: Shrink\n  - L201 ## Wave 3: Jonjo Starr\n  - L215 ### Wave 3 Enemies\n  - L223 ## Optional Ending: Digestif\n  - L229 # Aftermath\n  - L237 ## Further Adventure Hooks\n  - L245 ## Rewards\n  - L261 ## Harvesting\n  - L273 ### Crafting\n  - L277 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#TavernMimicCraftableItems)Tavern Mimic Craftable Items\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you help me tie Dread and Breakfast.md into Stickyickistan. Replace names and places where it makes sense.\n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "f62ed50e": {
+      "hash": "f62ed50e",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Dr. Stein.md`\n  - L1 # Dr. Francis Norman Stein\n  - L7 ## Role in Stickyickistan\n  - L17 ## Appearance\n  - L23 ## Personality\n  - L32 ## Motivations\n  - L38 ## Mannerisms and Sayings\n- `content/NPCs/Quest Givers/Heliana.md`\n  - L3 ### Heliana’s Cave\n- `content/NPCs/Quest Givers/Humperdink.md`\n  - L3 ### Humperdink’s Laboratory\n- `content/NPCs/Quest Givers/Bezol Beefgut.md`\n  - L3 # Call to Action\n  - L11 # Backstory\n- `content/NPCs/Quest Givers/Humperdink.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Heliana.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Kezrin Malvek.md`\n- `content/NPCs/Quest Givers/L'Arsene Upin.md`\n  - L3 ### L’Arsène’s Caravan\n- `content/NPCs/Quest Givers/Kezrin Malvek.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Threeflower.md`\n  - L1 # Threeflower\n  - L9 ## Appearance\n  - L13 ## Personality\n  - L21 ## Motivations\n  - L27 ## Fears\n  - L31 ## Moo\n  - L35 ## Mannerisms and Saying\n- `content/NPCs/Quest Givers/L'Arsene Upin.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Skarguther Dungleboof.md`\n- `content/NPCs/Quest Givers/Skarguther Dungleboof.mdZone.Identifier`\n- `content/NPCs/Quest Givers/Zara Blackthorn.md`\n- `content/NPCs/Quest Givers/Zara Blackthorn.mdZone.Identifier`\n\n## Mentioned Vault Folders\n- `content/NPCs/Quest Givers`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nLets create a Document for Dr. Stein in the Quest Givers \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "849e1bbe": {
+      "hash": "849e1bbe",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Dr. Stein.md`\n  - L1 # Dr. Francis Norman Stein\n  - L7 ## Role in Stickyickistan\n  - L17 ## Appearance\n  - L23 ## Personality\n  - L32 ## Motivations\n  - L38 ## Mannerisms and Sayings\n- `content/POIs/N.E.R.D.md`\n  - L1 # N.E.R.D\n  - L7 ## Role in Stickyickistan\n  - L13 ## Areas of Study\n  - L28 ## Connections\n  - L40 ## Reputation\n  - L44 ## Quest Hooks\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI think Dr. Stein.md  should have some connection to N.E.R.D.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142845,
+      "updatedAt": 1785956142845
+    },
+    "0860b48c": {
+      "hash": "0860b48c",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Dread and Breakfast.md`\n  - L1 # Dread and Breakfast\n  - L5 ## Introduction\n  - L11 ## Adventure Background\n  - L25 ## Summary\n  - L33 ## Adventure Hook\n  - L47 ## Dr. Stein\n  - L53 ### Hunt Rewards per Character\n  - L60 ## The Grim Forest\n  - L66 ### Tracking\n  - L74 ### Unique Flora and Fauna\n  - L83 ## Know Thy Enemy\n  - L92 ### Clue 1: Acid\n  - L98 ### Clue 2: The Tavern Mimic\n  - L104 ### Clue 3: Warded Exterior\n  - L108 ### Guthric\n  - L114 ## The Battle Ahead\n  - L126 ### Wave Damage Thresholds\n  - L136 ## A Tavern’s Domain\n  - L145 ### Lair Actions\n  - L159 ## Entering the Tavern\n  - L175 ## Wave 1: Furniture\n  - L185 ## Wave 2: Shrink\n  - L201 ## Wave 3: Jonjo Starr\n  - L215 ### Wave 3 Enemies\n  - L223 ## Optional Ending: Digestif\n  - L229 # Aftermath\n  - L237 ## Further Adventure Hooks\n  - L245 ## Rewards\n  - L261 ## Harvesting\n  - L273 ### Crafting\n  - L277 #### [](https://www.dndbeyond.com/sources/dnd/hgtmh1/dread-and-breakfast#TavernMimicCraftableItems)Tavern Mimic Craftable Items\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Character Creation\n  - L46 ## Starting Equipment\n  - L58 ## Stickyickistanian Backgrounds\n  - L70 ## Setting Context\n  - L79 ## Useful Skills\n  - L92 ## What Characters Know\n  - L103 ## Character Hooks\n  - L114 # Rewards\n  - L123 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make a document in the Adventure Briefs  folder for Dread and Breakfast.md  using the same format as the example in The Rolling Papers.md  just like The Shining Shrine Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142846,
+      "updatedAt": 1785956142846
+    },
+    "8d05679b": {
+      "hash": "8d05679b",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L552 ### Adventure Rewards\n  - L567 ### Treasure Bundles\n  - L581 ## Story Award\n  - L583 ### Friend of Ziggy\n  - L593 # Experience\n  - L599 # Dungeon Master Aid: Rumors\n  - L611 ## Copper Rumors (1 cp)\n  - L635 ## Silver Rumors (1 sp)\n  - L657 ## Gold Rumors (1 gp)\n- `content/Free League of Stickyickistan/Character Advancement.md`\n  - L1 # Character Advancement\n  - L5 ## Advancement Method\n  - L23 ## Adventure XP\n  - L31 ## Partial Completion\n  - L44 ## Bonus XP\n  - L57 ## Session Length\n  - L65 ## Suggested XP by Adventure Tier\n  - L78 ## Tier of Play\n  - L91 ## Recording Advancement\n  - L109 ## Gold and Treasure\n  - L124 ## Magic Items\n  - L132 ## Consumables\n  - L138 ## Story Awards\n  - L153 ## Downtime\n  - L161 ## Death, Disease, and Curses\n  - L169 ## Player Responsibility\n- `content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L19 ## Adventure Hook\n  - L31 ## Part 1: The Port Ale\n  - L37 ### Finding Port Ale\n  - L43 ### Entering the Loot Tavern\n  - L57 ## Threeflower\n  - L75 ## Content Warning\n  - L79 # Part 2: Journey to Springarden\n  - L85 ## Tracking the Road to Springarden\n  - L97 ## Tracking Consequences\n  - L112 ## Arrival at Springarden\n  - L125 ## Springarden\n  - L131 ### General Features\n  - L138 ## Investigation Scenes\n  - L142 ### Pyrax’s Feather\n  - L152 ### Feyfest Flyer\n  - L166 ### Fey Creatures\n  - L174 ## Know Thy Enemy\n  - L186 # Part 2: The Shining Shrine\n  - L192 ## Approaching the Shrine\n  - L196 ### During the Day\n  - L200 ### At Night\n  - L204 ## Emotive Waters\n  - L213 ## Lair Actions\n  - L221 ## Wave 1: Sunbear\n  - L225 ### Enemies\n  - L237 ## Wave 2: Constellation\n  - L260 ## Wave 3: Supernova\n  - L277 ## Objectives Beyond Defeat\n  - L287 # Part 3: Aftermath\n  - L297 ## Rewards\n  - L306 ## Further Adventures\n  - L313 # Difficulty and Scaling\n  - L321 # Harvesting\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\" startLine=\"548\" endLine=\"586\">\n```content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\n548|## Rewards\n549|\n550|Upon returning to Ziggy Tootokes, each character receives the promised bounty for dismantling Branch Seven.\n551|\n552|The characters also recover the following treasure during the adventure.\n553|\n554|- 185 gp\n555|- Three garnets worth 50 gp each\n556|- A silver signet ring engraved with The Bloodline's symbol\n557|- Any mundane equipment recovered from defeated enemies\n558|\n559|## Treasure Bundles\n560|\n561|At the conclusion of the adventure, award one Treasure Bundle to the party. Roll on the table below or choose the result that best fits your campaign.\n562|\n563||   |   |\n564||---|---|\n565||Options|Treasure Bundle|\n566||1|Portable Hole. Wrapped in waxed linen with an inventory tag reading Branch Property – Destination: Branch Three.|\n567||2|Alchemist's Cache. A sturdy leather case containing an Alchemy Jug, and 75 gp.|\n568||3|Explorer's Kit. A beautifully crafted Lantern of Revealing, a Potion of Greater Healing.|\n569|\n570|---\n571|\n572|## Story Award\n573|\n574|## Friend of Ziggy\n575|\n576|The characters have earned the trust and respect of Ziggy Tootokes, Investigator of the Tribunal Highblade Coalition.\n577|\n578|Whenever the characters seek information regarding criminal activity, smuggling operations, or Arcannabis trafficking within Stickyickistan, Ziggy is willing to share what he knows or point them toward new leads, provided doing so does not compromise an ongoing investigation.\n579|\n580|If Ziggy appears in a future adventure, he greets the characters as trusted associates and does his best to assist them.\n581|\n582|---\n583|\n584|# Experience\n585|\n586|Characters who complete this adventure earn 1,350 XP, approximately enough to advance a 3rd-level character halfway to 4th level.\n```\n</user_selected_content>\n\n\nCrimson Candleworks.md (229 Words) Update the rewards section of Crimson Candleworks.md  to reflect the addition of Character Advancement.md . Use The Shining Shrine.md  as a reference.\n\n"
+        }
+      ],
+      "createdAt": 1785956142846,
+      "updatedAt": 1785956142846
+    },
+    "40d34406": {
+      "hash": "40d34406",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # **CURSE OF SLAAD\n  - L3 # BEING A SUPPOSEDLY COMPETENT GROUP OF\n  - L75 # CHAPTER 1: COMPROMISED CITADEL\n  - L82 # A BROTHER'S FATE\n  - L87 # SLAAD ENCOUNTER\n  - L119 # A BLUE SLAAD ENRAGED\n  - L139 # GRAVE AFTERMATH\n  - L162 # CHAPTER 2: LIMBO MONASTERY\n  - L180 # THE EVER-CHANGING CHAOS OF LIMBO\n  - L205 # CHAOS CONTROL\n  - L228 # DC BY OBJECT SIZE\n  - L264 # ENCOUNTER ON THE MONASTIC ISLAND\n  - L284 # CHAOS FLUMPH\n  - L294 # STR\n  - L298 # DEX\n  - L300 # CON\n  - L302 # INT\n  - L304 # WIS\n  - L306 # CHA\n  - L323 # ACTIONS\n  - L370 # THE PACIFIST'S HOSPITALITY\n  - L381 # LO\n  - L445 # DEATH SLAADI AND YOU\n  - L480 # SPELL SCROLL OF IMPRISONMENT\n  - L521 # THE ZERTHIMON STEELBEAST\n  - L589 # CHAPTER 3: SLAAD ASSAULT\n  - L603 # DEATH SLAAD DEN\n  - L618 # ATTACKING AS THE DEATH SLAAD\n  - L635 # OBTAINING THE CONTROL GEM\n  - L662 # EPILOGUE\n  - L685 # APPENDIX A: ZARDAN CHARACTER SHEET\n  - L687 # DUNGEONS & DRAGONS®\n  - L691 # CHARACTER NAME\n  - L695 # CLASS & LEVEL\n  - L699 # RACE\n  - L703 # BACKGROUND\n  - L707 # ALIGNMENT\n  - L709 # PLAYER NAME\n  - L711 # EXPERIENCE POINTS\n  - L715 # PROFICIENCY BONUS\n  - L723 # INSPIRATION\n  - L725 # ARMOR CLASS\n  - L727 # INITIATIVE\n  - L729 # SPEED\n  - L731 # PERSONALITY TRAITS\n  - L737 # SAVING THROWS\n  - L739 # ATHLETICS\n  - L741 # HIT POINT MAXIMUM\n  - L745 # STRENGTH\n  - L751 # DEXTERITY\n  - L753 # SAVING THROWS\n  - L755 # ACROBATICS\n  - L757 # SLEIGHT OF HAND\n  - L759 # STEALTH\n  - L767 # SAVING THROWS\n  - L771 # CONSTITUTION\n  - L777 # SAVING THROWS\n  - L781 # ARCANA\n  - L787 # INTELLIGENCE\n  - L789 # HISTORY\n  - L791 # INVESTIGATION\n  - L793 # NATURE\n  - L795 # RELIGION\n  - L801 # WISDOM\n  - L809 # SAVING THROWS\n  - L811 # ANIMAL HANDLING\n  - L813 # INSIGHT\n  - L815 # +1 MEDICINE\n  - L817 # PERCEPTION\n  - L819 # SURVIVAL\n  - L825 # CHARISMA\n  - L827 # SAVING THROWS\n  - L829 # DECEPTION\n  - L831 # INTIMIDATION\n  - L833 # PERFORMANCE\n  - L835 # PERSUASION\n  - L839 # PASSIVE WISDOM (PERCEPTION)\n  - L841 # CURRENT HIT POINTS\n  - L843 # TEMPORARY HIT POINTS\n  - L845 # HIT DICE\n  - L847 # SUCCESSES\n  - L849 # FAILURES\n  - L851 # DEATH SAVES\n  - L853 # ATK BONUS DAMAGE/TYPE\n  - L857 # NAME\n  - L870 # ATTACKS & SPELLCASTING\n  - L874 # IDEALS\n  - L876 # BONDS\n  - L878 # FLAWS\n  - L888 # FEATURES & TRAITS\n  - L911 # OTHER PROFICIENCIES & LANGUAGES\n  - L913 # EQUIPMENT & CHARACTER NOTES\n  - L919 # SPELLS KNOWN\n  - L921 # SPELLCASTING\n  - L923 # CLASS\n  - L927 # D&D\n  - L929 # R\n  - L937 # SPELL LEVEL\n  - L939 # CANTRIPS\n  - L941 # SLOTS TOTAL\n  - L943 # SLOTS EXPENDED\n  - L963 # SPELL NAME\n  - L981 # SPELLCASTING ABILITY\n  - L985 # SPELL SAVE DC\n  - L989 # SPELL ATTACK BONUS\n  - L1001 # APPENDIX B: CHAOTIC ENVIRONMENTS\n  - L1005 # HEN RUNNING A COMBAT ENCOUNTER IN THE\n  - L1036 # SIZE OF NEW MATTER\n  - L1094 # TYPE OF NEW MATTER\n  - L1156 # APPENDIX C: HANDOUTS\n  - L1158 # CHAOS CONTROL\n  - L1181 # DC BY OBJECT SIZE\n  - L1223 # STR\n  - L1225 # DEX\n  - L1227 # CON\n  - L1229 # INT\n  - L1231 # WIS\n  - L1233 # CHA\n  - L1259 # ACTIONS\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you fix the formatting of Curse of Slaad.md \n\n"
+        }
+      ],
+      "createdAt": 1785956142846,
+      "updatedAt": 1785956142846
     }
   }
 }

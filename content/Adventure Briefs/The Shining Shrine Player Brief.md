@@ -4,7 +4,7 @@
 
 # The Rolling Papers Advertisement
 
-**Submitted by:** Initiate of Tribulation, Vorg Lordcaster  
+**Submitted by:** [[Blossom Union]]
 **Tier:** Tier 1  
 **Recommended Level:** 3  
 **Expected Length:** One-shot, approximately 2–4 hours  
@@ -41,7 +41,7 @@ Applicants should register at the [[FLS Guildhall]] after reading this notice. O
 
 # Sign-Up
 
-**DM:** Chase  
+**DM:** Initiate of Tribulation, Vorg Lordcaster  
 **Date / Time:** TBD  
 **Seats:** 4 players  
 **How to join:** Register through the [[FLS Guildhall]] / post in the Free League chat.

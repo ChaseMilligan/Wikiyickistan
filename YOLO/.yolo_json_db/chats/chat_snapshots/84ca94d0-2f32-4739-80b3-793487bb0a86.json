@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "40d34406": {
+      "hash": "40d34406",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # **CURSE OF SLAAD\n  - L3 # BEING A SUPPOSEDLY COMPETENT GROUP OF\n  - L75 # CHAPTER 1: COMPROMISED CITADEL\n  - L82 # A BROTHER'S FATE\n  - L87 # SLAAD ENCOUNTER\n  - L119 # A BLUE SLAAD ENRAGED\n  - L139 # GRAVE AFTERMATH\n  - L162 # CHAPTER 2: LIMBO MONASTERY\n  - L180 # THE EVER-CHANGING CHAOS OF LIMBO\n  - L205 # CHAOS CONTROL\n  - L228 # DC BY OBJECT SIZE\n  - L264 # ENCOUNTER ON THE MONASTIC ISLAND\n  - L284 # CHAOS FLUMPH\n  - L294 # STR\n  - L298 # DEX\n  - L300 # CON\n  - L302 # INT\n  - L304 # WIS\n  - L306 # CHA\n  - L323 # ACTIONS\n  - L370 # THE PACIFIST'S HOSPITALITY\n  - L381 # LO\n  - L445 # DEATH SLAADI AND YOU\n  - L480 # SPELL SCROLL OF IMPRISONMENT\n  - L521 # THE ZERTHIMON STEELBEAST\n  - L589 # CHAPTER 3: SLAAD ASSAULT\n  - L603 # DEATH SLAAD DEN\n  - L618 # ATTACKING AS THE DEATH SLAAD\n  - L635 # OBTAINING THE CONTROL GEM\n  - L662 # EPILOGUE\n  - L685 # APPENDIX A: ZARDAN CHARACTER SHEET\n  - L687 # DUNGEONS & DRAGONS®\n  - L691 # CHARACTER NAME\n  - L695 # CLASS & LEVEL\n  - L699 # RACE\n  - L703 # BACKGROUND\n  - L707 # ALIGNMENT\n  - L709 # PLAYER NAME\n  - L711 # EXPERIENCE POINTS\n  - L715 # PROFICIENCY BONUS\n  - L723 # INSPIRATION\n  - L725 # ARMOR CLASS\n  - L727 # INITIATIVE\n  - L729 # SPEED\n  - L731 # PERSONALITY TRAITS\n  - L737 # SAVING THROWS\n  - L739 # ATHLETICS\n  - L741 # HIT POINT MAXIMUM\n  - L745 # STRENGTH\n  - L751 # DEXTERITY\n  - L753 # SAVING THROWS\n  - L755 # ACROBATICS\n  - L757 # SLEIGHT OF HAND\n  - L759 # STEALTH\n  - L767 # SAVING THROWS\n  - L771 # CONSTITUTION\n  - L777 # SAVING THROWS\n  - L781 # ARCANA\n  - L787 # INTELLIGENCE\n  - L789 # HISTORY\n  - L791 # INVESTIGATION\n  - L793 # NATURE\n  - L795 # RELIGION\n  - L801 # WISDOM\n  - L809 # SAVING THROWS\n  - L811 # ANIMAL HANDLING\n  - L813 # INSIGHT\n  - L815 # +1 MEDICINE\n  - L817 # PERCEPTION\n  - L819 # SURVIVAL\n  - L825 # CHARISMA\n  - L827 # SAVING THROWS\n  - L829 # DECEPTION\n  - L831 # INTIMIDATION\n  - L833 # PERFORMANCE\n  - L835 # PERSUASION\n  - L839 # PASSIVE WISDOM (PERCEPTION)\n  - L841 # CURRENT HIT POINTS\n  - L843 # TEMPORARY HIT POINTS\n  - L845 # HIT DICE\n  - L847 # SUCCESSES\n  - L849 # FAILURES\n  - L851 # DEATH SAVES\n  - L853 # ATK BONUS DAMAGE/TYPE\n  - L857 # NAME\n  - L870 # ATTACKS & SPELLCASTING\n  - L874 # IDEALS\n  - L876 # BONDS\n  - L878 # FLAWS\n  - L888 # FEATURES & TRAITS\n  - L911 # OTHER PROFICIENCIES & LANGUAGES\n  - L913 # EQUIPMENT & CHARACTER NOTES\n  - L919 # SPELLS KNOWN\n  - L921 # SPELLCASTING\n  - L923 # CLASS\n  - L927 # D&D\n  - L929 # R\n  - L937 # SPELL LEVEL\n  - L939 # CANTRIPS\n  - L941 # SLOTS TOTAL\n  - L943 # SLOTS EXPENDED\n  - L963 # SPELL NAME\n  - L981 # SPELLCASTING ABILITY\n  - L985 # SPELL SAVE DC\n  - L989 # SPELL ATTACK BONUS\n  - L1001 # APPENDIX B: CHAOTIC ENVIRONMENTS\n  - L1005 # HEN RUNNING A COMBAT ENCOUNTER IN THE\n  - L1036 # SIZE OF NEW MATTER\n  - L1094 # TYPE OF NEW MATTER\n  - L1156 # APPENDIX C: HANDOUTS\n  - L1158 # CHAOS CONTROL\n  - L1181 # DC BY OBJECT SIZE\n  - L1223 # STR\n  - L1225 # DEX\n  - L1227 # CON\n  - L1229 # INT\n  - L1231 # WIS\n  - L1233 # CHA\n  - L1259 # ACTIONS\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you fix the formatting of Curse of Slaad.md \n\n"
+        }
+      ],
+      "createdAt": 1785956202785,
+      "updatedAt": 1785956202785
+    },
+    "a6dc1979": {
+      "hash": "a6dc1979",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # Curse of Slaad\n  - L3 ## Being a Supposedly Competent Group of Warriors and Explorers\n  - L16 ### Zardan, the Githzerai Wizard\n  - L50 ### Slaadi, the Terrors from Limbo\n  - L68 ## Chapter 1: Compromised Citadel\n  - L75 ## A Brother's Fate\n  - L79 ## Slaad Encounter\n  - L94 ### A Blue Slaad Enraged\n  - L114 ### Grave Aftermath\n  - L135 ## Chapter 2: Limbo Monastery\n  - L141 ### The Ever-Changing Chaos of Limbo\n  - L166 ### Chaos Control\n  - L189 ### DC by Object Size\n  - L199 ### Encounter on the Monastic Island\n  - L219 ### Chaos Flumph\n  - L236 #### Actions\n  - L249 ### The Pacifist's Hospitality\n  - L261 #### Chaos Phage Visible Symptoms\n  - L274 ### Lez'lin, the Githzerai Monk\n  - L294 ### Death Slaadi and You\n  - L323 ### Spell Scroll of Imprisonment\n  - L345 ### The Zerthimon Steelbeast\n  - L366 ### Zerthimon Steelbeast\n  - L413 ## Chapter 3: Slaad Assault\n  - L427 ### Death Slaad Den\n  - L439 ### Attacking as the Death Slaad\n  - L456 ### Obtaining the Control Gem\n  - L483 ### Epilogue\n  - L506 ## Appendix A: Zardan Character Sheet\n  - L508 ### Dungeons & Dragons®\n  - L510 ### Zardan\n  - L526 #### Ability Scores\n  - L537 #### Skills\n  - L558 #### Attacks & Spellcasting\n  - L568 #### Features & Traits\n  - L575 #### Other Proficiencies & Languages\n  - L580 #### Equipment & Character Notes\n  - L591 #### Spellcasting\n  - L619 ## Appendix B: Chaotic Environments\n  - L647 ### Floating Terrain\n  - L669 ### Type of New Matter\n  - L687 ## Appendix C: Handouts\n  - L689 ### Chaos Control\n  - L708 ### DC by Object Size\n  - L719 ### Zerthimon Steelbeast\n  - L737 #### Actions\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you remove all the un needed white space in Curse of Slaad.md \n\n"
+        }
+      ],
+      "createdAt": 1785957353640,
+      "updatedAt": 1785957353640
+    },
+    "6a410db4": {
+      "hash": "6a410db4",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\" startLine=\"111\" endLine=\"160\">\n```content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\n111|CHAOS FLUMPH \n112|\n113|Small aberration, chaotic evil \n114|\n115|Armor Class 12 \n116|\n117|Hit Points 7 (2d6) \n118|\n119|Speed 0 ft., fly 15 ft. (hover) \n120|\n121|STR \n122|\n123|6 (-2) \n124|\n125|DEX \n126|\n127|CON \n128|\n129|INT \n130|\n131|WIS \n132|\n133|CHA \n134|\n135|15 (+2) \n136|\n137|10 (+0) \n138|\n139|14 (+2) \n140|\n141|14 (+2) \n142|\n143|11 (+0) \n144|\n145|Senses darkvision 60 ft., passive Perception 12 Languages understands Common and Gith but can't speak Challenge 1/8 (25 XP) \n146|\n147|Proficiency Bonus +2 \n148|\n149|ACTIONS\n150|\n151|**Tendrils.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of its turns, the target must make a DC 10 Constitution saving throw, taking 2 (1d4) acid damage on a failure or ending the recurring acid damage on a success. A *lesser restoration* spell cast on the target also ends the recurring acid damage.\n152|\n153|**Chaotic Release (Recharge 6).** The chaos flumph unleashes a spout of noxious Limbo energy in a direction of its choice. Each creature in a 15-foot cone originating from the chaos flumph must succeed on a DC 10 Dexterity saving throw or suffer a random effect until the end of their next turn:\n154|\n155|1. **Blinded.** The target can't see and automatically fails ability checks that require sight. Attack rolls against it have advantage, and its own attack rolls have disadvantage.\n156|2. **Charmed.** The target can't attack the chaos flumph or target it with harmful abilities or magical effects.\n157|3. **Deafened.** The target can't hear and automatically fails any ability check that requires hearing.\n158|4. **Invisible.** The target is impossible to see without the aid of magic or a special sense. For the purpose of hiding, it is heavily obscured. Its location can be detected if it makes noise or leaves tracks. Attack rolls against it have disadvantage, and its own attack rolls have advantage.\n159|5. **Poisoned.** The target has disadvantage on attack rolls and ability checks.\n160|6. **Restrained.** The target's speed becomes 0 and it can't benefit from any bonus to its speed. Attack rolls against it have advantage, and its own attack rolls have disadvantage. It has disadvantage on Dexterity saving throws.\n```\n</user_selected_content>\n\n\nCurse of Slaad.md (347 Words) Can you convert this into Fantasy Statblock syntax\n\n"
+        }
+      ],
+      "createdAt": 1785959746964,
+      "updatedAt": 1785959746964
+    },
+    "2e863e6c": {
+      "hash": "2e863e6c",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\" startLine=\"146\" endLine=\"167\">\n```content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\n146|Chaotic Release:\n147|\n148|\n149|1. Blinded. The target can't see and automatically fails ability checks that require sight. Attack rolls against them have advantage, and their own attack rolls have disadvantage. \n150|\n151|2. Charmed. The target can't attack the chaos flumph or target \n152|\n153|it with harmful abilities or magical effects. \n154|\n155|3. Deafened. The target can't hear and automatically fails any \n156|\n157|ability check that requires hearing. \n158|\n159|4. Invisible. The target is impossible to see without the aid of \n160|\n161|magic or a special sense. For the purpose of hiding, they are heavily obscured. Their location can be detected if they make noise or leave tracks. Attack rolls against them have disadvantage, and their own attack rolls have advantage. 5. Poisoned. The target has disadvantage on attack rolls and \n162|\n163|ability checks. \n164|\n165|6. Restrained. The target's speed becomes 0 and they can't \n166|\n167|benefit from any bonus to their speed. Attack rolls against them have advantage, and their own attack rolls have disadvantage. They have disadvantage on Dexterity saving throws.\n```\n</user_selected_content>\n\n\nCurse of Slaad.md (162 Words) convert to a table\n\n"
+        }
+      ],
+      "createdAt": 1785959843660,
+      "updatedAt": 1785959843660
+    },
+    "cd7b0241": {
+      "hash": "cd7b0241",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\" startLine=\"420\" endLine=\"437\">\n```content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\n420|- **Athletics** — +1\n421|- **Acrobatics** — +2\n422|- **Sleight of Hand** — +2\n423|- **Stealth** — +2\n424|- **Arcana** — +6\n425|- **History** — +6\n426|- **Investigation** — +6\n427|- **Nature** — +6\n428|- **Religion** — +6\n429|- **Animal Handling** — −1\n430|- **Insight** — +1\n431|- **Medicine** — +1\n432|- **Perception** — +1\n433|- **Survival** — +1\n434|- **Deception** — +1\n435|- **Intimidation** — +1\n436|- **Performance** — +1\n437|- **Persuasion** — +1\n```\n</user_selected_content>\n\n\nCurse of Slaad.md (39 Words) convert to a table\n\n"
+        }
+      ],
+      "createdAt": 1785960450463,
+      "updatedAt": 1785960450463
+    },
+    "62dcf175": {
+      "hash": "62dcf175",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\" startLine=\"583\" endLine=\"611\">\n```content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md\n583|### Zerthimon Steelbeast\n584|\n585|*Huge artifact, lawful good*\n586|\n587|- **Armor Class** 20\n588|- **Hit Points** 150\n589|- **Speed** 30 ft., fly (hover)\n590|\n591|| STR | DEX | CON | INT | WIS | CHA |\n592||---:|---:|---:|---:|---:|---:|\n593|| 20 (+5) | 6 (-2) | 10 (+0) | 16 (+3) | 12 (+1) | 10 (+0) |\n594|\n595|- **Damage Immunities** poison\n596|- **Condition Immunities** blinded, poisoned, prone\n597|- **Senses** blindvision 60 ft.\n598|- **Languages** Common, Gith; understands the languages of the creature attuned to it\n599|- **Proficiency Bonus** +4\n600|\n601|#### Actions\n602|\n603|**Claw Snap.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 4d10 + 5 bludgeoning damage.\n604|\n605|**Pincer Grab.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* The target is grappled (escape DC 15). Until this grapple ends, the Steelbeast can't use Claw Snap or Pincer Grab on another target.\n606|\n607|**Shock Stinger.** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 3d12 + 3 lightning damage. If the target is below half its hit point maximum, it must make a DC 15 Constitution saving throw. On a failed save, the target is stunned for 1d4 minutes.\n608|\n609|**Sleep Gas.** Every creature within a 30-foot radius of the Steelbeast must make a DC 18 Constitution saving throw. If the creature fails its save and is still within 30 feet of the Steelbeast by the end of its next turn, it falls unconscious for 1d6 + 2 minutes. The creature can reattempt the saving throw if it takes damage while unconscious.\n610|\n611|**Improvised Action.** If a creature attuned to the Steelbeast succeeds on a DC 15 Intelligence check, they can make the Steelbeast improvise an action that isn't reasonably outside of its capabilities.\n```\n</user_selected_content>\n\n\nCurse of Slaad.md (259 Words) convert this into Fanatasy Statblock syntax\n\n"
+        }
+      ],
+      "createdAt": 1785960692539,
+      "updatedAt": 1785960692539
+    },
+    "b00b69b5": {
+      "hash": "b00b69b5",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 ## Being a Supposedly Competent Group of Warriors and Explorers\n  - L7 ### Zardan, the Githzerai Wizard\n  - L15 ## Chapter 1: Compromised Citadel\n  - L19 ## A Brother's Fate\n  - L28 ### Slaadi, the Terrors from Limbo\n  - L38 ## Slaad Encounter\n  - L48 ### A Blue Slaad Enraged\n  - L56 ### Grave Aftermath\n  - L66 ## CHAPTER 2: LIMBO MONASTERY\n  - L75 ### THE EVER-CHANGING CHAOS OF LIMBO\n  - L103 ### ENCOUNTER ON THE MONASTIC ISLAND\n  - L146 ### Chaotic Release Effects\n  - L157 ### The Pacifist's Hospitality\n  - L163 #### Chaos Phage Visible Symptoms\n  - L193 ### Death Slaadi and You\n  - L217 ### Spell Scroll of Imprisonment\n  - L229 ### The Zerthimon Steelbeast\n  - L250 #### Zerthimon Steelbeast\n  - L297 ## Chapter 3: Slaad Assault\n  - L312 ### Death Slaad Den\n  - L340 ### Obtaining the Control Gem\n  - L366 ### Epilogue\n  - L389 ## Appendix A: Zardan Character Sheet\n  - L391 ### Zardan\n  - L407 #### Ability Scores\n  - L418 #### Skills\n  - L441 #### Attacks & Spellcasting\n  - L451 #### Features & Traits\n  - L458 #### Other Proficiencies & Languages\n  - L463 #### Equipment & Character Notes\n  - L474 #### Spellcasting\n  - L502 ## Appendix B: Chaotic Environments\n  - L514 ### Floating Terrain\n  - L536 ### Type of New Matter\n  - L552 ## Appendix C: Handouts\n  - L554 ### Chaos Control\n  - L573 ### DC by Object Size\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me tie in the adventure in Curse of Slaad.md  to the world of Stickyickistan. Try not to create new NPCs or locations and use ones that already exist in my documents. Only create something new if you cant find something that already exists to replace it.\n\n"
+        }
+      ],
+      "createdAt": 1785960867602,
+      "updatedAt": 1785960867602
+    }
+  }
+}

@@ -1,4 +1,4 @@
-*Very Rare*
+Very Rare Strain (Fizzlebud x Celestial Bone x Humanoid Heart x Celestial Fat)
 
 Ingredients:
 - Celestial Bone

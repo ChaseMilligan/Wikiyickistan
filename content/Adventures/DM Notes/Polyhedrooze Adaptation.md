@@ -7,7 +7,7 @@ Years ago, hidden atop a jagged peak beyond Stickyickistan's city limits, a terr
 
 But Terplorr’s hoard was no ordinary treasure pile, it pulsed with latent draconic magic. That ancient arcana preserved the central sanctum, keeping the heart of the dungeon suspended in a warped pocket of reality amid the wreckage. Years passed, and the world forgot Terplorr’s lair.
 
-That is, until [[Dr. Francis Norman Stein]], a disgraced biomancer obsessed with forbidden research, found it.
+That is, until [[Dr. Stein|Dr. Francis Norman Stein]], a disgraced biomancer obsessed with forbidden research, found it.
 
 Now surrounded by the toxic sprawl of the [[Seekers' Scrapyard]], the ruined caldera offered perfect cover for Stein’s grotesque experiments. Driven by whispers in the dark and his fascination with bodily transformation, Stein repurposed the ancient dragon’s sanctum as a laboratory. Here, he refined a dangerous mutagen, [[Mut-x]], designed to force evolution through arcano-biological trauma. But there was more than science at play…
 

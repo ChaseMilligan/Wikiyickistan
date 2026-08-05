@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "18982725": {
+      "hash": "18982725",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # Curse of Slaad\n  - L5 ## Being a Supposedly Competent Group of Warriors and Explorers\n  - L13 ### Zardan, the Githzerai Wizard\n  - L21 ## Stickyickistan Connections\n  - L34 ## Running the Stickyickistan Version\n  - L45 ## Chapter 1: Compromised Citadel\n  - L47 ## A Brother's Fate\n  - L56 ### Slaadi, the Terrors from Limbo\n  - L66 ## Slaad Encounter\n  - L76 ### A Blue Slaad Enraged\n  - L86 ### Grave Aftermath\n  - L96 ## Chapter 2: Limbo Monastery\n  - L103 ### The Ever-Changing Chaos of Limbo\n  - L111 ### Chaos Control\n  - L121 ### DC by Object Size\n  - L131 ### ENCOUNTER ON THE MONASTIC ISLAND\n  - L177 ### Chaotic Release Effects\n  - L188 ### The Pacifist's Hospitality\n  - L194 #### Chaos Phage Visible Symptoms\n  - L215 ### Death Slaadi and You\n  - L227 ### Spell Scroll of Imprisonment\n  - L237 ### The Zerthimon Steelbeast\n  - L246 #### Zerthimon Steelbeast\n  - L268 ## Chapter 3: Slaad Assault\n  - L277 ### Death Slaad Den\n  - L291 ### Obtaining the Control Gem\n  - L302 ### Epilogue\n  - L311 ## Rewards\n  - L315 ## Appendix A: Zardan Character Sheet\n  - L317 ### Zardan\n  - L333 #### Ability Scores\n  - L344 #### Skills\n  - L367 #### Attacks & Spellcasting\n  - L377 #### Features & Traits\n  - L384 #### Other Proficiencies & Languages\n  - L389 #### Equipment & Character Notes\n  - L400 #### Spellcasting\n  - L428 ## Appendix B: Chaotic Environments\n  - L440 ### Floating Terrain\n  - L462 ### Type of New Matter\n  - L478 ## Appendix C: Handouts\n  - L480 ### Chaos Control\n  - L492 ### DC by Object Size\n- `content/Free League of Stickyickistan/Character Advancement.md`\n  - L1 # Character Advancement\n  - L5 ## Advancement Method\n  - L23 ## Adventure XP\n  - L31 ## Partial Completion\n  - L44 ## Bonus XP\n  - L57 ## Session Length\n  - L65 ## Suggested XP by Adventure Tier\n  - L78 ## Tier of Play\n  - L91 ## Recording Advancement\n  - L109 ## Gold and Treasure\n  - L124 ## Magic Items\n  - L132 ## Consumables\n  - L138 ## Story Awards\n  - L153 ## Downtime\n  - L161 ## Death, Disease, and Curses\n  - L169 ## Player Responsibility\n- `content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L19 ## Adventure Hook\n  - L31 ## Part 1: The Port Ale\n  - L37 ### Finding Port Ale\n  - L43 ### Entering the Loot Tavern\n  - L57 ## Threeflower\n  - L75 ## Content Warning\n  - L79 # Part 2: Journey to Springarden\n  - L85 ## Tracking the Road to Springarden\n  - L97 ## Tracking Consequences\n  - L112 ## Arrival at Springarden\n  - L125 ## Springarden\n  - L131 ### General Features\n  - L138 ## Investigation Scenes\n  - L142 ### Pyrax’s Feather\n  - L152 ### Feyfest Flyer\n  - L166 ### Fey Creatures\n  - L174 ## Know Thy Enemy\n  - L186 # Part 2: The Shining Shrine\n  - L192 ## Approaching the Shrine\n  - L196 ### During the Day\n  - L200 ### At Night\n  - L204 ## Emotive Waters\n  - L213 ## Lair Actions\n  - L221 ## Wave 1: Sunbear\n  - L225 ### Enemies\n  - L237 ## Wave 2: Constellation\n  - L260 ## Wave 3: Supernova\n  - L277 ## Objectives Beyond Defeat\n  - L287 # Part 3: Aftermath\n  - L297 ## Rewards\n  - L306 ## Further Adventures\n  - L313 # Difficulty and Scaling\n  - L321 # Harvesting\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd a rewards section to Curse of Slaad.md  using the rules in Character Advancement.md  like The Shining Shrine.md \n\n"
+        }
+      ],
+      "createdAt": 1785967564331,
+      "updatedAt": 1785967564331
+    },
+    "31fb52f8": {
+      "hash": "31fb52f8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Character Creation\n  - L46 ## Starting Equipment\n  - L58 ## Stickyickistanian Backgrounds\n  - L70 ## Setting Context\n  - L79 ## Useful Skills\n  - L92 ## What Characters Know\n  - L103 ## Character Hooks\n  - L114 # Rewards\n  - L123 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nOk now lets make a document for this adventure in Adventure Briefs using the Examples from The Rolling Papers.md  and The Roach Clip.md  like I did in The Shining Shrine Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1785967789491,
+      "updatedAt": 1785967789491
+    },
+    "f1457068": {
+      "hash": "f1457068",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventure Briefs/Dread and Breakfast Player Brief.md\" startLine=\"28\" endLine=\"33\">\n```content/Adventure Briefs/Dread and Breakfast Player Brief.md\n28|# What Players Should Know\n29|\n30|- **Content / vibe:** Forest horror, missing travelers, acid, body horror, biomantic experiments, mimics, and dark comedy.\n31|- **Combat / roleplay / exploration mix:** Investigation and tracking followed by a dangerous three-wave combat encounter.\n32|- **Character hooks:** Good for monster hunters, caravan guards, Free League contractors, researchers, bounty hunters, or adventurers seeking payment and unusual monster components.\n33|- **Special notes:** The party will investigate the Grim Forest, track the creature along the Neck, and enter a tavern mimic to fight it from within. Expect little downtime between combat waves.\n```\n</user_selected_content>\n\n\nDread and Breakfast Player Brief.md (87 Words) Don't give anything away about the adventure\n\n"
+        }
+      ],
+      "createdAt": 1785968485429,
+      "updatedAt": 1785968485429
+    },
+    "739b9b8d": {
+      "hash": "739b9b8d",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventure Briefs/Dread and Breakfast Player Brief.md\" startLine=\"28\" endLine=\"33\">\n```content/Adventure Briefs/Dread and Breakfast Player Brief.md\n28|# What Players Should Know\n29|\n30|- **Content / vibe:** Forest horror, missing travelers, acid, body horror, biomantic experiments, mimics, and dark comedy.\n31|- **Combat / roleplay / exploration mix:** Investigation and tracking followed by a dangerous three-wave combat encounter.\n32|- **Character hooks:** Good for monster hunters, caravan guards, Free League contractors, researchers, bounty hunters, or adventurers seeking payment and unusual monster components.\n33|- **Special notes:** The party will investigate the Grim Forest, track the creature along the Neck, and enter a tavern mimic to fight it from within. Expect little downtime between combat waves.\n```\n</user_selected_content>\n\n\nDread and Breakfast Player Brief.md (87 Words) The characters should not know about the tavern mimc\n\n"
+        }
+      ],
+      "createdAt": 1785968555053,
+      "updatedAt": 1785968555053
+    },
+    "eb820a01": {
+      "hash": "eb820a01",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Advertisement\n  - L37 ## Coded Notice\n  - L41 # What Players Should Know\n  - L50 # Rewards\n  - L57 # Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake sure there are no giveaways in Curse of Slaad Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1785968613670,
+      "updatedAt": 1785968613670
+    }
+  }
+}
