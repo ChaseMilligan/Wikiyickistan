@@ -7,7 +7,7 @@
 **Submitted by:** Initiate of Tribulation, Vorg Lordcaster  
 **Tier:** Tier 1  
 **Recommended Level:** 3  
-**Expected Length:** One-shot, approximately 3–4 hours  
+**Expected Length:** One-shot, approximately 2–4 hours  
 **Tone:** Fey monster hunt, sacred garden mystery, whimsical danger  
 **Location:** [[Springwood]] / [[Springarden]]  
 
