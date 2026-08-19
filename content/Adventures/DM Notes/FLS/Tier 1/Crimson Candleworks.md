@@ -18,11 +18,13 @@ Consult with your players before beginning if adjustments seem appropriate. You 
 
 The following information is key to the adventure's story.
 
-**Part 1:** [[The Rolling Papers]]. The characters discover a bounty posted by the Tribunal Highblade Coalition seeking adventurers willing to raid a suspected Bloodwalker OG distribution site operating beneath a candle maker's workshop.
+**Part 1:** [[The Rolling Papers]]. The characters answer a bounty from the [[Tribunal Highblade Coalition]] and meet [[Ziggy Tootokes]] at [[Highblade Tower]]. Ziggy briefs them on the investigation into an illegal [[Bloodwalker OG]] distribution network and sends them to inspect [[Wick & Wax Candleworks]] in the [[Old Market District]].
 
-**Part 2:** Wick & Wax Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.
+**Part 2:** Wick & Wax Candleworks. The characters investigate the candle shop, which operates as a legitimate business during the day and a criminal distribution point after dark. They can uncover hidden Bloodwalker OG shipments, evidence linking the workshop to [[The Bloodline]], and one of two routes into the cellar: the concealed trapdoor beneath the office rug or the abandoned well in the alley. The workshop's occupants, led by [[Marek Flint]], resist the investigation, and Marek may retreat into the cellar with the operation's strongbox.
 
-**Conclusion:** Another Candle Extinguished. After dismantling the operation, the characters recover evidence pointing toward the unknown producers of Bloodwalker OG before returning to the Tribunal Highblade Coalition to claim their reward.
+**Part 3:** The Hidden Cellar. The characters raid Branch Seven's distribution center, confront its undead workers and Marek Flint, and secure or destroy the Bloodwalker OG stored there. The cellar's shipment records, correspondence, and other evidence reveal that Branch Seven is only one part of The Bloodline's wider criminal network. Marek may be defeated or escape through the smuggler's well.
+
+**Conclusion:** Another Candle Extinguished. The characters return the recovered evidence to Ziggy Tootokes, allowing the [[Tribunal Highblade Coalition]] to identify Branch Seven and gain its first tangible lead against The Bloodline. The operation beneath the candle shop is dismantled, though the larger syndicate remains active.
 
 ---
 
