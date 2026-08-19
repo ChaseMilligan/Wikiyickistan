@@ -1,6 +1,6 @@
 # The Twilight Hunter
 
-*A 5th-edition monster-hunt adventure for four characters*
+*A Tier 1 [[Free League of Stickyickistan]] monster-hunt adventure for four characters*
 
 > **Recommended levels:** 3, 8, or 13  
 > **Primary location:** [[Grim Forest]]  
@@ -17,19 +17,19 @@ The party must navigate the Bloodhound’s obstacles, survive his wild pack, and
 
 ## Background
 
-When monsters stalk the night, there will always be those who hunt them. Most hunters have a reason: revenge, protection, or gold. **Roul Hasdrubal** hunted for the pleasure of the chase and the eventual kill.
+When monsters stalk the night, there will always be those who hunt them. Most hunters have a reason: revenge, protection, or gold. The Bloodhound hunted for the pleasure of the chase and the eventual kill.
 
-Roul was a fearless hunter whose prowess was overshadowed only by his reputation for brutality. As age weakened him, he rebuilt his limbs with mechanical replacements and replaced failing organs with those taken from powerful beasts. He then harvested the life-prolonging blood of shapechangers, inadvertently changing his own physiology.
+He was a fearless hunter whose prowess was overshadowed only by his reputation for brutality. As age weakened him, he rebuilt his limbs with mechanical replacements and replaced failing organs with those taken from powerful beasts. He then harvested the life-prolonging blood of shapechangers, inadvertently changing his own physiology.
 
-The process left Roul mentally unstable and physically malformed. Now known as the Bloodhound, he has become the kind of monster he once hunted. Those he once protected are now prey in his endless quest for fresh blood and improved concoctions.
+The process left him mentally unstable and physically malformed. Now known as the Bloodhound, he has become the kind of monster he once hunted. Those he once protected are now prey in his endless quest for fresh blood and improved concoctions.
 
 ## Motes of the Divine
 
 This hunt can serve as the first of five adventures collectively known as **Motes of the Divine**.
 
-A mysterious benefactor found Roul as he bitterly aged and offered to help him. Through experimentation and infusion with an energy called a **mote of the divine**, Roul transformed into the creature he is today. Disgusted by the result, the stranger called him a “failed experiment” and vanished.
+A mysterious benefactor found the aging hunter and offered to help him. Through experimentation and infusion with an energy called a **mote of the divine**, the hunter transformed into the creature he is today. Disgusted by the result, the stranger called him a “failed experiment” and vanished.
 
-Roul now seeks to finish the experiments and repair his body. His journal can reveal that the mysterious benefactor called himself **Creo** and may have experimented on others using the same power.
+The Bloodhound now seeks to finish the experiments and repair his body. His journal can suggest that [[Dr. Stein]]—or someone using Stein’s research—was involved in the original biomantic work. This provides a possible connection to future adventures without making Stein responsible for every detail of the Bloodhound’s transformation.
 
 ## Adventure Summary
 
@@ -40,55 +40,68 @@ Roul now seeks to finish the experiments and repair his body. His journal can re
 
 ## Adventure Hooks
 
+Every hook reaches the party through [[Barnabas Huggins]] and the [[Hotbox Inn & Tavern]]. Barnabas is the local point of contact in [[Doobius House]]: he posts public notices, passes along private tips, listens to rumors, and connects travelers with anyone offering work in the [[Grim Forest]].
+
+### The Rolling Papers: Licensed Monster Hunt
+
+Barnabas clips a notice from [[The Rolling Papers]] to the Hotbox Inn’s public board after travelers and hunters go missing near the [[Grim Forest]] edge. The [[Free League of Stickyickistan]] is seeking a capable party to investigate the attacks, locate survivors, and remove the threat before it reaches [[Doobius House]]. Characters who accept the public posting can register through the [[FLS Guildhall]], then travel to [[Doobius House]] to meet Barnabas, who provides local directions and the latest rumors.
+
+### The Roach Clip: Quiet Component Recovery
+
+A coded tip from [[The Roach Clip]] begins circulating independently after the [[The Rolling Papers]] notice for the hunt is posted. Survivors describe a predator with animal features, manufactured blades, and unusual wounds, but local hunters have been unable to track it safely through the [[Grim Forest]]. [[Kezrin Malvek]], director of [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]], suspects a biomantic or Magitech-enhanced Construct and offers discreet payment for useful biological or mechanical components as part of a recovery contract competing with the [[Free League of Stickyickistan|Free League’s]] official investigation.
+
+The tip provides separate instructions for a dead drop and identifies the preservation supplies to use. After the hunt, the party leaves the sealed components at the designated drop and receives payment through the same anonymous network once ASSCUNT confirms the contents.
+
 ### Curiosity: The Twilight Curse
 
-Rumors from local taverns are becoming impossible to dismiss. Something strange is happening in [[Grim Forest]], already avoided for its dark reputation. Residents and travelers have gone missing or been found ravaged.
+Barnabas has heard several versions of the same story from travelers who stop at the Hotbox Inn: something strange is happening in [[Grim Forest]], already avoided for its dark reputation. Residents and travelers have gone missing or been found ravaged.
 
-Perhaps the old necromancer has returned to reclaim the cursed wood. Perhaps a new pack of creatures has made the pale forest its home.
+He cannot say whether the attacks come from a single creature or a new pack that has made the pale forest its home, but he knows the stories are becoming too consistent to dismiss.
 
 ### Morality: The Missing Hunters
 
-**[[Barnabas Huggins]]**, owner of the [[Hotbox Inn & Tavern]] in [[Doobius House]], asks for help. Two regular hunters disappeared while traveling through the forest, and a third hunter sent after them has also failed to return. Barnabas has heard enough stories from travelers to believe something far worse than ordinary wolves is hunting in the woods.
+Barnabas asks the party directly for help. Two regular hunters disappeared while traveling through the forest, and a third hunter sent after them has also failed to return. He has heard enough stories from travelers to believe something far worse than ordinary wolves is hunting in the woods.
 
 ### Compensation: A White Whale
 
-**[[Dr. Stein]]** believes the attacks may be evidence of an unusually advanced biomantic creature. He offers additional compensation for a living specimen, useful observations, or recoverable components, provided the party does not let his research interests put them in greater danger.
+Barnabas introduces the party to [[Dr. Stein]] after the biomancy researcher hears about the attacks through the Hotbox Inn’s rumor network. Stein believes the creature may be an unusually advanced biomantic specimen. He offers additional compensation for a living specimen, useful observations, or recoverable components, provided the party does not let his research interests put them in greater danger.
 
-## Mariam Shelley
+## Barnabas Huggins
 
-Mariam Shelley is a lawful good halfling commoner and the owner of the Spark & Flame, the best—and only—tavern in Coldmore.
+[[Barnabas Huggins]] is the stout, rosy-cheeked owner of the [[Hotbox Inn & Tavern]] in [[Doobius House]]. He is a natural storyteller whose booming laugh fills the room, and whose stories blend truth with exaggeration so freely that even he sometimes forgets which is which.
 
-She is normally bold, energetic, and relentlessly cheerful, but worry for her missing husband and daughter has left her withdrawn and tense.
+Barnabas is warm, welcoming, and sharp-eyed. Nothing that happens under his roof escapes his notice, and he knows the rumors carried along [[The Neck]] through [[The Outback]]. Recent disappearances have made him unusually serious: regular hunters and travelers have vanished near the [[Grim Forest]] edge, and an experienced hunter sent to look for them has also failed to return.
 
-**Personality:** Bold and energetic; currently worried about her family.  
-**Appearance:** Rosy cheeks, thick blond curls, and strong forearms.  
-**Desire:** Retrieve her family and restore joy to Coldmore.  
-**Fear:** The dissolution of her community.
+**Personality:** Warm, loud, pragmatic, and protective of his inn’s peace.  
+**Appearance:** Stout, rosy-cheeked, with thinning auburn hair, flour- and ale-stained clothes, and a perpetually dusty apron.  
+**Desire:** Keep Doobius House’s travelers and residents safe while protecting the Hotbox Inn’s reputation as a haven.  
+**Fear:** That the disappearances will make the village an abandoned frontier post once again.
 
-> “What’ll it be? Grandma’s Old Peculiar? Liverwort ale? How about nightshade for those bloody beasts out there.”
+> “I can sell you a hot meal, a decent smoke, or a rumor worth more than either. But if you’re heading into those woods, you’d better have a reason, and a way back out.”
 
-Mariam willingly shares the following information:
+Barnabas willingly shares the following information:
 
-- The creatures attack travelers in the forest but have not been seen near Coldmore.
-- Hunters have found villagers, travelers, and animals savagely mauled.
+- The creatures attack travelers in the [[Grim Forest]] but have not been seen inside [[Doobius House]].
+- Hunters have found villagers, travelers, and animals savagely mauled near the forest edge.
 - Some locals believe a pack of dire wolves is responsible.
-- Franklin and Claire have been missing for two days.
+- Two regular hunters have been missing for several days.
 - An experienced hunter sent after them never returned.
-- A necromancer once ruled the woods and cursed the region.
+- The origins of the Grim Forest are known mainly through the oral histories of its indigenous elders.
+- Evil plants and undead are already known to roam the forest, and its edge is guarded by an ancient awakened radiant tree.
 
 ## Hunt Rewards
 
-| Hunt Level | Gold per Character | Rescue Franklin and Claire | Slay the Bloodhound |
+| Hunt Level | Gold per Character | Rescue the Missing Hunters | Slay the Bloodhound |
 |---:|---:|---:|---:|
 | 3rd | 125 gp | 250 gp | 950 XP |
 | 8th | 550 gp | 1,250 gp | 4,500 XP |
 | 13th | 1,500 gp | 3,500 gp | 13,000 XP |
 
-*Regardless of the hook used, award the same rewards. The XP values include monsters, traps, and puzzles averaged for a party of four.*
+*Regardless of which hook is used, award the same rewards. The XP values include monsters, traps, and puzzles averaged for a party of four.*
 
-# Evenfall Forest
+# Grim Forest
 
-The [[Evenfall Forest]] lives up to its name: the sun never truly rises or sets over the gloaming woodland. Fog and mist blanket the forest floor, tracking is difficult, and getting lost is easy.
+The [[Grim Forest]] lives up to its name. Fog and mist blanket the forest floor, tracking is difficult, and getting lost is easy. The forest is already known for evil plants, undead, and an uneasy silence that settles over the trees.
 
 The Bloodhound has left a deliberate trail leading directly to the ambush in his lair. He is a master hunter and trapmaker who enjoys torturing prey and leaving macabre scenes as both trail and warning.
 
@@ -104,7 +117,7 @@ The forest lies near a thinning in the veil between the Material Plane and the P
 
 The curse continues to drain colour from the plants and water. The woods are quiet, the trees pale-barked, and the undergrowth nearly monochromatic. The Bloodhound’s presence further corrupts the region.
 
-At the southeastern edge of the forest lies the secluded village of [[Coldmore]]. The region exports pale forest timber and prized Evenfall truffles.
+At the edge of the forest lies [[Doobius House]], a run-down inland village in [[The Outback]]. The village depends on travelers, local commerce, and the dangerous work of people willing to enter the Grim Forest.
 
 ## Unique Flora and Fauna
 
@@ -131,7 +144,7 @@ A leaf can be harvested with a component DC of 15 and used as an ingredient for 
 
 # Know Thy Enemy
 
-While following the trail, the party encounters a savaged dire wolf, Franklin and Claire sheltering together, and the burned corpse of the hunter Isla. The order of these clues is up to the DM.
+While following the trail, the party encounters a savaged dire wolf, two missing hunters sheltering together, and the burned corpse of the hunter Isla. The order of these clues is up to the DM.
 
 The clues reveal that the Bloodhound:
 
@@ -145,15 +158,15 @@ A mangled dire wolf hangs from vines tied to a tree. Its wounds include ragged t
 
 A character proficient in Nature or who succeeds on a DC 13 Wisdom (Nature) check recognizes the vines as tanglevine, a plant used in snares.
 
-A successful Wisdom (Survival) check identifies multiple types of fang marks, as if a single mouth had been constructed from various animal teeth. The marks and medicinal smell suggest a Construct rather than a natural beast.
+A successful VDC Wisdom (Survival) check identifies multiple types of fang marks, as if a single mouth had been constructed from various animal teeth. The marks and medicinal smell suggest a Construct rather than a natural beast.
 
 ## Clue 2: Shadow Hunter
 
-Franklin Shelley is the sole survivor of a hunting party attacked by the Bloodhound. His daughter Claire found him, made a campfire, and has been treating his injuries.
+One of the missing hunters is the sole survivor of a hunting party attacked by the Bloodhound. Another missing hunter found them, made a campfire, and has been treating the survivor’s injuries.
 
-Magical healing or a successful DC 13 Wisdom (Medicine) check using a healer’s kit allows them to return safely to Coldmore.
+Magical healing or a successful DC 13 Wisdom (Medicine) check using a healer’s kit allows both hunters to return safely to [[Doobius House]].
 
-Franklin and Claire can explain that:
+The hunters can explain that:
 
 - The Beast attacked from the shadows in a blur of fur, fangs, and claws.
 - It walked on two legs and wore a flowing cloak.
@@ -162,7 +175,7 @@ Franklin and Claire can explain that:
 
 ## Clue 3: Fear of Fire
 
-Smoke leads to a charred clearing where the corpse of **Isla**, a Coldmore hunter, lies beside a broken bow.
+Smoke leads to a charred clearing where the corpse of **Isla**, a hunter from [[Doobius House]], lies beside a broken bow.
 
 Isla was ambushed by the Bloodhound. She swung her oil lantern, spilling oil around herself and creating a ring of fire. The flames kept the Bloodhound away, but Isla eventually died from smoke inhalation.
 
@@ -170,19 +183,19 @@ A DC 13 Wisdom (Perception) or Intelligence (Investigation) check finds the over
 
 # Crimson Hollow
 
-The Bloodhound’s lair lies within the ruins of the necromancer’s former stronghold, deep in Evenfall Forest. The ruins stand on a nexus where the veil between the Material Plane and the Plane of Shadow is thinnest.
+The Bloodhound’s lair lies within ancient ruins deep in [[Grim Forest]]. The ruins stand on a nexus where the veil between the Material Plane and the Plane of Shadow is thinnest.
 
 The Bloodhound uses the cursed waterways to create his shapechanging potions.
 
 ## Entering Crimson Hollow
 
-The characters arrive at the southwestern edge of a large field split by a stream. A bloody trail crosses a stone bridge, passes crumbling walls and ancient columns, climbs a flight of stairs, and ends at a cave beside a scum-covered pond.
+The characters arrive at the southwestern edge of a large field in the [[Grim Forest]], split by a stream. A bloody trail crosses a stone bridge, passes crumbling walls and ancient columns, climbs a flight of stairs, and ends at a cave beside a scum-covered pond.
 
 The Bloodhound shifts from shadow to shadow using Shadow Jump and taunts the characters from different directions. He has lured them into his lair and wants them to struggle.
 
 ### Hazard: Cursed Waters
 
-A stream runs from a 5-foot-deep pool at the northern end of Crimson Hollow. When a creature enters the water for the first time on a turn or starts its turn there, it must succeed on the hunt’s Constitution saving throw or take the hunt’s necrotic damage.
+A stream runs from a 5-foot-deep pool at the northern end of Crimson Hollow. When a creature enters the water for the first time on a turn or starts its turn there, it must succeed a VDC Constitution saving throw or take VDAM necrotic damage.
 
 ### Ruins
 
@@ -190,9 +203,9 @@ The 20-foot-high ruins limit sight and provide high ground for the Bloodhound. H
 
 ### Helping Hand
 
-Coldmore’s hunters do not join the battle directly, but one can assist a character with a potion of healing or free a character caught in a trap before retreating into the forest.
+Hunters from [[Doobius House]] do not join the battle directly, but one can assist a character with a potion of healing or free a character caught in a trap before retreating into the forest.
 
-If the party rescued Franklin, Claire is the hunter who lends this assistance.
+If the party rescued the missing hunters, one of them is the hunter who lends this assistance.
 
 # The Battle Ahead
 
@@ -287,17 +300,17 @@ For a one-shot climax, on initiative count 0 after the Bloodhound dies, roll a d
 
 # Aftermath
 
-The people of Coldmore are grateful. Mariam offers the party free room and board for a week. Franklin recovers with only a slight limp, and Claire begins following the characters to learn from them.
+The people of [[Doobius House]] are grateful. [[Barnabas Huggins]] offers the party free room and board at the [[Hotbox Inn & Tavern]] for a week. The rescued hunters recover from their ordeal, while the village’s elders begin comparing the new evidence with their oral histories of the [[Grim Forest]].
 
-Old Man Salty is disappointed that the creature was not Snowfang, but pays part of his promised reward and offers other leads about the legendary beast.
+[[Dr. Stein]] is more interested in the Bloodhound’s remains, journal, and biomantic components than in mourning the creature. He pays any promised research compensation and offers further work if the party recovered useful observations or a viable specimen.
 
-The Evenfall Forest is cleansed of the Bloodhound’s influence, but its ancient twilight curse remains. The ruins may contain clues to a possible cure.
+The [[Grim Forest]] is cleansed of the Bloodhound’s influence, but its older supernatural corruption remains. The ruins may contain clues to a possible cure or to the source of the forest’s connection to the Plane of Shadow.
 
-If using **Motes of the Divine**, Roul’s journal describes Creo, the mote of the divine, and the possibility that other creatures were subjected to the same experiments.
+If using **Motes of the Divine**, the Bloodhound’s journal describes the mote of the divine and suggests that other creatures may have been subjected to the same biomantic experiments. References to [[Dr. Stein]] can serve as the first Stickyickistanian lead in the larger story.
 
 # Treasure
 
-Inside the Bloodhound’s nest are clothing, satchels, bloodstained adventuring gear, coins, and a leatherbound journal describing Roul’s hunts, mechanical enhancements, blood experiments, and descent into madness.
+Inside the Bloodhound’s nest are clothing, satchels, bloodstained adventuring gear, coins, and a leatherbound journal describing the Bloodhound’s hunts, mechanical enhancements, blood experiments, and descent into madness.
 
 A **Cranium Rat Cowl** is wrapped in a rotting wolf’s skin.
 

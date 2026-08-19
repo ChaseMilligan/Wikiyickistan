@@ -23,56 +23,12 @@
       "createdAt": 1785968555053,
       "updatedAt": 1785968555053
     },
-    "50a5d84c": {
-      "hash": "50a5d84c",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L552 ### Adventure Rewards\n  - L567 ### Treasure Bundles\n  - L581 ## Story Award\n  - L583 ### Friend of Ziggy\n  - L593 # Experience\n  - L599 # Dungeon Master Aid: Rumors\n  - L611 ## Copper Rumors (1 cp)\n  - L635 ## Silver Rumors (1 sp)\n  - L657 ## Gold Rumors (1 gp)\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make a new document in the Adventure Briefs folder for Crimson Candleworks.md \n\n"
-        }
-      ],
-      "createdAt": 1786996684375,
-      "updatedAt": 1786996684375
-    },
-    "2a907685": {
-      "hash": "2a907685",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L29 ## Preparation\n  - L50 ## Key NPCs\n  - L61 ## Content Warning\n  - L67 ## Adventure Background\n  - L85 # Part 1: The Rolling Papers\n  - L90 ## Adventure Hook\n  - L98 ### BOUNTY POSTED\n  - L100 #### Tribunal Highblade Coalition\n  - L121 ## [[Highblade Tower]]\n  - L138 ### Ziggy Tootokes\n  - L146 ### The Briefing\n  - L167 ### What Ziggy Knows\n  - L180 ## Treasure\n  - L184 ## Development\n  - L192 # Part 2: Wick & Wax Candleworks\n  - L201 ## General Features\n  - L212 ## Arriving at the Workshop\n  - L229 ## Visiting During the Day\n  - L248 ## Visiting After Dark\n  - L267 ## Workshop Occupants\n  - L283 ### Marek Flint\n  - L297 ## Searching the Workshop\n  - L354 ## Combat\n  - L379 ## Development\n  - L389 # Part 3: The Hidden Cellar\n  - L398 ## General Features\n  - L409 ## C1. Trapdoor Entrance\n  - L419 ## C2. Smuggler's Well\n  - L429 ## C3. Distribution Floor\n  - L447 ### Crates\n  - L453 ### Shipment Records\n  - L463 ### Marek Arrives\n  - L487 ### Marek's Goal\n  - L496 ### Shadows\n  - L504 ## C4. Workers' Quarters\n  - L514 ## Development\n  - L526 # Conclusion\n  - L548 ## Rewards\n  - L552 ### Adventure Rewards\n  - L567 ### Treasure Bundles\n  - L581 ## Story Award\n  - L583 ### Friend of Ziggy\n  - L593 # Experience\n  - L599 # Dungeon Master Aid: Rumors\n  - L611 ## Copper Rumors (1 cp)\n  - L635 ## Silver Rumors (1 sp)\n  - L657 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\" startLine=\"17\" endLine=\"25\">\n```content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\n17|## Key Plot Points\n18|\n19|The following information is key to the adventure's story.\n20|\n21|**Part 1:** [[The Rolling Papers]]. The characters discover a bounty posted by the Tribunal Highblade Coalition seeking adventurers willing to raid a suspected Bloodwalker OG distribution site operating beneath a candle maker's workshop.\n22|\n23|**Part 2:** Wick & Wax Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.\n24|\n25|**Conclusion:** Another Candle Extinguished. After dismantling the operation, the characters recover evidence pointing toward the unknown producers of Bloodwalker OG before returning to the Tribunal Highblade Coalition to claim their reward.\n```\n</user_selected_content>\n\n\nCrimson Candleworks.md (117 Words) Can you please updtae this section to actually reflect the key plot points in Crimson Candleworks.md \n\n"
-        }
-      ],
-      "createdAt": 1786997149546,
-      "updatedAt": 1786997149546
-    },
-    "e782c71d": {
-      "hash": "e782c71d",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat The Twilight Hunter.md \n\n"
-        }
-      ],
-      "createdAt": 1786998085761,
-      "updatedAt": 1786998085761
-    },
     "511467b9": {
       "hash": "511467b9",
       "content": [
         {
           "type": "text",
           "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Curse of Slaad.md`\n  - L1 # Curse of Slaad\n  - L5 ## Being a Supposedly Competent Group of Warriors and Explorers\n  - L13 ### Zardan, the Githzerai Wizard\n  - L21 ## Stickyickistan Connections\n  - L33 ## Running the Stickyickistan Version\n  - L44 ## Chapter 1: Compromised Citadel\n  - L46 ## A Brother's Fate\n  - L55 ### Slaadi, the Terrors from Limbo\n  - L65 ## Slaad Encounter\n  - L75 ### A Blue Slaad Enraged\n  - L85 ### Grave Aftermath\n  - L95 ## Chapter 2: Limbo Monastery\n  - L102 ### The Ever-Changing Chaos of Limbo\n  - L110 ### Chaos Control\n  - L120 ### DC by Object Size\n  - L130 ### ENCOUNTER ON THE MONASTIC ISLAND\n  - L176 ### Chaotic Release Effects\n  - L187 ### The Pacifist's Hospitality\n  - L193 #### Chaos Phage Visible Symptoms\n  - L214 ### Death Slaadi and You\n  - L226 ### Spell Scroll of Imprisonment\n  - L236 ### The Zerthimon Steelbeast\n  - L245 #### Zerthimon Steelbeast\n  - L267 ## Chapter 3: Slaad Assault\n  - L276 ### Death Slaad Den\n  - L290 ### Obtaining the Control Gem\n  - L301 ### Epilogue\n  - L310 ## Rewards\n  - L320 ## Appendix A: Zardan Character Sheet\n  - L322 ### Zardan\n  - L338 #### Ability Scores\n  - L349 #### Skills\n  - L372 #### Attacks & Spellcasting\n  - L382 #### Features & Traits\n  - L389 #### Other Proficiencies & Languages\n  - L394 #### Equipment & Character Notes\n  - L405 #### Spellcasting\n  - L433 ## Appendix B: Chaotic Environments\n  - L445 ### Floating Terrain\n  - L467 ### Type of New Matter\n  - L483 ## Appendix C: Handouts\n  - L485 ### Chaos Control\n  - L497 ### DC by Object Size\n- `content/Free League of Stickyickistan/Character Advancement.md`\n  - L1 # Character Advancement\n  - L5 ## Advancement Method\n  - L23 ## Adventure XP\n  - L31 ## Partial Completion\n  - L44 ## Bonus XP\n  - L57 ## Session Length\n  - L65 ## Suggested XP by Adventure Tier\n  - L78 ## Tier of Play\n  - L91 ## Recording Advancement\n  - L109 ## Gold and Treasure\n  - L124 ## Magic Items\n  - L132 ## Consumables\n  - L138 ## Story Awards\n  - L153 ## Downtime\n  - L161 ## Death, Disease, and Curses\n  - L169 ## Player Responsibility\n- `content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md`\n  - L3 # Introduction\n  - L9 ## Adventure Background\n  - L19 ## Adventure Hook\n  - L31 ## Part 1: The Port Ale\n  - L37 ### Finding Port Ale\n  - L43 ### Entering the Loot Tavern\n  - L57 ## Threeflower\n  - L75 ## Content Warning\n  - L79 # Part 2: Journey to Springarden\n  - L85 ## Tracking the Road to Springarden\n  - L97 ## Tracking Consequences\n  - L112 ## Arrival at Springarden\n  - L125 ## Springarden\n  - L131 ### General Features\n  - L138 ## Investigation Scenes\n  - L142 ### Pyrax’s Feather\n  - L152 ### Feyfest Flyer\n  - L166 ### Fey Creatures\n  - L174 ## Know Thy Enemy\n  - L186 # Part 2: The Shining Shrine\n  - L192 ## Approaching the Shrine\n  - L196 ### During the Day\n  - L200 ### At Night\n  - L204 ## Emotive Waters\n  - L213 ## Lair Actions\n  - L221 ## Wave 1: Sunbear\n  - L225 ### Enemies\n  - L237 ## Wave 2: Constellation\n  - L260 ## Wave 3: Supernova\n  - L277 ## Objectives Beyond Defeat\n  - L287 # Part 3: Aftermath\n  - L297 ## Rewards\n  - L306 ## Further Adventures\n  - L313 # Difficulty and Scaling\n  - L321 # Harvesting\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nAdd a rewards section to Curse of Slaad.md  using the rules in Character Advancement.md  like The Shining Shrine.md \n\n"
-        }
-      ],
-      "createdAt": 1786999134317,
-      "updatedAt": 1786999134317
-    },
-    "865ea0f6": {
-      "hash": "865ea0f6",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nOk now lets make a document for this adventure in Adventure Briefs using the Examples from The Rolling Papers.md  and The Roach Clip.md  like I did in The Shining Shrine Player Brief.md \n\n"
         }
       ],
       "createdAt": 1786999134317,
@@ -99,6 +55,292 @@
       ],
       "createdAt": 1786999134318,
       "updatedAt": 1786999134318
+    },
+    "3411ee4b": {
+      "hash": "3411ee4b",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"57\" endLine=\"87\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n57|## Mariam Shelley\n58|\n59|Mariam Shelley is a lawful good halfling commoner and the owner of the Spark & Flame, the best—and only—tavern in Coldmore.\n60|\n61|She is normally bold, energetic, and relentlessly cheerful, but worry for her missing husband and daughter has left her withdrawn and tense.\n62|\n63|**Personality:** Bold and energetic; currently worried about her family.  \n64|**Appearance:** Rosy cheeks, thick blond curls, and strong forearms.  \n65|**Desire:** Retrieve her family and restore joy to Coldmore.  \n66|**Fear:** The dissolution of her community.\n67|\n68|> “What’ll it be? Grandma’s Old Peculiar? Liverwort ale? How about nightshade for those bloody beasts out there.”\n69|\n70|Mariam willingly shares the following information:\n71|\n72|- The creatures attack travelers in the forest but have not been seen near Coldmore.\n73|- Hunters have found villagers, travelers, and animals savagely mauled.\n74|- Some locals believe a pack of dire wolves is responsible.\n75|- Franklin and Claire have been missing for two days.\n76|- An experienced hunter sent after them never returned.\n77|- A necromancer once ruled the woods and cursed the region.\n78|\n79|## Hunt Rewards\n80|\n81|| Hunt Level | Gold per Character | Rescue Franklin and Claire | Slay the Bloodhound |\n82||---:|---:|---:|---:|\n83|| 3rd | 125 gp | 250 gp | 950 XP |\n84|| 8th | 550 gp | 1,250 gp | 4,500 XP |\n85|| 13th | 1,500 gp | 3,500 gp | 13,000 XP |\n86|\n87|*Regardless of the hook used, award the same rewards. The XP values include monsters, traps, and puzzles averaged for a party of four.*\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (220 Words) Update this section to fit in the Stickyickistanian setting better by picking names and places that already exist in the setting.\n\n"
+        }
+      ],
+      "createdAt": 1787157547330,
+      "updatedAt": 1787157547330
+    },
+    "5e565738": {
+      "hash": "5e565738",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n  - L1 # The Twilight Hunter\n  - L10 ## Introduction\n  - L18 ## Background\n  - L26 ## Motes of the Divine\n  - L34 ## Adventure Summary\n  - L41 ## Adventure Hooks\n  - L43 ### Curiosity: The Twilight Curse\n  - L49 ### Morality: The Missing Hunters\n  - L53 ### Compensation: A White Whale\n  - L57 ## Barnabas Huggins\n  - L80 ## Hunt Rewards\n  - L90 # Grim Forest\n  - L96 ### Tracking the Bloodhound\n  - L102 ### The Twilight Curse\n  - L110 ## Unique Flora and Fauna\n  - L112 ### Silver-Tailed Cheshire Fox\n  - L121 ### Twilight Wasp\n  - L127 ### Greyshade Strangler\n  - L133 # Know Thy Enemy\n  - L143 ## Clue 1: More Than a Beast\n  - L151 ## Clue 2: Shadow Hunter\n  - L164 ## Clue 3: Fear of Fire\n  - L172 # Crimson Hollow\n  - L178 ## Entering Crimson Hollow\n  - L184 ### Hazard: Cursed Waters\n  - L188 ### Ruins\n  - L192 ### Helping Hand\n  - L198 # The Battle Ahead\n  - L202 ## Wave 1: The Trapper\n  - L206 ### Detecting Traps\n  - L212 ### Trap Table\n  - L226 ### Wave 1 Tactics\n  - L237 ## Wave 2: The Hunter\n  - L241 ### Level 3 Enemies\n  - L247 ### Level 8 Enemies\n  - L254 ### Level 13 Enemies\n  - L264 ## Wave 3: The Beast\n  - L268 ### Level 3 Enemies\n  - L273 ### Level 8 Enemies\n  - L278 ### Level 13 Enemies\n  - L285 ### Optional Ending: Pack Attack\n  - L289 # Aftermath\n  - L299 # Treasure\n  - L311 # Harvesting\n  - L324 ## Bloodhound Craftable Items\n  - L333 # Appendix A: Magic Items\n  - L335 ## Bloodhound’s Caress\n  - L345 ## Bloodhound’s Immobiliser\n  - L355 ## Bloodhound’s Widebrim\n  - L365 ## Cranium Rat Cowl\n  - L373 # Appendix B: Spells\n  - L375 ## Blood Curse\n  - L389 ## Detect Heartbeat\n  - L402 ## Exsanguinate\n  - L414 # Appendix C: Bloodhound Reference\n  - L418 ## Regional Effects\n  - L424 ## Lair Actions\n  - L440 ## Emaciated Bloodhound\n  - L468 ### Actions\n  - L478 ### Legendary Actions\n  - L485 ### Mythic Actions\n  - L490 ## Bloodhound and Sanguine Bloodhound\n  - L501 ## Wild Pack Reference\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nThe hooks in The Twilight Hunter.md should include something from The Rolling Papers.md or The Roach Clip.md \n\n"
+        }
+      ],
+      "createdAt": 1787158903822,
+      "updatedAt": 1787158903822
+    },
+    "301286d8": {
+      "hash": "301286d8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n  - L1 # The Twilight Hunter\n  - L10 ## Introduction\n  - L18 ## Background\n  - L26 ## Motes of the Divine\n  - L34 ## Adventure Summary\n  - L41 ## Adventure Hooks\n  - L43 ### The Rolling Papers: Licensed Monster Hunt\n  - L47 ### The Roach Clip: Quiet Component Recovery\n  - L51 ### Curiosity: The Twilight Curse\n  - L57 ### Morality: The Missing Hunters\n  - L61 ### Compensation: A White Whale\n  - L65 ## Barnabas Huggins\n  - L88 ## Hunt Rewards\n  - L98 # Grim Forest\n  - L104 ### Tracking the Bloodhound\n  - L110 ### The Twilight Curse\n  - L118 ## Unique Flora and Fauna\n  - L120 ### Silver-Tailed Cheshire Fox\n  - L129 ### Twilight Wasp\n  - L135 ### Greyshade Strangler\n  - L141 # Know Thy Enemy\n  - L151 ## Clue 1: More Than a Beast\n  - L159 ## Clue 2: Shadow Hunter\n  - L172 ## Clue 3: Fear of Fire\n  - L180 # Crimson Hollow\n  - L186 ## Entering Crimson Hollow\n  - L192 ### Hazard: Cursed Waters\n  - L196 ### Ruins\n  - L200 ### Helping Hand\n  - L206 # The Battle Ahead\n  - L210 ## Wave 1: The Trapper\n  - L214 ### Detecting Traps\n  - L220 ### Trap Table\n  - L234 ### Wave 1 Tactics\n  - L245 ## Wave 2: The Hunter\n  - L249 ### Level 3 Enemies\n  - L255 ### Level 8 Enemies\n  - L262 ### Level 13 Enemies\n  - L272 ## Wave 3: The Beast\n  - L276 ### Level 3 Enemies\n  - L281 ### Level 8 Enemies\n  - L286 ### Level 13 Enemies\n  - L293 ### Optional Ending: Pack Attack\n  - L297 # Aftermath\n  - L307 # Treasure\n  - L319 # Harvesting\n  - L332 ## Bloodhound Craftable Items\n  - L341 # Appendix A: Magic Items\n  - L343 ## Bloodhound’s Caress\n  - L353 ## Bloodhound’s Immobiliser\n  - L363 ## Bloodhound’s Widebrim\n  - L373 ## Cranium Rat Cowl\n  - L381 # Appendix B: Spells\n  - L383 ## Blood Curse\n  - L397 ## Detect Heartbeat\n  - L410 ## Exsanguinate\n  - L422 # Appendix C: Bloodhound Reference\n  - L426 ## Regional Effects\n  - L432 ## Lair Actions\n  - L448 ## Emaciated Bloodhound\n  - L476 ### Actions\n  - L486 ### Legendary Actions\n  - L493 ### Mythic Actions\n  - L498 ## Bloodhound and Sanguine Bloodhound\n  - L509 ## Wild Pack Reference\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nThe Twilight Hunter.md each hook should connect to Barnabas Huggins somehow\n\n"
+        }
+      ],
+      "createdAt": 1787159169410,
+      "updatedAt": 1787159169410
+    },
+    "c0a50f0f": {
+      "hash": "c0a50f0f",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"47\" endLine=\"47\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n47|then return to Barnabas for local directions and the latest rumors.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (11 Words) Reword this. They would not return to Barnabas. They would need to travel to Doobius House to meet him\n\n"
+        }
+      ],
+      "createdAt": 1787159272125,
+      "updatedAt": 1787159272125
+    },
+    "690dbff9": {
+      "hash": "690dbff9",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"57\" endLine=\"57\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n57|the old necromancer\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (3 Words) Where are you getting this from? What old necromancer?\n\n"
+        }
+      ],
+      "createdAt": 1787159361406,
+      "updatedAt": 1787159361406
+    },
+    "ada35887": {
+      "hash": "ada35887",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"184\" endLine=\"184\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n184|the necromancer’s\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (2 Words) Here is another reference to \"The necromancer\". not sure where this is coming from.\n\n"
+        }
+      ],
+      "createdAt": 1787160057306,
+      "updatedAt": 1787160057306
+    },
+    "83ff55a5": {
+      "hash": "83ff55a5",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n  - L1 # The Twilight Hunter\n  - L10 ## Introduction\n  - L18 ## Background\n  - L26 ## Motes of the Divine\n  - L34 ## Adventure Summary\n  - L41 ## Adventure Hooks\n  - L45 ### The Rolling Papers: Licensed Monster Hunt\n  - L49 ### The Roach Clip: Quiet Component Recovery\n  - L53 ### Curiosity: The Twilight Curse\n  - L59 ### Morality: The Missing Hunters\n  - L63 ### Compensation: A White Whale\n  - L67 ## Barnabas Huggins\n  - L90 ## Hunt Rewards\n  - L100 # Grim Forest\n  - L106 ### Tracking the Bloodhound\n  - L112 ### The Twilight Curse\n  - L120 ## Unique Flora and Fauna\n  - L122 ### Silver-Tailed Cheshire Fox\n  - L131 ### Twilight Wasp\n  - L137 ### Greyshade Strangler\n  - L143 # Know Thy Enemy\n  - L153 ## Clue 1: More Than a Beast\n  - L161 ## Clue 2: Shadow Hunter\n  - L174 ## Clue 3: Fear of Fire\n  - L182 # Crimson Hollow\n  - L188 ## Entering Crimson Hollow\n  - L194 ### Hazard: Cursed Waters\n  - L198 ### Ruins\n  - L202 ### Helping Hand\n  - L208 # The Battle Ahead\n  - L212 ## Wave 1: The Trapper\n  - L216 ### Detecting Traps\n  - L222 ### Trap Table\n  - L236 ### Wave 1 Tactics\n  - L247 ## Wave 2: The Hunter\n  - L251 ### Level 3 Enemies\n  - L257 ### Level 8 Enemies\n  - L264 ### Level 13 Enemies\n  - L274 ## Wave 3: The Beast\n  - L278 ### Level 3 Enemies\n  - L283 ### Level 8 Enemies\n  - L288 ### Level 13 Enemies\n  - L295 ### Optional Ending: Pack Attack\n  - L299 # Aftermath\n  - L309 # Treasure\n  - L321 # Harvesting\n  - L334 ## Bloodhound Craftable Items\n  - L343 # Appendix A: Magic Items\n  - L345 ## Bloodhound’s Caress\n  - L355 ## Bloodhound’s Immobiliser\n  - L365 ## Bloodhound’s Widebrim\n  - L375 ## Cranium Rat Cowl\n  - L383 # Appendix B: Spells\n  - L385 ## Blood Curse\n  - L399 ## Detect Heartbeat\n  - L412 ## Exsanguinate\n  - L424 # Appendix C: Bloodhound Reference\n  - L428 ## Regional Effects\n  - L434 ## Lair Actions\n  - L450 ## Emaciated Bloodhound\n  - L478 ### Actions\n  - L488 ### Legendary Actions\n  - L495 ### Mythic Actions\n  - L500 ## Bloodhound and Sanguine Bloodhound\n  - L511 ## Wild Pack Reference\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a new document in Adventure Briefs for The Twilight Hunter.md \n\n"
+        }
+      ],
+      "createdAt": 1787161110211,
+      "updatedAt": 1787161110211
+    },
+    "70b23b59": {
+      "hash": "70b23b59",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"49\" endLine=\"51\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n49|### The Roach Clip: Quiet Component Recovery\n50|\n51|A coded tip from [[The Roach Clip]] reaches Barnabas through one of his traveling regulars. It offers discreet payment for anyone willing to recover unusual biological and mechanical components from the creature responsible for the attacks. The anonymous buyer does not want official attention and may be connected to [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]], which is interested in dangerous specimens, monster parts, and biomantic materials. Barnabas does not know the buyer’s identity, but he knows which adventurers can be trusted with a quiet job and passes the tip to them over the bar.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (102 Words) lets flesh this out a little. Who is the offer from and what are their motives.\n\n"
+        }
+      ],
+      "createdAt": 1787161575823,
+      "updatedAt": 1787161575823
+    },
+    "6e7394e5": {
+      "hash": "6e7394e5",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"49\" endLine=\"57\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n49|### The Roach Clip: Quiet Component Recovery\n50|\n51|A coded tip from [[The Roach Clip]] reaches Barnabas through one of his traveling regulars. The offer comes from [[Kezrin Malvek]], director of the [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]], though Kezrin hides the Society’s involvement behind an anonymous broker.\n52|\n53|Kezrin does not know the creature’s full nature, but ASSCUNT has been collecting reports from the [[Grim Forest]] and [[The Outback]]: survivors describe a predator that moves on two legs, shifts between animal and humanoid features, uses both teeth and manufactured blades, avoids fire, and seems to vanish into shadows. The wounds also show an unusual mixture of bites, claws, and precise metal cuts. To Kezrin, that pattern suggests a biomantic or Magitech-enhanced Construct rather than an ordinary beast. A report forwarded through [[Dr. Stein]]’s research network gives the theory enough credibility for ASSCUNT to place a recovery offer before the official investigation confirms it.\n54|\n55|ASSCUNT wants the Bloodhound’s biological and mechanical components for the [[Ashen Citadel]]. Its researchers hope to study how the creature combines living tissue, harvested blood, and Magitech replacements without immediately collapsing. Kezrin is especially interested in the Bloodhound’s blood, claws, bones, pelt, and any intact transformation apparatus. The material could improve ASSCUNT’s monster-harvesting methods, support the Society’s biomantic research, or become the basis for equipment designed to track, restrain, or exploit similar creatures.\n56|\n57|Kezrin does not want the [[Tribunal Highblade Coalition]], [[N.E.R.D]], or rival researchers learning what ASSCUNT has recovered, so the party is offered discreet payment and told not to ask where the components are going. Barnabas does not know the buyer’s identity, only that the offer is legitimate and unusually generous. He passes the tip to adventurers he trusts, leaving the party to decide whether the extra money is worth concealing valuable evidence from the official investigation.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (308 Words) Can you please keep this similar length to the other hooks\n\n"
+        }
+      ],
+      "createdAt": 1787161722662,
+      "updatedAt": 1787161722662
+    },
+    "12ee3c4f": {
+      "hash": "12ee3c4f",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"51\" endLine=\"51\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n51|Reports of a predator with animal features, manufactured blades, and unusual wounds have led Kezrin to suspect a biomantic or Magitech-enhanced Construct.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (23 Words) Reports of this predator from where? Why did those people not deal with the issue? Still some holes in this.\n\n"
+        }
+      ],
+      "createdAt": 1787161784904,
+      "updatedAt": 1787161784904
+    },
+    "f8dc27ab": {
+      "hash": "f8dc27ab",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"53\" endLine=\"53\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n53|side objective alongside the official investigation.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (6 Words) you say \"side objective\" but is it really a side objective\n\n"
+        }
+      ],
+      "createdAt": 1787161879176,
+      "updatedAt": 1787161879176
+    },
+    "36b2ac35": {
+      "hash": "36b2ac35",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n  - L1 # The Twilight Hunter\n  - L10 ## Introduction\n  - L18 ## Background\n  - L26 ## Motes of the Divine\n  - L34 ## Adventure Summary\n  - L41 ## Adventure Hooks\n  - L45 ### The Rolling Papers: Licensed Monster Hunt\n  - L49 ### The Roach Clip: Quiet Component Recovery\n  - L55 ### Curiosity: The Twilight Curse\n  - L61 ### Morality: The Missing Hunters\n  - L65 ### Compensation: A White Whale\n  - L69 ## Barnabas Huggins\n  - L92 ## Hunt Rewards\n  - L102 # Grim Forest\n  - L108 ### Tracking the Bloodhound\n  - L114 ### The Twilight Curse\n  - L122 ## Unique Flora and Fauna\n  - L124 ### Silver-Tailed Cheshire Fox\n  - L133 ### Twilight Wasp\n  - L139 ### Greyshade Strangler\n  - L145 # Know Thy Enemy\n  - L155 ## Clue 1: More Than a Beast\n  - L163 ## Clue 2: Shadow Hunter\n  - L176 ## Clue 3: Fear of Fire\n  - L184 # Crimson Hollow\n  - L190 ## Entering Crimson Hollow\n  - L196 ### Hazard: Cursed Waters\n  - L200 ### Ruins\n  - L204 ### Helping Hand\n  - L210 # The Battle Ahead\n  - L214 ## Wave 1: The Trapper\n  - L218 ### Detecting Traps\n  - L224 ### Trap Table\n  - L238 ### Wave 1 Tactics\n  - L249 ## Wave 2: The Hunter\n  - L253 ### Level 3 Enemies\n  - L259 ### Level 8 Enemies\n  - L266 ### Level 13 Enemies\n  - L276 ## Wave 3: The Beast\n  - L280 ### Level 3 Enemies\n  - L285 ### Level 8 Enemies\n  - L290 ### Level 13 Enemies\n  - L297 ### Optional Ending: Pack Attack\n  - L301 # Aftermath\n  - L311 # Treasure\n  - L323 # Harvesting\n  - L336 ## Bloodhound Craftable Items\n  - L345 # Appendix A: Magic Items\n  - L347 ## Bloodhound’s Caress\n  - L357 ## Bloodhound’s Immobiliser\n  - L367 ## Bloodhound’s Widebrim\n  - L377 ## Cranium Rat Cowl\n  - L385 # Appendix B: Spells\n  - L387 ## Blood Curse\n  - L401 ## Detect Heartbeat\n  - L414 ## Exsanguinate\n  - L426 # Appendix C: Bloodhound Reference\n  - L430 ## Regional Effects\n  - L436 ## Lair Actions\n  - L452 ## Emaciated Bloodhound\n  - L480 ### Actions\n  - L490 ### Legendary Actions\n  - L497 ### Mythic Actions\n  - L502 ## Bloodhound and Sanguine Bloodhound\n  - L513 ## Wild Pack Reference\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventure Briefs/The Twilight Hunter Player Brief.md\" startLine=\"24\" endLine=\"26\">\n```content/Adventure Briefs/The Twilight Hunter Player Brief.md\n24|# The Roach Clip Tip\n25|\n26|A quieter lead reaches the party through [[Barnabas Huggins]] and [[The Roach Clip]]. An anonymous buyer is willing to pay for unusual biological or mechanical components recovered during the investigation. The buyer does not want official attention and prefers adventurers who can keep the arrangement discreet.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter Player Brief.md (50 Words) update this section based on the alterations to the roach clip hook in The Twilight Hunter.md \n\n"
+        }
+      ],
+      "createdAt": 1787161989211,
+      "updatedAt": 1787161989211
+    },
+    "bd78978b": {
+      "hash": "bd78978b",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"49\" endLine=\"53\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n49|### The Roach Clip: Quiet Component Recovery\n50|\n51|A coded tip from [[The Roach Clip]] reaches Barnabas through one of his traveling regulars. The information comes from survivors, hunters, and travelers who escaped the [[Grim Forest]] and carried their accounts to [[Doobius House]]. The local hunters have tried to deal with the attacks, but the creature strikes from cover, disappears into the forest, and leaves no safe trail to follow. The [[Free League of Stickyickistan]] has only just begun organizing an official response.\n52|\n53|Those reports of animal features, manufactured blades, and unusual wounds lead [[Kezrin Malvek]], director of the [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]], to suspect a biomantic or Magitech-enhanced Construct. ASSCUNT wants any possible biological and mechanical components recovered for study at the [[Ashen Citadel]], especially its blood, claws, bones, pelt, and any transformation apparatus. Kezrin offers discreet payment through an anonymous broker, creating a competing recovery contract that runs alongside the [[Free League of Stickyickistan|Free League’s]] official investigation.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (163 Words) How do characters collect payment and deliver the components\n\n"
+        }
+      ],
+      "createdAt": 1787162262265,
+      "updatedAt": 1787162262265
+    },
+    "322fee4d": {
+      "hash": "322fee4d",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"49\" endLine=\"55\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n49|### The Roach Clip: Quiet Component Recovery\n50|\n51|A coded tip from [[The Roach Clip]] reaches Barnabas through one of his traveling regulars. The information comes from survivors, hunters, and travelers who escaped the [[Grim Forest]] and carried their accounts to [[Doobius House]]. The local hunters have tried to deal with the attacks, but the creature strikes from cover, disappears into the forest, and leaves no safe trail to follow. The [[Free League of Stickyickistan]] has only just begun organizing an official response.\n52|\n53|Those reports of animal features, manufactured blades, and unusual wounds lead [[Kezrin Malvek]], director of the [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]], to suspect a biomantic or Magitech-enhanced Construct. ASSCUNT wants any possible biological and mechanical components recovered for study at the [[Ashen Citadel]], especially its blood, claws, bones, pelt, and any transformation apparatus. Kezrin offers discreet payment through an anonymous broker, creating a competing recovery contract that runs alongside the [[Free League of Stickyickistan|Free League’s]] official investigation.\n54|\n55|The broker gives the party a sealed specimen case, preservation salts, collection vials, and a written list of acceptable components. The party must return to [[Doobius House]] and leave the sealed case with [[Barnabas Huggins]] at the [[Hotbox Inn & Tavern]]. Barnabas passes it to the broker’s courier during the next supply run through [[The Outback]]. Once the courier confirms that the components are intact and uncontaminated, the promised payment is delivered to Barnabas for the party. If the party recovers an unusually valuable or dangerous specimen, Kezrin may instead arrange a direct handoff at the [[Ashen Citadel]] using an [[A.S.S sending stones|ASS sending stone]] or an Ashen Shadow Society airship.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (276 Words) please keep this a similar length to the other hooks\n\n"
+        }
+      ],
+      "createdAt": 1787162303253,
+      "updatedAt": 1787162303253
+    },
+    "4fa93c5a": {
+      "hash": "4fa93c5a",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"49\" endLine=\"53\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n49|### The Roach Clip: Quiet Component Recovery\n50|\n51|A coded tip from [[The Roach Clip]] reaches Barnabas through one of his traveling regulars. Survivors describe a predator with animal features, manufactured blades, and unusual wounds, but local hunters have been unable to track it safely through the [[Grim Forest]]. [[Kezrin Malvek]], director of [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]], suspects a biomantic or Magitech-enhanced Construct and offers discreet payment for useful biological or mechanical components as part of a recovery contract competing with the [[Free League of Stickyickistan|Free League’s]] official investigation.\n52|\n53|The broker provides a specimen case and collection supplies. The party must leave recovered components with [[Barnabas Huggins]] at the [[Hotbox Inn & Tavern]] in [[Doobius House]]; a courier collects them during the next supply run through [[The Outback]], and payment follows inspection. Exceptional specimens may require a direct handoff at the [[Ashen Citadel]] by [[A.S.S sending stones|ASS sending stone]] or Society airship.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (158 Words) Also this shouldn't come from Barnabas. It should just be an offer floating through the guildhall since the Rolling papers notice about the hunt was posted\n\n"
+        }
+      ],
+      "createdAt": 1787162364368,
+      "updatedAt": 1787162364368
+    },
+    "aacd8965": {
+      "hash": "aacd8965",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\" startLine=\"49\" endLine=\"53\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md\n49|### The Roach Clip: Quiet Component Recovery\n50|\n51|A coded tip from [[The Roach Clip]] begins circulating through the [[FLS Guildhall]] after the [[The Rolling Papers]] notice for the hunt is posted. Survivors describe a predator with animal features, manufactured blades, and unusual wounds, but local hunters have been unable to track it safely through the [[Grim Forest]]. [[Kezrin Malvek]], director of [[Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce|ASSCUNT]], suspects a biomantic or Magitech-enhanced Construct and offers discreet payment for useful biological or mechanical components as part of a recovery contract competing with the [[Free League of Stickyickistan|Free League’s]] official investigation.\n52|\n53|The broker leaves a specimen case and collection supplies with the Guildhall clerk. The party must return the sealed case to the [[FLS Guildhall]] after the hunt; a Society courier collects it there, and payment follows inspection. Exceptional specimens may require a direct handoff at the [[Ashen Citadel]] by [[A.S.S sending stones|ASS sending stone]] or Society airship.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter.md (162 Words) This is a roach clip hook. It should not require anything from the guildhall like the broker dropping stuff off, or anything like that. The Roach clip is not supported by the FLS\n\n"
+        }
+      ],
+      "createdAt": 1787162473677,
+      "updatedAt": 1787162473677
+    },
+    "cf88f3dd": {
+      "hash": "cf88f3dd",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n  - L1 # The Twilight Hunter\n  - L10 ## Introduction\n  - L18 ## Background\n  - L26 ## Motes of the Divine\n  - L34 ## Adventure Summary\n  - L41 ## Adventure Hooks\n  - L45 ### The Rolling Papers: Licensed Monster Hunt\n  - L49 ### The Roach Clip: Quiet Component Recovery\n  - L55 ### Curiosity: The Twilight Curse\n  - L61 ### Morality: The Missing Hunters\n  - L65 ### Compensation: A White Whale\n  - L69 ## Barnabas Huggins\n  - L92 ## Hunt Rewards\n  - L102 # Grim Forest\n  - L108 ### Tracking the Bloodhound\n  - L114 ### The Twilight Curse\n  - L122 ## Unique Flora and Fauna\n  - L124 ### Silver-Tailed Cheshire Fox\n  - L133 ### Twilight Wasp\n  - L139 ### Greyshade Strangler\n  - L145 # Know Thy Enemy\n  - L155 ## Clue 1: More Than a Beast\n  - L163 ## Clue 2: Shadow Hunter\n  - L176 ## Clue 3: Fear of Fire\n  - L184 # Crimson Hollow\n  - L190 ## Entering Crimson Hollow\n  - L196 ### Hazard: Cursed Waters\n  - L200 ### Ruins\n  - L204 ### Helping Hand\n  - L210 # The Battle Ahead\n  - L214 ## Wave 1: The Trapper\n  - L218 ### Detecting Traps\n  - L224 ### Trap Table\n  - L238 ### Wave 1 Tactics\n  - L249 ## Wave 2: The Hunter\n  - L253 ### Level 3 Enemies\n  - L259 ### Level 8 Enemies\n  - L266 ### Level 13 Enemies\n  - L276 ## Wave 3: The Beast\n  - L280 ### Level 3 Enemies\n  - L285 ### Level 8 Enemies\n  - L290 ### Level 13 Enemies\n  - L297 ### Optional Ending: Pack Attack\n  - L301 # Aftermath\n  - L311 # Treasure\n  - L323 # Harvesting\n  - L336 ## Bloodhound Craftable Items\n  - L345 # Appendix A: Magic Items\n  - L347 ## Bloodhound’s Caress\n  - L357 ## Bloodhound’s Immobiliser\n  - L367 ## Bloodhound’s Widebrim\n  - L377 ## Cranium Rat Cowl\n  - L385 # Appendix B: Spells\n  - L387 ## Blood Curse\n  - L401 ## Detect Heartbeat\n  - L414 ## Exsanguinate\n  - L426 # Appendix C: Bloodhound Reference\n  - L430 ## Regional Effects\n  - L436 ## Lair Actions\n  - L452 ## Emaciated Bloodhound\n  - L480 ### Actions\n  - L490 ### Legendary Actions\n  - L497 ### Mythic Actions\n  - L502 ## Bloodhound and Sanguine Bloodhound\n  - L513 ## Wild Pack Reference\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventure Briefs/The Twilight Hunter Player Brief.md\" startLine=\"24\" endLine=\"26\">\n```content/Adventure Briefs/The Twilight Hunter Player Brief.md\n24|# The Roach Clip Tip\n25|\n26|A coded tip reaches [[Barnabas Huggins]] through one of his traveling regulars. Survivors and hunters who escaped the [[Grim Forest]] have reported a dangerous predator with unusual wounds and possible mechanical features, but local hunters have been unable to track it safely. An anonymous buyer is offering discreet payment for biological and mechanical components recovered during the investigation, creating a competing recovery contract alongside the official Free League investigation.\n```\n</user_selected_content>\n\n\nThe Twilight Hunter Player Brief.md (73 Words) update this based on the alterations made to the roach clip hook in The Twilight Hunter.md \n\n"
+        }
+      ],
+      "createdAt": 1787162602353,
+      "updatedAt": 1787162602353
+    },
+    "8384b40b": {
+      "hash": "8384b40b",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Hotbox Inn & Tavern.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCreate content for Hotbox Inn & Tavern.md \n\n"
+        }
+      ],
+      "createdAt": 1787163570507,
+      "updatedAt": 1787163570507
+    },
+    "7e8ed824": {
+      "hash": "7e8ed824",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Misc/Alcohol.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/POIs/Hotbox Inn &amp; Tavern.md\" startLine=\"49\" endLine=\"50\" format=\"markdown-table\">\n```md\n| Service | Cost | Notes |\n| --- | --- | --- |\n| Mug of ale or cider | 2 cp | Quality varies with the season and supply caravans |\n| Strong drink | 5 cp | Usually reserved for travelers, hunters, and people with bad news |\n```\n</user_selected_content>\n\n\nHotbox Inn & Tavern.md (2 rows 3 columns) Alcohol.md is illegal, and therefore should not be available\n\n"
+        }
+      ],
+      "createdAt": 1787164104939,
+      "updatedAt": 1787164104939
+    },
+    "516b529c": {
+      "hash": "516b529c",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Misc/Zooka Malt.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/POIs/Hotbox Inn &amp; Tavern.md\" startLine=\"49\" endLine=\"50\" format=\"markdown-table\">\n```md\n| Service | Cost | Notes |\n| --- | --- | --- |\n| Mug of tea or herbal tonic | 2 cp | Nonalcoholic, made from local herbs and whatever the current supply caravans can provide |\n| Spiced Arcannabis drink | 5 cp | A strong but nonalcoholic house specialty prepared for travelers, hunters, and people with bad news |\n```\n</user_selected_content>\n\n\nHotbox Inn & Tavern.md (2 rows 3 columns) Zooka Malt.md exists don'tforget\n\n"
+        }
+      ],
+      "createdAt": 1787164152147,
+      "updatedAt": 1787164152147
+    },
+    "45b7a83d": {
+      "hash": "45b7a83d",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `Barnabas Huggins.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCreate content for Barnabas Huggins.md \n\n"
+        }
+      ],
+      "createdAt": 1787165437894,
+      "updatedAt": 1787165437894
+    },
+    "149c7111": {
+      "hash": "149c7111",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Thalion Mossgrove.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCreate Content for Thalion Mossgrove.md \n\n"
+        }
+      ],
+      "createdAt": 1787166013886,
+      "updatedAt": 1787166013886
+    },
+    "d7c1d482": {
+      "hash": "d7c1d482",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nOk now lets make a document for this adventure in Adventure Briefs using the Examples from The Rolling Papers.md  and The Roach Clip.md  like I did in The Shining Shrine Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1787166462343,
+      "updatedAt": 1787166462343
+    },
+    "c3c7b0b0": {
+      "hash": "c3c7b0b0",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L31 ## Preparation\n  - L52 ## Key NPCs\n  - L63 ## Content Warning\n  - L69 ## Adventure Background\n  - L87 # Part 1: The Rolling Papers\n  - L92 ## Adventure Hook\n  - L100 ### BOUNTY POSTED\n  - L102 #### Tribunal Highblade Coalition\n  - L123 ## [[Highblade Tower]]\n  - L140 ### Ziggy Tootokes\n  - L148 ### The Briefing\n  - L169 ### What Ziggy Knows\n  - L182 ## Treasure\n  - L186 ## Development\n  - L194 # Part 2: Wick & Wax Candleworks\n  - L203 ## General Features\n  - L214 ## Arriving at the Workshop\n  - L231 ## Visiting During the Day\n  - L250 ## Visiting After Dark\n  - L269 ## Workshop Occupants\n  - L285 ### Marek Flint\n  - L299 ## Searching the Workshop\n  - L356 ## Combat\n  - L381 ## Development\n  - L391 # Part 3: The Hidden Cellar\n  - L400 ## General Features\n  - L411 ## C1. Trapdoor Entrance\n  - L421 ## C2. Smuggler's Well\n  - L431 ## C3. Distribution Floor\n  - L449 ### Crates\n  - L455 ### Shipment Records\n  - L465 ### Marek Arrives\n  - L489 ### Marek's Goal\n  - L498 ### Shadows\n  - L506 ## C4. Workers' Quarters\n  - L516 ## Development\n  - L528 # Conclusion\n  - L550 ## Rewards\n  - L554 ### Adventure Rewards\n  - L569 ### Treasure Bundles\n  - L583 ## Story Award\n  - L585 ### Friend of Ziggy\n  - L595 # Experience\n  - L601 # Dungeon Master Aid: Rumors\n  - L613 ## Copper Rumors (1 cp)\n  - L637 ## Silver Rumors (1 sp)\n  - L659 ## Gold Rumors (1 gp)\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make a new document in the Adventure Briefs folder for Crimson Candleworks.md \n\n"
+        }
+      ],
+      "createdAt": 1787166462344,
+      "updatedAt": 1787166462344
+    },
+    "68f7f611": {
+      "hash": "68f7f611",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L31 ## Preparation\n  - L52 ## Key NPCs\n  - L63 ## Content Warning\n  - L69 ## Adventure Background\n  - L87 # Part 1: The Rolling Papers\n  - L92 ## Adventure Hook\n  - L100 ### BOUNTY POSTED\n  - L102 #### Tribunal Highblade Coalition\n  - L123 ## [[Highblade Tower]]\n  - L140 ### Ziggy Tootokes\n  - L148 ### The Briefing\n  - L169 ### What Ziggy Knows\n  - L182 ## Treasure\n  - L186 ## Development\n  - L194 # Part 2: Wick & Wax Candleworks\n  - L203 ## General Features\n  - L214 ## Arriving at the Workshop\n  - L231 ## Visiting During the Day\n  - L250 ## Visiting After Dark\n  - L269 ## Workshop Occupants\n  - L285 ### Marek Flint\n  - L299 ## Searching the Workshop\n  - L356 ## Combat\n  - L381 ## Development\n  - L391 # Part 3: The Hidden Cellar\n  - L400 ## General Features\n  - L411 ## C1. Trapdoor Entrance\n  - L421 ## C2. Smuggler's Well\n  - L431 ## C3. Distribution Floor\n  - L449 ### Crates\n  - L455 ### Shipment Records\n  - L465 ### Marek Arrives\n  - L489 ### Marek's Goal\n  - L498 ### Shadows\n  - L506 ## C4. Workers' Quarters\n  - L516 ## Development\n  - L528 # Conclusion\n  - L550 ## Rewards\n  - L554 ### Adventure Rewards\n  - L569 ### Treasure Bundles\n  - L583 ## Story Award\n  - L585 ### Friend of Ziggy\n  - L595 # Experience\n  - L601 # Dungeon Master Aid: Rumors\n  - L613 ## Copper Rumors (1 cp)\n  - L637 ## Silver Rumors (1 sp)\n  - L659 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\" startLine=\"17\" endLine=\"25\">\n```content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\n17|## Key Plot Points\n18|\n19|The following information is key to the adventure's story.\n20|\n21|**Part 1:** [[The Rolling Papers]]. The characters discover a bounty posted by the Tribunal Highblade Coalition seeking adventurers willing to raid a suspected Bloodwalker OG distribution site operating beneath a candle maker's workshop.\n22|\n23|**Part 2:** Wick & Wax Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.\n24|\n25|**Conclusion:** Another Candle Extinguished. After dismantling the operation, the characters recover evidence pointing toward the unknown producers of Bloodwalker OG before returning to the Tribunal Highblade Coalition to claim their reward.\n```\n</user_selected_content>\n\n\nCrimson Candleworks.md (117 Words) Can you please updtae this section to actually reflect the key plot points in Crimson Candleworks.md \n\n"
+        }
+      ],
+      "createdAt": 1787166462344,
+      "updatedAt": 1787166462344
+    },
+    "f64069d0": {
+      "hash": "f64069d0",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n  - L1 # The Twilight Hunter\n  - L10 ## Introduction\n  - L18 ## Background\n  - L26 ## Motes of the Divine\n  - L34 ## Adventure Summary\n  - L41 ## Adventure Hooks\n  - L43 ### Curiosity: The Twilight Curse\n  - L49 ### Morality: The Missing Hunters\n  - L53 ### Compensation: A White Whale\n  - L57 ## Mariam Shelley\n  - L79 ## Hunt Rewards\n  - L89 # Evenfall Forest\n  - L95 ### Tracking the Bloodhound\n  - L101 ### The Twilight Curse\n  - L109 ## Unique Flora and Fauna\n  - L111 ### Silver-Tailed Cheshire Fox\n  - L120 ### Twilight Wasp\n  - L126 ### Greyshade Strangler\n  - L132 # Know Thy Enemy\n  - L142 ## Clue 1: More Than a Beast\n  - L150 ## Clue 2: Shadow Hunter\n  - L163 ## Clue 3: Fear of Fire\n  - L171 # Crimson Hollow\n  - L177 ## Entering Crimson Hollow\n  - L183 ### Hazard: Cursed Waters\n  - L187 ### Ruins\n  - L191 ### Helping Hand\n  - L197 # The Battle Ahead\n  - L201 ## Wave 1: The Trapper\n  - L205 ### Detecting Traps\n  - L211 ### Trap Table\n  - L225 ### Wave 1 Tactics\n  - L236 ## Wave 2: The Hunter\n  - L240 ### Level 3 Enemies\n  - L246 ### Level 8 Enemies\n  - L253 ### Level 13 Enemies\n  - L263 ## Wave 3: The Beast\n  - L267 ### Level 3 Enemies\n  - L272 ### Level 8 Enemies\n  - L277 ### Level 13 Enemies\n  - L284 ### Optional Ending: Pack Attack\n  - L288 # Aftermath\n  - L298 # Treasure\n  - L310 # Harvesting\n  - L323 ## Bloodhound Craftable Items\n  - L332 # Appendix A: Magic Items\n  - L334 ## Bloodhound’s Caress\n  - L344 ## Bloodhound’s Immobiliser\n  - L354 ## Bloodhound’s Widebrim\n  - L364 ## Cranium Rat Cowl\n  - L372 # Appendix B: Spells\n  - L374 ## Blood Curse\n  - L388 ## Detect Heartbeat\n  - L401 ## Exsanguinate\n  - L413 # Appendix C: Bloodhound Reference\n  - L417 ## Regional Effects\n  - L423 ## Lair Actions\n  - L439 ## Emaciated Bloodhound\n  - L467 ### Actions\n  - L477 ### Legendary Actions\n  - L484 ### Mythic Actions\n  - L489 ## Bloodhound and Sanguine Bloodhound\n  - L500 ## Wild Pack Reference\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat The Twilight Hunter.md \n\n"
+        }
+      ],
+      "createdAt": 1787166462344,
+      "updatedAt": 1787166462344
     }
   }
 }
