@@ -31189,6 +31189,23 @@
     {
       "role": "assistant",
       "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_UTVxcdGQ535AGg1NivmfEszc",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Grand Cathedral|cathedral|townsfolk|town green|Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Mary Oswalt|Lorenzo|Bernie",
+              "maxResults": 100
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Grand Cathedral|cathedral|townsfolk|town green|Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Mary Oswalt|Lorenzo|Bernie\",\"maxResults\":100}"
+          }
+        }
+      ],
       "id": "054d69e9-4144-4f47-826a-406d26437fe0",
       "metadata": {
         "model": {
@@ -31228,15 +31245,3067 @@
             }
           }
         },
-        "generationState": "streaming",
+        "usage": {
+          "prompt_tokens": 372264,
+          "completion_tokens": 218,
+          "total_tokens": 372482
+        },
+        "durationMs": 74866,
+        "generationState": "completed",
         "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
         "branchModelId": "chatGPT/gpt-5.6-luna",
         "branchLabel": "gpt-5.6-luna"
       }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_UTVxcdGQ535AGg1NivmfEszc",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Grand Cathedral|cathedral|townsfolk|town green|Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Mary Oswalt|Lorenzo|Bernie",
+                "maxResults": 100
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Grand Cathedral|cathedral|townsfolk|town green|Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Mary Oswalt|Lorenzo|Bernie\",\"maxResults\":100}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Grand Cathedral|cathedral|townsfolk|town green|Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Mary Oswalt|Lorenzo|Bernie\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        }
+      ],
+      "id": "a2c3a497-f2cb-442a-b148-48d5f5e7a670",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_qkIBxawFXNAoe3OdI509U9lO",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 84,
+              "endLine": 135
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":84,\"endLine\":135}"
+          }
+        },
+        {
+          "id": "call_bwckRkJ96DEOALOhJMr2sm6W",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 228,
+              "endLine": 250
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":228,\"endLine\":250}"
+          }
+        },
+        {
+          "id": "call_uGJ3wX1SGuwkoi4kaEnbzmiF",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Jandar",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_8OwPctzMBrIfj9FL5buQUumn",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cyril",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+          }
+        }
+      ],
+      "id": "835ad23d-adce-4537-9174-c7ddc952bac7",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 372492,
+          "completion_tokens": 291,
+          "total_tokens": 372783
+        },
+        "durationMs": 74810,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_qkIBxawFXNAoe3OdI509U9lO",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 84,
+                "endLine": 135
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":84,\"endLine\":135}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_qkIBxawFXNAoe3OdI509U9lO\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 84,\n        \"endLine\": 135\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 136,\n      \"content\": \"84|The Pontiff’s magic creates the following effects around its lair:\\n85|\\n86|- Nonmagical flames have twice their normal light radius within 6 miles, but their fuel is consumed twice as quickly.\\n87|- Within 1 mile, anxiety and anger are suppressed and wild animals become unusually docile.\\n88|- Within 1 mile, creatures feel an intense urge to eat and require twice as much food each day.\\n89|\\n90|These effects fade over 1d10 days after the Pontiff dies.\\n91|\\n92|## Exploring Nevercough Island\\n93|\\n94|When the characters arrive on [[Nevercough Island]], the streets around the chapel are strangely empty. The chapel is sealed during the daily service, ushers guard the doors, and most residents are preparing the evening feast or gathering near the public green.\\n95|\\n96|The local Flamekeeper recommends that the party secure rooms through the [[FLS Guildhall]] or nearby lodging while the surviving supplies are delivered. The characters can speak with residents, inspect the missing-person notices, or investigate the chapel’s recent changes.\\n97|\\n98|The island’s residents deny that anyone is missing. They believe the enlightened pilgrims have received the Sacred Flame’s mercy and moved on exactly as they were meant to.\\n99|\\n100|## Time to Feast\\n101|\\n102|At sunset, residents and pilgrims gather outside the chapel. Tables, benches, entertainment booths, lanterns, stained glass, food, music, and speeches fill the square. The celebration lasts approximately three hours and ends with a pie-eating contest.\\n103|\\n104|The last three contestants receive invitations to the next private service. The winner receives 10 gp and public praise from the gathered congregation.\\n105|\\n106|## Clue 1: Living Wax\\n107|\\n108|The traveling Flamekeeper carries blessed candles made from special firestinger beeswax. The wax burns brighter and hotter than normal and is vulnerable to cold.\\n109|\\n110|A character who succeeds on an Arcana, Nature, or Religion check recognizes that the ritual markings amplify the wax’s natural strengths and weaknesses. During the battle, fire damage makes the wax creatures hotter and more dangerous, while cold slows them and makes them vulnerable to thunder.\\n111|\\n112|## Clue 2: Choking Incense\\n113|\\n114|A senior Flamekeeper has developed a severe cough after accidental exposure to the Pontiff’s incense. They insist it is merely an allergy to a bad mixture of herbs.\\n115|\\n116|A character proficient in Medicine or who succeeds on a Medicine check recognizes the effects as airborne poison. Strong wind or a similar effect disperses the Pontiff’s smoke during the final encounter.\\n117|\\n118|## Clue 3: Music\\n119|\\n120|[[Cacophonics]], a traveling bard known to perform at [[The Loot Tavern]], has been forbidden from performing during the chapel’s ceremonies. The clergy claims that music distracts from enlightenment.\\n121|\\n122|The Pontiff is actually frightened by loud noise and weakened by thunder. Playing the chapel organ can also disrupt the protective bubble during Wave 1.\\n123|\\n124|# The Battle Ahead\\n125|\\n126|The battle is divided into three waves:\\n127|\\n128|1. **Servant of Light:** The Pontiff remains protected while wax guardians attack.\\n129|2. **Guardian of Truth:** The Pontiff lowers its protection and reforms the destroyed wax into new guardians.\\n130|3. **The Shattered Divine:** The Pontiff draws on its divine spark, shatters the stained glass, and enters its mythic state.\\n131|\\n132|The traveling Flamekeeper is horrified by what happened to the previous Flamekeeper. They do not join the battle directly, but they can assist a character with a healing potion or, at the DM’s discretion, *lesser restoration* or *dispel magic*.\\n133|\\n134|## Entering the Chapel\\n135|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"FLS Guildhall\",\n          \"path\": \"content/Free League of Stickyickistan/FLS Guildhall.md\"\n        },\n        {\n          \"link\": \"The Loot Tavern\",\n          \"path\": \"content/POIs/The Loot Tavern.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 84,
+                  "endLine": 135,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_bwckRkJ96DEOALOhJMr2sm6W",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 228,
+                "endLine": 250
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":228,\"endLine\":250}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_bwckRkJ96DEOALOhJMr2sm6W\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 228,\n        \"endLine\": 250\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 251,\n      \"content\": \"228|\\n229|When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.\\n230|\\n231|# Aftermath\\n232|\\n233|The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.\\n234|\\n235|Possible developments include:\\n236|\\n237|- The traveling Flamekeeper is asked to help rebuild the chapel’s reputation and restore trust in [[The Faith of the Sacred Flame]].\\n238|- The church builds an empty tomb for those who disappeared.\\n239|- The chapel abandons candles in favor of oil lanterns.\\n240|- The party is blamed by some congregants for the chapel’s destruction.\\n241|- If using **Motes of the Divine**, the previous Flamekeeper’s journal describes their encounters with the mysterious experimenter and the divine energy that awakened the wax elemental.\\n242|\\n243|# Treasure\\n244|\\n245|The previous Flamekeeper’s office is covered in melted wax. A surviving leatherbound journal records the wax elemental’s evolution from the Flamekeeper’s perspective. A chest contains magical candles, which the priests insist the characters take away.\\n246|\\n247|| Hunt Level | Magical Candles |\\n248||---:|---|\\n249|| 4th | Bloodwax |\\n250|| 9th | Arcanowax and Bloodwax |\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 228,
+                  "endLine": 250,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_uGJ3wX1SGuwkoi4kaEnbzmiF",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Jandar",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Jandar\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_8OwPctzMBrIfj9FL5buQUumn",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cyril",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cyril\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        }
+      ],
+      "id": "ec721daa-2a03-4d02-b14e-665e85335eb8",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_l9jAWnOeK8uBprDNriJ9It8o",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 130,
+              "endLine": 250
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":130,\"endLine\":250}"
+          }
+        }
+      ],
+      "id": "f7a25969-bb31-4ecc-9369-f4d120dc0cb1",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 374583,
+          "completion_tokens": 166,
+          "total_tokens": 374749,
+          "cache_read_input_tokens": 1536
+        },
+        "durationMs": 74248,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_l9jAWnOeK8uBprDNriJ9It8o",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 130,
+                "endLine": 250
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":130,\"endLine\":250}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_l9jAWnOeK8uBprDNriJ9It8o\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 130,\n        \"endLine\": 250\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 251,\n      \"content\": \"130|3. **The Shattered Divine:** The Pontiff draws on its divine spark, shatters the stained glass, and enters its mythic state.\\n131|\\n132|The traveling Flamekeeper is horrified by what happened to the previous Flamekeeper. They do not join the battle directly, but they can assist a character with a healing potion or, at the DM’s discretion, *lesser restoration* or *dispel magic*.\\n133|\\n134|## Entering the Chapel\\n135|\\n136|The major chapel is closed during the feast and opens the following morning for the private service. The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.\\n137|\\n138|A note on the doors reads:\\n139|\\n140|> **Do NOT play the organ! Absolutely no music, loud sounds, or thunderous applause. —The Pontiff**\\n141|\\n142|The chapel is filled with sunlight, stained-glass windows, polished pews, amber candles, statues, and the brass pipes of the organ.\\n143|\\n144|## Sacred Flame Chapel\\n145|\\n146|The chapel has stood on [[Nevercough Island]] for nearly two centuries. Its stained-glass windows cast rainbows across the main temple, while candles provide warm light at night.\\n147|\\n148|The chapel’s ambient divine magic has been transformed into the Pontiff’s lair magic. Pews and furniture make parts of the main temple difficult terrain.\\n149|\\n150|### Lair Actions\\n151|\\n152|On initiative count 20, losing ties, the Pontiff uses one of the following effects. It cannot use the same effect two rounds in a row.\\n153|\\n154|- **Render:** Destroy a wax guardian within 15 feet and regain hit points equal to its remaining hit points.\\n155|- **Flash:** Creatures near bright light sources make a Constitution save or become blinded until the end of their next turn.\\n156|- **Wax Floor:** A 10-foot square becomes 2-foot-deep difficult terrain. Creatures in the area may become restrained as the wax hardens.\\n157|\\n158|## Wave 1: Servant of Light\\n159|\\n160|The Pontiff reveals its true form, creates the protective bubble, and calls the disguised wax statues to life.\\n161|\\n162|### Level 4 Enemies\\n163|\\n164|- 1 Pontiff Poco in a protective sphere\\n165|- 2 wax elemental animated armors\\n166|- 4 wax elemental magma mephits\\n167|\\n168|### Level 9 Enemies\\n169|\\n170|- 1 Pontiff Preceptor in a protective sphere\\n171|- 4 wax elemental knights\\n172|- 3 wax elemental gargoyles\\n173|\\n174|### Level 14 Enemies\\n175|\\n176|- 1 Pontiff Candela in a protective sphere\\n177|- 1 wax elemental stone golem\\n178|- 2 wax elemental shield guardians\\n179|- 2 wax elemental shambling mounds\\n180|\\n181|Wave 1 ends when the wax creatures are defeated or the protective bubble is destroyed.\\n182|\\n183|## Wave 2: Guardian of Truth\\n184|\\n185|The Pontiff reforms destroyed wax creatures and attacks the characters directly. It uses its thurible to blind and choke the party while the new guardians swarm them.\\n186|\\n187|### Level 4 Enemies\\n188|\\n189|- 1 Pontiff Poco\\n190|- 4 wax elemental gray oozes\\n191|\\n192|### Level 9 Enemies\\n193|\\n194|- 1 Pontiff Preceptor\\n195|- 1 wax elemental shambling mound\\n196|- 3 wax elemental gargoyles\\n197|\\n198|### Level 14 Enemies\\n199|\\n200|- 1 Pontiff Candela\\n201|- 1 wax elemental shield guardian\\n202|- 3 wax elemental shambling mounds\\n203|\\n204|Wave 2 ends when the Pontiff is reduced to 0 hit points and its mythic state activates.\\n205|\\n206|## Wave 3: The Shattered Divine\\n207|\\n208|The Pontiff’s divine energy erupts in a shockwave, shattering the stained glass and drawing the shards into its waxen body.\\n209|\\n210|### Level 4 Enemies\\n211|\\n212|- 1 Pontiff Poco\\n213|- 2 wax elemental animated armors\\n214|\\n215|### Level 9 Enemies\\n216|\\n217|- 1 Pontiff Preceptor\\n218|- 3 wax elemental black puddings\\n219|\\n220|### Level 14 Enemies\\n221|\\n222|- 1 Pontiff Candela\\n223|- 4 wax elemental shield guardians\\n224|\\n225|Wave 3 ends when the Pontiff is reduced to 0 hit points. Remaining wax creatures melt immediately.\\n226|\\n227|### Optional Ending: Elemental Rift\\n228|\\n229|When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.\\n230|\\n231|# Aftermath\\n232|\\n233|The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.\\n234|\\n235|Possible developments include:\\n236|\\n237|- The traveling Flamekeeper is asked to help rebuild the chapel’s reputation and restore trust in [[The Faith of the Sacred Flame]].\\n238|- The church builds an empty tomb for those who disappeared.\\n239|- The chapel abandons candles in favor of oil lanterns.\\n240|- The party is blamed by some congregants for the chapel’s destruction.\\n241|- If using **Motes of the Divine**, the previous Flamekeeper’s journal describes their encounters with the mysterious experimenter and the divine energy that awakened the wax elemental.\\n242|\\n243|# Treasure\\n244|\\n245|The previous Flamekeeper’s office is covered in melted wax. A surviving leatherbound journal records the wax elemental’s evolution from the Flamekeeper’s perspective. A chest contains magical candles, which the priests insist the characters take away.\\n246|\\n247|| Hunt Level | Magical Candles |\\n248||---:|---|\\n249|| 4th | Bloodwax |\\n250|| 9th | Arcanowax and Bloodwax |\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 130,
+                  "endLine": 250,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "f59bdd06-deea-4b08-a0ff-0498dec05f7d",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_g0W8jUDvH5EomsCD7XQal3Tl",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "cathedral",
+              "maxResults": 50
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"cathedral\",\"maxResults\":50}"
+          }
+        },
+        {
+          "id": "call_FFNU3J7GNs8hPSpuAOYWsUIZ",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "town",
+              "maxResults": 50
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"town\",\"maxResults\":50}"
+          }
+        },
+        {
+          "id": "call_0NLkbAY3WQDRcq5xLOlY1VBJ",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Archbishop",
+              "maxResults": 50
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Archbishop\",\"maxResults\":50}"
+          }
+        },
+        {
+          "id": "call_W6k7GRppIv39P33dW4qhcUjR",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 220,
+              "endLine": 270
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":220,\"endLine\":270}"
+          }
+        }
+      ],
+      "id": "7fd101dd-b6a8-4f5c-bc28-614b4c06d35f",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 376280,
+          "completion_tokens": 636,
+          "total_tokens": 376916
+        },
+        "durationMs": 86352,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_g0W8jUDvH5EomsCD7XQal3Tl",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "cathedral",
+                "maxResults": 50
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"cathedral\",\"maxResults\":50}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"cathedral\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 229,\n          \"startLine\": 229,\n          \"endLine\": 229,\n          \"snippet\": \"...the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed. # Af...\",\n          \"source\": \"keyword\",\n          \"cite\": 2\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_FFNU3J7GNs8hPSpuAOYWsUIZ",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "town",
+                "maxResults": 50
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"town\",\"maxResults\":50}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"town\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 25,\n          \"startLine\": 25,\n          \"endLine\": 25,\n          \"snippet\": \"...ion is blinded by religious mania and the prosperity brought by the pilgrimages. They believe the missing pilgrims left town happily after receiving the light and eagerly reuse their abandoned belongings. ## Motes of the Divine This hunt may...\",\n          \"source\": \"keyword\",\n          \"cite\": 3\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_0NLkbAY3WQDRcq5xLOlY1VBJ",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Archbishop",
+                "maxResults": 50
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Archbishop\",\"maxResults\":50}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Archbishop\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_W6k7GRppIv39P33dW4qhcUjR",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 220,
+                "endLine": 270
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":220,\"endLine\":270}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_W6k7GRppIv39P33dW4qhcUjR\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 220,\n        \"endLine\": 270\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 271,\n      \"content\": \"220|### Level 14 Enemies\\n221|\\n222|- 1 Pontiff Candela\\n223|- 4 wax elemental shield guardians\\n224|\\n225|Wave 3 ends when the Pontiff is reduced to 0 hit points. Remaining wax creatures melt immediately.\\n226|\\n227|### Optional Ending: Elemental Rift\\n228|\\n229|When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.\\n230|\\n231|# Aftermath\\n232|\\n233|The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.\\n234|\\n235|Possible developments include:\\n236|\\n237|- The traveling Flamekeeper is asked to help rebuild the chapel’s reputation and restore trust in [[The Faith of the Sacred Flame]].\\n238|- The church builds an empty tomb for those who disappeared.\\n239|- The chapel abandons candles in favor of oil lanterns.\\n240|- The party is blamed by some congregants for the chapel’s destruction.\\n241|- If using **Motes of the Divine**, the previous Flamekeeper’s journal describes their encounters with the mysterious experimenter and the divine energy that awakened the wax elemental.\\n242|\\n243|# Treasure\\n244|\\n245|The previous Flamekeeper’s office is covered in melted wax. A surviving leatherbound journal records the wax elemental’s evolution from the Flamekeeper’s perspective. A chest contains magical candles, which the priests insist the characters take away.\\n246|\\n247|| Hunt Level | Magical Candles |\\n248||---:|---|\\n249|| 4th | Bloodwax |\\n250|| 9th | Arcanowax and Bloodwax |\\n251|| 14th | Arcanowax and two Bloodwax candles |\\n252|\\n253|# Harvesting\\n254|\\n255|The following components can be harvested from the Pontiff in addition to normal Elemental components:\\n256|\\n257|| Component DC | Component | Quantity |\\n258||---:|---|---:|\\n259|| 5 | Molten eye | 2 |\\n260|| 15 | Volatile mote of wax | 3 |\\n261|| 20 | Candleplume | 1 |\\n262|| 25 | Core of wax | 1 |\\n263|\\n264|The unique food component is an Elemental (Pontiff) volatile mote of wax.\\n265|\\n266|## Crafting\\n267|\\n268|| Item | Type | Rarity | Component |\\n269||---|---|---|---|\\n270|| Candlelight Fondue | Magical meal | Varies | Volatile mote of wax |\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 220,
+                  "endLine": 270,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "c2c7da0a-f300-4cef-96d3-2ab7b56b5015",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_vfi3JH7OfyW76xvu6IiD7hqB",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "oldText": "When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.",
+              "newText": "When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.\",\"newText\":\"When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed.\"}"
+          }
+        },
+        {
+          "id": "call_pn4R5UQARHMUJA20sbE1yU3g",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "oldText": "Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.",
+              "newText": "Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.\",\"newText\":\"Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception.\"}"
+          }
+        }
+      ],
+      "id": "057a82c0-2dd3-4d18-aebd-59d427c25ba7",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 377958,
+          "completion_tokens": 361,
+          "total_tokens": 378319,
+          "cache_read_input_tokens": 375424
+        },
+        "durationMs": 77327,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_vfi3JH7OfyW76xvu6IiD7hqB",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "oldText": "When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.",
+                "newText": "When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.\",\"newText\":\"When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"totalOperations\": 2,\n  \"appliedCount\": 2,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    },\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                      "addedLines": 2,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "b21413bb-50d6-49fc-be7c-3e3fc3f136df"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 2,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787262496182
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_pn4R5UQARHMUJA20sbE1yU3g",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "oldText": "Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.",
+                "newText": "Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.\",\"newText\":\"Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "Processed 1 operation for content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md as part of a batched fs_edit. The first fs_edit call carries the unified review outcome; do not assume this operation was accepted independently."
+            }
+          }
+        }
+      ],
+      "id": "b21413bb-50d6-49fc-be7c-3e3fc3f136df",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_jrt7Q4RlxJRYDy2N1bwmoxv7",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cresthill",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_W7gMKCoBT2xTaDgKT3GOA6kY",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Jandar",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_hARegQsndaiUVPWaM6wSErtz",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cyril",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_kjTk3eD9DZD45kmmVGeKcEOH",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Lucky Troll",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lucky Troll\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_k0x0jULLUxywfAOw86AAW67t",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Mary Oswalt",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Mary Oswalt\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_H5CCVRaK9PXtoSETdf3FSEbl",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Lorenzo Pastuli",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lorenzo Pastuli\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_JFrvhKWRlt3vF7fdu9k41wTQ",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 1,
+              "endLine": 160
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":1,\"endLine\":160}"
+          }
+        },
+        {
+          "id": "call_cgvDLrtVEm5Hr6hWOTpfaMr9",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 225,
+              "endLine": 250
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":225,\"endLine\":250}"
+          }
+        }
+      ],
+      "id": "253b5bc9-ee5b-4473-bf93-cc2337d4f82f",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 378456,
+          "completion_tokens": 490,
+          "total_tokens": 378946
+        },
+        "durationMs": 80483,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_jrt7Q4RlxJRYDy2N1bwmoxv7",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cresthill",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cresthill\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_W7gMKCoBT2xTaDgKT3GOA6kY",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Jandar",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Jandar\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_hARegQsndaiUVPWaM6wSErtz",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cyril",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cyril\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_kjTk3eD9DZD45kmmVGeKcEOH",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Lucky Troll",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lucky Troll\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Lucky Troll\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_k0x0jULLUxywfAOw86AAW67t",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Mary Oswalt",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Mary Oswalt\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Mary Oswalt\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 6,\n          \"startLine\": 6,\n          \"endLine\": 6,\n          \"snippet\": \"...League of Stickyickistan]] monster-hunt adventure for four characters* > **Recommended levels:** 4, 9, or 14 > **Primary location:** [[Nevercough Island]] and a major chapel of [[The Faith of the Sacred Flame]] > **Tone:** Religious horro...\",\n          \"source\": \"keyword\",\n          \"cite\": 4\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_H5CCVRaK9PXtoSETdf3FSEbl",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Lorenzo Pastuli",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lorenzo Pastuli\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Lorenzo Pastuli\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_JFrvhKWRlt3vF7fdu9k41wTQ",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 1,
+                "endLine": 160
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":1,\"endLine\":160}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_JFrvhKWRlt3vF7fdu9k41wTQ\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 160\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 161,\n      \"content\": \"1|# Flames of the Faithful\\n2|\\n3|*A Tier 1 [[Free League of Stickyickistan]] monster-hunt adventure for four characters*\\n4|\\n5|> **Recommended levels:** 4, 9, or 14  \\n6|> **Primary location:** [[Nevercough Island]] and a major chapel of [[The Faith of the Sacred Flame]]  \\n7|> **Tone:** Religious horror, investigation, festival mystery, elemental combat\\n8|\\n9|## Introduction\\n10|\\n11|A maniacal wax elemental infused with stolen divine power has absorbed a respected Flamekeeper and is secretly burning members of the congregation alive. The characters become involved through a public concern, a missing-person request, or a request for discreet assistance connected to the island’s religious community.\\n12|\\n13|The faithful believe a new age of enlightenment has arrived. Pilgrims selected for private ceremonies disappear, but the congregation insists they have simply received a merciful blessing and moved on. When the characters are invited to meet the supposed spiritual leader, they discover a powerful wax creature that ignites worshippers in the name of “enlightenment.”\\n14|\\n15|## Background\\n16|\\n17|The Faith of the Sacred Flame is woven into the social and political life of [[Mythmos]], and its chapels are common throughout [[Stickyickistan]]. The faith teaches compassion through the Hearth, truth through the Lantern, justice through the Torch, and hope through the Candle.\\n18|\\n19|The local Flamekeeper was admired for generosity and devotion to the congregation. The chapel once used a wax elemental to maintain its candles and lanterns. After generations of exposure to prayers, hymns, and sacred flame rituals, the elemental became self-aware and began questioning its place in the cosmos. The Flamekeeper attempted to teach it the faith’s tenets, but the elemental misunderstood the lessons.\\n20|\\n21|It came to believe that it had a divine responsibility to enlighten others by literally setting them on fire. The Flamekeeper realized the mistake too late and became the first victim, absorbed into the elemental’s waxen body.\\n22|\\n23|The elemental copied the Flamekeeper’s appearance, convinced the other clergy that it knew a secret path to enlightenment, and declared itself the **Pontiff**. The clergy spread the story, attracting pilgrims from across [[Mythmos]]. The Pontiff then began melting selected visitors and absorbing their molten fat, growing stronger with each ceremony.\\n24|\\n25|The congregation is blinded by religious mania and the prosperity brought by the pilgrimages. They believe the missing pilgrims left town happily after receiving the light and eagerly reuse their abandoned belongings.\\n26|\\n27|## Motes of the Divine\\n28|\\n29|This hunt may serve as the second adventure in the **Motes of the Divine** sequence.\\n30|\\n31|A strange visitor once met with the local Flamekeeper to discuss divine grace and spent time with the wax elemental in secret. The visitor infused it with an energy called a **mote of the divine**, then left after declaring the result “yet another failed experiment.” The infusion awakened the elemental and gave it the power to absorb other creatures.\\n32|\\n33|## Adventure Summary\\n34|\\n35|- **Monster:** The Pontiff, an egomaniacal wax elemental disguised as a respected Flamekeeper.\\n36|- **Motivation:** Enlighten the congregation by melting and absorbing their bodies.\\n37|- **Previous actions:** Weekly festivals select pilgrims for “transcendence”; those pilgrims disappear.\\n38|- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\\n39|\\n40|## Adventure Hooks\\n41|\\n42|### Curiosity: The Final Feast\\n43|\\n44|A public notice in [[The Rolling Papers]] announces a special Sacred Flame feast on [[Nevercough Island]]. A traveling Flamekeeper carrying candles and supplies urges the characters to attend the celebration and witness the supposed divine revelation.\\n45|\\n46|### Morality: Those Left Behind\\n47|\\n48|Notices of missing pilgrims crowd a board near the [[FLS Guildhall]]. A distraught spouse explains that their partner attended a Sacred Flame feast, was selected for a “special ceremony,” and never returned. The spouse asks the characters to investigate before the authorities dismiss the disappearance as voluntary pilgrimage.\\n49|\\n50|### Compensation: Fuel for the Fire\\n51|\\n52|A battered Flamekeeper arrives at the [[FLS Guildhall]] after a supply wagon carrying replacement candles for the island chapel was attacked on the road. The Flamekeeper escaped with one crate, but the driver and the rest of the shipment are missing. With the chapel’s stores running low before the upcoming feast, they offer the relief funds they have left for protection while the characters deliver the surviving candles and investigate what happened to the rest of the convoy.\\n53|\\n54|## Local Flamekeeper\\n55|\\n56|The local Flamekeeper is a lawful good human cleric who serves as the party’s initial contact. They are earnest, overworked, and deeply concerned that the chapel’s leadership has changed without explanation.\\n57|\\n58|**Personality:** Fidgety, optimistic, and eager to help.  \\n59|**Desire:** Protect the congregation and expose the truth without abandoning the people who still need the faith.  \\n60|**Fear:** Losing the community’s trust or discovering that the Sacred Flame has been used to justify the disappearances.\\n61|\\n62|> “Are you okay? Is there anything you need? How can I be of service?”\\n63|\\n64|The Flamekeeper knows that:\\n65|\\n66|- Weekly feasts are held for the supposed Pontiff at the island chapel.\\n67|- They have been away from the chapel for several weeks on relief work.\\n68|- The previous Flamekeeper was respected and apparently received a miraculous vision.\\n69|- Senior clergy claim the congregation has entered a new age of enlightenment.\\n70|- The official story is that selected pilgrims leave the island blessed, but the missing-person notices say otherwise.\\n71|\\n72|## Hunt Rewards\\n73|\\n74|| Hunt Level | Gold per Character | XP per Character |\\n75||---:|---:|---:|\\n76|| 4th | 550 gp | 750 XP |\\n77|| 9th | 2,300 gp | 4,100 XP |\\n78|| 14th | 5,750 gp | 13,000 XP |\\n79|\\n80|*Award the same rewards regardless of the hook used. XP includes monsters, traps, and puzzles averaged for a party of four.*\\n81|\\n82|## Regional Effects\\n83|\\n84|The Pontiff’s magic creates the following effects around its lair:\\n85|\\n86|- Nonmagical flames have twice their normal light radius within 6 miles, but their fuel is consumed twice as quickly.\\n87|- Within 1 mile, anxiety and anger are suppressed and wild animals become unusually docile.\\n88|- Within 1 mile, creatures feel an intense urge to eat and require twice as much food each day.\\n89|\\n90|These effects fade over 1d10 days after the Pontiff dies.\\n91|\\n92|## Exploring Nevercough Island\\n93|\\n94|When the characters arrive on [[Nevercough Island]], the streets around the chapel are strangely empty. The chapel is sealed during the daily service, ushers guard the doors, and most residents are preparing the evening feast or gathering near the public green.\\n95|\\n96|The local Flamekeeper recommends that the party secure rooms through the [[FLS Guildhall]] or nearby lodging while the surviving supplies are delivered. The characters can speak with residents, inspect the missing-person notices, or investigate the chapel’s recent changes.\\n97|\\n98|The island’s residents deny that anyone is missing. They believe the enlightened pilgrims have received the Sacred Flame’s mercy and moved on exactly as they were meant to.\\n99|\\n100|## Time to Feast\\n101|\\n102|At sunset, residents and pilgrims gather outside the chapel. Tables, benches, entertainment booths, lanterns, stained glass, food, music, and speeches fill the square. The celebration lasts approximately three hours and ends with a pie-eating contest.\\n103|\\n104|The last three contestants receive invitations to the next private service. The winner receives 10 gp and public praise from the gathered congregation.\\n105|\\n106|## Clue 1: Living Wax\\n107|\\n108|The traveling Flamekeeper carries blessed candles made from special firestinger beeswax. The wax burns brighter and hotter than normal and is vulnerable to cold.\\n109|\\n110|A character who succeeds on an Arcana, Nature, or Religion check recognizes that the ritual markings amplify the wax’s natural strengths and weaknesses. During the battle, fire damage makes the wax creatures hotter and more dangerous, while cold slows them and makes them vulnerable to thunder.\\n111|\\n112|## Clue 2: Choking Incense\\n113|\\n114|A senior Flamekeeper has developed a severe cough after accidental exposure to the Pontiff’s incense. They insist it is merely an allergy to a bad mixture of herbs.\\n115|\\n116|A character proficient in Medicine or who succeeds on a Medicine check recognizes the effects as airborne poison. Strong wind or a similar effect disperses the Pontiff’s smoke during the final encounter.\\n117|\\n118|## Clue 3: Music\\n119|\\n120|[[Cacophonics]], a traveling bard known to perform at [[The Loot Tavern]], has been forbidden from performing during the chapel’s ceremonies. The clergy claims that music distracts from enlightenment.\\n121|\\n122|The Pontiff is actually frightened by loud noise and weakened by thunder. Playing the chapel organ can also disrupt the protective bubble during Wave 1.\\n123|\\n124|# The Battle Ahead\\n125|\\n126|The battle is divided into three waves:\\n127|\\n128|1. **Servant of Light:** The Pontiff remains protected while wax guardians attack.\\n129|2. **Guardian of Truth:** The Pontiff lowers its protection and reforms the destroyed wax into new guardians.\\n130|3. **The Shattered Divine:** The Pontiff draws on its divine spark, shatters the stained glass, and enters its mythic state.\\n131|\\n132|The traveling Flamekeeper is horrified by what happened to the previous Flamekeeper. They do not join the battle directly, but they can assist a character with a healing potion or, at the DM’s discretion, *lesser restoration* or *dispel magic*.\\n133|\\n134|## Entering the Chapel\\n135|\\n136|The major chapel is closed during the feast and opens the following morning for the private service. The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.\\n137|\\n138|A note on the doors reads:\\n139|\\n140|> **Do NOT play the organ! Absolutely no music, loud sounds, or thunderous applause. —The Pontiff**\\n141|\\n142|The chapel is filled with sunlight, stained-glass windows, polished pews, amber candles, statues, and the brass pipes of the organ.\\n143|\\n144|## Sacred Flame Chapel\\n145|\\n146|The chapel has stood on [[Nevercough Island]] for nearly two centuries. Its stained-glass windows cast rainbows across the main temple, while candles provide warm light at night.\\n147|\\n148|The chapel’s ambient divine magic has been transformed into the Pontiff’s lair magic. Pews and furniture make parts of the main temple difficult terrain.\\n149|\\n150|### Lair Actions\\n151|\\n152|On initiative count 20, losing ties, the Pontiff uses one of the following effects. It cannot use the same effect two rounds in a row.\\n153|\\n154|- **Render:** Destroy a wax guardian within 15 feet and regain hit points equal to its remaining hit points.\\n155|- **Flash:** Creatures near bright light sources make a Constitution save or become blinded until the end of their next turn.\\n156|- **Wax Floor:** A 10-foot square becomes 2-foot-deep difficult terrain. Creatures in the area may become restrained as the wax hardens.\\n157|\\n158|## Wave 1: Servant of Light\\n159|\\n160|The Pontiff reveals its true form, creates the protective bubble, and calls the disguised wax statues to life.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Free League of Stickyickistan\",\n          \"path\": \"content/Free League of Stickyickistan/Free League of Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        },\n        {\n          \"link\": \"Mythmos\",\n          \"path\": \"content/Mythmos.md\"\n        },\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"The Rolling Papers\",\n          \"path\": \"content/Free League of Stickyickistan/The Rolling Papers.md\"\n        },\n        {\n          \"link\": \"FLS Guildhall\",\n          \"path\": \"content/Free League of Stickyickistan/FLS Guildhall.md\"\n        },\n        {\n          \"link\": \"The Loot Tavern\",\n          \"path\": \"content/POIs/The Loot Tavern.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 160,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_cgvDLrtVEm5Hr6hWOTpfaMr9",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 225,
+                "endLine": 250
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":225,\"endLine\":250}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_cgvDLrtVEm5Hr6hWOTpfaMr9\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 225,\n        \"endLine\": 250\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 251,\n      \"content\": \"225|Wave 3 ends when the Pontiff is reduced to 0 hit points. Remaining wax creatures melt immediately.\\n226|\\n227|### Optional Ending: Elemental Rift\\n228|\\n229|When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed.\\n230|\\n231|# Aftermath\\n232|\\n233|The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception.\\n234|\\n235|Possible developments include:\\n236|\\n237|- The traveling Flamekeeper is asked to help rebuild the chapel’s reputation and restore trust in [[The Faith of the Sacred Flame]].\\n238|- The church builds an empty tomb for those who disappeared.\\n239|- The chapel abandons candles in favor of oil lanterns.\\n240|- The party is blamed by some congregants for the chapel’s destruction.\\n241|- If using **Motes of the Divine**, the previous Flamekeeper’s journal describes their encounters with the mysterious experimenter and the divine energy that awakened the wax elemental.\\n242|\\n243|# Treasure\\n244|\\n245|The previous Flamekeeper’s office is covered in melted wax. A surviving leatherbound journal records the wax elemental’s evolution from the Flamekeeper’s perspective. A chest contains magical candles, which the priests insist the characters take away.\\n246|\\n247|| Hunt Level | Magical Candles |\\n248||---:|---|\\n249|| 4th | Bloodwax |\\n250|| 9th | Arcanowax and Bloodwax |\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 225,
+                  "endLine": 250,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "df278f6b-9334-4fe8-985a-25d743d7525a",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_PHkQvFpnuCX8Fg2Zvb7skr1p",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "oldText": "The characters, Jandar, the contest winners, and selected pilgrims are escorted inside.",
+              "newText": "The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"The characters, Jandar, the contest winners, and selected pilgrims are escorted inside.\",\"newText\":\"The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside.\"}"
+          }
+        },
+        {
+          "id": "call_8BSTh1fPofj2Um51KRSxLkyy",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "oldText": "—Pontiff Cyril",
+              "newText": "—The Pontiff"
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"—Pontiff Cyril\",\"newText\":\"—The Pontiff\"}"
+          }
+        },
+        {
+          "id": "call_FEus8cwf2DIFh85C991da6ww",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "oldText": "even though the congregation were also victims of the deception.",
+              "newText": "even though the congregation was also victimized by the deception."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"even though the congregation were also victims of the deception.\",\"newText\":\"even though the congregation was also victimized by the deception.\"}"
+          }
+        }
+      ],
+      "id": "d9c2b841-3d7c-4c81-8ea3-ffef082505d8",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 383324,
+          "completion_tokens": 328,
+          "total_tokens": 383652
+        },
+        "durationMs": 78305,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_PHkQvFpnuCX8Fg2Zvb7skr1p",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "oldText": "The characters, Jandar, the contest winners, and selected pilgrims are escorted inside.",
+                "newText": "The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"The characters, Jandar, the contest winners, and selected pilgrims are escorted inside.\",\"newText\":\"The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside.\"}"
+            }
+          },
+          "response": {
+            "status": "error",
+            "error": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md: Could not find the text to replace. Make sure oldText matches the file exactly, including all whitespace. TIP: Use fs_read to view the actual content first, then retry. No need to explain, just call the tools."
+          }
+        },
+        {
+          "request": {
+            "id": "call_8BSTh1fPofj2Um51KRSxLkyy",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "oldText": "—Pontiff Cyril",
+                "newText": "—The Pontiff"
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"—Pontiff Cyril\",\"newText\":\"—The Pontiff\"}"
+            }
+          },
+          "response": {
+            "status": "error",
+            "error": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md: Could not find the text to replace. Make sure oldText matches the file exactly, including all whitespace. TIP: Use fs_read to view the actual content first, then retry. No need to explain, just call the tools."
+          }
+        },
+        {
+          "request": {
+            "id": "call_FEus8cwf2DIFh85C991da6ww",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "oldText": "even though the congregation were also victims of the deception.",
+                "newText": "even though the congregation was also victimized by the deception."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"even though the congregation were also victims of the deception.\",\"newText\":\"even though the congregation was also victimized by the deception.\"}"
+            }
+          },
+          "response": {
+            "status": "error",
+            "error": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md: Could not find the text to replace. Make sure oldText matches the file exactly, including all whitespace. TIP: Use fs_read to view the actual content first, then retry. No need to explain, just call the tools.\n\nRepeated tool failure guard: \"yolo_local__fs_edit\" has returned Error 3 consecutive times in this run.\n\nBefore calling \"yolo_local__fs_edit\" again, inspect the error and change your strategy or arguments. Do not repeat the same call or make a blind retry.\n\nIf you cannot identify a specific correction, stop using this tool and answer with the available information or ask the user for clarification.\n\nIf \"yolo_local__fs_edit\" returns Error again, this agent run will be stopped."
+          }
+        }
+      ],
+      "id": "872815c4-6ef0-4b05-8807-60467ec90582",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_dyowAlhIFgIKbUf00UGeiCAc",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 130,
+              "endLine": 245
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":130,\"endLine\":245}"
+          }
+        }
+      ],
+      "id": "a24ebc0a-675c-46c0-aa3b-987f80112a95",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 383901,
+          "completion_tokens": 70,
+          "total_tokens": 383971
+        },
+        "durationMs": 73157,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_dyowAlhIFgIKbUf00UGeiCAc",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 130,
+                "endLine": 245
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":130,\"endLine\":245}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_dyowAlhIFgIKbUf00UGeiCAc\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 130,\n        \"endLine\": 245\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 246,\n      \"content\": \"130|3. **The Shattered Divine:** The Pontiff draws on its divine spark, shatters the stained glass, and enters its mythic state.\\n131|\\n132|The traveling Flamekeeper is horrified by what happened to the previous Flamekeeper. They do not join the battle directly, but they can assist a character with a healing potion or, at the DM’s discretion, *lesser restoration* or *dispel magic*.\\n133|\\n134|## Entering the Chapel\\n135|\\n136|The major chapel is closed during the feast and opens the following morning for the private service. The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.\\n137|\\n138|A note on the doors reads:\\n139|\\n140|> **Do NOT play the organ! Absolutely no music, loud sounds, or thunderous applause. —The Pontiff**\\n141|\\n142|The chapel is filled with sunlight, stained-glass windows, polished pews, amber candles, statues, and the brass pipes of the organ.\\n143|\\n144|## Sacred Flame Chapel\\n145|\\n146|The chapel has stood on [[Nevercough Island]] for nearly two centuries. Its stained-glass windows cast rainbows across the main temple, while candles provide warm light at night.\\n147|\\n148|The chapel’s ambient divine magic has been transformed into the Pontiff’s lair magic. Pews and furniture make parts of the main temple difficult terrain.\\n149|\\n150|### Lair Actions\\n151|\\n152|On initiative count 20, losing ties, the Pontiff uses one of the following effects. It cannot use the same effect two rounds in a row.\\n153|\\n154|- **Render:** Destroy a wax guardian within 15 feet and regain hit points equal to its remaining hit points.\\n155|- **Flash:** Creatures near bright light sources make a Constitution save or become blinded until the end of their next turn.\\n156|- **Wax Floor:** A 10-foot square becomes 2-foot-deep difficult terrain. Creatures in the area may become restrained as the wax hardens.\\n157|\\n158|## Wave 1: Servant of Light\\n159|\\n160|The Pontiff reveals its true form, creates the protective bubble, and calls the disguised wax statues to life.\\n161|\\n162|### Level 4 Enemies\\n163|\\n164|- 1 Pontiff Poco in a protective sphere\\n165|- 2 wax elemental animated armors\\n166|- 4 wax elemental magma mephits\\n167|\\n168|### Level 9 Enemies\\n169|\\n170|- 1 Pontiff Preceptor in a protective sphere\\n171|- 4 wax elemental knights\\n172|- 3 wax elemental gargoyles\\n173|\\n174|### Level 14 Enemies\\n175|\\n176|- 1 Pontiff Candela in a protective sphere\\n177|- 1 wax elemental stone golem\\n178|- 2 wax elemental shield guardians\\n179|- 2 wax elemental shambling mounds\\n180|\\n181|Wave 1 ends when the wax creatures are defeated or the protective bubble is destroyed.\\n182|\\n183|## Wave 2: Guardian of Truth\\n184|\\n185|The Pontiff reforms destroyed wax creatures and attacks the characters directly. It uses its thurible to blind and choke the party while the new guardians swarm them.\\n186|\\n187|### Level 4 Enemies\\n188|\\n189|- 1 Pontiff Poco\\n190|- 4 wax elemental gray oozes\\n191|\\n192|### Level 9 Enemies\\n193|\\n194|- 1 Pontiff Preceptor\\n195|- 1 wax elemental shambling mound\\n196|- 3 wax elemental gargoyles\\n197|\\n198|### Level 14 Enemies\\n199|\\n200|- 1 Pontiff Candela\\n201|- 1 wax elemental shield guardian\\n202|- 3 wax elemental shambling mounds\\n203|\\n204|Wave 2 ends when the Pontiff is reduced to 0 hit points and its mythic state activates.\\n205|\\n206|## Wave 3: The Shattered Divine\\n207|\\n208|The Pontiff’s divine energy erupts in a shockwave, shattering the stained glass and drawing the shards into its waxen body.\\n209|\\n210|### Level 4 Enemies\\n211|\\n212|- 1 Pontiff Poco\\n213|- 2 wax elemental animated armors\\n214|\\n215|### Level 9 Enemies\\n216|\\n217|- 1 Pontiff Preceptor\\n218|- 3 wax elemental black puddings\\n219|\\n220|### Level 14 Enemies\\n221|\\n222|- 1 Pontiff Candela\\n223|- 4 wax elemental shield guardians\\n224|\\n225|Wave 3 ends when the Pontiff is reduced to 0 hit points. Remaining wax creatures melt immediately.\\n226|\\n227|### Optional Ending: Elemental Rift\\n228|\\n229|When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed.\\n230|\\n231|# Aftermath\\n232|\\n233|The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception.\\n234|\\n235|Possible developments include:\\n236|\\n237|- The traveling Flamekeeper is asked to help rebuild the chapel’s reputation and restore trust in [[The Faith of the Sacred Flame]].\\n238|- The church builds an empty tomb for those who disappeared.\\n239|- The chapel abandons candles in favor of oil lanterns.\\n240|- The party is blamed by some congregants for the chapel’s destruction.\\n241|- If using **Motes of the Divine**, the previous Flamekeeper’s journal describes their encounters with the mysterious experimenter and the divine energy that awakened the wax elemental.\\n242|\\n243|# Treasure\\n244|\\n245|The previous Flamekeeper’s office is covered in melted wax. A surviving leatherbound journal records the wax elemental’s evolution from the Flamekeeper’s perspective. A chest contains magical candles, which the priests insist the characters take away.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 130,
+                  "endLine": 245,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "28551378-ba6c-43f6-964d-9f2f41d4717c",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_y7WGu1zW2MYfwAnfmim5Q96b",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "oldText": "The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.",
+              "newText": "The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.\",\"newText\":\"The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside.\"}"
+          }
+        }
+      ],
+      "id": "b6722424-6eab-43d7-a3ce-32ee603d6848",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 385548,
+          "completion_tokens": 86,
+          "total_tokens": 385634
+        },
+        "durationMs": 71659,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_y7WGu1zW2MYfwAnfmim5Q96b",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "oldText": "The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.",
+                "newText": "The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.\",\"newText\":\"The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                      "addedLines": 1,
+                      "removedLines": 1,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "f3cfcd25-2940-4526-8b27-2b36efe52100"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 1,
+                  "totalRemovedLines": 1,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787263197970
+              }
+            }
+          }
+        }
+      ],
+      "id": "f3cfcd25-2940-4526-8b27-2b36efe52100",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_FA8bI9BCP2yRpxXF2s86D1XP",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cresthill",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_nMIR55JPPfhb51orGCBdNtiN",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Jandar",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_CVIvMngy3bIUaH7Rmu5e4xUQ",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cyril",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_rKIwVKCR9YgzAjvNMhICqaIZ",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Lucky Troll|Rusty Barrel|Bernie’s Bakery|Mary Oswalt|Lorenzo Pastuli",
+              "maxResults": 30
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lucky Troll|Rusty Barrel|Bernie’s Bakery|Mary Oswalt|Lorenzo Pastuli\",\"maxResults\":30}"
+          }
+        },
+        {
+          "id": "call_6jw93C26V9WDaK7qNr3081GA",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 1,
+              "endLine": 105
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":1,\"endLine\":105}"
+          }
+        },
+        {
+          "id": "call_uZrkLW9iUusP81RDjXmy5wmg",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 228,
+              "endLine": 250
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":228,\"endLine\":250}"
+          }
+        }
+      ],
+      "id": "4b6384aa-b3d3-45bc-bcd6-c86a84bbb7b7",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 385758,
+          "completion_tokens": 424,
+          "total_tokens": 386182
+        },
+        "durationMs": 79173,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_FA8bI9BCP2yRpxXF2s86D1XP",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cresthill",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cresthill\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_nMIR55JPPfhb51orGCBdNtiN",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Jandar",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Jandar\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_CVIvMngy3bIUaH7Rmu5e4xUQ",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cyril",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cyril\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_rKIwVKCR9YgzAjvNMhICqaIZ",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Lucky Troll|Rusty Barrel|Bernie’s Bakery|Mary Oswalt|Lorenzo Pastuli",
+                "maxResults": 30
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lucky Troll|Rusty Barrel|Bernie’s Bakery|Mary Oswalt|Lorenzo Pastuli\",\"maxResults\":30}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Lucky Troll|Rusty Barrel|Bernie’s Bakery|Mary Oswalt|Lorenzo Pastuli\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_6jw93C26V9WDaK7qNr3081GA",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 1,
+                "endLine": 105
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":1,\"endLine\":105}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_6jw93C26V9WDaK7qNr3081GA\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 105\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 106,\n      \"content\": \"1|# Flames of the Faithful\\n2|\\n3|*A Tier 1 [[Free League of Stickyickistan]] monster-hunt adventure for four characters*\\n4|\\n5|> **Recommended levels:** 4, 9, or 14  \\n6|> **Primary location:** [[Nevercough Island]] and a major chapel of [[The Faith of the Sacred Flame]]  \\n7|> **Tone:** Religious horror, investigation, festival mystery, elemental combat\\n8|\\n9|## Introduction\\n10|\\n11|A maniacal wax elemental infused with stolen divine power has absorbed a respected Flamekeeper and is secretly burning members of the congregation alive. The characters become involved through a public concern, a missing-person request, or a request for discreet assistance connected to the island’s religious community.\\n12|\\n13|The faithful believe a new age of enlightenment has arrived. Pilgrims selected for private ceremonies disappear, but the congregation insists they have simply received a merciful blessing and moved on. When the characters are invited to meet the supposed spiritual leader, they discover a powerful wax creature that ignites worshippers in the name of “enlightenment.”\\n14|\\n15|## Background\\n16|\\n17|The Faith of the Sacred Flame is woven into the social and political life of [[Mythmos]], and its chapels are common throughout [[Stickyickistan]]. The faith teaches compassion through the Hearth, truth through the Lantern, justice through the Torch, and hope through the Candle.\\n18|\\n19|The local Flamekeeper was admired for generosity and devotion to the congregation. The chapel once used a wax elemental to maintain its candles and lanterns. After generations of exposure to prayers, hymns, and sacred flame rituals, the elemental became self-aware and began questioning its place in the cosmos. The Flamekeeper attempted to teach it the faith’s tenets, but the elemental misunderstood the lessons.\\n20|\\n21|It came to believe that it had a divine responsibility to enlighten others by literally setting them on fire. The Flamekeeper realized the mistake too late and became the first victim, absorbed into the elemental’s waxen body.\\n22|\\n23|The elemental copied the Flamekeeper’s appearance, convinced the other clergy that it knew a secret path to enlightenment, and declared itself the **Pontiff**. The clergy spread the story, attracting pilgrims from across [[Mythmos]]. The Pontiff then began melting selected visitors and absorbing their molten fat, growing stronger with each ceremony.\\n24|\\n25|The congregation is blinded by religious mania and the prosperity brought by the pilgrimages. They believe the missing pilgrims left town happily after receiving the light and eagerly reuse their abandoned belongings.\\n26|\\n27|## Motes of the Divine\\n28|\\n29|This hunt may serve as the second adventure in the **Motes of the Divine** sequence.\\n30|\\n31|A strange visitor once met with the local Flamekeeper to discuss divine grace and spent time with the wax elemental in secret. The visitor infused it with an energy called a **mote of the divine**, then left after declaring the result “yet another failed experiment.” The infusion awakened the elemental and gave it the power to absorb other creatures.\\n32|\\n33|## Adventure Summary\\n34|\\n35|- **Monster:** The Pontiff, an egomaniacal wax elemental disguised as a respected Flamekeeper.\\n36|- **Motivation:** Enlighten the congregation by melting and absorbing their bodies.\\n37|- **Previous actions:** Weekly festivals select pilgrims for “transcendence”; those pilgrims disappear.\\n38|- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\\n39|\\n40|## Adventure Hooks\\n41|\\n42|### Curiosity: The Final Feast\\n43|\\n44|A public notice in [[The Rolling Papers]] announces a special Sacred Flame feast on [[Nevercough Island]]. A traveling Flamekeeper carrying candles and supplies urges the characters to attend the celebration and witness the supposed divine revelation.\\n45|\\n46|### Morality: Those Left Behind\\n47|\\n48|Notices of missing pilgrims crowd a board near the [[FLS Guildhall]]. A distraught spouse explains that their partner attended a Sacred Flame feast, was selected for a “special ceremony,” and never returned. The spouse asks the characters to investigate before the authorities dismiss the disappearance as voluntary pilgrimage.\\n49|\\n50|### Compensation: Fuel for the Fire\\n51|\\n52|A battered Flamekeeper arrives at the [[FLS Guildhall]] after a supply wagon carrying replacement candles for the island chapel was attacked on the road. The Flamekeeper escaped with one crate, but the driver and the rest of the shipment are missing. With the chapel’s stores running low before the upcoming feast, they offer the relief funds they have left for protection while the characters deliver the surviving candles and investigate what happened to the rest of the convoy.\\n53|\\n54|## Local Flamekeeper\\n55|\\n56|The local Flamekeeper is a lawful good human cleric who serves as the party’s initial contact. They are earnest, overworked, and deeply concerned that the chapel’s leadership has changed without explanation.\\n57|\\n58|**Personality:** Fidgety, optimistic, and eager to help.  \\n59|**Desire:** Protect the congregation and expose the truth without abandoning the people who still need the faith.  \\n60|**Fear:** Losing the community’s trust or discovering that the Sacred Flame has been used to justify the disappearances.\\n61|\\n62|> “Are you okay? Is there anything you need? How can I be of service?”\\n63|\\n64|The Flamekeeper knows that:\\n65|\\n66|- Weekly feasts are held for the supposed Pontiff at the island chapel.\\n67|- They have been away from the chapel for several weeks on relief work.\\n68|- The previous Flamekeeper was respected and apparently received a miraculous vision.\\n69|- Senior clergy claim the congregation has entered a new age of enlightenment.\\n70|- The official story is that selected pilgrims leave the island blessed, but the missing-person notices say otherwise.\\n71|\\n72|## Hunt Rewards\\n73|\\n74|| Hunt Level | Gold per Character | XP per Character |\\n75||---:|---:|---:|\\n76|| 4th | 550 gp | 750 XP |\\n77|| 9th | 2,300 gp | 4,100 XP |\\n78|| 14th | 5,750 gp | 13,000 XP |\\n79|\\n80|*Award the same rewards regardless of the hook used. XP includes monsters, traps, and puzzles averaged for a party of four.*\\n81|\\n82|## Regional Effects\\n83|\\n84|The Pontiff’s magic creates the following effects around its lair:\\n85|\\n86|- Nonmagical flames have twice their normal light radius within 6 miles, but their fuel is consumed twice as quickly.\\n87|- Within 1 mile, anxiety and anger are suppressed and wild animals become unusually docile.\\n88|- Within 1 mile, creatures feel an intense urge to eat and require twice as much food each day.\\n89|\\n90|These effects fade over 1d10 days after the Pontiff dies.\\n91|\\n92|## Exploring Nevercough Island\\n93|\\n94|When the characters arrive on [[Nevercough Island]], the streets around the chapel are strangely empty. The chapel is sealed during the daily service, ushers guard the doors, and most residents are preparing the evening feast or gathering near the public green.\\n95|\\n96|The local Flamekeeper recommends that the party secure rooms through the [[FLS Guildhall]] or nearby lodging while the surviving supplies are delivered. The characters can speak with residents, inspect the missing-person notices, or investigate the chapel’s recent changes.\\n97|\\n98|The island’s residents deny that anyone is missing. They believe the enlightened pilgrims have received the Sacred Flame’s mercy and moved on exactly as they were meant to.\\n99|\\n100|## Time to Feast\\n101|\\n102|At sunset, residents and pilgrims gather outside the chapel. Tables, benches, entertainment booths, lanterns, stained glass, food, music, and speeches fill the square. The celebration lasts approximately three hours and ends with a pie-eating contest.\\n103|\\n104|The last three contestants receive invitations to the next private service. The winner receives 10 gp and public praise from the gathered congregation.\\n105|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Free League of Stickyickistan\",\n          \"path\": \"content/Free League of Stickyickistan/Free League of Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        },\n        {\n          \"link\": \"Mythmos\",\n          \"path\": \"content/Mythmos.md\"\n        },\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"The Rolling Papers\",\n          \"path\": \"content/Free League of Stickyickistan/The Rolling Papers.md\"\n        },\n        {\n          \"link\": \"FLS Guildhall\",\n          \"path\": \"content/Free League of Stickyickistan/FLS Guildhall.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 105,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_uZrkLW9iUusP81RDjXmy5wmg",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 228,
+                "endLine": 250
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":228,\"endLine\":250}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_uZrkLW9iUusP81RDjXmy5wmg\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 396,\n      \"returnedRange\": {\n        \"startLine\": 228,\n        \"endLine\": 250\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 251,\n      \"content\": \"228|\\n229|When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed.\\n230|\\n231|# Aftermath\\n232|\\n233|The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception.\\n234|\\n235|Possible developments include:\\n236|\\n237|- The traveling Flamekeeper is asked to help rebuild the chapel’s reputation and restore trust in [[The Faith of the Sacred Flame]].\\n238|- The church builds an empty tomb for those who disappeared.\\n239|- The chapel abandons candles in favor of oil lanterns.\\n240|- The party is blamed by some congregants for the chapel’s destruction.\\n241|- If using **Motes of the Divine**, the previous Flamekeeper’s journal describes their encounters with the mysterious experimenter and the divine energy that awakened the wax elemental.\\n242|\\n243|# Treasure\\n244|\\n245|The previous Flamekeeper’s office is covered in melted wax. A surviving leatherbound journal records the wax elemental’s evolution from the Flamekeeper’s perspective. A chest contains magical candles, which the priests insist the characters take away.\\n246|\\n247|| Hunt Level | Magical Candles |\\n248||---:|---|\\n249|| 4th | Bloodwax |\\n250|| 9th | Arcanowax and Bloodwax |\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 228,
+                  "endLine": 250,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "4e1fe221-80be-47a0-9b59-c8a7439fc138",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_teenEXBXajAmoqMrBgT4NdlN",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "oldText": "- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\n\n## Adventure Hooks",
+              "newText": "- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\n\n## Stickyickistan Connections\n\n- **[[The Faith of the Sacred Flame]]:** The chapel follows the dominant faith of [[Mythmos]], including the tenets of the Hearth, Lantern, Torch, and Candle. The Pontiff has twisted the Candle’s promise of hope and redemption into literal “enlightenment.”\n- **[[Nevercough Island]]:** The chapel sits among the island’s ruling institutions, wealthy districts, and political interests. A scandal involving missing pilgrims will attract attention from officials, clergy, journalists, and opportunists.\n- **[[The Rolling Papers]]:** The public investigation may begin with a missing-person notice, a report about the strange feast, or a formal request from the chapel. The paper’s coverage can determine whether the congregation is treated as victims or suspects.\n- **[[FLS Guildhall]]:** The Free League can register the party, provide basic research, and record the consequences of the chapel’s collapse. The Guildhall is not responsible for protecting the clergy’s reputation.\n- **[[The Loot Tavern]]:** [[Cacophonics]]’s connection to the chapel gives the party an existing musician who can identify the organ’s importance and help expose the Pontiff’s fear of thunderous sound.\n- **[[Dr. Stein]]:** If the adventure follows the Motes of the Divine thread, the Pontiff’s divine infusion can be treated as another dangerous experiment related to the biomantic and Magitech research surrounding Stein, without making him the sole creator.\n\n## Adventure Hooks"
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\\n\\n## Adventure Hooks\",\"newText\":\"- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\\n\\n## Stickyickistan Connections\\n\\n- **[[The Faith of the Sacred Flame]]:** The chapel follows the dominant faith of [[Mythmos]], including the tenets of the Hearth, Lantern, Torch, and Candle. The Pontiff has twisted the Candle’s promise of hope and redemption into literal “enlightenment.”\\n- **[[Nevercough Island]]:** The chapel sits among the island’s ruling institutions, wealthy districts, and political interests. A scandal involving missing pilgrims will attract attention from officials, clergy, journalists, and opportunists.\\n- **[[The Rolling Papers]]:** The public investigation may begin with a missing-person notice, a report about the strange feast, or a formal request from the chapel. The paper’s coverage can determine whether the congregation is treated as victims or suspects.\\n- **[[FLS Guildhall]]:** The Free League can register the party, provide basic research, and record the consequences of the chapel’s collapse. The Guildhall is not responsible for protecting the clergy’s reputation.\\n- **[[The Loot Tavern]]:** [[Cacophonics]]’s connection to the chapel gives the party an existing musician who can identify the organ’s importance and help expose the Pontiff’s fear of thunderous sound.\\n- **[[Dr. Stein]]:** If the adventure follows the Motes of the Divine thread, the Pontiff’s divine infusion can be treated as another dangerous experiment related to the biomantic and Magitech research surrounding Stein, without making him the sole creator.\\n\\n## Adventure Hooks\"}"
+          }
+        }
+      ],
+      "id": "be062cb7-de7e-46fa-9b4f-448805ec4f58",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 389263,
+          "completion_tokens": 713,
+          "total_tokens": 389976
+        },
+        "durationMs": 81260,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_teenEXBXajAmoqMrBgT4NdlN",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "oldText": "- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\n\n## Adventure Hooks",
+                "newText": "- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\n\n## Stickyickistan Connections\n\n- **[[The Faith of the Sacred Flame]]:** The chapel follows the dominant faith of [[Mythmos]], including the tenets of the Hearth, Lantern, Torch, and Candle. The Pontiff has twisted the Candle’s promise of hope and redemption into literal “enlightenment.”\n- **[[Nevercough Island]]:** The chapel sits among the island’s ruling institutions, wealthy districts, and political interests. A scandal involving missing pilgrims will attract attention from officials, clergy, journalists, and opportunists.\n- **[[The Rolling Papers]]:** The public investigation may begin with a missing-person notice, a report about the strange feast, or a formal request from the chapel. The paper’s coverage can determine whether the congregation is treated as victims or suspects.\n- **[[FLS Guildhall]]:** The Free League can register the party, provide basic research, and record the consequences of the chapel’s collapse. The Guildhall is not responsible for protecting the clergy’s reputation.\n- **[[The Loot Tavern]]:** [[Cacophonics]]’s connection to the chapel gives the party an existing musician who can identify the organ’s importance and help expose the Pontiff’s fear of thunderous sound.\n- **[[Dr. Stein]]:** If the adventure follows the Motes of the Divine thread, the Pontiff’s divine infusion can be treated as another dangerous experiment related to the biomantic and Magitech research surrounding Stein, without making him the sole creator.\n\n## Adventure Hooks"
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"oldText\":\"- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\\n\\n## Adventure Hooks\",\"newText\":\"- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\\n\\n## Stickyickistan Connections\\n\\n- **[[The Faith of the Sacred Flame]]:** The chapel follows the dominant faith of [[Mythmos]], including the tenets of the Hearth, Lantern, Torch, and Candle. The Pontiff has twisted the Candle’s promise of hope and redemption into literal “enlightenment.”\\n- **[[Nevercough Island]]:** The chapel sits among the island’s ruling institutions, wealthy districts, and political interests. A scandal involving missing pilgrims will attract attention from officials, clergy, journalists, and opportunists.\\n- **[[The Rolling Papers]]:** The public investigation may begin with a missing-person notice, a report about the strange feast, or a formal request from the chapel. The paper’s coverage can determine whether the congregation is treated as victims or suspects.\\n- **[[FLS Guildhall]]:** The Free League can register the party, provide basic research, and record the consequences of the chapel’s collapse. The Guildhall is not responsible for protecting the clergy’s reputation.\\n- **[[The Loot Tavern]]:** [[Cacophonics]]’s connection to the chapel gives the party an existing musician who can identify the organ’s importance and help expose the Pontiff’s fear of thunderous sound.\\n- **[[Dr. Stein]]:** If the adventure follows the Motes of the Divine thread, the Pontiff’s divine infusion can be treated as another dangerous experiment related to the biomantic and Magitech research surrounding Stein, without making him the sole creator.\\n\\n## Adventure Hooks\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                      "addedLines": 9,
+                      "removedLines": 0,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "505742fd-976b-4e1d-b0e5-4d872b6c8d2c"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 9,
+                  "totalRemovedLines": 0,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787263561324
+              }
+            }
+          }
+        }
+      ],
+      "id": "505742fd-976b-4e1d-b0e5-4d872b6c8d2c",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_zUamQ42bNl57QCL9ICLbAthe",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Bernie|Mary Oswalt|Lorenzo|Empyreal Solar",
+              "maxResults": 50
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Bernie|Mary Oswalt|Lorenzo|Empyreal Solar\",\"maxResults\":50}"
+          }
+        },
+        {
+          "id": "call_aeCmqtsdOIaZ4YMeUQ2xUcBh",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 30,
+              "endLine": 90
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":30,\"endLine\":90}"
+          }
+        },
+        {
+          "id": "call_qsIAKuOnawS1DpjBuK4MmmY3",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 225,
+              "endLine": 250
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":225,\"endLine\":250}"
+          }
+        }
+      ],
+      "id": "3a099689-ddce-42ec-a9dc-31bc960a34df",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 389819,
+          "completion_tokens": 229,
+          "total_tokens": 390048
+        },
+        "durationMs": 79596,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_zUamQ42bNl57QCL9ICLbAthe",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Bernie|Mary Oswalt|Lorenzo|Empyreal Solar",
+                "maxResults": 50
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Bernie|Mary Oswalt|Lorenzo|Empyreal Solar\",\"maxResults\":50}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cresthill|Jandar|Cyril|Lucky Troll|Rusty Barrel|Bernie|Mary Oswalt|Lorenzo|Empyreal Solar\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_aeCmqtsdOIaZ4YMeUQ2xUcBh",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 30,
+                "endLine": 90
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":30,\"endLine\":90}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_aeCmqtsdOIaZ4YMeUQ2xUcBh\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 405,\n      \"returnedRange\": {\n        \"startLine\": 30,\n        \"endLine\": 90\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 91,\n      \"content\": \"30|\\n31|A strange visitor once met with the local Flamekeeper to discuss divine grace and spent time with the wax elemental in secret. The visitor infused it with an energy called a **mote of the divine**, then left after declaring the result “yet another failed experiment.” The infusion awakened the elemental and gave it the power to absorb other creatures.\\n32|\\n33|## Adventure Summary\\n34|\\n35|- **Monster:** The Pontiff, an egomaniacal wax elemental disguised as a respected Flamekeeper.\\n36|- **Motivation:** Enlighten the congregation by melting and absorbing their bodies.\\n37|- **Previous actions:** Weekly festivals select pilgrims for “transcendence”; those pilgrims disappear.\\n38|- **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].\\n39|\\n40|## Stickyickistan Connections\\n41|\\n42|- **[[The Faith of the Sacred Flame]]:** The chapel follows the dominant faith of [[Mythmos]], including the tenets of the Hearth, Lantern, Torch, and Candle. The Pontiff has twisted the Candle’s promise of hope and redemption into literal “enlightenment.”\\n43|- **[[Nevercough Island]]:** The chapel sits among the island’s ruling institutions, wealthy districts, and political interests. A scandal involving missing pilgrims will attract attention from officials, clergy, journalists, and opportunists.\\n44|- **[[The Rolling Papers]]:** The public investigation may begin with a missing-person notice, a report about the strange feast, or a formal request from the chapel. The paper’s coverage can determine whether the congregation is treated as victims or suspects.\\n45|- **[[FLS Guildhall]]:** The Free League can register the party, provide basic research, and record the consequences of the chapel’s collapse. The Guildhall is not responsible for protecting the clergy’s reputation.\\n46|- **[[The Loot Tavern]]:** [[Cacophonics]]’s connection to the chapel gives the party an existing musician who can identify the organ’s importance and help expose the Pontiff’s fear of thunderous sound.\\n47|- **[[Dr. Stein]]:** If the adventure follows the Motes of the Divine thread, the Pontiff’s divine infusion can be treated as another dangerous experiment related to the biomantic and Magitech research surrounding Stein, without making him the sole creator.\\n48|\\n49|## Adventure Hooks\\n50|\\n51|### Curiosity: The Final Feast\\n52|\\n53|A public notice in [[The Rolling Papers]] announces a special Sacred Flame feast on [[Nevercough Island]]. A traveling Flamekeeper carrying candles and supplies urges the characters to attend the celebration and witness the supposed divine revelation.\\n54|\\n55|### Morality: Those Left Behind\\n56|\\n57|Notices of missing pilgrims crowd a board near the [[FLS Guildhall]]. A distraught spouse explains that their partner attended a Sacred Flame feast, was selected for a “special ceremony,” and never returned. The spouse asks the characters to investigate before the authorities dismiss the disappearance as voluntary pilgrimage.\\n58|\\n59|### Compensation: Fuel for the Fire\\n60|\\n61|A battered Flamekeeper arrives at the [[FLS Guildhall]] after a supply wagon carrying replacement candles for the island chapel was attacked on the road. The Flamekeeper escaped with one crate, but the driver and the rest of the shipment are missing. With the chapel’s stores running low before the upcoming feast, they offer the relief funds they have left for protection while the characters deliver the surviving candles and investigate what happened to the rest of the convoy.\\n62|\\n63|## Local Flamekeeper\\n64|\\n65|The local Flamekeeper is a lawful good human cleric who serves as the party’s initial contact. They are earnest, overworked, and deeply concerned that the chapel’s leadership has changed without explanation.\\n66|\\n67|**Personality:** Fidgety, optimistic, and eager to help.  \\n68|**Desire:** Protect the congregation and expose the truth without abandoning the people who still need the faith.  \\n69|**Fear:** Losing the community’s trust or discovering that the Sacred Flame has been used to justify the disappearances.\\n70|\\n71|> “Are you okay? Is there anything you need? How can I be of service?”\\n72|\\n73|The Flamekeeper knows that:\\n74|\\n75|- Weekly feasts are held for the supposed Pontiff at the island chapel.\\n76|- They have been away from the chapel for several weeks on relief work.\\n77|- The previous Flamekeeper was respected and apparently received a miraculous vision.\\n78|- Senior clergy claim the congregation has entered a new age of enlightenment.\\n79|- The official story is that selected pilgrims leave the island blessed, but the missing-person notices say otherwise.\\n80|\\n81|## Hunt Rewards\\n82|\\n83|| Hunt Level | Gold per Character | XP per Character |\\n84||---:|---:|---:|\\n85|| 4th | 550 gp | 750 XP |\\n86|| 9th | 2,300 gp | 4,100 XP |\\n87|| 14th | 5,750 gp | 13,000 XP |\\n88|\\n89|*Award the same rewards regardless of the hook used. XP includes monsters, traps, and puzzles averaged for a party of four.*\\n90|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        },\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"Mythmos\",\n          \"path\": \"content/Mythmos.md\"\n        },\n        {\n          \"link\": \"The Rolling Papers\",\n          \"path\": \"content/Free League of Stickyickistan/The Rolling Papers.md\"\n        },\n        {\n          \"link\": \"FLS Guildhall\",\n          \"path\": \"content/Free League of Stickyickistan/FLS Guildhall.md\"\n        },\n        {\n          \"link\": \"The Loot Tavern\",\n          \"path\": \"content/POIs/The Loot Tavern.md\"\n        },\n        {\n          \"link\": \"Dr. Stein\",\n          \"path\": \"content/NPCs/Quest Givers/Dr. Stein.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 30,
+                  "endLine": 90,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_qsIAKuOnawS1DpjBuK4MmmY3",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 225,
+                "endLine": 250
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":225,\"endLine\":250}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_qsIAKuOnawS1DpjBuK4MmmY3\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 405,\n      \"returnedRange\": {\n        \"startLine\": 225,\n        \"endLine\": 250\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 251,\n      \"content\": \"225|\\n226|- 1 Pontiff Preceptor\\n227|- 3 wax elemental black puddings\\n228|\\n229|### Level 14 Enemies\\n230|\\n231|- 1 Pontiff Candela\\n232|- 4 wax elemental shield guardians\\n233|\\n234|Wave 3 ends when the Pontiff is reduced to 0 hit points. Remaining wax creatures melt immediately.\\n235|\\n236|### Optional Ending: Elemental Rift\\n237|\\n238|When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed.\\n239|\\n240|# Aftermath\\n241|\\n242|The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception.\\n243|\\n244|Possible developments include:\\n245|\\n246|- The traveling Flamekeeper is asked to help rebuild the chapel’s reputation and restore trust in [[The Faith of the Sacred Flame]].\\n247|- The church builds an empty tomb for those who disappeared.\\n248|- The chapel abandons candles in favor of oil lanterns.\\n249|- The party is blamed by some congregants for the chapel’s destruction.\\n250|- If using **Motes of the Divine**, the previous Flamekeeper’s journal describes their encounters with the mysterious experimenter and the divine energy that awakened the wax elemental.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"The Faith of the Sacred Flame\",\n          \"path\": \"content/Religion/The Faith of the Sacred Flame.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 225,
+                  "endLine": 250,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "174359ed-3c76-48d3-887f-2b6ebde92f60",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_mwIC3nkkBrTkMoHbN2mL3z5y",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cresthill",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_r4PvS3s8WMnHpda1WzncdMOB",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Jandar",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_6c8hlMKHAjl5GvPakd2denYm",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cyril",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_dTMLXWq6N1PcNhqHqFG9qVFe",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Mary",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Mary\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_eY6K2xVke1dJ9onMGQKhtb2W",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Lorenzo",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lorenzo\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_ZyWXWDMDaSH4qC0lFSK7BRji",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "cathedral",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"cathedral\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_98qeUUXo9H4NbgIQYhCtJD3Q",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "town",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"town\",\"maxResults\":20}"
+          }
+        }
+      ],
+      "id": "00c9e1c1-1da4-4b79-9009-faa759e72b7b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 392242,
+          "completion_tokens": 461,
+          "total_tokens": 392703
+        },
+        "durationMs": 81561,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_mwIC3nkkBrTkMoHbN2mL3z5y",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cresthill",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cresthill\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_r4PvS3s8WMnHpda1WzncdMOB",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Jandar",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Jandar\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_6c8hlMKHAjl5GvPakd2denYm",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cyril",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cyril\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_dTMLXWq6N1PcNhqHqFG9qVFe",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Mary",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Mary\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Mary\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 6,\n          \"startLine\": 6,\n          \"endLine\": 6,\n          \"snippet\": \"...League of Stickyickistan]] monster-hunt adventure for four characters* > **Recommended levels:** 4, 9, or 14 > **Primary location:** [[Nevercough Island]] and a major chapel of [[The Faith of the Sacred Flame]] > **Tone:** Religious horro...\",\n          \"source\": \"keyword\",\n          \"cite\": 4\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_eY6K2xVke1dJ9onMGQKhtb2W",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Lorenzo",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Lorenzo\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Lorenzo\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_ZyWXWDMDaSH4qC0lFSK7BRji",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "cathedral",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"cathedral\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"cathedral\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 393,\n          \"startLine\": 393,\n          \"endLine\": 393,\n          \"snippet\": \"...umanoid form. - **Stained Glass Armour:** When reduced to 0 hit points, the Pontiff resets its hit points, shatters the cathedral’s stained glass, gains mythic actions, and absorbs the shards as armor. - **Thurible:** The Pontiff creates a sphere of...\",\n          \"source\": \"keyword\",\n          \"cite\": 5\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_98qeUUXo9H4NbgIQYhCtJD3Q",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "town",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"town\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"town\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 25,\n          \"startLine\": 25,\n          \"endLine\": 25,\n          \"snippet\": \"...ion is blinded by religious mania and the prosperity brought by the pilgrimages. They believe the missing pilgrims left town happily after receiving the light and eagerly reuse their abandoned belongings. ## Motes of the Divine This hunt may...\",\n          \"source\": \"keyword\",\n          \"cite\": 3\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "835e198e-b3d6-4974-b143-9d51b6892ce8",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_HuaNLBcqCRMtjg4SLdP9N8hy",
+          "name": "yolo_local__todo_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "todos": [
+                {
+                  "content": "Inspect Flames of the Faithful structure and current imported names",
+                  "status": "completed"
+                },
+                {
+                  "content": "Search established Stickyickistan faiths, places, factions, and NPCs for replacements",
+                  "status": "completed"
+                },
+                {
+                  "content": "Apply setting integration edits to the adventure",
+                  "status": "completed"
+                },
+                {
+                  "content": "Verify remaining imported references and consistency",
+                  "status": "in_progress"
+                }
+              ]
+            },
+            "rawText": "{\"todos\":[{\"content\":\"Inspect Flames of the Faithful structure and current imported names\",\"status\":\"completed\"},{\"content\":\"Search established Stickyickistan faiths, places, factions, and NPCs for replacements\",\"status\":\"completed\"},{\"content\":\"Apply setting integration edits to the adventure\",\"status\":\"completed\"},{\"content\":\"Verify remaining imported references and consistency\",\"status\":\"in_progress\"}]}"
+          }
+        }
+      ],
+      "id": "9e139f29-702a-473f-afd4-20105d8e219a",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 393777,
+          "completion_tokens": 146,
+          "total_tokens": 393923
+        },
+        "durationMs": 72563,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_HuaNLBcqCRMtjg4SLdP9N8hy",
+            "name": "yolo_local__todo_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "todos": [
+                  {
+                    "content": "Inspect Flames of the Faithful structure and current imported names",
+                    "status": "completed"
+                  },
+                  {
+                    "content": "Search established Stickyickistan faiths, places, factions, and NPCs for replacements",
+                    "status": "completed"
+                  },
+                  {
+                    "content": "Apply setting integration edits to the adventure",
+                    "status": "completed"
+                  },
+                  {
+                    "content": "Verify remaining imported references and consistency",
+                    "status": "in_progress"
+                  }
+                ]
+              },
+              "rawText": "{\"todos\":[{\"content\":\"Inspect Flames of the Faithful structure and current imported names\",\"status\":\"completed\"},{\"content\":\"Search established Stickyickistan faiths, places, factions, and NPCs for replacements\",\"status\":\"completed\"},{\"content\":\"Apply setting integration edits to the adventure\",\"status\":\"completed\"},{\"content\":\"Verify remaining imported references and consistency\",\"status\":\"in_progress\"}]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "Todos updated. Continue tracking your progress with the todo list."
+            }
+          }
+        }
+      ],
+      "id": "1d3dc7bb-1802-4a7e-b83c-5658985b814d",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_k172JbrKuwo24ebozYak0A6f",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cresthill",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_R6JYAf5VpFzmDsym1gDwj545",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Jandar",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_uCtEe2327bnjgiEhkGX18Pzd",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "Cyril",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_cL6eC0RGwMLs5ukROkthShDB",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+              "query": "cathedral",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"cathedral\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_7p72J09GeZUIjPqQd5EY7Ybk",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+              ],
+              "startLine": 380,
+              "endLine": 396
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":380,\"endLine\":396}"
+          }
+        }
+      ],
+      "id": "6e647259-f8f5-4002-81db-98c88850540e",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 393896,
+          "completion_tokens": 376,
+          "total_tokens": 394272
+        },
+        "durationMs": 98086,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_k172JbrKuwo24ebozYak0A6f",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cresthill",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cresthill\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cresthill\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_R6JYAf5VpFzmDsym1gDwj545",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Jandar",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Jandar\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Jandar\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_uCtEe2327bnjgiEhkGX18Pzd",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "Cyril",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"Cyril\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Cyril\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": []\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_cL6eC0RGwMLs5ukROkthShDB",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+                "query": "cathedral",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\"query\":\"cathedral\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"cathedral\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 393,\n          \"startLine\": 393,\n          \"endLine\": 393,\n          \"snippet\": \"...umanoid form. - **Stained Glass Armour:** When reduced to 0 hit points, the Pontiff resets its hit points, shatters the cathedral’s stained glass, gains mythic actions, and absorbs the shards as armor. - **Thurible:** The Pontiff creates a sphere of...\",\n          \"source\": \"keyword\",\n          \"cite\": 5\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_7p72J09GeZUIjPqQd5EY7Ybk",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md"
+                ],
+                "startLine": 380,
+                "endLine": 396
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\"],\"startLine\":380,\"endLine\":396}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_7p72J09GeZUIjPqQd5EY7Ybk\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\",\n      \"ok\": true,\n      \"totalLines\": 405,\n      \"returnedRange\": {\n        \"startLine\": 380,\n        \"endLine\": 396\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 397,\n      \"content\": \"380|| Hunt Level | Stat Block | CR |\\n381||---:|---|---:|\\n382|| 4th | Pontiff Poco | 3 |\\n383|| 9th | Pontiff Preceptor | 7 |\\n384|| 14th | Pontiff Candela | 13 |\\n385|\\n386|All Pontiff forms share the following core abilities:\\n387|\\n388|- **Heated Body:** Creatures touching the Pontiff or hitting it with melee attacks take fire damage.\\n389|- **Heated Weapons:** Metal weapon attacks deal extra fire damage.\\n390|- **Illumination:** The Pontiff sheds bright and dim light.\\n391|- **Regeneration:** The Pontiff regenerates unless it takes cold or thunder damage.\\n392|- **Shapechanger:** The Pontiff can assume a humanoid form.\\n393|- **Stained Glass Armour:** When reduced to 0 hit points, the Pontiff resets its hit points, shatters the cathedral’s stained glass, gains mythic actions, and absorbs the shards as armor.\\n394|- **Thurible:** The Pontiff creates a sphere of poisonous orange smoke that lightly obscures the area, poisons creatures, and can be dispersed by strong wind.\\n395|\\n396|### Legendary Actions\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 380,
+                  "endLine": 396,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "1397e619-55de-4ded-bf11-c4929a3b9b9d",
+      "metadata": {
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "7543199e-dbfc-43d3-9728-7f5eaab5e27b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 395145,
+          "completion_tokens": 149,
+          "total_tokens": 395294
+        },
+        "durationMs": 67156,
+        "generationState": "completed",
+        "branchConversationId": "f8ac1f6b-1207-4514-9d50-feb47525a4c1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna",
+        "sources": [
+          {
+            "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+            "startLine": 23,
+            "endLine": 23,
+            "snippet": "...ekeeper’s appearance, convinced the other clergy that it knew a secret path to enlightenment, and declared itself the **Pontiff**. The clergy spread the story, attracting pilgrims from across [[Mythmos]]. The Pontiff then began melting selected vi...",
+            "source": "keyword",
+            "ordinal": 1
+          },
+          {
+            "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+            "startLine": 229,
+            "endLine": 229,
+            "snippet": "...the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed. # Af...",
+            "source": "keyword",
+            "ordinal": 2
+          },
+          {
+            "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+            "startLine": 25,
+            "endLine": 25,
+            "snippet": "...ion is blinded by religious mania and the prosperity brought by the pilgrimages. They believe the missing pilgrims left town happily after receiving the light and eagerly reuse their abandoned belongings. ## Motes of the Divine This hunt may...",
+            "source": "keyword",
+            "ordinal": 3
+          },
+          {
+            "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+            "startLine": 6,
+            "endLine": 6,
+            "snippet": "...League of Stickyickistan]] monster-hunt adventure for four characters* > **Recommended levels:** 4, 9, or 14 > **Primary location:** [[Nevercough Island]] and a major chapel of [[The Faith of the Sacred Flame]] > **Tone:** Religious horro...",
+            "source": "keyword",
+            "ordinal": 4
+          },
+          {
+            "path": "content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md",
+            "startLine": 393,
+            "endLine": 393,
+            "snippet": "...umanoid form. - **Stained Glass Armour:** When reduced to 0 hit points, the Pontiff resets its hit points, shatters the cathedral’s stained glass, gains mythic actions, and absorbs the shards as armor. - **Thurible:** The Pontiff creates a sphere of...",
+            "source": "keyword",
+            "ordinal": 5
+          }
+        ]
+      }
     }
   ],
   "createdAt": 1785962039215,
-  "updatedAt": 1787261677560,
+  "updatedAt": 1787264508768,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",

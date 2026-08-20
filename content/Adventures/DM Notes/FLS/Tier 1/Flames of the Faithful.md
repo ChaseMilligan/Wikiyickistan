@@ -37,6 +37,15 @@ A strange visitor once met with the local Flamekeeper to discuss divine grace an
 - **Previous actions:** Weekly festivals select pilgrims for “transcendence”; those pilgrims disappear.
 - **Location:** The Pontiff holds private services in a major chapel of [[The Faith of the Sacred Flame]] on [[Nevercough Island]].
 
+## Stickyickistan Connections
+
+- **[[The Faith of the Sacred Flame]]:** The chapel follows the dominant faith of [[Mythmos]], including the tenets of the Hearth, Lantern, Torch, and Candle. The Pontiff has twisted the Candle’s promise of hope and redemption into literal “enlightenment.”
+- **[[Nevercough Island]]:** The chapel sits among the island’s ruling institutions, wealthy districts, and political interests. A scandal involving missing pilgrims will attract attention from officials, clergy, journalists, and opportunists.
+- **[[The Rolling Papers]]:** The public investigation may begin with a missing-person notice, a report about the strange feast, or a formal request from the chapel. The paper’s coverage can determine whether the congregation is treated as victims or suspects.
+- **[[FLS Guildhall]]:** The Free League can register the party, provide basic research, and record the consequences of the chapel’s collapse. The Guildhall is not responsible for protecting the clergy’s reputation.
+- **[[The Loot Tavern]]:** [[Cacophonics]]’s connection to the chapel gives the party an existing musician who can identify the organ’s importance and help expose the Pontiff’s fear of thunderous sound.
+- **[[Dr. Stein]]:** If the adventure follows the Motes of the Divine thread, the Pontiff’s divine infusion can be treated as another dangerous experiment related to the biomantic and Magitech research surrounding Stein, without making him the sole creator.
+
 ## Adventure Hooks
 
 ### Curiosity: The Final Feast
@@ -133,7 +142,7 @@ The traveling Flamekeeper is horrified by what happened to the previous Flamekee
 
 ## Entering the Chapel
 
-The major chapel is closed during the feast and opens the following morning for the private service. The characters, the traveling Flamekeeper, contest winners, and selected pilgrims are escorted inside.
+The major chapel is closed during the feast and opens the following morning for the private service. The characters, the traveling Flamekeeper, the contest winners, and selected pilgrims are escorted inside.
 
 A note on the doors reads:
 
@@ -226,11 +235,11 @@ Wave 3 ends when the Pontiff is reduced to 0 hit points. Remaining wax creatures
 
 ### Optional Ending: Elemental Rift
 
-When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the cathedral while villagers huddle inside. The characters must escape and rescue survivors before the cathedral is destroyed.
+When the Pontiff dies, its divine spark may crack open a rift into the Elemental Plane of Wax. Molten wax begins filling the chapel while congregants huddle inside. The characters must escape and rescue survivors before the chapel is destroyed.
 
 # Aftermath
 
-The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even if the congregation were also victims of the deception.
+The clergy reacts with horror after discovering that the Pontiff deceived them. Residents of [[Nevercough Island]] are appalled that the chapel’s leaders enabled the disappearances, even though the congregation were also victims of the deception.
 
 Possible developments include:
 
