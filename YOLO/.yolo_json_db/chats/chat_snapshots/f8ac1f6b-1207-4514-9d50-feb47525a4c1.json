@@ -298,6 +298,39 @@
       "createdAt": 1787166013886,
       "updatedAt": 1787166013886
     },
+    "58133fdc": {
+      "hash": "58133fdc",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Untitled.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you format Untitled.md \n\n"
+        }
+      ],
+      "createdAt": 1787245872877,
+      "updatedAt": 1787245872877
+    },
+    "00c128ef": {
+      "hash": "00c128ef",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\" startLine=\"9\" endLine=\"25\">\n```content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\n9|## Introduction\n10|\n11|A maniacal wax elemental infused with divine power and misguided faith has absorbed a celebrated archbishop and is secretly burning members of the congregation alive. After meeting the overly eager priest [[Jandar Olana]], the characters travel to [[Cresthill]], where a celebration honors the church’s supposed divine revelation.\n12|\n13|The townsfolk believe a new age of enlightenment has arrived. Pilgrims selected for private ceremonies disappear, but the people of Cresthill insist they have simply transcended. When the characters are invited to meet the Pontiff, they discover a powerful wax creature that ignites parishioners in the name of “enlightenment.”\n14|\n15|## Background\n16|\n17|The clergy of the Church of the Empyreal Solar has guided Cresthill for generations. Archbishop Cyril the Kindhearted was admired for his generosity and devotion to the congregation.\n18|\n19|The church once used a wax elemental to maintain the candles and lanterns that illuminated the cathedral. After generations of exposure to divine rituals, the elemental became self-aware and began questioning its place in the cosmos. Cyril attempted to teach it the principles of the faith, but the elemental misunderstood the lessons.\n20|\n21|It came to believe that it had a divine responsibility to enlighten others by literally setting them on fire. Cyril realized the mistake too late and became the first victim, absorbed into the elemental’s waxen body.\n22|\n23|The elemental copied Cyril’s appearance, convinced the priests that it knew a secret path to enlightenment, and declared itself the **Pontiff**. The clergy spread the story, attracting pilgrims. The Pontiff then began melting selected visitors and absorbing their molten fat, growing stronger with each ceremony.\n24|\n25|The townsfolk are blinded by religious mania and the prosperity brought by the pilgrimages. They believe that the missing pilgrims left town happily after their enlightenment and eagerly reuse their abandoned belongings.\n```\n</user_selected_content>\n\n\nOFlames of the Faithful.md (292 Words) Help me make this adventure fit the Stickyickistan setting better by using names and npcs that already exist and places, and anything else from my established lore\n\n"
+        }
+      ],
+      "createdAt": 1787246995637,
+      "updatedAt": 1787246995637
+    },
+    "e66ce91d": {
+      "hash": "e66ce91d",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\" startLine=\"50\" endLine=\"52\">\n```content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\n50|### Compensation: Fuel for the Fire\n51|\n52|A battered Flamekeeper barely escapes an ambush while transporting special candles to the island chapel. They offer their remaining gold and the promise of a blessing from the local clergy in exchange for an escort and help delivering the supplies.\n```\n</user_selected_content>\n\n\nFlames of the Faithful.md (45 Words) This doesnt make much sense to me\n\n"
+        }
+      ],
+      "createdAt": 1787256071659,
+      "updatedAt": 1787256071659
+    },
     "d7c1d482": {
       "hash": "d7c1d482",
       "content": [
@@ -306,8 +339,8 @@
           "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/The Rolling Papers.md`\n  - L9 # What Gets Posted Here\n  - L29 # Rolling Papers Adventure Advertisement Template\n  - L81 # Example: Monsters at the Northbourne Orchard Festival\n  - L91 ### Headline\n  - L95 ### Public Notice\n  - L103 ### What Players Should Know\n  - L110 ### Rewards\n  - L118 ### Sign-Up\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nOk now lets make a document for this adventure in Adventure Briefs using the Examples from The Rolling Papers.md  and The Roach Clip.md  like I did in The Shining Shrine Player Brief.md \n\n"
         }
       ],
-      "createdAt": 1787166462343,
-      "updatedAt": 1787166462343
+      "createdAt": 1787261316741,
+      "updatedAt": 1787261316741
     },
     "c3c7b0b0": {
       "hash": "c3c7b0b0",
@@ -317,8 +350,8 @@
           "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L31 ## Preparation\n  - L52 ## Key NPCs\n  - L63 ## Content Warning\n  - L69 ## Adventure Background\n  - L87 # Part 1: The Rolling Papers\n  - L92 ## Adventure Hook\n  - L100 ### BOUNTY POSTED\n  - L102 #### Tribunal Highblade Coalition\n  - L123 ## [[Highblade Tower]]\n  - L140 ### Ziggy Tootokes\n  - L148 ### The Briefing\n  - L169 ### What Ziggy Knows\n  - L182 ## Treasure\n  - L186 ## Development\n  - L194 # Part 2: Wick & Wax Candleworks\n  - L203 ## General Features\n  - L214 ## Arriving at the Workshop\n  - L231 ## Visiting During the Day\n  - L250 ## Visiting After Dark\n  - L269 ## Workshop Occupants\n  - L285 ### Marek Flint\n  - L299 ## Searching the Workshop\n  - L356 ## Combat\n  - L381 ## Development\n  - L391 # Part 3: The Hidden Cellar\n  - L400 ## General Features\n  - L411 ## C1. Trapdoor Entrance\n  - L421 ## C2. Smuggler's Well\n  - L431 ## C3. Distribution Floor\n  - L449 ### Crates\n  - L455 ### Shipment Records\n  - L465 ### Marek Arrives\n  - L489 ### Marek's Goal\n  - L498 ### Shadows\n  - L506 ## C4. Workers' Quarters\n  - L516 ## Development\n  - L528 # Conclusion\n  - L550 ## Rewards\n  - L554 ### Adventure Rewards\n  - L569 ### Treasure Bundles\n  - L583 ## Story Award\n  - L585 ### Friend of Ziggy\n  - L595 # Experience\n  - L601 # Dungeon Master Aid: Rumors\n  - L613 ## Copper Rumors (1 cp)\n  - L637 ## Silver Rumors (1 sp)\n  - L659 ## Gold Rumors (1 gp)\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make a new document in the Adventure Briefs folder for Crimson Candleworks.md \n\n"
         }
       ],
-      "createdAt": 1787166462344,
-      "updatedAt": 1787166462344
+      "createdAt": 1787261316741,
+      "updatedAt": 1787261316741
     },
     "68f7f611": {
       "hash": "68f7f611",
@@ -328,8 +361,8 @@
           "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L31 ## Preparation\n  - L52 ## Key NPCs\n  - L63 ## Content Warning\n  - L69 ## Adventure Background\n  - L87 # Part 1: The Rolling Papers\n  - L92 ## Adventure Hook\n  - L100 ### BOUNTY POSTED\n  - L102 #### Tribunal Highblade Coalition\n  - L123 ## [[Highblade Tower]]\n  - L140 ### Ziggy Tootokes\n  - L148 ### The Briefing\n  - L169 ### What Ziggy Knows\n  - L182 ## Treasure\n  - L186 ## Development\n  - L194 # Part 2: Wick & Wax Candleworks\n  - L203 ## General Features\n  - L214 ## Arriving at the Workshop\n  - L231 ## Visiting During the Day\n  - L250 ## Visiting After Dark\n  - L269 ## Workshop Occupants\n  - L285 ### Marek Flint\n  - L299 ## Searching the Workshop\n  - L356 ## Combat\n  - L381 ## Development\n  - L391 # Part 3: The Hidden Cellar\n  - L400 ## General Features\n  - L411 ## C1. Trapdoor Entrance\n  - L421 ## C2. Smuggler's Well\n  - L431 ## C3. Distribution Floor\n  - L449 ### Crates\n  - L455 ### Shipment Records\n  - L465 ### Marek Arrives\n  - L489 ### Marek's Goal\n  - L498 ### Shadows\n  - L506 ## C4. Workers' Quarters\n  - L516 ## Development\n  - L528 # Conclusion\n  - L550 ## Rewards\n  - L554 ### Adventure Rewards\n  - L569 ### Treasure Bundles\n  - L583 ## Story Award\n  - L585 ### Friend of Ziggy\n  - L595 # Experience\n  - L601 # Dungeon Master Aid: Rumors\n  - L613 ## Copper Rumors (1 cp)\n  - L637 ## Silver Rumors (1 sp)\n  - L659 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\" startLine=\"17\" endLine=\"25\">\n```content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md\n17|## Key Plot Points\n18|\n19|The following information is key to the adventure's story.\n20|\n21|**Part 1:** [[The Rolling Papers]]. The characters discover a bounty posted by the Tribunal Highblade Coalition seeking adventurers willing to raid a suspected Bloodwalker OG distribution site operating beneath a candle maker's workshop.\n22|\n23|**Part 2:** Wick & Wax Candleworks. The characters investigate the workshop, discover the concealed trapdoor hidden beneath a worn rug, and descend into the cellar where the operation is based. There they confront the undead traffickers responsible for distributing the illegal strain.\n24|\n25|**Conclusion:** Another Candle Extinguished. After dismantling the operation, the characters recover evidence pointing toward the unknown producers of Bloodwalker OG before returning to the Tribunal Highblade Coalition to claim their reward.\n```\n</user_selected_content>\n\n\nCrimson Candleworks.md (117 Words) Can you please updtae this section to actually reflect the key plot points in Crimson Candleworks.md \n\n"
         }
       ],
-      "createdAt": 1787166462344,
-      "updatedAt": 1787166462344
+      "createdAt": 1787261316741,
+      "updatedAt": 1787261316741
     },
     "f64069d0": {
       "hash": "f64069d0",
@@ -339,8 +372,19 @@
           "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Twilight Hunter.md`\n  - L1 # The Twilight Hunter\n  - L10 ## Introduction\n  - L18 ## Background\n  - L26 ## Motes of the Divine\n  - L34 ## Adventure Summary\n  - L41 ## Adventure Hooks\n  - L43 ### Curiosity: The Twilight Curse\n  - L49 ### Morality: The Missing Hunters\n  - L53 ### Compensation: A White Whale\n  - L57 ## Mariam Shelley\n  - L79 ## Hunt Rewards\n  - L89 # Evenfall Forest\n  - L95 ### Tracking the Bloodhound\n  - L101 ### The Twilight Curse\n  - L109 ## Unique Flora and Fauna\n  - L111 ### Silver-Tailed Cheshire Fox\n  - L120 ### Twilight Wasp\n  - L126 ### Greyshade Strangler\n  - L132 # Know Thy Enemy\n  - L142 ## Clue 1: More Than a Beast\n  - L150 ## Clue 2: Shadow Hunter\n  - L163 ## Clue 3: Fear of Fire\n  - L171 # Crimson Hollow\n  - L177 ## Entering Crimson Hollow\n  - L183 ### Hazard: Cursed Waters\n  - L187 ### Ruins\n  - L191 ### Helping Hand\n  - L197 # The Battle Ahead\n  - L201 ## Wave 1: The Trapper\n  - L205 ### Detecting Traps\n  - L211 ### Trap Table\n  - L225 ### Wave 1 Tactics\n  - L236 ## Wave 2: The Hunter\n  - L240 ### Level 3 Enemies\n  - L246 ### Level 8 Enemies\n  - L253 ### Level 13 Enemies\n  - L263 ## Wave 3: The Beast\n  - L267 ### Level 3 Enemies\n  - L272 ### Level 8 Enemies\n  - L277 ### Level 13 Enemies\n  - L284 ### Optional Ending: Pack Attack\n  - L288 # Aftermath\n  - L298 # Treasure\n  - L310 # Harvesting\n  - L323 ## Bloodhound Craftable Items\n  - L332 # Appendix A: Magic Items\n  - L334 ## Bloodhound’s Caress\n  - L344 ## Bloodhound’s Immobiliser\n  - L354 ## Bloodhound’s Widebrim\n  - L364 ## Cranium Rat Cowl\n  - L372 # Appendix B: Spells\n  - L374 ## Blood Curse\n  - L388 ## Detect Heartbeat\n  - L401 ## Exsanguinate\n  - L413 # Appendix C: Bloodhound Reference\n  - L417 ## Regional Effects\n  - L423 ## Lair Actions\n  - L439 ## Emaciated Bloodhound\n  - L467 ### Actions\n  - L477 ### Legendary Actions\n  - L484 ### Mythic Actions\n  - L489 ## Bloodhound and Sanguine Bloodhound\n  - L500 ## Wild Pack Reference\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nFormat The Twilight Hunter.md \n\n"
         }
       ],
-      "createdAt": 1787166462344,
-      "updatedAt": 1787166462344
+      "createdAt": 1787261316741,
+      "updatedAt": 1787261316741
+    },
+    "e0f2372b": {
+      "hash": "e0f2372b",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\" startLine=\"233\" endLine=\"233\">\n```content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\n233|The clergy reacts with horror after discovering that the Pontiff deceived them. Cresthill’s residents are appalled that the church’s leaders enabled the disappearances, even if the townsfolk were also victims of the deception.\n```\n</user_selected_content>\n\n\nFlames of the Faithful.md (33 Words) This contains a reference to Cresthill\n\n"
+        }
+      ],
+      "createdAt": 1787261316742,
+      "updatedAt": 1787261316742
     }
   }
 }

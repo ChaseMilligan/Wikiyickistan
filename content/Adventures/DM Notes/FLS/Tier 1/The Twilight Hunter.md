@@ -29,7 +29,7 @@ This hunt can serve as the first of five adventures collectively known as **Mote
 
 A mysterious benefactor found the aging hunter and offered to help him. Through experimentation and infusion with an energy called a **mote of the divine**, the hunter transformed into the creature he is today. Disgusted by the result, the stranger called him a “failed experiment” and vanished.
 
-The Bloodhound now seeks to finish the experiments and repair his body. His journal can suggest that [[Dr. Stein]]—or someone using Stein’s research—was involved in the original biomantic work. This provides a possible connection to future adventures without making Stein responsible for every detail of the Bloodhound’s transformation.
+The Bloodhound now seeks to finish the experiments and repair his body. His journal can suggest that [[Dr. Stein]], or someone using Stein’s research, was involved in the original biomantic work. This provides a possible connection to future adventures without making Stein responsible for every detail of the Bloodhound’s transformation.
 
 ## Adventure Summary
 

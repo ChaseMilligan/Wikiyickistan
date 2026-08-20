@@ -6,7 +6,7 @@ During it's hay day the town had a bustling economy relative to the time. Many a
 
 # POIs
 
-### Hotbox Inn & Tavern
+### [[Hotbox Inn & Tavern]]
 
 Owner: [[Barnabas Huggins]]
 
@@ -30,11 +30,11 @@ Interactions
 - Slips rumors or local news into casual conversation, often for the price of a pint.
 - Knows how to balance being everyone’s friend with being the quiet watcher of the room.
 
-### Burial Barrow
+### [[Burial Barrow]]
 
 This is an ancient burial place that the pioneers of the village have appropriated as their own.
 
-### Celestial Chapel
+### [[Celestial Chapel]]
 
 This is a special church built by the clergy specifically for training new missionaries, and "converting" natives. Not where the common folk go to pray.
 
@@ -42,7 +42,7 @@ This is a special church built by the clergy specifically for training new missi
 
 The origins of the grim forest are not known. The only knowledge of this place is held by indigenous elders that haven't lost their oral history traditions. Evil plants, and some undead roam this forest. The edge of the woods is guarded by an ancient awakened radiant tree.
 
-### Village Greengrocer
+### [[Doobius House Greengrocer]]
 
 Owner: [[Matilda "Tilly" Cabbagewhistle]]
 
@@ -74,7 +74,7 @@ In the center of the town square there is a Fountain of holy water that is bless
  - guard post
  - bookshop
 
-### Hidden "Witch" Hut
+### [[Hidden Grove]] "Witch" Hut
 
 NPC: [[Thalion Mossgrove]]
 
@@ -100,7 +100,7 @@ Interactions
 - Rarely leaves his grove; wary of outsiders due to persecution by the church.
 - Treats cultivation as ceremony—proud of his strains and rituals.
 
-### Stables
+### [[Doobius House Stables]]
 
 Owner: [[Corvin Dappledraft]]
 
@@ -166,15 +166,15 @@ Interactions
 - Treats indigenous children as “projects” to be fixed, not people.
 - Maintains the illusion of innocence to outsiders, portraying the school as wholesome.
 
-### Toll Bridge Castle
+### [[Toll Bridge Castle]]
 
 The toll bridge is overseen by some HBC guards who demand a toll from all who cross the bridge into the village from the direction of the coast.
 
-### Lakeside Cabin
+### [[Lakeside Cabin]]
 
 This is a lonely structure at the waters edge of a lake. Uninhabited, and holds mundane farm tools and weaponry.
 
-### Apiary
+### [[Doobius House Apiary]]
 
 Owner: [[Ambrose “Buzz” Calloway]]
 
@@ -192,7 +192,7 @@ Interactions
 - Gives advice that’s folksy and slightly nonsensical but comforting.
 - Treats everyone like part of his “hive,” calling people “worker bee” or “queen.”
 
-### Blacksmith
+### [[Doobius House Blacksmith]]
 
 Owner: [[Bromm Stonemug]]
 
@@ -219,7 +219,7 @@ A humble abode (among others) where some common folk live.
 
 This is the headquarters of the [[High Blade Corps]], and the residence of none other than [[Duke Doobius Highblade]].
 
-### Wainwright Shop
+### [[Doobius House Wainwright]]
 
 NPC: [[Edric Timberholt]]
 
