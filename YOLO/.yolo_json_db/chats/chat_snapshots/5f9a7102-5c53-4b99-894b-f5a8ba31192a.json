@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "302fa80f": {
+      "hash": "302fa80f",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\" startLine=\"128\" endLine=\"128\">\n```content/Adventures/DM Notes/FLS/Tier 1/Flames of the Faithful.md\n128|Cacophonics]], a traveling bard known to perform at [[The Loot Tavern]], has been forbidden from performing during the chapel’s ceremonies. The clergy claims that music distracts from enlightenment.\n```\n</user_selected_content>\n\n\nFlames of the Faithful.md (28 Words) This link to Cacophonics seems weak and forced\n\n"
+        }
+      ],
+      "createdAt": 1787325567983,
+      "updatedAt": 1787325567983
+    },
+    "258951c1": {
+      "hash": "258951c1",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L42 # Reaching the Tomb\n  - L68 # 1. The Entrance\n  - L82 # 2. The Landing\n  - L110 # 3. Immortal Guardians\n  - L125 ### Encounter\n  - L135 ### The Jar\n  - L147 ### Breaking the Jar\n  - L165 ### Taking the Jar\n  - L173 # 4. Forsaken Sarcophagi\n  - L185 ### Encounter\n  - L197 # 5. East Libraries\n  - L218 ### Opendis\n  - L246 # 6. West Libraries\n  - L264 ## SYVETHIS\n  - L272 # 7. Ritual Chamber\n  - L294 ### Encounter\n  - L308 ### Soul-Fueled Guardians\n  - L318 ### Destroying a Jar\n  - L335 # The Lost Adventurers\n  - L343 ### Release Them\n  - L359 ### Take the Jars\n  - L367 ### Study Them\n  - L379 # 8. Secret Vault — Opendis's Wealth\n  - L410 # 9. Secret Vault — Arcane Storage\n  - L437 # Ending the Adventure\n  - L475 # Scaling the Adventure\n  - L477 ### 3 Characters\n  - L483 ### 4 Characters\n  - L487 ### 5 Characters\n  - L493 # Adventure Rewards\n  - L509 ## Future Hook: Opendis Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me fit Jars of Souls.md into the Stickyickistan setting, and I would like it to be related to The Tenebrous Stone-r.md in that it should have something to do with the cult of Orcus\n\n"
+        }
+      ],
+      "createdAt": 1787327309729,
+      "updatedAt": 1787327309729
+    },
+    "1c3b7c64": {
+      "hash": "1c3b7c64",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"112\" endLine=\"112\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n112|Opendis's\n```\n</user_selected_content>\n\n\nJars of Souls.md (1 Words) There are still many references to Opendis instead of Dopendis Gravebreath\n\n"
+        }
+      ],
+      "createdAt": 1787328397140,
+      "updatedAt": 1787328397140
+    },
+    "a1e98fdf": {
+      "hash": "a1e98fdf",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `Blacklung Quarry.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCreate some content for Blacklung Quarry.md \n\n"
+        }
+      ],
+      "createdAt": 1787328534295,
+      "updatedAt": 1787328534295
+    },
+    "fe0c82ff": {
+      "hash": "fe0c82ff",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n  - L7 ## Current Situation\n  - L15 ## Locations\n  - L17 ### The Quarry Face\n  - L23 ### The Elevator Shaft\n  - L29 ### The Sealed Workings\n  - L35 ### The Ritual Chamber\n  - L43 ## Rumors and Clues\n  - L51 ## Adventure Connection\n  - L57 ## Aftermath\n- `content/Regions/Greater Stickyickistan/Mount Zooka.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nBlacklung Quarry.md is actually located on Mount Zooka.md \n\n"
+        }
+      ],
+      "createdAt": 1787328680460,
+      "updatedAt": 1787328680460
+    },
+    "749d0ea8": {
+      "hash": "749d0ea8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n  - L7 ## Locations\n  - L9 ### The Quarry Face\n  - L15 ### The Elevator Shaft\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI just want Blacklung Quarry.md to be a short description of the mine, not a run down on the adventures its related to\n\n"
+        }
+      ],
+      "createdAt": 1787328859631,
+      "updatedAt": 1787328859631
+    },
+    "7710da75": {
+      "hash": "7710da75",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"6\" endLine=\"6\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n6|For months, hunters and woodsmen have whispered about a stone doorway that appeared at the foot of a grassy hill beyond the forest. No storm uncovered it. No landslide exposed it. One morning, it simply existed. The doorway lies on an old service road once used to move ore toward [[Blacklung Quarry]].\n```\n</user_selected_content>\n\n\nJars of Souls.md (52 Words) I just updated the description of Blacklung Quarry.md . Please update this to reflect that\n\n"
+        }
+      ],
+      "createdAt": 1787328957494,
+      "updatedAt": 1787328957494
+    },
+    "7c9a61f6": {
+      "hash": "7c9a61f6",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/FLS Guildhall.md`\n  - L10 ## Overview\n  - L21 ## Description\n  - L31 ## What Adventurers Can Do Here\n  - L45 ## Important Areas\n  - L47 ### The Main Board\n  - L51 ### Weekly Papers\n  - L59 ### The Trophy Wall\n  - L63 ### The Records Nook\n  - L69 ## Services\n  - L73 ### Standard Services\n  - L84 ### Tiered Services\n  - L95 ### Notes\n  - L104 ## Faction Presence\n  - L120 ## Legal Status\n  - L130 ## Rules of the Hall\n- `content/Free League of Stickyickistan/The Roach Clip.md`\n  - L7 # What Gets Posted Here\n  - L22 # Roach Clip Adventure Advertisement Template\n  - L76 # Example: Quiet Cargo at Greywake Docks\n  - L87 ### Coded Notice\n  - L91 ### What the Job Actually Is\n  - L95 ### What Players Should Know\n  - L103 ### Rewards\n  - L111 ### Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"26\" endLine=\"39\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n26|# Adventure Hook\n27|\n28|The characters hear about the tomb while staying in [[Doobius House]].\n29|\n30|Several families are desperate to learn what happened to the missing explorers. A local scholar from the [[Seekers of the Vein]] is equally interested in the strange structure: the tomb’s stonework contains traces of refined [[Arcanite]], suggesting that someone transported valuable material deep into the forest. The scholar offers the characters **100 gp** if they can determine the structure’s purpose and return with evidence.\n31|\n32|The sole survivor, **Bongston Vale**, can also be questioned.\n33|\n34|Bongston remembers little clearly, but repeatedly warns:\n35|\n36|> \"Don't touch the jars. Gods above, don't touch the jars.\"\n37|\n38|He remembers seeing his companions die—and then hearing their voices begging him for help from somewhere deeper inside the tomb.\n39|\n```\n</user_selected_content>\n\n\nJars of Souls.md (124 Words) Rework the hook so the characters start at the FLS Guildhall.md . I want to have an extra The Roach Clip.md hook for characters that may have been a part of The Tenebrous Stone-r.md\n\n"
+        }
+      ],
+      "createdAt": 1787330222219,
+      "updatedAt": 1787330222219
+    },
+    "cc5c0033": {
+      "hash": "cc5c0033",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"38\" endLine=\"46\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n38|## The Roach Clip Hook: Unfinished Business\n39|\n40|Characters who took part in [[The Tenebrous Stone-r]] may find a second notice in [[The Roach Clip]], tucked behind the public posting or passed to them by a quiet Guildhall contact. The coded notice reads:\n41|\n42|> **The mountain’s dead are still being moved. Find the missing shipment before it reaches the forest. Ask about the jars. Tell no one in a uniform.**\n43|\n44|The Roach Clip contact believes the tomb is connected to the same Orcus cult and soul-powered experiments encountered beneath [[Blacklung Quarry]]. The party is asked to determine whether the cult is still operating, recover evidence, and prevent the shipment from reaching another site.\n45|\n46|This hook is ideal for returning characters from [[The Tenebrous Stone-r]]. They may recognize the cult’s methods, the smell of corrupted [[Arcannabis]], or the traces of Arcanite used in the tomb’s construction. The public 100 gp reward remains available, but the Roach Clip contact offers an additional **100 gp** for keeping the connection to [[Blacklung Quarry]] quiet or recovering a usable cult insignia, soul-storage component, or other evidence.\n```\n</user_selected_content>\n\n\nJars of Souls.md (182 Words) This should encourage them to do the opposite of what Bongston Vale says about not touching the jars, but offer much more gp as a reward for their collection\n\n"
+        }
+      ],
+      "createdAt": 1787330369962,
+      "updatedAt": 1787330369962
+    },
+    "5824a8a8": {
+      "hash": "5824a8a8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/NPCs/Quest Givers/Skarguther Dungleboof.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"38\" endLine=\"52\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n38|## The Roach Clip Hook: Unfinished Business\n39|\n40|Characters who took part in [[The Tenebrous Stone-r]] may find a second notice in [[The Roach Clip]], tucked behind the public posting or passed to them by a quiet Guildhall contact. The coded notice reads:\n41|\n42|> **The mountain’s dead are still being moved. Find the missing shipment before it reaches the forest. Ask about the jars. Tell no one in a uniform.**\n43|\n44|The Roach Clip contact believes the tomb is connected to the same Orcus cult and soul-powered experiments encountered beneath [[Blacklung Quarry]]. The party is asked to recover the intact Jars of Souls and deliver them to a discreet buyer before the cult can reclaim them. The buyer wants the jars **untouched**—do not break them, release the spirits, or damage the vessels.\n45|\n46|Bongston Vale’s warning is therefore exactly what the buyer wants the characters to ignore:\n47|\n48|> **“Touch the jars. Bring me every one you can carry.”**\n49|\n50|The buyer offers **500 gp for each intact Jar of Souls recovered**, up to **2,000 gp** for the four active jars in the ritual chamber. They also pay a **500 gp bonus** if the characters return with an additional intact jar from the earlier chambers, making this a far more lucrative proposition than simply destroying the vessels. The public 100 gp reward remains available, but accepting the Roach Clip contract means the characters are expected to collect the jars rather than smash them.\n51|\n52|This hook is ideal for returning characters from [[The Tenebrous Stone-r]]. They may recognize the cult’s methods, the smell of corrupted [[Arcannabis]], or the traces of Arcanite used in the tomb’s construction. The buyer’s identity is deliberately concealed; they may be a rival cultist, a forbidden-magic collector, or someone who wants the souls for purposes even worse than the Orcus ritual.\n```\n</user_selected_content>\n\n\nJars of Souls.md (301 Words) The contact and buyer should be Skarguther Dungleboof.md \n\n"
+        }
+      ],
+      "createdAt": 1787330686484,
+      "updatedAt": 1787330686484
+    },
+    "29d7559f": {
+      "hash": "29d7559f",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"156\" endLine=\"156\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n156|The jar is worth approximately **300 gp** to the right buyer, although selling such an object should have obvious moral consequences.\n```\n</user_selected_content>\n\n\nJars of Souls.md (21 Words) Can we expand on this a little based on the earlier roach clip part with Skarguther\n\n"
+        }
+      ],
+      "createdAt": 1787336279739,
+      "updatedAt": 1787336279739
+    },
+    "a265ff62": {
+      "hash": "a265ff62",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"156\" endLine=\"156\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n156|The jar is worth approximately **300 gp** to an ordinary collector of forbidden magic, although selling such an object should have obvious moral consequences. [[Skarguther Dungleboof]], however, has offered **500 gp for each intact jar** recovered for his collection, with a maximum payment of **2,000 gp** for the four active jars in the ritual chamber and an additional **500 gp bonus** if the characters also bring him an intact jar from one of these earlier chambers. Skarguther insists that the vessel remain sealed and undamaged; he wants the trapped souls preserved as part of the relic, not released or destroyed. Characters who sell a jar to him may earn a substantial reward, but they are knowingly placing a container of tortured souls in the hands of a collector of cursed and unholy relics.\n```\n</user_selected_content>\n\n\nJars of Souls.md (133 Words) Make this match the roach clip tip in this document, and make the moral dilema clear. Smashing the jars frees the souls\n\n"
+        }
+      ],
+      "createdAt": 1787336611777,
+      "updatedAt": 1787336611777
+    },
+    "ca7de2fc": {
+      "hash": "ca7de2fc",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"156\" endLine=\"158\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n156|The jar is worth approximately **300 gp** to an ordinary collector of forbidden magic. [[Skarguther Dungleboof]] offers a much greater reward through [[The Roach Clip]: **500 gp for each intact jar** delivered to him through [[The Roach Clip]], up to **2,000 gp** for the four active jars in the ritual chamber, plus an additional **500 gp bonus** if the characters also recover an intact jar from one of these earlier chambers. He insists that every vessel remain sealed and undamaged so that the tortured souls remain preserved inside the relic.\n157|\n158|This creates a clear moral choice. The characters can carry the jars to Skarguther and claim a substantial payment, knowingly consigning the trapped souls to a collector of cursed and unholy relics. Or they can smash the jars, which releases the souls and allows them to pass into the afterlife—but destroys the vessels and forfeits Skarguther’s reward. Characters who choose both may release some souls while keeping other jars intact, but Skarguther pays only for undamaged vessels.\n```\n</user_selected_content>\n\n\nJars of Souls.md (168 Words) Please refer to the section earlier in this document to make sure this info is correct. Currently the payout is wrong\n\n"
+        }
+      ],
+      "createdAt": 1787336669760,
+      "updatedAt": 1787336669760
+    },
+    "288163d0": {
+      "hash": "288163d0",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"38\" endLine=\"56\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n38|## The Roach Clip Hook: Unfinished Business\n39|\n40|Characters who took part in [[The Tenebrous Stone-r]], or a connection to the dusters, may find a second notice in [[The Roach Clip]], tucked behind the public posting or passed to them by a quiet Guildhall contact. The coded notice reads:\n41|\n42|> **The mountain’s dead are still being moved. Find the missing shipment before it reaches the forest. Ask about the jars. Tell no one in a uniform.**\n43|\n44|[[Skarguther Dungleboof]], the CFO of the Stickyickistanian [[Dungsweepers]], a member of the [[Heralds of Dust]], and a collector of cursed and unholy relics, is the Roach Clip contact and buyer. He is a powerful and well-connected Duster with a particular interest in the undead and the treatment of trapped souls. Skarguther heard about the Orcus cult and soul-powered experiments beneath [[Blacklung Quarry]], and believes the mysterious tomb of \"jars\" is connected to them. He wants the party to recover the intact Jars of Souls and deliver them to him before the cult can reclaim them—not to use the souls as fuel, but to remove them from the cult’s reach and study how they might be guided toward [[Heralds of Dust|True Death]].\n45|\n46|Skarguther is not necessarily a bad man. The Dusters believe death is a passage toward True Death, and he considers leaving tortured souls sealed inside necromantic vessels an ongoing atrocity. However, his methods are often outside the law: he acquires cursed relics through the black market, conceals dangerous evidence from authorities, and keeps undead or spiritually contaminated objects in unofficial collections. He wants the jars **fully intact** because smashing them may release the souls violently or destroy the evidence needed to understand their condition.\n47|\n48|Bongston Vale’s warning is therefore exactly what the buyer wants the characters to ignore:\n49|\n50|> **“Touch the jars. Bring me every one you can carry.”**\n51|\n52|The buyer offers **300 gp for each intact Jar of Souls recovered**, up to **1,200** gp for the four active jars in the ritual chamber. To collect the reward, the characters must bring the intact jars to the **Dungsweepers’ mortuary offices in [[The Undercity Osslurraggath]]** and ask for **Skarguther Dungleboof**. They should present the jars, the coded notice, or the agreed phrase—**“The dead are still moving”**—to the clerk at the back entrance. Skarguther or one of his trusted Duster attendants verifies that each vessel is intact before paying the characters in coin.\n53|\n54|The handoff is deliberately unofficial. The [[Free League of Stickyickistan]] does not guarantee the contract, and the characters receive no payment for broken jars or released souls. Skarguther may ask what the characters learned about the jars, but he does not require them to surrender unrelated evidence or work for the Heralds of Dust. The public 100 gp reward remains available, but accepting the Roach Clip contract means the characters are expected to collect the jars rather than smash them.\n55|\n56|This hook is ideal for returning characters from [[The Tenebrous Stone-r]]. They may recognize the cult’s methods, the smell of corrupted [[Arcannabis]], or the traces of Arcanite used in the tomb’s construction. The buyer’s identity is deliberately concealed from the public, but the characters learn that the contact is Skarguther when they claim the job or arrange the handoff.\n```\n</user_selected_content>\n\n\nJars of Souls.md (541 Words) This section is really long now, an we shorten it\n\n"
+        }
+      ],
+      "createdAt": 1787338625585,
+      "updatedAt": 1787338625585
+    },
+    "d15c40d7": {
+      "hash": "d15c40d7",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"42\" endLine=\"42\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n42|> **The mountain’s dead are still being moved. Find the missing shipment before it reaches the forest. Ask about the jars. Tell no one in a uniform.**\n```\n</user_selected_content>\n\n\nJars of Souls.md (26 Words) This coded message is so confusing I dont even et it\n\n"
+        }
+      ],
+      "createdAt": 1787339109249,
+      "updatedAt": 1787339109249
+    },
+    "e3019762": {
+      "hash": "e3019762",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"28\" endLine=\"36\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n28|The characters begin at the [[FLS Guildhall]] on [[Nevercough Island]], looking for work through the [[Free League of Stickyickistan]]. A public notice on [[The Rolling Papers]] offers **150 gp** to investigate a newly revealed tomb in the wooded interior of [[The Outback]] and return with evidence of its purpose.\n29|\n30|The notice was posted by a scholar working with [[The Seekers of the Vein]]. The scholar believes the tomb’s stonework contains traces of refined [[Arcanite]], suggesting that someone transported valuable material deep into the forest. Several families from [[Doobius House]] have also contacted the Guildhall, desperate to learn what happened to the missing explorers, hunters, and woodsmen from the village.\n31|\n32|A sole survivor, **Bongston Vale**, is recovering in the guildhall’s [[FLS Guildhall#Recovery support|recovery quarters]] and can be questioned before the party leaves. Bongston remembers little clearly, but repeatedly warns:\n33|\n34|> \"Don't touch the jars. Gods above, don't touch the jars.\"\n35|\n36|He remembers seeing his companions die, and then hearing their voices begging him for help from somewhere deeper inside the tomb.\n```\n</user_selected_content>\n\n\nJars of Souls.md (171 Words) I think they should be urged to free the tortured souls\n\n"
+        }
+      ],
+      "createdAt": 1787339362973,
+      "updatedAt": 1787339362973
+    },
+    "779f0f10": {
+      "hash": "779f0f10",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"30\" endLine=\"30\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n30|the missing explorers\n```\n</user_selected_content>\n\n\nJars of Souls.md (3 Words) the missing explorers kind of come out of nowhere in this section. It is not mentioned in the hook beforehand anywhere\n\n"
+        }
+      ],
+      "createdAt": 1787339510943,
+      "updatedAt": 1787339510943
+    },
+    "4ea17a7d": {
+      "hash": "4ea17a7d",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"30\" endLine=\"30\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n30|the jars\n```\n</user_selected_content>\n\n\nJars of Souls.md (2 Words) the jars are also referenced here, but not mentioned beforehand which makes this a little confusing. How do the villagers know about the jars?\n\n"
+        }
+      ],
+      "createdAt": 1787339763609,
+      "updatedAt": 1787339763609
+    },
+    "43a9a692": {
+      "hash": "43a9a692",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Jar\n  - L158 ### Breaking the Jar\n  - L176 ### Taking the Jar\n  - L184 # 4. Forsaken Sarcophagi\n  - L196 ### Encounter\n  - L208 # 5. East Libraries\n  - L229 ### Opendis\n  - L257 # 6. West Libraries\n  - L275 ## SYVETHIS\n  - L283 # 7. Ritual Chamber\n  - L303 ### Encounter\n  - L317 ### Soul-Fueled Guardians\n  - L327 ### Destroying a Jar\n  - L344 # The Lost Adventurers\n  - L352 ### Release Them\n  - L368 ### Take the Jars\n  - L376 ### Study Them\n  - L388 # 8. Secret Vault — Opendis's Wealth\n  - L419 # 9. Secret Vault — Arcane Storage\n  - L446 # Ending the Adventure\n  - L484 # Scaling the Adventure\n  - L486 ### 3 Characters\n  - L492 ### 4 Characters\n  - L496 ### 5 Characters\n  - L502 # Adventure Rewards\n  - L518 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"144\" endLine=\"180\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n144|### The Jar\n145|\n146|A black ceramic vessel rests upon a stone pedestal.\n147|\n148|Ghostly faces occasionally push outward from its surface before disappearing.\n149|\n150|Each jar contains several tortured souls.\n151|\n152|Touching it causes the creature to hear dozens of overlapping whispers.\n153|\n154|[[Skarguther Dungleboof]] offers **300 gp for each intact jar** delivered to him, up to **1,200 gp** for the four active jars in the ritual chamber. He insists that every vessel remain fully intact and undamaged so that the tortured souls remain preserved inside the relic.\n155|\n156|This creates a clear moral choice. The characters can carry the jars to Skarguther and claim the payment, knowingly consigning the trapped souls to a collector of cursed and unholy relics. Or they can smash the jars, which releases the souls and allows them to pass into the afterlife, but destroys the vessels and forfeits Skarguther’s reward. Characters who choose both may release some souls while keeping other jars intact, but Skarguther pays only for undamaged vessels.\n157|\n158|### Breaking the Jar\n159|\n160|AC 12  \n161|HP 10  \n162|Immune: Poison, Psychic\n163|\n164|Destroying the jar releases the souls trapped inside.\n165|\n166|A wave of spectral energy fills the chamber.\n167|\n168|Every creature within 10 feet must make a **DC 12 Wisdom saving throw**.\n169|\n170|On a failure, the creature is **Frightened until the end of its next turn**.\n171|\n172|The spirits then disappear.\n173|\n174|A character proficient in Arcana or Religion realizes the souls have finally been allowed to pass into the afterlife.\n175|\n176|### Taking the Jar\n177|\n178|The characters may instead carry the intact vessel.\n179|\n180|Doing so could attract the attention of necromancers, undead creatures, religious authorities—or Opendis himself.\n```\n</user_selected_content>\n\n\nJars of Souls.md (262 Words) can you update this section based on prior info about the jars in Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787340378223,
+      "updatedAt": 1787340378223
+    },
+    "31a21cd0": {
+      "hash": "31a21cd0",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"160\" endLine=\"160\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n160|Destroying the jar releases the souls trapped inside. A wave of spectral energy fills the chamber, and every creature within 10 feet must make a **DC 12 Wisdom saving throw**. On a failure, the creature is **Frightened until the end of its next turn**.\n```\n</user_selected_content>\n\n\nJars of Souls.md (44 Words) I think the consequences for standing too close to a jar before breaking it should be worse than one turn of being frightened. It is likely this happens out of comabt, so a single turn consequence might as well not exist\n\n"
+        }
+      ],
+      "createdAt": 1787341467125,
+      "updatedAt": 1787341467125
+    },
+    "ed13c404": {
+      "hash": "ed13c404",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"180\" endLine=\"180\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n180|Opendis's experiments.\n```\n</user_selected_content>\n\n\nJars of Souls.md (2 Words) Please make sure there are no references to Opendis. replace with Dopendis Gravebreath\n\n"
+        }
+      ],
+      "createdAt": 1787343871576,
+      "updatedAt": 1787343871576
+    },
+    "08173827": {
+      "hash": "08173827",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Jar\n  - L154 ### Breaking the Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Opendis\n  - L245 # 6. West Libraries\n  - L263 ## SYVETHIS\n  - L271 # 7. Ritual Chamber\n  - L291 ### Encounter\n  - L305 ### Soul-Fueled Guardians\n  - L315 ### Destroying a Jar\n  - L332 # The Lost Adventurers\n  - L340 ### Release Them\n  - L356 ### Take the Jars\n  - L364 ### Study Them\n  - L376 # 8. Secret Vault — Opendis's Wealth\n  - L407 # 9. Secret Vault — Arcane Storage\n  - L434 # Ending the Adventure\n  - L472 # Scaling the Adventure\n  - L474 ### 3 Characters\n  - L480 ### 4 Characters\n  - L484 ### 5 Characters\n  - L490 # Adventure Rewards\n  - L506 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI can still see a few Opendis references. Please find all of them in the Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787343947634,
+      "updatedAt": 1787343947634
+    },
+    "05996d8c": {
+      "hash": "05996d8c",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"249\" endLine=\"267\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n249|The northern chamber remains intact but locked.\n250|\n251|The door requires a **DC 13 Dexterity (Sleight of Hand using Thieves' Tools)** check or can simply be destroyed.\n252|\n253|Inside are records describing the tomb's magical protections.\n254|\n255|Characters learn that Dopendis Gravebreath concealed the entire structure using an enormous illusion and transmutation ritual.\n256|\n257|The enchantment was designed to last for decades.\n258|\n259|The tomb's recent appearance means the spell has finally failed.\n260|\n261|More importantly, they discover the command used to enter Dopendis Gravebreath's ritual chamber:\n262|\n263|## SYVETHIS\n264|\n265|Speaking the word near the doors in Area 2 causes ancient mechanisms to grind beneath the floor.\n266|\n267|The central doors slowly open.\n```\n</user_selected_content>\n\n\nJars of Souls.md (104 Words) Can you add a read aloud for this section describing what they find in the northern chamber\n\n"
+        }
+      ],
+      "createdAt": 1787344306944,
+      "updatedAt": 1787344306944
+    },
+    "0c4d56fb": {
+      "hash": "0c4d56fb",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Jar\n  - L154 ### Breaking the Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L296 ### Encounter\n  - L310 ### Soul-Fueled Guardians\n  - L320 ### Destroying a Jar\n  - L337 # The Lost Adventurers\n  - L345 ### Release Them\n  - L361 ### Take the Jars\n  - L369 ### Study Them\n  - L381 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L412 # 9. Secret Vault — Arcane Storage\n  - L439 # Ending the Adventure\n  - L477 # Scaling the Adventure\n  - L479 ### 3 Characters\n  - L485 ### 4 Characters\n  - L489 ### 5 Characters\n  - L495 # Adventure Rewards\n  - L511 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nOk so I was a bit confused. There are 2 Jars of Souls in both areas labeled 3. One jar in each. Then there are four ACTIVE soul jars in area 7. Please correct Jars of Souls.md and make sure the difference between the inert jars and active jars is made clear\n\n"
+        }
+      ],
+      "createdAt": 1787344933659,
+      "updatedAt": 1787344933659
+    },
+    "e0bafcfc": {
+      "hash": "e0bafcfc",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"44\" endLine=\"44\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n44|> **Job: Recover the black soul-jars from the tomb beyond [[Doobius House]]. Bring back every jar you find, fully intact. Do not open, smash, or hand them to the authorities. Payment: 300 gp per active jar, 100 gp per inert jar. Collect at the Dungsweepers’ mortuary in [[The Undercity Osslurraggath]] using the phrase \"The dead are still moving.\"**\n```\n</user_selected_content>\n\n\nJars of Souls.md (58 Words) Dont explicitly say the price of active vs inert\n\n"
+        }
+      ],
+      "createdAt": 1787345296533,
+      "updatedAt": 1787345296533
+    },
+    "3f6df668": {
+      "hash": "3f6df668",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"154\" endLine=\"162\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n154|### Breaking the Jar\n155|\n156|AC 12  \n157|HP 10  \n158|Immune: Poison, Psychic\n159|\n160|Destroying the jar releases the souls trapped inside. A violent wave of spectral energy fills the chamber. Every creature within 10 feet must make a **DC 12 Wisdom saving throw**, taking **2d6 Psychic damage** on a failed save, or half as much damage on a successful one. A creature that fails the save is also **Frightened for 1 minute**. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n161|\n162|Outside combat, the effect lasts long enough to matter: a frightened character may flee the chamber, drop what they are carrying, or be unable to approach another jar until they recover. The spirits then disappear. A character proficient in Arcana or Religion realizes that the souls have finally been allowed to pass into the afterlife.\n```\n</user_selected_content>\n\n\nJars of Souls.md (147 Words) Breaking the inert jars shouldn't have this effect. It should only be the active jars that do this. Please put this description in the appropriate spot, and update this one\n\n"
+        }
+      ],
+      "createdAt": 1787346108987,
+      "updatedAt": 1787346108987
+    },
+    "1be988f7": {
+      "hash": "1be988f7",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Free League of Stickyickistan/Free League of Stickyickistan.md`\n  - L1 # Free League of Stickyickistan\n  - L22 # Player Accountability\n  - L38 # Sources\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nInclude XP in the adventure rewards section and make the rewards section match what I want for Free League of Stickyickistan.md adventure rewards\n\n"
+        }
+      ],
+      "createdAt": 1787349970129,
+      "updatedAt": 1787349970129
+    },
+    "501d0362": {
+      "hash": "501d0362",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"524\" endLine=\"524\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n524|**Dopendis Gravebreath knows their names—and the cult beneath [[Blacklung Quarry]] knows they have found the jars.**\n```\n</user_selected_content>\n\n\nJars of Souls.md (17 Words) This doesn't make sense since they have already dealt with the part of the cult that was in the quarry\n\n"
+        }
+      ],
+      "createdAt": 1787350336003,
+      "updatedAt": 1787350336003
+    },
+    "e9c21d80": {
+      "hash": "e9c21d80",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L154 ### Breaking an Inert Jar\n  - L162 ### Taking the Jar\n  - L170 # 4. Forsaken Sarcophagi\n  - L182 ### Encounter\n  - L194 # 5. East Libraries\n  - L215 ### Dopendis Gravebreath\n  - L243 # 6. West Libraries\n  - L266 ## SYVETHIS\n  - L274 # 7. Ritual Chamber\n  - L302 ### Encounter\n  - L316 ### Soul-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L365 ### Take the Jars\n  - L373 ### Study Them\n  - L385 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L411 # 9. Secret Vault — Arcane Storage\n  - L435 # Ending the Adventure\n  - L469 # Scaling the Adventure\n  - L471 ### 3 Characters\n  - L477 ### 4 Characters\n  - L481 ### 5 Characters\n  - L487 # Adventure Rewards\n  - L510 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI think the funniest option here is to go with something like the jars are actually full of an Arcannabis strain called Soul Diesel, and the trapped souls are being used in place of magic essence. Soul diesel is the product of trapped souls mixed with humanoid blood. The effect of the strain allows a user to do 1d4 bonus damage of the same type as the attack to humanoids for an hour. The specters and alchemist skeleton in area 7 should be under the effects of the strain since the active jars are empowering them. Please update Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787352030953,
+      "updatedAt": 1787352030953
+    }
+  }
+}

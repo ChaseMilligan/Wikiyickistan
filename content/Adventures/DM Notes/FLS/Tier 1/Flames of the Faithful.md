@@ -43,7 +43,6 @@ A strange visitor once met with the local Flamekeeper to discuss divine grace an
 - **[[Nevercough Island]]:** The chapel sits among the island’s ruling institutions, wealthy districts, and political interests. A scandal involving missing pilgrims will attract attention from officials, clergy, journalists, and opportunists.
 - **[[The Rolling Papers]]:** The public investigation may begin with a missing-person notice, a report about the strange feast, or a formal request from the chapel. The paper’s coverage can determine whether the congregation is treated as victims or suspects.
 - **[[FLS Guildhall]]:** The Free League can register the party, provide basic research, and record the consequences of the chapel’s collapse. The Guildhall is not responsible for protecting the clergy’s reputation.
-- **[[The Loot Tavern]]:** [[Cacophonics]]’s connection to the chapel gives the party an existing musician who can identify the organ’s importance and help expose the Pontiff’s fear of thunderous sound.
 - **[[Dr. Stein]]:** If the adventure follows the Motes of the Divine thread, the Pontiff’s divine infusion can be treated as another dangerous experiment related to the biomantic and Magitech research surrounding Stein, without making him the sole creator.
 
 ## Adventure Hooks
@@ -58,7 +57,7 @@ Notices of missing pilgrims crowd a board near the [[FLS Guildhall]]. A distraug
 
 ### Compensation: Fuel for the Fire
 
-A battered Flamekeeper arrives at the [[FLS Guildhall]] after a supply wagon carrying replacement candles for the island chapel was attacked on the road. The Flamekeeper escaped with one crate, but the driver and the rest of the shipment are missing. With the chapel’s stores running low before the upcoming feast, they offer the relief funds they have left for protection while the characters deliver the surviving candles and investigate what happened to the rest of the convoy.
+A battered Flamekeeper arrives at the [[FLS Guildhall]] after a supply wagon carrying replacement candles for the island chapel was attacked on the seas. The Flamekeeper escaped with one crate, but the driver and the rest of the shipment are missing. With the chapel’s stores running low before the upcoming feast, they offer the relief funds they have left for protection while the characters deliver the surviving candles and investigate what happened to the rest of the convoy.
 
 ## Local Flamekeeper
 
@@ -126,7 +125,7 @@ A character proficient in Medicine or who succeeds on a Medicine check recognize
 
 ## Clue 3: Music
 
-[[Cacophonics]], a traveling bard known to perform at [[The Loot Tavern]], has been forbidden from performing during the chapel’s ceremonies. The clergy claims that music distracts from enlightenment.
+[[Cacophonics]], a regular performer at [[The Loot Tavern]], was hired to provide music for the chapel’s ceremonies, but the clergy abruptly banned him after a rehearsal left the candles guttering and the Pontiff visibly shaken. They claim that his music distracts from enlightenment.
 
 The Pontiff is actually frightened by loud noise and weakened by thunder. Playing the chapel organ can also disrupt the protective bubble during Wave 1.
 
