@@ -9089,7 +9089,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "e77f7aa5"
+        "hash": "775898d6"
       },
       "id": "88d61409-8d06-42ce-a39c-f0af34442572",
       "mentionables": [
@@ -9532,23 +9532,8 @@
         }
       },
       "promptContent": null,
-      "snapshotRef": {
-        "hash": "7e37e786"
-      },
       "id": "a98590d0-407c-433b-b902-fe826fcb1b49",
-      "mentionables": [
-        {
-          "type": "block",
-          "content": "Untitled",
-          "file": "content/POIs/Untitled.md",
-          "startLine": 1,
-          "endLine": 1,
-          "source": "selection-sync",
-          "contentHash": "2e35a678",
-          "contentCount": 1,
-          "contentUnit": "words"
-        }
-      ],
+      "mentionables": [],
       "selectedSkills": [],
       "selectedModelIds": [],
       "reasoningLevel": "off",
@@ -10086,7 +10071,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "ddc229dd"
+        "hash": "e0efc3bb"
       },
       "id": "e4f8dfbe-bcd8-4b25-847f-037fedc214dc",
       "mentionables": [
@@ -10775,7 +10760,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "2cdb7b57"
+        "hash": "f37e94d9"
       },
       "id": "00f9dded-a1af-4843-b36f-18792090ab1b",
       "mentionables": [
@@ -11038,7 +11023,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "7c00475a"
+        "hash": "807838d8"
       },
       "id": "aa5de8ff-ede6-4737-a0f0-4cc04c3cf614",
       "mentionables": [
@@ -11409,7 +11394,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "2e44f3ff"
+        "hash": "ca74bb41"
       },
       "id": "6cb717c6-5466-488d-88ad-a9929812f981",
       "mentionables": [
@@ -11690,7 +11675,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "889a7210"
+        "hash": "44843aa4"
       },
       "id": "beb331f0-9305-43a0-8274-d673c998d0cb",
       "mentionables": [
@@ -12995,7 +12980,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "49cdf39e"
+        "hash": "e64c9fde"
       },
       "id": "d8f4f977-8a69-4d6d-ae2f-18bb98404727",
       "mentionables": [
@@ -13354,7 +13339,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "6ac2eecf"
+        "hash": "c07955e6"
       },
       "id": "47d1a2d4-5d3b-4622-8cdd-ff115d0482ba",
       "mentionables": [
@@ -13761,7 +13746,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "2462c46c"
+        "hash": "3e4265d2"
       },
       "id": "277b4f3f-b3a0-44f1-a2b4-b1e3d98849a7",
       "mentionables": [
@@ -14321,7 +14306,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "b2fc073f"
+        "hash": "4c0856fd"
       },
       "id": "46bd2816-8b21-47d2-aa71-5081b73798db",
       "mentionables": [
@@ -14780,7 +14765,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "90e27de6"
+        "hash": "5b4ffb2d"
       },
       "id": "3603e01a-abc1-487d-9c1b-1c110414c7d5",
       "mentionables": [
@@ -15674,7 +15659,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "9255d33c"
+        "hash": "40110060"
       },
       "id": "517186af-e105-4e2a-b426-0e8b2436c779",
       "mentionables": [
@@ -16435,7 +16420,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "f529dcf3"
+        "hash": "1b72fc56"
       },
       "id": "b3044821-dd38-4461-81b2-67b0aa7b6319",
       "mentionables": [
@@ -17147,10 +17132,102 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Under Write Up, can you make a short write up based on my jot notes. I have just completed the Curse of Strahd Campaign as a Warlock of the Undying. My patron is Jergal, a servant of Kelemvor.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "ef50e611-e8f1-4741-b216-492eac228bb6",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-17 23:50 (Monday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "faed4b27-139f-460a-9a74-37520f22e1d3",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "durationMs": 23650,
+        "generationState": "error",
+        "errorMessage": "An error occurred while processing your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists. Please include the request ID 2a04e0df-044d-4b51-b462-ac750b99f3c4 in your message.",
+        "branchConversationId": "9715acd4-6904-4f93-8142-57994ddefa85",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1785466135590,
-  "updatedAt": 1785915513907,
+  "updatedAt": 1787032237391,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",

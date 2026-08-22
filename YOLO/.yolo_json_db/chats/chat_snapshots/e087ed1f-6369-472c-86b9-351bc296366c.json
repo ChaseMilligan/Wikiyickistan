@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "e34f3a01": {
+      "hash": "e34f3a01",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/Post Strahd.md`\n  - L10 # Write Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nUnder Write Up in Post Strahd.md , can you make a short write up based on my jot notes. I have just completed the Curse of Strahd Campaign as a Warlock of the Undying. My patron is Jergal, a servant of Kelemvor.\n\n"
+        }
+      ],
+      "createdAt": 1787032372967,
+      "updatedAt": 1787032372967
+    }
+  }
+}
