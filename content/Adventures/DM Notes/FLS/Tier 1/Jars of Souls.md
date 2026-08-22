@@ -15,11 +15,11 @@ But one detail disturbed the people of [[Doobius House]] more than any other.
 
 He swore that after his companions died, **he could still hear them screaming from inside the tomb.**
 
-The tomb is the hidden laboratory of **[[Dopendis Gravebreath]]**, a necromancer and arcanist of [[Orcus]] who discovered a means of capturing mortal souls and storing them within enchanted vessels. Dopendis Gravebreath was supplied by a hidden Orcus cult operating among Stickyickistan’s mining interests; the cult sought to turn the island’s abundant [[Arcanite]] into a power source for a mass raise dead ritual.
+The tomb is the hidden laboratory of **[[Dopendis Gravebreath]]**, a necromancer and arcanist of [[Orcus]] who discovered a means of capturing mortal souls and storing them within enchanted vessels. His work was part of the same hidden Orcus cult operation exposed in [[The Tenebrous Stone-r]], though his laboratory lay far from the mines, buried in [[The Outback]] beyond [[Doobius House]]. There, Dopendis refined captive souls into **[[Soul Diesel]]**, a necromantic fuel intended to power a mass raise dead ritual.
 
-Dopendis Gravebreath has disappeared.
+When the adventurers defeated [[Sarbrindar]] and destroyed the undead in the quarry, the cult’s wider network was thrown into panic. Dopendis Gravebreath abandoned his forest laboratory soon after, either fleeing before the trail could lead to him or answering some darker summons from his Orcus cult masters.
 
-His experiments have not.
+His experiments have not gone anywhere, and his illusion obscuring the laboratory has fallen.
 
 ---
 
@@ -27,9 +27,9 @@ His experiments have not.
 
 The characters begin at the [[FLS Guildhall]] on [[Nevercough Island]], looking for work through the [[Free League of Stickyickistan]]. A public notice on [[The Rolling Papers]] offers **150 gp** to investigate a newly revealed tomb in the wooded interior of [[The Outback]] and return with evidence of its purpose.
 
-The notice explains that several explorers, hunters, and woodsmen from [[Doobius House]] entered the tomb after its discovery and never returned. Their sole survivor, **Bongston Vale**, was found half-starved and raving about black ceramic jars filled with screaming souls. He is recovering in the guildhall’s [[FLS Guildhall#Recovery support|recovery quarters]] and can be questioned before the party leaves.
+The notice explains that several explorers, hunters, and woodsmen from [[Doobius House]] entered the tomb after its discovery and never returned. Their sole survivor, **[[Bongston Vale]]**, was found half-starved and raving about black ceramic jars filled with screaming souls. He is recovering in the guildhall’s [[FLS Guildhall#Recovery support|recovery quarters]] and can be questioned before the party leaves.
 
-Their families have contacted the Guildhall, desperate to learn what happened to them. A scholar working with [[The Seekers of the Vein]] has also taken an interest in the tomb because its stonework contains traces of refined [[Arcanite]], suggesting that someone transported valuable material deep into the forest. After hearing Bongston’s account, the families of the missing urge the characters to **free any souls they find**, not sell the jars or leave the dead trapped inside them.
+Their families have contacted the Guildhall, desperate to learn what happened to them. A scholar from [[N.E.R.D]] has also taken an interest in the tomb after comparing Bongston’s account to reports from [[content/POIs/Blacklung Quarry|Blacklung Quarry]], where [[Bartholomew Dorkymin V]] helped document strange necromantic evidence recovered from the quarry. The scholar suspects the jars may be connected to a forbidden substance called **[[Soul Diesel]]**, but needs proof from inside the tomb. After hearing Bongston’s account, the families of the missing urge the characters to **free any trapped souls they find**.
 
 Bongston remembers little clearly, but repeatedly warns:
 
@@ -41,9 +41,9 @@ He remembers seeing his companions die, and then hearing their voices begging hi
 
 Characters who took part in [[The Tenebrous Stone-r]], or who have ties to the Dusters, may find this coded notice in [[The Roach Clip]]:
 
-> **Job: Recover the black soul-jars from the tomb beyond [[Doobius House]]. Bring back every jar you find, fully intact. Do not open, smash, or hand them to the authorities. Payment on delivery, assessed by the buyer. Collect at the Dungsweepers’ mortuary in [[The Undercity Osslurraggath]] using the phrase "The dead are still moving."**
+> **Job: Recover the black soul-jars from the mysterious new tomb beyond [[Doobius House]]. Bring back every jar you can, fully intact. Do not open, smash, or hand them to the authorities. Payment on delivery, will be assessed by the buyer. Collect payment at the Dungsweepers’ mortuary in [[The Undercity Osslurraggath|Osslurraggath]] using the phrase "The dead are still moving."**
 
-The contact is [[Skarguther Dungleboof]], a well-connected member of the [[Heralds of Dust]], CFO of the Stickyickistanian [[Dungsweepers]], and collector of cursed relics. He believes the jars are linked to the Orcus cult beneath [[Blacklung Quarry]] and wants them recovered intact, not to fuel another ritual, but to remove the tortured souls from the cult’s reach and study how they might be guided toward [[Heralds of Dust|True Death]]. His methods are unofficial and sometimes illegal, but he is not necessarily malicious.
+The contact is [[Skarguther Dungleboof]], a well-connected member of the [[Heralds of Dust]], CFO of the Stickyickistanian [[Dungsweepers]], and collector of cursed relics. He believes the jars are linked to the Orcus cult discovered beneath [[Blacklung Quarry]] and wants them recovered intact, not to fuel another ritual, but to remove the tortured souls from the cult’s reach and study how they might be guided toward [[Heralds of Dust|True Death]]. His methods are unofficial and sometimes illegal, but he is not necessarily malicious.
 
 > **“Touch the jars. Bring me every one you can carry.”**
 
@@ -103,7 +103,7 @@ A successful **DC 12 Intelligence (Arcana or Religion)** check identifies the ci
 
 **It channels spiritual energy toward the center of the tomb.**
 
-The large double doors leading to Area 7 have no handles or visible locks.
+The large obsidian double doors leading to Area 7 have no handles or visible locks.
 
 Magic seals them.
 
@@ -119,7 +119,7 @@ Attempting to force the doors open automatically fails.
 
 ---
 
-# 3. Immortal Guardians
+# 3. Stone-d Guardians
 
 Two separate chambers contain one of Dopendis Gravebreath's earliest successful Jars of Souls each. These two jars are **inert**: they contain tortured souls, but they do not power the tomb's guardians or emit necrotic energy.
 
@@ -183,7 +183,7 @@ The **first time the characters move, damage, or destroy a Jar of Souls**, two n
 
 ### Encounter
 
-**1d4 - 1 (min 1) Ash Zombies** emerge from the closest sarcophagi. The are 6 Ash Zombies total.
+**1d4+1 Ash Zombies** emerge from the closest sarcophagi. The are 8 Ash Zombies total.
 
 Afterward, the remaining sarcophagi occasionally rattle or produce scratching sounds, but don't immediately open.
 
@@ -216,7 +216,7 @@ Characters spending at least 10 minutes examining them learn:
 
 ### Dopendis Gravebreath
 
-Dopendis Gravebreath was a powerful mage and secret adherent of [[Orcus]], obsessed with the boundary between life and death. His research was part of the same cult’s wider effort to weaponize the Arcanite extracted from [[Blacklung Quarry]]. The cult’s promised reward was not wealth or immortality, but an army of the dead.
+Dopendis Gravebreath was a powerful mage and secret adherent of [[Orcus]], obsessed with the boundary between life and death. His research was part of the same cult operation exposed at [[Blacklung Quarry]], but his role was separate: he developed soul jars and refined the trapped dead into **[[Soul Diesel]]**, a necromantic [[Arcannabis]] strain, as fuel the cult hoped to use in a mass raise dead ritual. The cult’s promised reward was not wealth or immortality, but an army of the dead.
 
 He believed souls weren't merely spiritual entities.
 
@@ -362,6 +362,8 @@ _"He'll come back for them."_
 
 Then the chamber falls silent.
 
+This can garner some bonus xp for good RP.
+
 ### Take the Jars
 
 The characters can instead remove the jars.
@@ -424,7 +426,7 @@ Unlike the jars, however...
 
 **This crystal is empty.**
 
-Someone used it. A character who knows of [[The Tenebrous Stone-r]] recognizes the residue as similar to the energy released beneath [[Blacklung Quarry]], suggesting that the cult moved the experiment there after abandoning Dopendis Gravebreath's laboratory.
+Someone used it. A character who knows of [[The Tenebrous Stone-r]] recognizes the residue as similar to the energy released beneath [[Blacklung Quarry]].
 
 ---
 
@@ -442,7 +444,7 @@ Back in [[Doobius House]], the families of the missing adventurers finally learn
 
 If the characters released their souls, the community considers them heroes.
 
-But the discoveries within the tomb raise a much larger question. The Orcus cult did not build this laboratory for [[Dopendis Gravebreath]] alone. They were using it as a collection site, then funneling the harvested souls and Arcanite toward a mysterious rite.
+But the discoveries within the tomb raise a much larger question. The Orcus cult did not build this laboratory for [[Dopendis Gravebreath]] alone. They were using it as a hidden refinery, turning harvested souls into **[[Soul Diesel]]** for a mysterious rite.
 
 Dopendis Gravebreath spent decades gathering souls.
 
@@ -484,7 +486,7 @@ Run the adventure as written, but give the Ritual Chamber skeleton **2 additiona
 
 **1200 XP each** for completing the adventure and resolving the fate of the trapped souls. This is a challenging Tier 1 adventure reward under [[Character Advancement]].
 
-**150 gp each** from the [[Seekers of the Vein]] scholar for investigating the tomb and returning with evidence. This payment is divided among the characters who complete the contract.
+**150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence. This payment is divided among the characters who complete the contract.
 
 Additional rewards:
 

@@ -6,7 +6,7 @@ A one-shot for a level 3 meme-team of adventurers in Stickyickistan! Based on th
 
 # Adventure Hook
 
-The **[[Blacklung Quarry]]**, one of Stickyickistan's oldest sources of Arcanite, ceased operations a couple months ago due to supernatural happenings. One day the laborers ventured down into the subterranean mine, but none ever returned. Every time a few more would go down, they too would not return. Yet each night, the sound of pickaxes still echoes from deep within the quarry.
+The **[[Blacklung Quarry 1]]**, one of Stickyickistan's oldest sources of Arcanite, ceased operations a couple months ago due to supernatural happenings. One day the laborers ventured down into the subterranean mine, but none ever returned. Every time a few more would go down, they too would not return. Yet each night, the sound of pickaxes still echoes from deep within the quarry.
 
 About two ten days ago the quarry's owner, the dwarf **[[Roggan Stonebrah]]**, sent **Brother Highwind** of the **[[Order of the Emerald Breath]]** to investigate, but the monk also never returned. Ever since Brother Highwind's disappearance, a foul-smelling [[Arcannabis]] smoke drifts up the elevator shaft from the mine below. Those who've huffed the stank speak of horrific visions and waking nightmares.
 

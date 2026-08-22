@@ -8,7 +8,7 @@ Mount Zooka's indigenous name is - Wachii Zookaamihk - which roughly translates 
 
 ## Blacklung Quarry
 
-The [[Blacklung Quarry]] is one of the mountain’s oldest Arcanite-mining operations. Built into the lower slopes below the Bongstad forges, it consists of open cuts, abandoned shafts, and natural caverns following a particularly rich vein of Arcanite. Black volcanic dust gives the quarry its name, coating the lungs of careless miners and turning the surrounding stone nearly black.
+The [[Blacklung Quarry 1]] is one of the mountain’s oldest Arcanite-mining operations. Built into the lower slopes below the Bongstad forges, it consists of open cuts, abandoned shafts, and natural caverns following a particularly rich vein of Arcanite. Black volcanic dust gives the quarry its name, coating the lungs of careless miners and turning the surrounding stone nearly black.
 
 The quarry was abandoned after miners began disappearing and the sound of pickaxes continued from sealed shafts. Since Brother Highwind of the [[Order of the Emerald Breath]] vanished while investigating, foul-smelling [[Arcannabis]] smoke has drifted from the elevator shaft. The quarry’s supernatural disturbances are tied to an Orcus cult using Mount Zooka’s Arcanite veins to power a necromantic ritual.
 

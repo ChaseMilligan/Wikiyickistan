@@ -6,7 +6,7 @@
 - Friendly with the **[[Order of the Emerald Breath]]**
 
 # Allies
-- The miners of [[Blacklung Quarry]]
+- The miners of [[Blacklung Quarry 1]]
 - Local merchants and [[Arcanite]] traders
 - Honest adventurers willing to lend a hand
 

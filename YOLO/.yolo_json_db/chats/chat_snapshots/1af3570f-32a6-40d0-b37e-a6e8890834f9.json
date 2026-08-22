@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "262f1bcb": {
+      "hash": "262f1bcb",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"4\" endLine=\"22\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n4|A few miles beyond the village of **[[Doobius House]]**, in the wooded interior of [[The Outback]], something ancient has emerged from beneath the earth.\n5|\n6|For months, hunters and woodsmen have whispered about a stone doorway that appeared at the foot of a grassy hill beyond the forest. No storm uncovered it. No landslide exposed it. One morning, it simply existed. The doorway stands beside an overgrown trail once used by hunters and woodsmen traveling through the forest.\n7|\n8|A dozen adventurers have entered since.\n9|\n10|Only one returned.\n11|\n12|Half-starved and barely coherent, the survivor spoke of stone guardians, corpses crawling from their tombs, and terrible glass vessels filled with swirling darkness.\n13|\n14|But one detail disturbed the people of [[Doobius House]] more than any other.\n15|\n16|He swore that after his companions died, **he could still hear them screaming from inside the tomb.**\n17|\n18|The tomb is the hidden laboratory of **[[Dopendis Gravebreath]]**, a necromancer and arcanist of [[Orcus]] who discovered a means of capturing mortal souls and storing them within enchanted vessels. Dopendis Gravebreath was supplied by a hidden Orcus cult operating among Stickyickistan’s mining interests; the cult sought to turn the island’s abundant [[Arcanite]] into a power source for a mass raise dead ritual.\n19|\n20|Dopendis Gravebreath has disappeared.\n21|\n22|His experiments have not.\n```\n</user_selected_content>\n\n\nJars of Souls.md (210 Words) update this section to mention Soul Diesel somewhere\n\n"
+        }
+      ],
+      "createdAt": 1787364902686,
+      "updatedAt": 1787364902686
+    },
+    "cdc5e3e5": {
+      "hash": "cdc5e3e5",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L365 ### Take the Jars\n  - L373 ### Study Them\n  - L381 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L407 # 9. Secret Vault — Arcane Storage\n  - L431 # Ending the Adventure\n  - L465 # Scaling the Adventure\n  - L467 ### 3 Characters\n  - L473 ### 4 Characters\n  - L477 ### 5 Characters\n  - L483 # Adventure Rewards\n  - L506 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nplease edit Jars of Souls.md to include Soul Diesel in the adventure background\n\n"
+        }
+      ],
+      "createdAt": 1787365820989,
+      "updatedAt": 1787365820989
+    },
+    "06aea8f1": {
+      "hash": "06aea8f1",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"26\" endLine=\"38\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n26|# Adventure Hook\n27|\n28|The characters begin at the [[FLS Guildhall]] on [[Nevercough Island]], looking for work through the [[Free League of Stickyickistan]]. A public notice on [[The Rolling Papers]] offers **150 gp** to investigate a newly revealed tomb in the wooded interior of [[The Outback]] and return with evidence of its purpose.\n29|\n30|The notice explains that several explorers, hunters, and woodsmen from [[Doobius House]] entered the tomb after its discovery and never returned. Their sole survivor, **Bongston Vale**, was found half-starved and raving about black ceramic jars filled with screaming souls. He is recovering in the guildhall’s [[FLS Guildhall#Recovery support|recovery quarters]] and can be questioned before the party leaves.\n31|\n32|Their families have contacted the Guildhall, desperate to learn what happened to them. A scholar working with [[The Seekers of the Vein]] has also taken an interest in the tomb because its stonework contains traces of refined [[Arcanite]], suggesting that someone transported valuable material deep into the forest. After hearing Bongston’s account, the families of the missing urge the characters to **free any souls they find**, not sell the jars or leave the dead trapped inside them.\n33|\n34|Bongston remembers little clearly, but repeatedly warns:\n35|\n36|> \"Don't touch the jars. Gods above, don't touch the jars.\"\n37|\n38|He remembers seeing his companions die, and then hearing their voices begging him for help from somewhere deeper inside the tomb.\n```\n</user_selected_content>\n\n\nJars of Souls.md (226 Words) Can you update this based on the new changes to the background\n\n"
+        }
+      ],
+      "createdAt": 1787375115034,
+      "updatedAt": 1787375115034
+    },
+    "ada809eb": {
+      "hash": "ada809eb",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/N.E.R.D.md`\n  - L1 # N.E.R.D\n  - L7 ## Role in Stickyickistan\n  - L13 ## Areas of Study\n  - L28 ## Connections\n  - L40 ## Reputation\n  - L44 ## Quest Hooks\n- `content/PCs/FLS/Bartholomew Dorkymin V.md`\n  - L2 # Factions\n  - L5 # Allies\n  - L10 ## NPCs\n  - L14 # Backstory\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"32\" endLine=\"32\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n32|A scholar working with [[The Seekers of the Vein]] has also taken an interest in the tomb after comparing Bongston’s account to reports from [[The Tenebrous Stone-r]].\n```\n</user_selected_content>\n\n\nJars of Souls.md (28 Words) I feel like this makes more sense if the scholar was from N.E.R.D.md  since one of the adventurers on the Tenebrous stoner quest was Bartholomew Dorkymin V.md \n\n"
+        }
+      ],
+      "createdAt": 1787375284949,
+      "updatedAt": 1787375284949
+    },
+    "6041a8cb": {
+      "hash": "6041a8cb",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L365 ### Take the Jars\n  - L373 ### Study Them\n  - L381 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L407 # 9. Secret Vault — Arcane Storage\n  - L431 # Ending the Adventure\n  - L465 # Scaling the Adventure\n  - L467 ### 3 Characters\n  - L473 ### 4 Characters\n  - L477 ### 5 Characters\n  - L483 # Adventure Rewards\n  - L506 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make sure that Jars of Souls.md is consistent and up to date with those changes elsewhere\n\n"
+        }
+      ],
+      "createdAt": 1787375390269,
+      "updatedAt": 1787375390269
+    },
+    "f6683436": {
+      "hash": "f6683436",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventure Briefs/The Twilight Hunter Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # The Roach Clip Tip\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L45 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make an Adventure Briefs document for Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787385908910,
+      "updatedAt": 1787385908910
+    }
+  }
+}
