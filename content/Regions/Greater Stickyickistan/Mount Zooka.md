@@ -5,3 +5,11 @@ The mountain is a center of industry and danger, with miners, [[Magitech]] engin
 Mount Zooka is the heart of Stickyickistan’s power and chaos—a force of creation and destruction, where great fortunes and terrible disasters are only ever one eruption away.
 
 Mount Zooka's indigenous name is - Wachii Zookaamihk - which roughly translates to - Mountain Place of Sacred Stones.
+
+## Blacklung Quarry
+
+The [[Blacklung Quarry]] is one of the mountain’s oldest Arcanite-mining operations. Built into the lower slopes below the Bongstad forges, it consists of open cuts, abandoned shafts, and natural caverns following a particularly rich vein of Arcanite. Black volcanic dust gives the quarry its name, coating the lungs of careless miners and turning the surrounding stone nearly black.
+
+The quarry was abandoned after miners began disappearing and the sound of pickaxes continued from sealed shafts. Since Brother Highwind of the [[Order of the Emerald Breath]] vanished while investigating, foul-smelling [[Arcannabis]] smoke has drifted from the elevator shaft. The quarry’s supernatural disturbances are tied to an Orcus cult using Mount Zooka’s Arcanite veins to power a necromantic ritual.
+
+The quarry is owned by [[Roggan Stonebrah]]. Most of its ore was sold through [[The Seekers of the Vein]] and used to fuel Stickyickistan’s [[Magitech]] industry. Recovering the mine’s Arcanite now conflicts with the Order’s demand that the corrupted crystals be destroyed.
