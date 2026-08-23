@@ -12,17 +12,6 @@
       "createdAt": 1787364902686,
       "updatedAt": 1787364902686
     },
-    "cdc5e3e5": {
-      "hash": "cdc5e3e5",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L365 ### Take the Jars\n  - L373 ### Study Them\n  - L381 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L407 # 9. Secret Vault — Arcane Storage\n  - L431 # Ending the Adventure\n  - L465 # Scaling the Adventure\n  - L467 ### 3 Characters\n  - L473 ### 4 Characters\n  - L477 ### 5 Characters\n  - L483 # Adventure Rewards\n  - L506 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nplease edit Jars of Souls.md to include Soul Diesel in the adventure background\n\n"
-        }
-      ],
-      "createdAt": 1787365820989,
-      "updatedAt": 1787365820989
-    },
     "06aea8f1": {
       "hash": "06aea8f1",
       "content": [
@@ -45,27 +34,60 @@
       "createdAt": 1787375284949,
       "updatedAt": 1787375284949
     },
-    "6041a8cb": {
-      "hash": "6041a8cb",
+    "62bb3f38": {
+      "hash": "62bb3f38",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L365 ### Take the Jars\n  - L373 ### Study Them\n  - L381 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L407 # 9. Secret Vault — Arcane Storage\n  - L431 # Ending the Adventure\n  - L465 # Scaling the Adventure\n  - L467 ### 3 Characters\n  - L473 ### 4 Characters\n  - L477 ### 5 Characters\n  - L483 # Adventure Rewards\n  - L506 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make sure that Jars of Souls.md is consistent and up to date with those changes elsewhere\n\n"
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # The Roach Clip Tip\n  - L34 # What Players Should Know\n  - L41 # Rewards\n  - L49 # Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nRemember Jars of Souls Player Brief.md is for the players to read, so dont include any info they shouldn't see\n\n"
         }
       ],
-      "createdAt": 1787375390269,
-      "updatedAt": 1787375390269
+      "createdAt": 1787424563957,
+      "updatedAt": 1787424563957
     },
-    "f6683436": {
-      "hash": "f6683436",
+    "3cac486e": {
+      "hash": "3cac486e",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventure Briefs/The Twilight Hunter Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # The Roach Clip Tip\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L45 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make an Adventure Briefs document for Jars of Souls.md \n\n"
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nplease edit Jars of Souls.md to include Soul Diesel in the adventure background\n\n"
         }
       ],
-      "createdAt": 1787385908910,
-      "updatedAt": 1787385908910
+      "createdAt": 1787424600683,
+      "updatedAt": 1787424600683
+    },
+    "1f827c9c": {
+      "hash": "1f827c9c",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make sure that Jars of Souls.md is consistent and up to date with those changes elsewhere\n\n"
+        }
+      ],
+      "createdAt": 1787424600683,
+      "updatedAt": 1787424600683
+    },
+    "eddc2629": {
+      "hash": "eddc2629",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # The Roach Clip Tip\n  - L34 # What Players Should Know\n  - L41 # Rewards\n  - L49 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventure Briefs/The Twilight Hunter Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # The Roach Clip Tip\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L45 # Sign-Up\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make an Adventure Briefs document for Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787424600683,
+      "updatedAt": 1787424600683
+    },
+    "55cd948e": {
+      "hash": "55cd948e",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # The Roach Clip Tip\n  - L34 # What Players Should Know\n  - L41 # Rewards\n  - L49 # Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you go through Jars of Souls Player Brief.md and make sure thats true\n\n"
+        }
+      ],
+      "createdAt": 1787424600683,
+      "updatedAt": 1787424600683
     }
   }
 }

@@ -384,7 +384,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "cdc5e3e5"
+        "hash": "3cac486e"
       },
       "id": "e7aa37d2-6384-4907-9c0c-746e24e84805",
       "mentionables": [
@@ -1168,7 +1168,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "6041a8cb"
+        "hash": "1f827c9c"
       },
       "id": "5c5e5cde-aad0-4136-81f2-3eab81494c84",
       "mentionables": [
@@ -3335,7 +3335,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "f6683436"
+        "hash": "eddc2629"
       },
       "id": "6fd792c2-03e8-4608-b6e9-2488418a1fa6",
       "mentionables": [
@@ -4386,10 +4386,1477 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Remember ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Jars of Souls Player Brief.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Jars of Souls Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/Jars of Souls Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " is for the players to read, so dont include any info they shouldn't see",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "62bb3f38"
+      },
+      "id": "8338aff9-c557-4e4d-8cf5-35cb556d95ec",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/Jars of Souls Player Brief.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-22 12:49 (Saturday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. For **`Jars of Souls Player Brief.md`**, I’ll treat it as **player-facing only** and avoid including hidden DM information.\n\nThat means I should **not** include details like:\n\n- Dopendis Gravebreath’s identity or role\n- Orcus cult confirmation\n- The mass raise dead ritual / Great Working\n- Exact contents of the tomb\n- Exact enemy types or encounter details\n- Whether Soul Diesel is definitely present or how it works\n- The full truth behind [[Blacklung Quarry]] connections\n- Secret motives or identities behind private contracts, unless the players would plausibly see them in the notice\n\nPlayer-safe information can include:\n\n- The public job posting\n- Rumors and survivor testimony\n- The missing explorers from [[Doobius House]]\n- That [[N.E.R.D]] suspects a connection to strange necromantic evidence\n- That **[[Soul Diesel]]** is suspected, not confirmed\n- General vibes/content warnings\n- Public rewards and vague private/underground incentives\n\nI’ll keep that distinction in mind for any future edits to the player brief.",
+      "id": "84313ef6-b310-4e60-8017-6d3e07902718",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 34310,
+          "completion_tokens": 229,
+          "total_tokens": 34539
+        },
+        "durationMs": 6602,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you go through ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Jars of Souls Player Brief.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Jars of Souls Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/Jars of Souls Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " and make sure thats true",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "55cd948e"
+      },
+      "id": "3d84c22f-189d-42e9-8e8e-6d18fcbae47a",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/Jars of Souls Player Brief.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-08-22 12:50 (Saturday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_B0ENNHxfCWQUFyCySG6TaWkR",
+          "name": "yolo_local__todo_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "todos": [
+                {
+                  "content": "Read the current player brief for spoilers",
+                  "status": "in_progress"
+                },
+                {
+                  "content": "Remove or soften any DM-only information",
+                  "status": "pending"
+                },
+                {
+                  "content": "Verify the edited brief is player-safe",
+                  "status": "pending"
+                }
+              ]
+            },
+            "rawText": "{\"todos\":[{\"content\":\"Read the current player brief for spoilers\",\"status\":\"in_progress\"},{\"content\":\"Remove or soften any DM-only information\",\"status\":\"pending\"},{\"content\":\"Verify the edited brief is player-safe\",\"status\":\"pending\"}]}"
+          }
+        }
+      ],
+      "id": "69e7f3c7-8da8-432b-b40d-feacd2cb7278",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 34700,
+          "completion_tokens": 65,
+          "total_tokens": 34765,
+          "cache_read_input_tokens": 33280
+        },
+        "durationMs": 2642,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_B0ENNHxfCWQUFyCySG6TaWkR",
+            "name": "yolo_local__todo_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "todos": [
+                  {
+                    "content": "Read the current player brief for spoilers",
+                    "status": "in_progress"
+                  },
+                  {
+                    "content": "Remove or soften any DM-only information",
+                    "status": "pending"
+                  },
+                  {
+                    "content": "Verify the edited brief is player-safe",
+                    "status": "pending"
+                  }
+                ]
+              },
+              "rawText": "{\"todos\":[{\"content\":\"Read the current player brief for spoilers\",\"status\":\"in_progress\"},{\"content\":\"Remove or soften any DM-only information\",\"status\":\"pending\"},{\"content\":\"Verify the edited brief is player-safe\",\"status\":\"pending\"}]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "Todos updated. Continue tracking your progress with the todo list."
+            }
+          }
+        }
+      ],
+      "id": "03261d86-4e9c-4c2f-b258-40dfae90cf42",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_zPDb5O6gbUbOK9OGimdsxrPx",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventure Briefs/Jars of Souls Player Brief.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventure Briefs/Jars of Souls Player Brief.md\"]}"
+          }
+        }
+      ],
+      "id": "a55a2e67-6ff8-48ac-a7bf-cf5c00bb92f8",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 34790,
+          "completion_tokens": 34,
+          "total_tokens": 34824,
+          "cache_read_input_tokens": 34304
+        },
+        "durationMs": 2136,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_zPDb5O6gbUbOK9OGimdsxrPx",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventure Briefs/Jars of Souls Player Brief.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventure Briefs/Jars of Souls Player Brief.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_zPDb5O6gbUbOK9OGimdsxrPx\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 55,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|# Adventure Summary\\n2|\\n3|**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming souls.\\n4|\\n5|The [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange necromantic evidence recovered from [[Blacklung Quarry]].\\n6|\\n7|# The Rolling Papers Advertisement\\n8|\\n9|**Submitted by:** [[Free League of Stickyickistan]] / [[N.E.R.D]]  \\n10|**Tier:** Tier 1  \\n11|**Recommended Level:** 3  \\n12|**Expected Length:** One-shot, approximately 3–4 hours  \\n13|**Tone:** Tomb exploration, undead horror, occult mystery, moral choices, dark fantasy  \\n14|**Location:** [[Doobius House]] / [[The Outback]]\\n15|\\n16|## Headline\\n17|\\n18|> **NEWLY REVEALED TOMB BEYOND DOOBIUS HOUSE: LICENSED ADVENTURERS REQUESTED**\\n19|\\n20|## Public Notice\\n21|\\n22|A stone doorway has appeared beneath a grassy hill in the wooded interior beyond [[Doobius House]]. Several local explorers, hunters, and woodsmen entered the site after its discovery and never returned.\\n23|\\n24|Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, free any trapped souls found within.\\n25|\\n26|A scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance called **[[Soul Diesel]]**, but proof is needed from inside.\\n27|\\n28|# The Roach Clip Tip\\n29|\\n30|A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black soul-jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\\n31|\\n32|This private offer conflicts with the families’ request to free the dead, creating a moral choice about whether the jars should be studied, sold, or destroyed.\\n33|\\n34|# What Players Should Know\\n35|\\n36|- **Content / vibe:** Tomb horror, trapped souls, undead, necromancy, occult laboratories, moral dilemmas, and dark fantasy.\\n37|- **Combat / roleplay / exploration mix:** Dungeon exploration with undead and construct combat, investigation, lore discovery, and choices about dangerous artifacts.\\n38|- **Character hooks:** Good for Free League contractors, tomb delvers, necromancer hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect the dead from exploitation.\\n39|- **Special notes:** The adventure includes trapped souls and potentially valuable cursed objects. Characters may face competing incentives between public duty, private profit, and doing right by the dead.\\n40|\\n41|# Rewards\\n42|\\n43|- **1,200 XP each** for completing the adventure and resolving the fate of the trapped souls.\\n44|- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\\n45|- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\\n46|- Additional treasure recovered from the dungeon.\\n47|- Possible bonus XP for rescuing or laying to rest the souls of the missing, and for recovering reliable evidence of necromantic experiments.\\n48|\\n49|# Sign-Up\\n50|\\n51|**DM:** Initiate of Tribulation, Vorg Lordcaster  \\n52|**Date / Time:** TBD  \\n53|**Seats:** 4–5 players  \\n54|**How to join:** Register through the [[FLS Guildhall]] / post in the Free League chat.\\n55|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"The Outback\",\n          \"path\": \"content/Regions/Greater Stickyickistan/The Outback.md\"\n        },\n        {\n          \"link\": \"Doobius House\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Doobius House.md\"\n        },\n        {\n          \"link\": \"Free League of Stickyickistan\",\n          \"path\": \"content/Free League of Stickyickistan/Free League of Stickyickistan.md\"\n        },\n        {\n          \"link\": \"N.E.R.D\",\n          \"path\": \"content/POIs/N.E.R.D.md\"\n        },\n        {\n          \"link\": \"Blacklung Quarry\",\n          \"path\": \"content/POIs/Blacklung Quarry.md\"\n        },\n        {\n          \"link\": \"FLS Guildhall\",\n          \"path\": \"content/Free League of Stickyickistan/FLS Guildhall.md\"\n        },\n        {\n          \"link\": \"Soul Diesel\",\n          \"path\": \"content/Arcannabis/Strains/Soul Diesel.md\"\n        },\n        {\n          \"link\": \"The Roach Clip\",\n          \"path\": \"content/Free League of Stickyickistan/The Roach Clip.md\"\n        },\n        {\n          \"link\": \"Dungsweepers\",\n          \"path\": \"content/Factions/Dungsweepers.md\"\n        },\n        {\n          \"link\": \"The Undercity Osslurraggath\",\n          \"path\": \"content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md\"\n        },\n        {\n          \"link\": \"The Tenebrous Stone-r\",\n          \"path\": \"content/Adventure Briefs/The Tenebrous Stone-r.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "e76e6a72-d0f7-4a66-9226-be13bdff634d",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_JD4jo7PrRIsOvT7ZO3dWFWlH",
+          "name": "yolo_local__todo_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "todos": [
+                {
+                  "content": "Read the current player brief for spoilers",
+                  "status": "completed"
+                },
+                {
+                  "content": "Remove or soften any DM-only information",
+                  "status": "in_progress"
+                },
+                {
+                  "content": "Verify the edited brief is player-safe",
+                  "status": "pending"
+                }
+              ]
+            },
+            "rawText": "{\"todos\":[{\"content\":\"Read the current player brief for spoilers\",\"status\":\"completed\"},{\"content\":\"Remove or soften any DM-only information\",\"status\":\"in_progress\"},{\"content\":\"Verify the edited brief is player-safe\",\"status\":\"pending\"}]}"
+          }
+        }
+      ],
+      "id": "bf254eb8-aac9-42fe-a50c-780ed23d0b0f",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 36328,
+          "completion_tokens": 65,
+          "total_tokens": 36393
+        },
+        "durationMs": 2735,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_JD4jo7PrRIsOvT7ZO3dWFWlH",
+            "name": "yolo_local__todo_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "todos": [
+                  {
+                    "content": "Read the current player brief for spoilers",
+                    "status": "completed"
+                  },
+                  {
+                    "content": "Remove or soften any DM-only information",
+                    "status": "in_progress"
+                  },
+                  {
+                    "content": "Verify the edited brief is player-safe",
+                    "status": "pending"
+                  }
+                ]
+              },
+              "rawText": "{\"todos\":[{\"content\":\"Read the current player brief for spoilers\",\"status\":\"completed\"},{\"content\":\"Remove or soften any DM-only information\",\"status\":\"in_progress\"},{\"content\":\"Verify the edited brief is player-safe\",\"status\":\"pending\"}]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "Todos updated. Continue tracking your progress with the todo list."
+            }
+          }
+        }
+      ],
+      "id": "d0dd6680-3dce-4cd7-95fe-56ff39ce3436",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_AOKAzRW3gCdPUwAULtsPwfbU",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+              "oldText": "**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming souls.\n\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange necromantic evidence recovered from [[Blacklung Quarry]].",
+              "newText": "**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming voices.\n\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange evidence recovered from [[Blacklung Quarry]]."
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming souls.\\n\\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange necromantic evidence recovered from [[Blacklung Quarry]].\",\"newText\":\"**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming voices.\\n\\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange evidence recovered from [[Blacklung Quarry]].\"}"
+          }
+        }
+      ],
+      "id": "d6c98654-cd32-4ea5-8ff7-ce6270b910ca",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 36420,
+          "completion_tokens": 336,
+          "total_tokens": 36756,
+          "cache_read_input_tokens": 35328
+        },
+        "durationMs": 8262,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_AOKAzRW3gCdPUwAULtsPwfbU",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                "oldText": "**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming souls.\n\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange necromantic evidence recovered from [[Blacklung Quarry]].",
+                "newText": "**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming voices.\n\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange evidence recovered from [[Blacklung Quarry]]."
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming souls.\\n\\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange necromantic evidence recovered from [[Blacklung Quarry]].\",\"newText\":\"**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming voices.\\n\\nThe [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange evidence recovered from [[Blacklung Quarry]].\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                      "addedLines": 2,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "c7058b08-ab64-4b49-a16e-89b8ae483f82"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 2,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787424616426
+              }
+            }
+          }
+        }
+      ],
+      "id": "c7058b08-ab64-4b49-a16e-89b8ae483f82",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_MEF10bybNrWADI86qgoGx53C",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+              "oldText": "Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, free any trapped souls found within.\n\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance called **[[Soul Diesel]]**, but proof is needed from inside.",
+              "newText": "Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, bring them peace.\n\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to other recent discoveries in the region, but proof is needed from inside."
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, free any trapped souls found within.\\n\\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance called **[[Soul Diesel]]**, but proof is needed from inside.\",\"newText\":\"Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, bring them peace.\\n\\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to other recent discoveries in the region, but proof is needed from inside.\"}"
+          }
+        }
+      ],
+      "id": "7e940c8c-b482-40ec-aab2-02e8d3aae67f",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 36871,
+          "completion_tokens": 270,
+          "total_tokens": 37141,
+          "cache_read_input_tokens": 35328
+        },
+        "durationMs": 6373,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_MEF10bybNrWADI86qgoGx53C",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                "oldText": "Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, free any trapped souls found within.\n\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance called **[[Soul Diesel]]**, but proof is needed from inside.",
+                "newText": "Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, bring them peace.\n\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to other recent discoveries in the region, but proof is needed from inside."
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, free any trapped souls found within.\\n\\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance called **[[Soul Diesel]]**, but proof is needed from inside.\",\"newText\":\"Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, bring them peace.\\n\\nA scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to other recent discoveries in the region, but proof is needed from inside.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                      "addedLines": 2,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "0a3b205c-efcf-4281-afd6-97132f700be1"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 2,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787424622891
+              }
+            }
+          }
+        }
+      ],
+      "id": "0a3b205c-efcf-4281-afd6-97132f700be1",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_2YonYAnsXVaJN7ma7mdgHJJk",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+              "oldText": "A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black soul-jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\n\nThis private offer conflicts with the families’ request to free the dead, creating a moral choice about whether the jars should be studied, sold, or destroyed.",
+              "newText": "A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\n\nThis private offer may conflict with the families’ wishes, creating a moral choice about what should be done with anything unusual recovered from the tomb."
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black soul-jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\\n\\nThis private offer conflicts with the families’ request to free the dead, creating a moral choice about whether the jars should be studied, sold, or destroyed.\",\"newText\":\"A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\\n\\nThis private offer may conflict with the families’ wishes, creating a moral choice about what should be done with anything unusual recovered from the tomb.\"}"
+          }
+        }
+      ],
+      "id": "64826584-8422-4cce-8c17-cb3724b60920",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 37256,
+          "completion_tokens": 255,
+          "total_tokens": 37511,
+          "cache_read_input_tokens": 36352
+        },
+        "durationMs": 6020,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_2YonYAnsXVaJN7ma7mdgHJJk",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                "oldText": "A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black soul-jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\n\nThis private offer conflicts with the families’ request to free the dead, creating a moral choice about whether the jars should be studied, sold, or destroyed.",
+                "newText": "A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\n\nThis private offer may conflict with the families’ wishes, creating a moral choice about what should be done with anything unusual recovered from the tomb."
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black soul-jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\\n\\nThis private offer conflicts with the families’ request to free the dead, creating a moral choice about whether the jars should be studied, sold, or destroyed.\",\"newText\":\"A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\\n\\nThis private offer may conflict with the families’ wishes, creating a moral choice about what should be done with anything unusual recovered from the tomb.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                      "addedLines": 2,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "78ae9401-d820-4e49-87ad-5acd7adf883b"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 2,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787424629014
+              }
+            }
+          }
+        }
+      ],
+      "id": "78ae9401-d820-4e49-87ad-5acd7adf883b",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_JOgFfrCtHx0NjfMad6o7RiWw",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+              "oldText": "- **Content / vibe:** Tomb horror, trapped souls, undead, necromancy, occult laboratories, moral dilemmas, and dark fantasy.\n- **Combat / roleplay / exploration mix:** Dungeon exploration with undead and construct combat, investigation, lore discovery, and choices about dangerous artifacts.\n- **Character hooks:** Good for Free League contractors, tomb delvers, necromancer hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect the dead from exploitation.\n- **Special notes:** The adventure includes trapped souls and potentially valuable cursed objects. Characters may face competing incentives between public duty, private profit, and doing right by the dead.",
+              "newText": "- **Content / vibe:** Tomb horror, missing people, undead rumors, occult mystery, moral dilemmas, and dark fantasy.\n- **Combat / roleplay / exploration mix:** Dungeon exploration, investigation, lore discovery, and dangerous close-quarters encounters.\n- **Character hooks:** Good for Free League contractors, tomb delvers, monster hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect missing villagers and their families.\n- **Special notes:** Characters may face competing incentives between public duty, private profit, and doing right by the missing dead."
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"- **Content / vibe:** Tomb horror, trapped souls, undead, necromancy, occult laboratories, moral dilemmas, and dark fantasy.\\n- **Combat / roleplay / exploration mix:** Dungeon exploration with undead and construct combat, investigation, lore discovery, and choices about dangerous artifacts.\\n- **Character hooks:** Good for Free League contractors, tomb delvers, necromancer hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect the dead from exploitation.\\n- **Special notes:** The adventure includes trapped souls and potentially valuable cursed objects. Characters may face competing incentives between public duty, private profit, and doing right by the dead.\",\"newText\":\"- **Content / vibe:** Tomb horror, missing people, undead rumors, occult mystery, moral dilemmas, and dark fantasy.\\n- **Combat / roleplay / exploration mix:** Dungeon exploration, investigation, lore discovery, and dangerous close-quarters encounters.\\n- **Character hooks:** Good for Free League contractors, tomb delvers, monster hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect missing villagers and their families.\\n- **Special notes:** Characters may face competing incentives between public duty, private profit, and doing right by the missing dead.\"}"
+          }
+        }
+      ],
+      "id": "ca65689e-ddc4-403d-84c5-0c71a93764f8",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 37626,
+          "completion_tokens": 316,
+          "total_tokens": 37942,
+          "cache_read_input_tokens": 34304
+        },
+        "durationMs": 7575,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_JOgFfrCtHx0NjfMad6o7RiWw",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                "oldText": "- **Content / vibe:** Tomb horror, trapped souls, undead, necromancy, occult laboratories, moral dilemmas, and dark fantasy.\n- **Combat / roleplay / exploration mix:** Dungeon exploration with undead and construct combat, investigation, lore discovery, and choices about dangerous artifacts.\n- **Character hooks:** Good for Free League contractors, tomb delvers, necromancer hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect the dead from exploitation.\n- **Special notes:** The adventure includes trapped souls and potentially valuable cursed objects. Characters may face competing incentives between public duty, private profit, and doing right by the dead.",
+                "newText": "- **Content / vibe:** Tomb horror, missing people, undead rumors, occult mystery, moral dilemmas, and dark fantasy.\n- **Combat / roleplay / exploration mix:** Dungeon exploration, investigation, lore discovery, and dangerous close-quarters encounters.\n- **Character hooks:** Good for Free League contractors, tomb delvers, monster hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect missing villagers and their families.\n- **Special notes:** Characters may face competing incentives between public duty, private profit, and doing right by the missing dead."
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"- **Content / vibe:** Tomb horror, trapped souls, undead, necromancy, occult laboratories, moral dilemmas, and dark fantasy.\\n- **Combat / roleplay / exploration mix:** Dungeon exploration with undead and construct combat, investigation, lore discovery, and choices about dangerous artifacts.\\n- **Character hooks:** Good for Free League contractors, tomb delvers, necromancer hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect the dead from exploitation.\\n- **Special notes:** The adventure includes trapped souls and potentially valuable cursed objects. Characters may face competing incentives between public duty, private profit, and doing right by the dead.\",\"newText\":\"- **Content / vibe:** Tomb horror, missing people, undead rumors, occult mystery, moral dilemmas, and dark fantasy.\\n- **Combat / roleplay / exploration mix:** Dungeon exploration, investigation, lore discovery, and dangerous close-quarters encounters.\\n- **Character hooks:** Good for Free League contractors, tomb delvers, monster hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect missing villagers and their families.\\n- **Special notes:** Characters may face competing incentives between public duty, private profit, and doing right by the missing dead.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                      "addedLines": 4,
+                      "removedLines": 4,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "379306ad-e938-4e31-81cc-9d56ec0da69c"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 4,
+                  "totalRemovedLines": 4,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787424636694
+              }
+            }
+          }
+        }
+      ],
+      "id": "379306ad-e938-4e31-81cc-9d56ec0da69c",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_JnHYS8xqKsYEwDItfqdL5bRM",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+              "oldText": "- **1,200 XP each** for completing the adventure and resolving the fate of the trapped souls.\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\n- Additional treasure recovered from the dungeon.\n- Possible bonus XP for rescuing or laying to rest the souls of the missing, and for recovering reliable evidence of necromantic experiments.",
+              "newText": "- **1,200 XP each** for completing the adventure.\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\n- Additional treasure recovered from the dungeon.\n- Possible bonus XP for helping the missing, protecting civilians, or recovering especially useful evidence."
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"- **1,200 XP each** for completing the adventure and resolving the fate of the trapped souls.\\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\\n- Additional treasure recovered from the dungeon.\\n- Possible bonus XP for rescuing or laying to rest the souls of the missing, and for recovering reliable evidence of necromantic experiments.\",\"newText\":\"- **1,200 XP each** for completing the adventure.\\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\\n- Additional treasure recovered from the dungeon.\\n- Possible bonus XP for helping the missing, protecting civilians, or recovering especially useful evidence.\"}"
+          }
+        }
+      ],
+      "id": "383c47e2-32dd-4627-8784-cb40d5bb1cd0",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 38057,
+          "completion_tokens": 234,
+          "total_tokens": 38291,
+          "cache_read_input_tokens": 36352
+        },
+        "durationMs": 5797,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_JnHYS8xqKsYEwDItfqdL5bRM",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                "oldText": "- **1,200 XP each** for completing the adventure and resolving the fate of the trapped souls.\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\n- Additional treasure recovered from the dungeon.\n- Possible bonus XP for rescuing or laying to rest the souls of the missing, and for recovering reliable evidence of necromantic experiments.",
+                "newText": "- **1,200 XP each** for completing the adventure.\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\n- Additional treasure recovered from the dungeon.\n- Possible bonus XP for helping the missing, protecting civilians, or recovering especially useful evidence."
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/Jars of Souls Player Brief.md\",\"oldText\":\"- **1,200 XP each** for completing the adventure and resolving the fate of the trapped souls.\\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\\n- Additional treasure recovered from the dungeon.\\n- Possible bonus XP for rescuing or laying to rest the souls of the missing, and for recovering reliable evidence of necromantic experiments.\",\"newText\":\"- **1,200 XP each** for completing the adventure.\\n- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\\n- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\\n- Additional treasure recovered from the dungeon.\\n- Possible bonus XP for helping the missing, protecting civilians, or recovering especially useful evidence.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/Jars of Souls Player Brief.md",
+                      "addedLines": 2,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "50c3761a-ed7d-4a03-aed6-98027b39287e"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 2,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787424642585
+              }
+            }
+          }
+        }
+      ],
+      "id": "50c3761a-ed7d-4a03-aed6-98027b39287e",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_lIozzGvZr5B0I6QjpRIhGOnP",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventure Briefs/Jars of Souls Player Brief.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventure Briefs/Jars of Souls Player Brief.md\"]}"
+          }
+        }
+      ],
+      "id": "57bf600a-447d-4cd1-881f-3934dcd0a4d3",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 38406,
+          "completion_tokens": 34,
+          "total_tokens": 38440,
+          "cache_read_input_tokens": 37376
+        },
+        "durationMs": 2987,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_lIozzGvZr5B0I6QjpRIhGOnP",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventure Briefs/Jars of Souls Player Brief.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventure Briefs/Jars of Souls Player Brief.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_lIozzGvZr5B0I6QjpRIhGOnP\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 55,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|# Adventure Summary\\n2|\\n3|**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming voices.\\n4|\\n5|The [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange evidence recovered from [[Blacklung Quarry]].\\n6|\\n7|# The Rolling Papers Advertisement\\n8|\\n9|**Submitted by:** [[Free League of Stickyickistan]] / [[N.E.R.D]]  \\n10|**Tier:** Tier 1  \\n11|**Recommended Level:** 3  \\n12|**Expected Length:** One-shot, approximately 3–4 hours  \\n13|**Tone:** Tomb exploration, undead horror, occult mystery, moral choices, dark fantasy  \\n14|**Location:** [[Doobius House]] / [[The Outback]]\\n15|\\n16|## Headline\\n17|\\n18|> **NEWLY REVEALED TOMB BEYOND DOOBIUS HOUSE: LICENSED ADVENTURERS REQUESTED**\\n19|\\n20|## Public Notice\\n21|\\n22|A stone doorway has appeared beneath a grassy hill in the wooded interior beyond [[Doobius House]]. Several local explorers, hunters, and woodsmen entered the site after its discovery and never returned.\\n23|\\n24|Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, bring them peace.\\n25|\\n26|A scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to other recent discoveries in the region, but proof is needed from inside.\\n27|\\n28|# The Roach Clip Tip\\n29|\\n30|A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].\\n31|\\n32|This private offer may conflict with the families’ wishes, creating a moral choice about what should be done with anything unusual recovered from the tomb.\\n33|\\n34|# What Players Should Know\\n35|\\n36|- **Content / vibe:** Tomb horror, missing people, undead rumors, occult mystery, moral dilemmas, and dark fantasy.\\n37|- **Combat / roleplay / exploration mix:** Dungeon exploration, investigation, lore discovery, and dangerous close-quarters encounters.\\n38|- **Character hooks:** Good for Free League contractors, tomb delvers, monster hunters, religious characters, scholars, Dusters, characters connected to [[The Tenebrous Stone-r]], or anyone with a reason to protect missing villagers and their families.\\n39|- **Special notes:** Characters may face competing incentives between public duty, private profit, and doing right by the missing dead.\\n40|\\n41|# Rewards\\n42|\\n43|- **1,200 XP each** for completing the adventure.\\n44|- **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence.\\n45|- Possible private payment from a [[The Roach Clip]] buyer for intact jars recovered from the tomb.\\n46|- Additional treasure recovered from the dungeon.\\n47|- Possible bonus XP for helping the missing, protecting civilians, or recovering especially useful evidence.\\n48|\\n49|# Sign-Up\\n50|\\n51|**DM:** Initiate of Tribulation, Vorg Lordcaster  \\n52|**Date / Time:** TBD  \\n53|**Seats:** 4–5 players  \\n54|**How to join:** Register through the [[FLS Guildhall]] / post in the Free League chat.\\n55|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"The Outback\",\n          \"path\": \"content/Regions/Greater Stickyickistan/The Outback.md\"\n        },\n        {\n          \"link\": \"Doobius House\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Doobius House.md\"\n        },\n        {\n          \"link\": \"Free League of Stickyickistan\",\n          \"path\": \"content/Free League of Stickyickistan/Free League of Stickyickistan.md\"\n        },\n        {\n          \"link\": \"N.E.R.D\",\n          \"path\": \"content/POIs/N.E.R.D.md\"\n        },\n        {\n          \"link\": \"Blacklung Quarry\",\n          \"path\": \"content/POIs/Blacklung Quarry.md\"\n        },\n        {\n          \"link\": \"FLS Guildhall\",\n          \"path\": \"content/Free League of Stickyickistan/FLS Guildhall.md\"\n        },\n        {\n          \"link\": \"The Roach Clip\",\n          \"path\": \"content/Free League of Stickyickistan/The Roach Clip.md\"\n        },\n        {\n          \"link\": \"Dungsweepers\",\n          \"path\": \"content/Factions/Dungsweepers.md\"\n        },\n        {\n          \"link\": \"The Undercity Osslurraggath\",\n          \"path\": \"content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md\"\n        },\n        {\n          \"link\": \"The Tenebrous Stone-r\",\n          \"path\": \"content/Adventure Briefs/The Tenebrous Stone-r.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "e218772a-1f69-4bda-894a-34eebc00efc0",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_wTsMnpiUQbSEtyocLdmplIUu",
+          "name": "yolo_local__todo_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "todos": [
+                {
+                  "content": "Read the current player brief for spoilers",
+                  "status": "completed"
+                },
+                {
+                  "content": "Remove or soften any DM-only information",
+                  "status": "completed"
+                },
+                {
+                  "content": "Verify the edited brief is player-safe",
+                  "status": "completed"
+                }
+              ]
+            },
+            "rawText": "{\"todos\":[{\"content\":\"Read the current player brief for spoilers\",\"status\":\"completed\"},{\"content\":\"Remove or soften any DM-only information\",\"status\":\"completed\"},{\"content\":\"Verify the edited brief is player-safe\",\"status\":\"completed\"}]}"
+          }
+        }
+      ],
+      "id": "100aaae7-6fe5-4187-8b3c-ea00b3e92fd0",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 39869,
+          "completion_tokens": 64,
+          "total_tokens": 39933,
+          "cache_read_input_tokens": 37376
+        },
+        "durationMs": 2537,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_wTsMnpiUQbSEtyocLdmplIUu",
+            "name": "yolo_local__todo_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "todos": [
+                  {
+                    "content": "Read the current player brief for spoilers",
+                    "status": "completed"
+                  },
+                  {
+                    "content": "Remove or soften any DM-only information",
+                    "status": "completed"
+                  },
+                  {
+                    "content": "Verify the edited brief is player-safe",
+                    "status": "completed"
+                  }
+                ]
+              },
+              "rawText": "{\"todos\":[{\"content\":\"Read the current player brief for spoilers\",\"status\":\"completed\"},{\"content\":\"Remove or soften any DM-only information\",\"status\":\"completed\"},{\"content\":\"Verify the edited brief is player-safe\",\"status\":\"completed\"}]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "Todos updated. Continue tracking your progress with the todo list."
+            }
+          }
+        }
+      ],
+      "id": "a33c5f66-5813-4040-ad33-cbe3ab29985a",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I reviewed and edited `content/Adventure Briefs/Jars of Souls Player Brief.md` to keep it player-facing and spoiler-safe.\n\nI removed or softened:\n\n- Confirmed **trapped souls** language.\n- Explicit **Soul Diesel** mention.\n- Explicit **necromantic experiments** reward language.\n- “Soul-jars” wording in the Roach Clip section.\n- Too-specific claims about undead/construct combat.\n- The stronger implication that the tomb definitely contains souls that need freeing.\n\nIt now frames those elements as **rumors, survivor testimony, strange jars, missing people, and competing incentives**, without revealing the underlying truth.",
+      "id": "02589082-8209-4568-86bf-89707a760602",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 39959,
+          "completion_tokens": 134,
+          "total_tokens": 40093,
+          "cache_read_input_tokens": 37376
+        },
+        "durationMs": 4010,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1787364902688,
-  "updatedAt": 1787385958237,
+  "updatedAt": 1787424652342,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
