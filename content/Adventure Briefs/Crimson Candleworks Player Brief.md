@@ -1,6 +1,6 @@
 # Adventure Summary
 
-**Crimson Candleworks** is an urban investigation in [[Stickyickistan]] involving an apparently ordinary candle shop in the [[Old Market District]]. The [[Tribunal Highblade Coalition]] believes the business is connected to an illegal [[Arcannabis]] operation and needs licensed adventurers to investigate the property, recover evidence, and bring those responsible to justice.
+**Crimson Candleworks** is an urban investigation in [[Stickyickistan]] involving an apparently ordinary candle shop in the [[Old Market District]]. The [[Tribunal Highblade Coalition]] believes the business is connected to an illegal [[Arcannabis]] distribution operation and needs licensed adventurers to investigate the property, recover evidence, and bring those responsible to justice.
 
 # The Rolling Papers Advertisement
 

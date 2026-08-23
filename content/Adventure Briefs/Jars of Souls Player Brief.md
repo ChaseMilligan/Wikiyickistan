@@ -1,8 +1,8 @@
 # Adventure Summary
 
-**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with screaming souls.
+**Jars of Souls** is a tomb investigation adventure set in the wooded interior of [[The Outback]] beyond [[Doobius House]]. A newly revealed stone doorway has appeared beneath a grassy hill, and several explorers, hunters, and woodsmen who entered it never returned. The only survivor, [[Bongston Vale]], came back half-starved and raving about black jars filled with a dark swirling amber liquid. He doesn't remember much clearly, but keeps repeating that he could still hear his companions screams even after they died.
 
-The [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange necromantic evidence recovered from [[Blacklung Quarry]].
+The [[Free League of Stickyickistan]] needs licensed adventurers to investigate the tomb, recover evidence of its purpose, and determine what happened to the missing people. A scholar from [[N.E.R.D]] has also taken interest after comparing Bongston’s account to strange necromantic evidence recovered from a recent occurrence at [[Blacklung Quarry]].
 
 # The Rolling Papers Advertisement
 
@@ -19,17 +19,15 @@ The [[Free League of Stickyickistan]] needs licensed adventurers to investigate 
 
 ## Public Notice
 
-A stone doorway has appeared beneath a grassy hill in the wooded interior beyond [[Doobius House]]. Several local explorers, hunters, and woodsmen entered the site after its discovery and never returned.
+A stone doorway has appeared beneath a grassy hill in [[The Outback]] beyond [[Doobius House]]. Several local explorers, hunters, and woodsmen entered the site after its discovery and never returned.
 
-Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stone guardians, walking corpses, and black ceramic jars filled with screaming voices. Families of the missing have asked the Guildhall to learn what happened to their loved ones and, if possible, free any trapped souls found within.
+Their sole survivor, [[Bongston Vale]], is recovering at the [[FLS Guildhall]] and has given confused testimony about stoned guardians, walking corpses, and strange black ceramic jars containing a swirling amber liquid. Families of the missing have asked the Guildhall to learn what happened to their loved ones.
 
-A scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance called **[[Soul Diesel]]**, but proof is needed from inside.
+A scholar from [[N.E.R.D]] offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance, but proof is needed from inside.
 
 # The Roach Clip Tip
 
-A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for intact black soul-jars recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].
-
-This private offer conflicts with the families’ request to free the dead, creating a moral choice about whether the jars should be studied, sold, or destroyed.
+A coded notice may circulate among characters with ties to [[The Roach Clip]], the Dusters, or the events beneath [[Blacklung Quarry]]. An anonymous buyer is offering discreet payment for unholy relics recovered from the tomb, with instructions to deliver them through the [[Dungsweepers]]’ mortuary offices in [[The Undercity Osslurraggath]].
 
 # What Players Should Know
 
