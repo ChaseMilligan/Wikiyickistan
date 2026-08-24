@@ -76,6 +76,9 @@ _"There's room for you too..."_
 These aren't ghosts wandering the forest. They are psychic echoes emanating from the Jars of Souls.
 
 ---
+![[577 Jars of Souls-DM.jpg]]
+
+---
 
 # 1. The Entrance
 
@@ -301,6 +304,12 @@ Among them are the souls of the adventurers who disappeared from [[Doobius House
 >
 > As you step into the chamber, the wires begin to glow. The jars pulse with cold light, and the shadows beneath the platform move independently of the objects that cast them. A skeletal hand punches through the stone beside the platform. Then another. Bones claw their way upward as a figure in a stained alchemist’s coat pulls itself from the floor. Glass vials clatter against its ribcage, and a cracked skull turns toward you, empty eye sockets burning with pale blue light. The skeleton raises one hand, and the silver wires snap taut as though answering its command, and two more spectral figures rise from the floor beside the Skeleton.
 
+### Clue: The Soul Diesel Process
+
+A character who succeeds on a **DC 14 Intelligence (Arcana or Nature)** check recognizes the dark liquid in the active jars as **Soul Diesel**, a potent Arcannabis concentrate made from trapped souls, humanoid blood, and refined plant matter. The silver wires draw the mixture from the jars and feed it into the undead guardians. The Specters and Skeletal Alchemist are visibly strengthened by the process.
+
+Each active jar bears the same crude open hand gripping a flaming, horned skull. A character familiar with the events beneath [[Blacklung Quarry]] recognizes it as the mark used by the Orcus cult operating there.
+
 ### Encounter
 
 Use:
@@ -378,6 +387,16 @@ A character who spends 10 minutes examining an active jar and succeeds on a **DC
 
 The strain’s spiritual energy can be transferred into another ritual or magical object. A creature that ingests it gains **1d4 bonus damage of the same type as its attack against humanoids** for 1 hour, with the bonus applying once per turn. Whatever Dopendis Gravebreath intended to do here required an enormous amount of Soul Diesel.
 
+### Soul Diesel and the Orcus Cult
+
+A character who succeeds on a **DC 14 Intelligence (Arcana or Nature)** check can identify the dark liquid in the active jars as **Soul Diesel**, a mixture of spiritual energy, humanoid blood, and [[Arcannabis]]. The silver wires draw the mixture from the jars and feed it into the undead guardians.
+
+Near the ritual platform, the characters find a folded operations note. It reads:
+
+> **BLACKLUNG QUARRY OPERATION: LOST. FOREST LABORATORY REMAINS VIABLE. Continue the Soul Diesel process here and await further instructions. Do not allow the vessels to be opened. A set back towards The Great Working, but we must press forward.**
+
+Characters who participated in [[The Tenebrous Stone-r]] recognize [[Blacklung Quarry]] as the mine where the cult’s earlier operation was exposed. The note establishes that the quarry and this tomb were separate sites used by the same Orcus cult, while the Soul Diesel process remained unique to this laboratory.
+
 ---
 
 # 8. Secret Vault — Dopendis Gravebreath's Wealth
@@ -400,7 +419,7 @@ A small locked box also contains one of Dopendis Gravebreath's personal seals.
 
 The symbol depicts:
 
-**An open hand holding a flaming horned skull.**
+**A flaming horned skull.**
 
 A character who succeeds on a **DC 13 Intelligence (Religion)** check recognizes it as a local cult’s blasphemous variation of the symbol of [[Orcus]]. The seal can identify Dopendis Gravebreath’s followers, other cult safehouses, or agents connected to [[The Tenebrous Stone-r]].
 
