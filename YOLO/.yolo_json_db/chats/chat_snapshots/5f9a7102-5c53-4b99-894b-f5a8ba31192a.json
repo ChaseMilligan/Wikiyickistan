@@ -319,6 +319,237 @@
       ],
       "createdAt": 1787352030953,
       "updatedAt": 1787352030953
+    },
+    "b1e4f330": {
+      "hash": "b1e4f330",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nThere should be a section here with a clue that connects this adventure to The Tenebrous Stone-r.md \n\n"
+        }
+      ],
+      "createdAt": 1787597440394,
+      "updatedAt": 1787597440394
+    },
+    "ac4b7d50": {
+      "hash": "ac4b7d50",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"386\" endLine=\"386\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n386|A character who has participated in [[The Tenebrous Stone-r]], or who succeeds on a **DC 14 Intelligence (Arcana, Nature, or Religion)** check, recognizes that the Soul Diesel is the same corrupted [[Arcannabis]] concentrate encountered beneath [[Blacklung Quarry]]. The jars are not an isolated experiment: Dopendis Gravebreath’s cult moved its soul-processing operation from this tomb to the quarry, where Arcanite veins could power the distillation process. The empty black crystal found in Area 9 contains residue from that transfer, confirming that the tomb and the quarry were part of the same Orcus operation.\n```\n</user_selected_content>\n\n\nJars of Souls.md (94 Words) Soul Diesel cannmot be \"the same concentraste encountered\" beneath the quarry. I have already run that adventure, and that was not true. The two operations don't need to be directly related, but part of a larger scheme\n\n"
+        }
+      ],
+      "createdAt": 1787597601940,
+      "updatedAt": 1787597601940
+    },
+    "a7d4ac39": {
+      "hash": "a7d4ac39",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"386\" endLine=\"386\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n386|A character who has participated in [[The Tenebrous Stone-r]], or who succeeds on a **DC 14 Intelligence (Arcana, Nature, or Religion)** check, recognizes that the Soul Diesel is a distinct product from the corrupted [[Arcannabis]] encountered beneath [[Blacklung Quarry]]. The two operations used different methods and were not necessarily connected directly, but both appear to have served a larger Orcus scheme involving Arcanite, necromancy, and the weaponization of souls. The empty black crystal found in Area 9 bears the same broader cult signature, suggesting that the tomb and the quarry were separate sites within a much larger network.\n```\n</user_selected_content>\n\n\nJars of Souls.md (99 Words) No this should have nothing to do with the strain they found in the wuarry\n\n"
+        }
+      ],
+      "createdAt": 1787597656939,
+      "updatedAt": 1787597656939
+    },
+    "29a4bc22": {
+      "hash": "29a4bc22",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"386\" endLine=\"386\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n386|A character who has participated in [[The Tenebrous Stone-r]], or who succeeds on a **DC 14 Intelligence (Arcana, Nature, or Religion)** check, recognizes the Soul Diesel as a unique and previously unknown form of [[Arcannabis]] alchemy. It has no connection to the strain found beneath [[Blacklung Quarry]]. The empty black crystal found in Area 9 instead reveals that Dopendis Gravebreath’s work was part of a wider Orcus network experimenting with souls, necromancy, and magical resources at multiple independent sites.\n```\n</user_selected_content>\n\n\nJars of Souls.md (80 Words) Ok this is a terrible clue now. Please make the clue specific to this adventure, and dont word it like I am trying to connect them together. it should feel natural. You bring up Blacklung quarry seemingly out of nowhere, and the mention of the unknown Arcannabis alchemy seems pointless since it connects to nothing\n\n"
+        }
+      ],
+      "createdAt": 1787597765214,
+      "updatedAt": 1787597765214
+    },
+    "611545f1": {
+      "hash": "611545f1",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"384\" endLine=\"388\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n384|### Clue: Blacklung Quarry\n385|\n386|A character who succeeds on a **DC 14 Intelligence (Arcana or Nature)** check can reconstruct the purpose of the active jars. They are not merely storing souls: they are distilling Soul Diesel by mixing spiritual energy with humanoid blood and Arcannabis. The process was designed to produce a controllable magical fuel for Dopendis Gravebreath’s Great Working.\n387|\n388|The empty black crystal found in Area 9 was the final storage vessel for a completed batch. Its residue matches the active jars, but the crystal is empty because Dopendis removed the finished Soul Diesel before abandoning the laboratory. The characters cannot determine what he used it for, only that the most valuable product of the experiment is already gone.\n```\n</user_selected_content>\n\n\nJars of Souls.md (119 Words) Please give me something I can reveal to the players. No spoilers or out of place info\n\n"
+        }
+      ],
+      "createdAt": 1787597898008,
+      "updatedAt": 1787597898008
+    },
+    "648ab056": {
+      "hash": "648ab056",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"384\" endLine=\"388\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n384|### Clue: Soul Diesel\n385|\n386|A character who succeeds on a **DC 14 Intelligence (Arcana or Nature)** check can reconstruct the purpose of the active jars. They are not merely storing souls: they are distilling **Soul Diesel**, a mixture of spiritual energy, humanoid blood, and [[Arcannabis]]. The active jars are connected to the ritual machinery because the Soul Diesel is being used to strengthen and control the undead guardians.\n387|\n388|The empty black crystal found in Area 9 contains a thin residue of the same mixture. This suggests that Soul Diesel was removed from the laboratory before the characters arrived, but the crystal offers no clue about where it went or who took it.\n```\n</user_selected_content>\n\n\nJars of Souls.md (111 Words) Now this no longer gives any hints that this dungeon may be related to the same cult found in the quarry\n\n"
+        }
+      ],
+      "createdAt": 1787597999107,
+      "updatedAt": 1787597999107
+    },
+    "58cdf09a": {
+      "hash": "58cdf09a",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"384\" endLine=\"388\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n384|### Clue: Soul Diesel\n385|\n386|A character who succeeds on a **DC 14 Intelligence (Arcana or Nature)** check can reconstruct the purpose of the active jars. They are not merely storing souls: they are distilling **Soul Diesel**, a mixture of spiritual energy, humanoid blood, and [[Arcannabis]]. The active jars are connected to the ritual machinery because the Soul Diesel is being used to strengthen and control the undead guardians.\n387|\n388|The empty black crystal found in Area 9 contains a thin residue of the same mixture. Its etched markings and ritual notation use the same crude Orcus iconography found on the cult’s materials beneath [[Blacklung Quarry]]. The crystal does not prove that the two sites made the same product, but it suggests that both operations may have received instructions, equipment, or funding from the same wider cult network.\n```\n</user_selected_content>\n\n\nJars of Souls.md (135 Words) Ok so the clue is meant to be in area 7. There can still be a clue in area 9, but there needs to be one here too in case they dont find area 9. Please stop saying things like what a clue suggests. This is meant to be read to the players, so I don't want to say things in such a meta way\n\n"
+        }
+      ],
+      "createdAt": 1787598145825,
+      "updatedAt": 1787598145825
+    },
+    "08f1a6fc": {
+      "hash": "08f1a6fc",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"394\" endLine=\"394\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n394|linking the mark, not necessarily the Soul Diesel itself, to the cult’s work there.\n```\n</user_selected_content>\n\n\nJars of Souls.md (14 Words) again, why are you saying it like this? This has no reason to be said unless you have DM information\n\n"
+        }
+      ],
+      "createdAt": 1787598340621,
+      "updatedAt": 1787598340621
+    },
+    "044b552b": {
+      "hash": "044b552b",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"394\" endLine=\"394\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n394|A character who has participated in [[The Tenebrous Stone-r]] recognizes the crude open-hand-and-skull mark etched into the jar fittings. It is the Orcus cult symbol seen beneath [[Blacklung Quarry]].\n```\n</user_selected_content>\n\n\nJars of Souls.md (33 Words) Now the connection between adventures seems too weak\n\n"
+        }
+      ],
+      "createdAt": 1787598372557,
+      "updatedAt": 1787598372557
+    },
+    "6ba055e3": {
+      "hash": "6ba055e3",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"394\" endLine=\"394\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n394|Beneath the mark, a faded inventory code reads **BLQ-7**, matching the code used on the cult’s equipment in the quarry. The same symbol and code appear on the silver-wire apparatus, showing that this tomb was another working site supplied by the cult.\n```\n</user_selected_content>\n\n\nJars of Souls.md (44 Words) Ok but don't just completely make things up. I would need to retroactively say they saw that code in the previous adventure which I am not going to do\n\n"
+        }
+      ],
+      "createdAt": 1787598440030,
+      "updatedAt": 1787598440030
+    },
+    "60f7a195": {
+      "hash": "60f7a195",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"394\" endLine=\"394\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n394|open-hand-and-skull mark seen beneath [[Blacklung Quarry]].\n```\n</user_selected_content>\n\n\nJars of Souls.md (9 Words) is this actually the symbol they saw? Was that actually referenced in the adventure?\n\n"
+        }
+      ],
+      "createdAt": 1787598708792,
+      "updatedAt": 1787598708792
+    },
+    "e54ffc5b": {
+      "hash": "e54ffc5b",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Untitled.md`\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me make Untitled.md a follow up adventure in the series of one-shots including the previous adventures The Tenebrous Stone-r.md  and Jars of Souls.md . This should be for level 4 party.\n\n"
+        }
+      ],
+      "createdAt": 1787609320987,
+      "updatedAt": 1787609320987
+    },
+    "a308fd17": {
+      "hash": "a308fd17",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"28\" endLine=\"28\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n28|Characters who completed [[The Tenebrous Stone-r]] notice that the cargo route passes near [[Blacklung Quarry]]. \n```\n</user_selected_content>\n\n\nUntitled.md (16 Words) This doesn't make sense. The cargo route cant pass by the quarry if it is going from the city to Doobius House. It would be the opposite direction.\n\n"
+        }
+      ],
+      "createdAt": 1787610644718,
+      "updatedAt": 1787610644718
+    },
+    "fac5f98d": {
+      "hash": "fac5f98d",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"28\" endLine=\"28\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n28|flaming, horned skull mark on the wagon’s cargo as a sign of the cult they encountered beneath [[Blacklung Quarry]].\n```\n</user_selected_content>\n\n\nUntitled.md (19 Words) Please make sure this is something that actually happened in that adventure\n\n"
+        }
+      ],
+      "createdAt": 1787610688433,
+      "updatedAt": 1787610688433
+    },
+    "ed5d483b": {
+      "hash": "ed5d483b",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"28\" endLine=\"28\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n28|Characters who completed [[The Tenebrous Stone-r]] recognize the foul-smelling [[Arcannabis]] residue on the equipment as similar to the smoke that drifted from [[Blacklung Quarry]].\n```\n</user_selected_content>\n\n\nUntitled.md (26 Words) This makes the least sense of anything you have written so far. How are they going to smell the equipment?\n\n"
+        }
+      ],
+      "createdAt": 1787610749013,
+      "updatedAt": 1787610749013
+    },
+    "88fb18ec": {
+      "hash": "88fb18ec",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"28\" endLine=\"28\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n28|When the characters open the damaged crates, a puff of foul-smelling [[Arcannabis]] smoke escapes. Characters who completed [[The Tenebrous Stone-r]] recognize it as the same kind of smoke that drifted from [[Blacklung Quarry]].\n```\n</user_selected_content>\n\n\nUntitled.md (35 Words) Again you did not make this any better. How are they going to smell the equipment from the guildhall which is where you said they are currently. The equipment has been stolen no? So it wouldn't be in the guildhall. Am I not understanding it properly? either way, if I don't understand it, it probably isn't going to make sense to the players\n\n"
+        }
+      ],
+      "createdAt": 1787610870855,
+      "updatedAt": 1787610870855
+    },
+    "b34b2666": {
+      "hash": "b34b2666",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"28\" endLine=\"30\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n28|> “If the cargo contains soul vessels, do not let the authorities break them open in a warehouse. Bring me the ledger. Bring me the names. If there are souls involved, bring me proof that they are free.”\n29|\n30|Skarguther offers an additional **200 gp** for the Ash Ledger and asks the characters to report whether the shipment contained living captives or trapped souls. He does not ask them to steal or preserve any soul vessels for his collection. He wants information about the cult’s activities and the location of any remaining prisoners.\n```\n</user_selected_content>\n\n\nUntitled.md (91 Words) I don't like this part bringing up soul vessels for seemingly no reason. Why would this get brought up? Please try to think harder about the logic of what is being said/revealed to the players.\n\n"
+        }
+      ],
+      "createdAt": 1787611033502,
+      "updatedAt": 1787611033502
+    },
+    "7676f246": {
+      "hash": "7676f246",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"28\" endLine=\"32\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n28|A separate note from [[Skarguther Dungleboof]] offers an additional **200 gp** for the **Ash Ledger**, if the characters find one, and for the names of anyone connected to the theft. Skarguther has been tracking the Orcus network since the events beneath [[Blacklung Quarry]] and the tomb beyond [[Doobius House]], but he does not know what this shipment contains. He wants the characters to recover evidence and report whether anyone was taken alive.\n29|\n30|The note ends with a practical warning:\n31|\n32|> “Bring back the ledger. Bring back the names. If you find survivors, bring them back breathing.”\n```\n</user_selected_content>\n\n\nUntitled.md (95 Words) This is worse than it was before. Now he is talking about the Ash Ledger!?! WHY?? No noe has said anything up to this point about anything of the nature. I thought the wagon supposedly has mining equipment on it? Why is Skarguther aware of what is really in the wagon. Please try to think harder before writing.\n\n"
+        }
+      ],
+      "createdAt": 1787611125456,
+      "updatedAt": 1787611125456
+    },
+    "71feb9fe": {
+      "hash": "71feb9fe",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"28\" endLine=\"28\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n28|The characters do not know what the missing wagon was carrying beyond the ordinary mining supplies listed on its manifest. The unusual cargo and the identity of the thieves become clear only after they find the wreck.\n```\n</user_selected_content>\n\n\nUntitled.md (37 Words) Do not say things like \"The characters do not know\". No one is supposed to know. Even if the characters did know something do not word it like that. It is too meta\n\n"
+        }
+      ],
+      "createdAt": 1787611235311,
+      "updatedAt": 1787611235311
+    },
+    "83145b6d": {
+      "hash": "83145b6d",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"20\" endLine=\"30\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n20|## Adventure Hook\n21|\n22|The characters begin at the [[FLS Guildhall]] on [[Nevercough Island]]. The job appears on [[The Rolling Papers]] as a public recovery contract, though the payment comes from several interested parties.\n23|\n24|> **MISSING CARGO: A sealed wagon disappeared on the forest road after leaving [[Doobius House]]. Recover the wagon, identify the thieves, and return any surviving cargo to the Guildhall. Payment: 500 gp each, plus documented bonuses for recovered evidence and rescued travelers.**\n25|\n26|The contract was posted by a clerk working with [[The Seekers of the Vein]]. The Seekers want their equipment returned, but they are not the only people interested in the missing wagon.\n27|\n28|The wagon’s manifest lists ordinary mining supplies and sealed crates. The unusual cargo and the identity of the thieves become clear only after the party finds the wreck.\n29|\n30|The contract is straightforward: recover the wagon, return any surviving cargo, identify the attackers, and rescue anyone who may have been taken.\n```\n</user_selected_content>\n\n\nUntitled.md (155 Words) Please remove things the characters/players should not be ware of. The hook is meant to be given to the players. No info that only the DM should know. Do not mention things like \"unusual cargo\". Its a spoiler.\n\n"
+        }
+      ],
+      "createdAt": 1787611315370,
+      "updatedAt": 1787611315370
+    },
+    "b19ad01d": {
+      "hash": "b19ad01d",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\" startLine=\"26\" endLine=\"28\">\n```content/Adventures/DM Notes/FLS/Tier 1/Untitled.md\n26|The notice was posted by [[The Seekers of the Vein]]. It says the wagon was carrying mining supplies bound for the Guildhall, and its crew has not been heard from since leaving the village.\n27|\n28|The contract asks the party to find the wagon, determine what happened to the crew, and return any recovered supplies to the Guildhall.\n```\n</user_selected_content>\n\n\nUntitled.md (57 Words) Is this not kind of pointless considering all of this info is already in the blockquote above\n\n"
+        }
+      ],
+      "createdAt": 1787611550455,
+      "updatedAt": 1787611550455
     }
   }
 }
