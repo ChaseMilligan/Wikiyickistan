@@ -1,3 +1,4 @@
+#MotD 2
 # Flames of the Faithful
 
 *A Tier 1 [[Free League of Stickyickistan]] monster-hunt adventure for four characters*

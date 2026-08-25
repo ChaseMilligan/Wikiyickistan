@@ -183,7 +183,7 @@ Threeflower and the Blossom Union can provide the following information:
 - Several smaller fey creatures now follow it around the shrine.
 - The shrine’s magic may protect the owlbear after it is defeated once.
 
-# Part 2: The Shining Shrine
+# Part 3: The Shining Shrine
 
 *Estimated Duration: 90–120 minutes*
 
@@ -284,7 +284,7 @@ The characters may also:
 - Prevent the flying koi from being killed.
 - Recover the shrine’s offerings without stealing them.
 
-# Part 3: Aftermath
+# Part 4: Aftermath
 
 *Estimated Duration: 30 minutes*
 

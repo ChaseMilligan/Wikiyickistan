@@ -305,7 +305,7 @@ Characters searching the workshop can discover the following.
 - ### Workshop
 	- The workbenches contain ordinary candle-making equipment. A successful DC 13 Wisdom (Medicine) check notices faint traces of dried blood on one recently cleaned carving knife.
 - ### Storage
-	- Most crates contain legitimate supplies. Several barrels feature cleverly constructed false bottoms capable of concealing packages of Bloodwalker OG.
+	- Most crates contain legitimate supplies. Several barrels feature cleverly constructed false bottoms capable of concealing packages.
 - ### Office
 	- Marek Flint's office is immaculate. A polished oak desk dominates the room, its surface free of clutter save for neatly stacked ledgers, an inkpot, and a brass candle holder. Shelves line the walls, filled with years of business records documenting the workshop's legitimate candle sales.
 	- A large crimson rug covers most of the wooden floor.

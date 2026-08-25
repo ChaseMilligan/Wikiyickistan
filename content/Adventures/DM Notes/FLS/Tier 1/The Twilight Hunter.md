@@ -1,3 +1,4 @@
+#MotD 1
 # The Twilight Hunter
 
 *A Tier 1 [[Free League of Stickyickistan]] monster-hunt adventure for four characters*

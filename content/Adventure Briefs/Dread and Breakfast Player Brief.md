@@ -45,4 +45,4 @@ Applicants should report to the northern road station at the edge of the Grim Fo
 **DM:** Initiate of Tribulation, Vorg Lordcaster 
 **Date / Time:** TBD  
 **Seats:** 4–5 players  
-**How to join:** Register through the [[FLS Guildhall]] or post in the Free League chat.
+**How to join:** Register through the [[FLS Guildhall]] or post in the Job Board chat.

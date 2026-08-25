@@ -34,60 +34,159 @@
       "createdAt": 1787375284949,
       "updatedAt": 1787375284949
     },
-    "62bb3f38": {
-      "hash": "62bb3f38",
+    "8cf73dac": {
+      "hash": "8cf73dac",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # The Roach Clip Tip\n  - L34 # What Players Should Know\n  - L41 # Rewards\n  - L49 # Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nRemember Jars of Souls Player Brief.md is for the players to read, so dont include any info they shouldn't see\n\n"
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"7\" endLine=\"9\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n7|_An Adventure for 4th-Level Characters_\n8|\n9|On the world of Toril, in the frozen reaches north of the Sword Coast, lies an impenetrable fortress built to house the region’s most dangerous criminals. One of this prison’s earliest inmates, a dwarf known as Prisoner 13, spends her days in seeming quiet and solitude while secretly pulling the strings of a spy network that spans much of the continent. She holds the key to a treasure she stole from a dwarf clan. In this heist, the characters must infiltrate the prison, retrieve the key from Prisoner 13 (found in a tattoo on her hand), and return the key to Varrin Axebreaker, the dwarf who hired them.\n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (114 Words) Here I have pasted the first paragraph of the original adventure. Make it fit my goal in the setting\n\n"
         }
       ],
-      "createdAt": 1787424563957,
-      "updatedAt": 1787424563957
+      "createdAt": 1787626661250,
+      "updatedAt": 1787626661250
     },
-    "3cac486e": {
-      "hash": "3cac486e",
+    "f08c09d5": {
+      "hash": "f08c09d5",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nplease edit Jars of Souls.md to include Soul Diesel in the adventure background\n\n"
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"9\" endLine=\"11\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n9|Unit BH-Umbra Δ9]] has been captured and locked inside ASSCUNT, one of Stickyickistan’s most secure detention sites for politically dangerous criminals, magical liabilities, and enemies who know too much. The [[Ashen Shadow Society]] cannot risk leaving the unit in custody, but sending its veteran operatives directly into the prison would expose the Society’s hand. Instead, an ambitious new heist crew is assigned the impossible job: infiltrate ASSCUNT, locate the prisoners, disable enough of the fortress’s defenses, and create a window for Unit BH-Umbra Δ9 to break out from the inside.\n10|\n11|In this adventure, the players control both sides of the operation: a ragtag 4th-level Ashen Shadow heist crew working their way into the prison from outside, and the 8th-level prisoners of [[Unit BH-Umbra Δ9]] fighting, scheming, and surviving from within. Success requires both teams to act independently, coordinate through limited signals, and turn ASSCUNT’s own security systems against it before the prison locks down for good.\n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (161 Words) Please try again\n\n"
         }
       ],
-      "createdAt": 1787424600683,
-      "updatedAt": 1787424600683
+      "createdAt": 1787626768653,
+      "updatedAt": 1787626768653
     },
-    "1f827c9c": {
-      "hash": "1f827c9c",
+    "92eacffa": {
+      "hash": "92eacffa",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make sure that Jars of Souls.md is consistent and up to date with those changes elsewhere\n\n"
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"9\" endLine=\"9\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n9|inside ASSCUNT\n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (2 Words) Why are you saying this?\n\n"
         }
       ],
-      "createdAt": 1787424600683,
-      "updatedAt": 1787424600683
+      "createdAt": 1787626802676,
+      "updatedAt": 1787626802676
     },
-    "eddc2629": {
-      "hash": "eddc2629",
+    "436e03e1": {
+      "hash": "436e03e1",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Stone-d Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L156 ### Breaking an Inert Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L304 ### Encounter\n  - L318 ### Soul Diesel-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L367 ### Take the Jars\n  - L375 ### Study Them\n  - L383 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L409 # 9. Secret Vault — Arcane Storage\n  - L433 # Ending the Adventure\n  - L467 # Scaling the Adventure\n  - L469 ### 3 Characters\n  - L475 ### 4 Characters\n  - L479 ### 5 Characters\n  - L485 # Adventure Rewards\n  - L508 ## Future Hook: Dopendis Gravebreath Returns\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # The Roach Clip Tip\n  - L34 # What Players Should Know\n  - L41 # Rewards\n  - L49 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # What Players Should Know\n  - L33 # Rewards\n  - L42 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventure Briefs/The Twilight Hunter Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # The Roach Clip Tip\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L45 # Sign-Up\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make an Adventure Briefs document for Jars of Souls.md \n\n"
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce.md`\n  - L1 # ASSCUNT\n  - L12 ## Purpose and Mandate\n  - L21 ## Operations\n  - L29 ## Field Protocols\n  - L42 ## Rank and Squad Structure\n  - L48 ## Known Members\n  - L57 ## Known Allies and Contacts\n  - L65 ## Reputation\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nplease re-read the title. Also A.S.S.C.U.N.T is for the Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce.md \n\n"
         }
       ],
-      "createdAt": 1787424600683,
-      "updatedAt": 1787424600683
+      "createdAt": 1787626838338,
+      "updatedAt": 1787626838338
     },
-    "55cd948e": {
-      "hash": "55cd948e",
+    "e66c99ea": {
+      "hash": "e66c99ea",
       "content": [
         {
           "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # The Roach Clip Tip\n  - L34 # What Players Should Know\n  - L41 # Rewards\n  - L49 # Sign-Up\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you go through Jars of Souls Player Brief.md and make sure thats true\n\n"
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"17\" endLine=\"25\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n17|## Adventure Background\n18|\n19|Prisoner 13 is a dwarf named Korda Glintstone. Prior to her incarceration years ago, Korda was an ally and agent of Clan Axebreaker, a moderately influential dwarf clan in a stronghold called Gauntlgrym. Korda built a network of informants and agents, ostensibly all to the benefit of Clan Axebreaker. With each success, she paid tattooists to inscribe a memorial of her triumph onto her skin. Using ancient rituals, Korda infused many of these artful etchings with the magic of Gauntlgrym’s forges, granting her wondrous gifts.\n20|\n21|Korda grew too ambitious for her role as an agent, so she devised a plan to take power for herself. Over five years she took careful stock of Clan Axebreaker’s wealth and, in one fell swoop, used her network of lieutenants to steal away most of the clan’s gold, leaving only a pittance.\n22|\n23|The Axebreaker dwarves discovered her almost immediately. They rounded up her agents, who either fought to the death or were executed. They captured Korda and interrogated her, but she never revealed the location of the stolen fortune, even under magical compulsion. The Axebreaker dwarves used their influence to have her sentenced to life in prison at Revel’s End. There, Clan Axebreaker was hopeful Korda would eventually break and reveal the location of the stolen wealth. This played right into Korda’s hands, since she had made copious enemies who can’t move against her while she’s incarcerated.\n24|\n25|Korda, now known as Prisoner 13, prepared for her imprisonment by laying the groundwork for a new spy and criminal network, which cost her much of her stolen fortune. She now runs her operations from the prison. Using her magical tattoos, she telepathically coordinates agents throughout Faerûn and beyond, none of whom know the identity of their employer. As for what remains of the stolen Axebreaker wealth, it rests in an unmarked vault in the depths of Gauntlgrym, sealed by a magical lock that only the runic sequence tattooed on Korda’s right hand can open.\n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (330 Words) Please correct this section based on tthe info above, and any other document you may reference\n\n"
         }
       ],
-      "createdAt": 1787424600683,
-      "updatedAt": 1787424600683
+      "createdAt": 1787627696613,
+      "updatedAt": 1787627696613
+    },
+    "1a0cfb0e": {
+      "hash": "1a0cfb0e",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"27\" endLine=\"35\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n27|## Adventure Hooks\n28|\n29|After years of financial hardship due to their stolen fortune, the mountain dwarves of Clan Axebreaker have located the lost treasure but have been unable to access it. A representative of the clan, Varrin Axebreaker, wishes to hire the characters to learn how to access the treasure. If you’re not using the Golden Vault as a patron (see “Using the Golden Vault” below), here are some possible ways Varrin learned about the characters:\n30|\n31|**By Reputation.** Varrin learned of the characters in the aftermath of a previous adventure, especially one that involved retrieving a person or treasure from a dangerous location.\n32|\n33|**Mutual Acquaintance.** One of the characters’ patrons is an old acquaintance of Varrin’s and arranged the meeting. If the characters are involved with the Golden Vault, use this option.\n34|\n35|**Trial Run.** Varrin was responsible for a previous adventure the characters completed successfully. It was a test to see if they were worthy of this mission.\n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (157 Words) Ok now please read all the info above, and any other document you reference, and update this section\n\n"
+        }
+      ],
+      "createdAt": 1787627907795,
+      "updatedAt": 1787627907795
+    },
+    "3c26f261": {
+      "hash": "3c26f261",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L27 # Adventure Hook\n  - L41 ## The Roach Clip Hook: Unfinished Business\n  - L55 # Reaching the Tomb\n  - L84 # 1. The Entrance\n  - L98 # 2. The Landing\n  - L126 # 3. Stone-d Guardians\n  - L138 ### Encounter\n  - L148 ### The Inert Jar\n  - L160 ### Breaking an Inert Jar\n  - L168 ### Taking the Jar\n  - L176 # 4. Forsaken Sarcophagi\n  - L188 ### Encounter\n  - L200 # 5. East Libraries\n  - L221 ### Dopendis Gravebreath\n  - L249 # 6. West Libraries\n  - L272 ## SYVETHIS\n  - L280 # 7. Ritual Chamber\n  - L308 ### Clue: The Soul Diesel Process\n  - L314 ### Encounter\n  - L328 ### Soul Diesel-Fueled Guardians\n  - L338 ### Breaking an Active Jar\n  - L351 # The Lost Adventurers\n  - L359 ### Release Them\n  - L377 ### Take the Jars\n  - L385 ### Study Them\n  - L391 ### Soul Diesel and the Orcus Cult\n  - L403 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L429 # 9. Secret Vault — Arcane Storage\n  - L453 # Ending the Adventure\n  - L487 # Scaling the Adventure\n  - L489 ### 3 Characters\n  - L495 ### 4 Characters\n  - L499 ### 5 Characters\n  - L505 # Adventure Rewards\n  - L528 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nplease edit Jars of Souls.md to include Soul Diesel in the adventure background\n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
+    },
+    "b24e3df7": {
+      "hash": "b24e3df7",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L27 # Adventure Hook\n  - L41 ## The Roach Clip Hook: Unfinished Business\n  - L55 # Reaching the Tomb\n  - L84 # 1. The Entrance\n  - L98 # 2. The Landing\n  - L126 # 3. Stone-d Guardians\n  - L138 ### Encounter\n  - L148 ### The Inert Jar\n  - L160 ### Breaking an Inert Jar\n  - L168 ### Taking the Jar\n  - L176 # 4. Forsaken Sarcophagi\n  - L188 ### Encounter\n  - L200 # 5. East Libraries\n  - L221 ### Dopendis Gravebreath\n  - L249 # 6. West Libraries\n  - L272 ## SYVETHIS\n  - L280 # 7. Ritual Chamber\n  - L308 ### Clue: The Soul Diesel Process\n  - L314 ### Encounter\n  - L328 ### Soul Diesel-Fueled Guardians\n  - L338 ### Breaking an Active Jar\n  - L351 # The Lost Adventurers\n  - L359 ### Release Them\n  - L377 ### Take the Jars\n  - L385 ### Study Them\n  - L391 ### Soul Diesel and the Orcus Cult\n  - L403 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L429 # 9. Secret Vault — Arcane Storage\n  - L453 # Ending the Adventure\n  - L487 # Scaling the Adventure\n  - L489 ### 3 Characters\n  - L495 ### 4 Characters\n  - L499 ### 5 Characters\n  - L505 # Adventure Rewards\n  - L528 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make sure that Jars of Souls.md is consistent and up to date with those changes elsewhere\n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
+    },
+    "74a3ddc6": {
+      "hash": "74a3ddc6",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L27 # Adventure Hook\n  - L41 ## The Roach Clip Hook: Unfinished Business\n  - L55 # Reaching the Tomb\n  - L84 # 1. The Entrance\n  - L98 # 2. The Landing\n  - L126 # 3. Stone-d Guardians\n  - L138 ### Encounter\n  - L148 ### The Inert Jar\n  - L160 ### Breaking an Inert Jar\n  - L168 ### Taking the Jar\n  - L176 # 4. Forsaken Sarcophagi\n  - L188 ### Encounter\n  - L200 # 5. East Libraries\n  - L221 ### Dopendis Gravebreath\n  - L249 # 6. West Libraries\n  - L272 ## SYVETHIS\n  - L280 # 7. Ritual Chamber\n  - L308 ### Clue: The Soul Diesel Process\n  - L314 ### Encounter\n  - L328 ### Soul Diesel-Fueled Guardians\n  - L338 ### Breaking an Active Jar\n  - L351 # The Lost Adventurers\n  - L359 ### Release Them\n  - L377 ### Take the Jars\n  - L385 ### Study Them\n  - L391 ### Soul Diesel and the Orcus Cult\n  - L403 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L429 # 9. Secret Vault — Arcane Storage\n  - L453 # Ending the Adventure\n  - L487 # Scaling the Adventure\n  - L489 ### 3 Characters\n  - L495 ### 4 Characters\n  - L499 ### 5 Characters\n  - L505 # Adventure Rewards\n  - L528 ## Future Hook: Dopendis Gravebreath Returns\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n- `content/Adventure Briefs/The Twilight Hunter Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # The Roach Clip Tip\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L45 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make an Adventure Briefs document for Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
+    },
+    "5e8a5e59": {
+      "hash": "5e8a5e59",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nRemember Jars of Souls Player Brief.md is for the players to read, so dont include any info they shouldn't see\n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
+    },
+    "3ef231ed": {
+      "hash": "3ef231ed",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you go through Jars of Souls Player Brief.md and make sure thats true\n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
+    },
+    "93b62cdc": {
+      "hash": "93b62cdc",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Ashen Shadow Society/Airships.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Airships.md`\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society.md`\n  - L2 # History\n  - L13 # Hierarchy\n  - L16 ## The Council of Shadows:\n  - L19 ## The Enigmatic Quartet:\n  - L22 ## The Squad Hierarchy:\n  - L25 ## Squad Ranks:\n  - L27 ### a) Novices:\n  - L30 ### b) Bloodhounds:\n  - L33 ### c) Ravens:\n  - L36 ### d) Shadowsong:\n  - L39 ## Squad Competition and Rewards:\n  - L46 # Support Squad:\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce.md`\n  - L1 # ASSCUNT\n  - L12 ## Purpose and Mandate\n  - L21 ## Operations\n  - L29 ## Field Protocols\n  - L42 ## Rank and Squad Structure\n  - L48 ## Known Members\n  - L57 ## Known Allies and Contacts\n  - L65 ## Reputation\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Pilots/Ket 'Baby' Snoozh.md`\n  - L13 ### Price for Flight - 25gp\n- `content/Factions/Ashen Shadow Society/Pilots/Ket 'Baby' Snoozh.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Pilots/Velindra Ashveil.md`\n  - L15 ### Price for Flight - 40gp\n- `content/Factions/Ashen Shadow Society/Pilots/Velindra Ashveil.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Squads/Unit BH-Umbra Δ9.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Squads/Unit BH-Umbra Δ9.md`\n  - L3 # Lore\n  - L5 #### Arcannabis Colossus\n  - L8 #### Pot Potion Press Pilfer\n  - L12 #### The [[Gilded Nug]]\n  - L15 #### Bugs & Bloodhounds\n  - L17 ## Members\n  - L23 ## Allies\n  - L31 ## Enemies\n\n## Mentioned Vault Folders\n- `content/Factions/Ashen Shadow Society`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"9\" endLine=\"9\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n9| The [[Ashen Shadow Society]] \n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (4 Words) Please refer to Ashen Shadow Society \n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
+    },
+    "4a6e1765": {
+      "hash": "4a6e1765",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you update The Shining Shrine Player Brief.md to closer resemble Jars of Souls Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
+    },
+    "65be6d87": {
+      "hash": "65be6d87",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md\" startLine=\"333\" endLine=\"511\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md\n333|### 4 - Itsy Bitsy Spiders\n334|\n335|The party inadvertently stumbles into a region of the forest controlled by a clan of ettercaps, who use the area to herd and care for spiders of all kinds. A few outcast driders have found a home here as well, far from the judgmental eyes of their former kin. To all these creatures, intruders are nothing but food, and the party is promptly attacked by ravenous arachnids looking to expand their larder.\n336|\n337|Environment. Webs all over the ground and trees create difficult terrain in the area.\n338|\n339|Consequences. The spiders prefer to eat their meals alive, and luckily for the party, they aren’t feeling too hungry at the moment. If the party falls in combat, they wake up 1d4 hours later, wrapped in webbing and strung from tree branches. A creature can escape from the webs with a successful VDC Strength check.\n340|\n341|APL Composition\n342|\n343|1st 2 swarms of spiders\n344|\n345|2nd 1 giant spider, 2 swarms of spiders\n346|\n347|3rd 1 ettercap, 2 swarms of spiders\n348|\n349|4th 1 ettercap, 2 giant spiders\n350|\n351|5th 2 ettercaps, 2 phase spiders\n352|\n353|6th 1 drider, 2 giant spiders\n354|\n355|7th 1 drider, 2 ettercaps, 1 giant spider\n356|\n357|8th 1 drider, 1 ettercap, 2 phase spiders\n358|\n359|9th 2 driders, 1 giant spider\n360|\n361|10th 2 driders, 2 phase spiders\n362|\n363|11th 4 driders, 2 phase spiders\n364|\n365|12th 5 driders, 1 phase spider\n366|\n367|13th 4 driders, 2 ettercaps, 2 phase spiders\n368|\n369|14th 5 driders, 2 phase spiders\n370|\n371|15th 5 driders, 4 phase spiders\n372|\n373|16th 6 driders, 4 phase spiders\n374|\n375|5 - Gaia’s Teeth: Forest\n376|\n377|The bandit group Gaia’s Teeth (see Recurring Encounters) make use of advanced arboreal techniques and camouflage to execute skilled ambushes from the boughs of high trees. They will gladly take a gold tithe, a minimum of 20 times the APL.\n378|\n379|Forest Camouflage. The attackers are adapted to the terrain; each creature can take the Hide action as a bonus action on its turn.\n380|\n381|APL Composition\n382|\n383|1st 3 banditsσ, 2 pseudodragonsσ\n384|\n385|2nd 3 flying snakesσ, 3 scoutsσ\n386|\n387|3rd 2 flying snakesσ, 2 spies, 2 thugsσ\n388|\n389|4th 2 banditsσ, 2 brown bearsσ, 1 druidσ\n390|\n391|5th 3 druidsσ, 2 owlbearsσ\n392|\n393|6th 2 bandit captainsσ, 2 wereboarsσ\n394|\n395|7th 2 bandit captainsσ, 2 owlbearsσ, 1 shambling moundσ\n396|\n397|8th 1 shambling moundσ, 3 spies, 2 wereboarsσ\n398|\n399|9th 2 druidsσ, 1 giant apeσ, 2 owlbearsσ\n400|\n401|10th 1 giant apeσ, 2 rangers*σ\n402|\n403|11th 1 assassinσ, 2 rangers*σ, 1 young green dragonσ\n404|\n405|12th 2 assassinsσ, 2 giant apesσ\n406|\n407|13th 2 giant apesσ, 2 rangers*σ, 1 treantσ\n408|\n409|14th 2 assassinsσ, 2 treantsσ\n410|\n411|15th 2 assassinsσ, 3 giant apesσ, 1 young green dragonσ\n412|\n413|16th 2 assassinsσ, 2 rangers*σ, 2 treantsσ\n414|\n415|17th 3 assassinsσ, 2 giant apesσ, 2 treantsσ\n416|\n417|18th 3 rangers*σ, 3 treantsσ, 2 young green dragonsσ\n418|\n419|19th 3 assassinsσ, 3 giant apesσ, 3 treantsσ\n420|\n421|20th 2 assassinsσ, 4 rangers*σ, 3 treantsσ, 2 young green dragonsσ\n422|\n423|*See Appendix C\n424|\n425|6 - The Cinder Lords\n426|\n427|A coalition of fiery creatures calling themselves the Cinder Lords has come together to find a new base of operations. The forest is in a spot suitable for their purposes, but must first be incinerated in order to make room for a mighty stronghold. They suffer no interlopers, and are ready for combat when the party encounters their forces.\n428|\n429|Non-Combat Alternative. The only way to avoid combat with the Cinder Lords is to agree to aid them in their pursuits. If the party spends at least 2 hours starting fires to clear the way for a stronghold, the Cinder Lords allow them to leave and even pay them for their troubles with a sum of gold pieces equal to 50 times the APL. Doing this, however, may incur the wrath of other denizens of the forest.\n430|\n431|APL Composition\n432|\n433|5th 2 faerie-o’-fires*, 2 hell hound\n434|\n435|6th 2 faerie-o’-fires*, 1 fire elemental\n436|\n437|7th 1 faerie-o’-fire*, 1 fire elemental, 2 hell hound\n438|\n439|8th 1 fire giant, 1 hell hound\n440|\n441|9th 3 faerie-o’-fires*, 2 fire elementals\n442|\n443|10th 2 fire elementals, 3 hell hound\n444|\n445|11th 1 faerie-o’-fire*, 2 fire giants\n446|\n447|12th 1 fire elemental, 1 fire giant, 1 young red dragon\n448|\n449|13th 2 fire elementals, 1 fire giant, 1 young red dragon\n450|\n451|14th 2 fire giants, 1 young red dragon\n452|\n453|15th 2 fire giants, 1 horned devil\n454|\n455|16th 1 horned devil, 2 young red dragons\n456|\n457|17th 2 fire giants, 3 horned devils\n458|\n459|18th 3 horned devils, 2 young red dragons\n460|\n461|19th 1 fire giant, 3 horned devils, 2 young red dragons\n462|\n463|20th 2 fire elementals, 1 fire giant, 4 horned devils\n464|\n465|*See Appendix C\n466|\n467|7 - Beware the Behirs\n468|\n469|Fancying themselves serpentine tyrants, a family of behirs has made a lair in the forest, and enslaved several creatures to help them amass a hoard to rival those of legendary dragons. The behirs keep their servants on a short leash, accompanying them on their forays for treasure to prevent escape. The party runs into one or more behirs alongside their slaves, who attack to rob the adventurers of their valuables. If all the behirs are defeated, the humanoids surrender immediately.\n470|\n471|Non-Combat Alternative. The behirs’ arrogance and desire to emulate dragons can be turned against them. A successful VDC Charisma (Persuasion) check convinces the behirs to let the party go if they can outsmart the would-be-draconic creatures. The behirs agree to a game of riddles, consisting of best-of-three contested Intelligence checks, or, at the GM’s discretion, a sudden-death format battle of wits between the GM and players in which the two sides take it in turns to posit riddles. If one of the behirs’ slaves stands a better chance than them, they are forced to play on the behirs’ behalf. If the party succeeds, they can leave freely. If not, combat ensues.\n472|\n473|Consequences. If the party is defeated, the behirs appropriate all of their treasure and enslave them. An opportunity for escape might present itself when they’re sent on an expedition in the company of one of the serpentine monsters.\n474|\n475|APL Composition\n476|\n477|11th 1 behir, 2 gladiators\n478|\n479|12th 1 behir, 3 gladiators\n480|\n481|13th 1 behir, 3 mages\n482|\n483|14th 1 behir, 1 hydra, 2 mages\n484|\n485|15th 1 behir, 2 hydras, 1 mage\n486|\n487|16th 2 behirs, 1 hydra, 1 mage\n488|\n489|17th 3 behirs, 2 hydras, 1 mage\n490|\n491|18th 2 behirs, 3 gladiators, 3 mages\n492|\n493|19th 3 behirs, 3 gladiators, 2 mages\n494|\n495|20th 3 behirs, 2 gladiators, 2 hydras, 2 mages\n496|\n497|8 - Highway Robbery\n498|\n499|A group of veteran adventurers, disillusioned with their lives and achievements, have turned to banditry for quick coin to fund their vices. The former adventurers resort to ambush tactics, and creatures with a passive Perception score lower than the VDC are surprised. They fight to the death, and don’t pull any punches; if their foes are slain during the fight, then they never deserved to live in the first place.\n500|\n501|Non-Combat Alternative. Despite their ruthlessness, these former adventurers are also practical and would rather not break a sweat if they don’t have to. They will gladly let the party go if their demands for loot are met. They will take a tithe in gold pieces equal to 200 times the APL, or a number of uncommon or rarer magic items equal to the party’s average proficiency bonus.\n502|\n503|APL Composition\n504|\n505|17th 2 archmages, 4 assassins\n506|\n507|18th 3 archmages, 2 assassins\n508|\n509|19th 1 archmage, 6 assassins\n510|\n511|20th 2 archmages, 5 assassins\n```\n</user_selected_content>\n\n\nThe Shining Shrine.md (1233 Words) please format the tables in the selected section\n\n"
+        }
+      ],
+      "createdAt": 1787682959489,
+      "updatedAt": 1787682959489
     }
   }
 }

@@ -38,7 +38,7 @@ A coded tip begins circulating independently after the public hunt notice appear
 - **125 gp each** for completing the official Free League investigation
 - **250 gp each** for rescuing the missing hunters
 - A separate, privately negotiated payment from the anonymous [[The Roach Clip]] buyer for qualifying biological and mechanical components recovered during the investigation
-- Additional payment or research compensation may be available through [[Dr. Stein]] for useful observations or recoverable components
+- Additional payment or research compensation may be available through a patron for useful observations or recoverable components
 - Opportunity to harvest unusual monster components for crafting bespoke magic items
 - Possible bonus XP at the DMs discretion.
 

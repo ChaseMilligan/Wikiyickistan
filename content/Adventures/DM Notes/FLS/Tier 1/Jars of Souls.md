@@ -1,3 +1,4 @@
+#CoO 2
 
 _A D&D 5e (2024) adventure for 4–5 3rd-level characters_
 
@@ -503,7 +504,7 @@ Run the adventure as written, but give the Ritual Chamber skeleton **2 additiona
 
 # Adventure Rewards
 
-**1200 XP each** for completing the adventure and resolving the fate of the trapped souls. This is a challenging Tier 1 adventure reward under [[Character Advancement]].
+**900 XP each** for completing the adventure and resolving the fate of the trapped souls. This is a challenging Tier 1 adventure reward under [[Character Advancement]].
 
 **150 gp each** from the [[N.E.R.D]] scholar for investigating the tomb and returning with evidence. This payment is divided among the characters who complete the contract.
 

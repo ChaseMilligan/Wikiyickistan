@@ -1,47 +1,25 @@
-# Adventure Summary
-
-**The Shining Shrine** is a fey-themed monster hunt set in [[Springwood]], a sacred woodland in [[Stickyickistan]]. The contract circulates through the [[FLS Guildhall]] after appearing in [[The Rolling Papers]], drawing licensed monster hunters, local heroes, and Free League regulars toward [[Springarden]], a holy garden maintained by the [[Blossom Union]]. A dangerous fey creature has occupied the garden’s shrine, disturbed its sacred pools, injured the caretakers, and driven away pilgrims the Blossom Union relies on for donations.
-
-# The Rolling Papers Advertisement
-
-**Submitted by:** [[Blossom Union]]
+**Submitted by:** [Blossom Union](Blossom%20Union)  
 **Tier:** Tier 1  
 **Recommended Level:** 3  
 **Expected Length:** One-shot, approximately 2–4 hours  
 **Tone:** Fey monster hunt, sacred garden mystery, whimsical danger  
-**Location:** [[Springwood]] / [[Springarden]]  
+**Location:** [Springwood](Springwood) / [Springarden](Springarden)
 
-## Headline
+### Public Notice
 
-> **SPRINGARDEN SEEKS LICENSED MONSTER HUNTERS AFTER FEY CREATURE OCCUPIES HOLY SHRINE**
+> **SPRINGARDEN SEEKS LICENSED MONSTER HUNTERS AFTER FEY DISTURBANCE AT HOLY SHRINE**
 
-## Public Notice
+The [Blossom Union](Blossom%20Union) seeks licensed adventurers for an urgent matter in the holy gardens of [Springwood](Springwood). Visitors have been warned away from [Springarden](Springarden) after a dangerous fey presence disrupted the shrine, injured caretakers, and disturbed the sacred waters.
 
-Pilgrims and travelers have been advised to avoid the holy gardens of [[Springwood]] until further notice. A dangerous fey creature has occupied [[Springarden]], injured members of the [[Blossom Union]], disturbed the sacred waters, and driven away visitors.
+Applicants should be prepared for unpredictable fey magic, delicate terrain, and a site whose caretakers would strongly prefer it remain intact. Once a party is formed, report to [The Loot Tavern](The%20Loot%20Tavern) and ask for [Threeflower](Threeflower), who will provide travel instructions and explain how to reach Springarden.
 
-The Blossom Union offers payment to capable adventurers who can identify the creature, protect Springarden, and remove the threat without damaging the shrine or its sacred pools.
+The Blossom Union offers payment to capable adventurers who can identify the threat, protect the shrine, and resolve the disturbance without unnecessary damage to the garden or its sacred pools.
 
-Applicants should register at the [[FLS Guildhall]] after reading this notice. Once a party is formed, report to [[The Loot Tavern]] and ask for **[[Threeflower]]**, who will provide the necessary travel instructions and explain how to reach Springarden.
+## Rewards
 
-# What Players Should Know
-
-- **Content / vibe:** Fey magic, sacred garden trouble, monster hunting, investigation, and whimsical danger.
-- **Combat / roleplay / exploration mix:** Balanced, with travel through Springwood, investigation at the shrine, and a final monster confrontation.
-- **Character hooks:** Good for monster hunters, Free League regulars, Blossom Union allies, fey researchers, or adventurers seeking unusual monster components.
-- **Special notes:** Characters should avoid unnecessary damage to the shrine and sacred pools. Healing, support abilities, exploration skills, and ways to create magical darkness may be especially useful.
-
-# Rewards
-
-- **600 XP each**
-- **225 gp each**
-- Gratitude from the [[Blossom Union]]
-- Future access to [[Springarden]] as trusted guests, assuming the shrine is preserved
-- The opportunity to harvest unusual monster components for crafting up to 3 bespoke Boss Monster magic items
-- Possible bonus XP for preserving the shrine, protecting the sacred pools, or rescuing injured Blossom Union members
-
-# Sign-Up
-
-**DM:** Initiate of Tribulation, Vorg Lordcaster  
-**Date / Time:** TBD  
-**Seats:** 4 players  
-**How to join:** Register through the [[FLS Guildhall]] / post in the Free League chat.
+- **Up to 600 XP each** for completing the adventure.
+- **225 gp each** from the [Blossom Union](Blossom%20Union) for protecting Springarden and resolving the fey disturbance.
+- Gratitude from the [Blossom Union](Blossom%20Union).
+- Possible future access to [Springarden](Springarden) as trusted guests, assuming the shrine is preserved.
+- The opportunity to harvest unusual monster components for crafting up to 3 bespoke Boss Monster magic items.
+- Possible bonus XP for preserving the shrine, protecting the sacred pools, or rescuing injured Blossom Union members.
