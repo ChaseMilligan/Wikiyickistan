@@ -12,17 +12,6 @@
       "createdAt": 1787325567983,
       "updatedAt": 1787325567983
     },
-    "258951c1": {
-      "hash": "258951c1",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L42 # Reaching the Tomb\n  - L68 # 1. The Entrance\n  - L82 # 2. The Landing\n  - L110 # 3. Immortal Guardians\n  - L125 ### Encounter\n  - L135 ### The Jar\n  - L147 ### Breaking the Jar\n  - L165 ### Taking the Jar\n  - L173 # 4. Forsaken Sarcophagi\n  - L185 ### Encounter\n  - L197 # 5. East Libraries\n  - L218 ### Opendis\n  - L246 # 6. West Libraries\n  - L264 ## SYVETHIS\n  - L272 # 7. Ritual Chamber\n  - L294 ### Encounter\n  - L308 ### Soul-Fueled Guardians\n  - L318 ### Destroying a Jar\n  - L335 # The Lost Adventurers\n  - L343 ### Release Them\n  - L359 ### Take the Jars\n  - L367 ### Study Them\n  - L379 # 8. Secret Vault — Opendis's Wealth\n  - L410 # 9. Secret Vault — Arcane Storage\n  - L437 # Ending the Adventure\n  - L475 # Scaling the Adventure\n  - L477 ### 3 Characters\n  - L483 ### 4 Characters\n  - L487 ### 5 Characters\n  - L493 # Adventure Rewards\n  - L509 ## Future Hook: Opendis Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me fit Jars of Souls.md into the Stickyickistan setting, and I would like it to be related to The Tenebrous Stone-r.md in that it should have something to do with the cult of Orcus\n\n"
-        }
-      ],
-      "createdAt": 1787327309729,
-      "updatedAt": 1787327309729
-    },
     "1c3b7c64": {
       "hash": "1c3b7c64",
       "content": [
@@ -33,39 +22,6 @@
       ],
       "createdAt": 1787328397140,
       "updatedAt": 1787328397140
-    },
-    "a1e98fdf": {
-      "hash": "a1e98fdf",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `Blacklung Quarry.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCreate some content for Blacklung Quarry.md \n\n"
-        }
-      ],
-      "createdAt": 1787328534295,
-      "updatedAt": 1787328534295
-    },
-    "fe0c82ff": {
-      "hash": "fe0c82ff",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n  - L7 ## Current Situation\n  - L15 ## Locations\n  - L17 ### The Quarry Face\n  - L23 ### The Elevator Shaft\n  - L29 ### The Sealed Workings\n  - L35 ### The Ritual Chamber\n  - L43 ## Rumors and Clues\n  - L51 ## Adventure Connection\n  - L57 ## Aftermath\n- `content/Regions/Greater Stickyickistan/Mount Zooka.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nBlacklung Quarry.md is actually located on Mount Zooka.md \n\n"
-        }
-      ],
-      "createdAt": 1787328680460,
-      "updatedAt": 1787328680460
-    },
-    "749d0ea8": {
-      "hash": "749d0ea8",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n  - L7 ## Locations\n  - L9 ### The Quarry Face\n  - L15 ### The Elevator Shaft\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI just want Blacklung Quarry.md to be a short description of the mine, not a run down on the adventures its related to\n\n"
-        }
-      ],
-      "createdAt": 1787328859631,
-      "updatedAt": 1787328859631
     },
     "7710da75": {
       "hash": "7710da75",
@@ -199,17 +155,6 @@
       "createdAt": 1787339763609,
       "updatedAt": 1787339763609
     },
-    "43a9a692": {
-      "hash": "43a9a692",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Jar\n  - L158 ### Breaking the Jar\n  - L176 ### Taking the Jar\n  - L184 # 4. Forsaken Sarcophagi\n  - L196 ### Encounter\n  - L208 # 5. East Libraries\n  - L229 ### Opendis\n  - L257 # 6. West Libraries\n  - L275 ## SYVETHIS\n  - L283 # 7. Ritual Chamber\n  - L303 ### Encounter\n  - L317 ### Soul-Fueled Guardians\n  - L327 ### Destroying a Jar\n  - L344 # The Lost Adventurers\n  - L352 ### Release Them\n  - L368 ### Take the Jars\n  - L376 ### Study Them\n  - L388 # 8. Secret Vault — Opendis's Wealth\n  - L419 # 9. Secret Vault — Arcane Storage\n  - L446 # Ending the Adventure\n  - L484 # Scaling the Adventure\n  - L486 ### 3 Characters\n  - L492 ### 4 Characters\n  - L496 ### 5 Characters\n  - L502 # Adventure Rewards\n  - L518 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"144\" endLine=\"180\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n144|### The Jar\n145|\n146|A black ceramic vessel rests upon a stone pedestal.\n147|\n148|Ghostly faces occasionally push outward from its surface before disappearing.\n149|\n150|Each jar contains several tortured souls.\n151|\n152|Touching it causes the creature to hear dozens of overlapping whispers.\n153|\n154|[[Skarguther Dungleboof]] offers **300 gp for each intact jar** delivered to him, up to **1,200 gp** for the four active jars in the ritual chamber. He insists that every vessel remain fully intact and undamaged so that the tortured souls remain preserved inside the relic.\n155|\n156|This creates a clear moral choice. The characters can carry the jars to Skarguther and claim the payment, knowingly consigning the trapped souls to a collector of cursed and unholy relics. Or they can smash the jars, which releases the souls and allows them to pass into the afterlife, but destroys the vessels and forfeits Skarguther’s reward. Characters who choose both may release some souls while keeping other jars intact, but Skarguther pays only for undamaged vessels.\n157|\n158|### Breaking the Jar\n159|\n160|AC 12  \n161|HP 10  \n162|Immune: Poison, Psychic\n163|\n164|Destroying the jar releases the souls trapped inside.\n165|\n166|A wave of spectral energy fills the chamber.\n167|\n168|Every creature within 10 feet must make a **DC 12 Wisdom saving throw**.\n169|\n170|On a failure, the creature is **Frightened until the end of its next turn**.\n171|\n172|The spirits then disappear.\n173|\n174|A character proficient in Arcana or Religion realizes the souls have finally been allowed to pass into the afterlife.\n175|\n176|### Taking the Jar\n177|\n178|The characters may instead carry the intact vessel.\n179|\n180|Doing so could attract the attention of necromancers, undead creatures, religious authorities—or Opendis himself.\n```\n</user_selected_content>\n\n\nJars of Souls.md (262 Words) can you update this section based on prior info about the jars in Jars of Souls.md \n\n"
-        }
-      ],
-      "createdAt": 1787340378223,
-      "updatedAt": 1787340378223
-    },
     "31a21cd0": {
       "hash": "31a21cd0",
       "content": [
@@ -232,17 +177,6 @@
       "createdAt": 1787343871576,
       "updatedAt": 1787343871576
     },
-    "08173827": {
-      "hash": "08173827",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Jar\n  - L154 ### Breaking the Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Opendis\n  - L245 # 6. West Libraries\n  - L263 ## SYVETHIS\n  - L271 # 7. Ritual Chamber\n  - L291 ### Encounter\n  - L305 ### Soul-Fueled Guardians\n  - L315 ### Destroying a Jar\n  - L332 # The Lost Adventurers\n  - L340 ### Release Them\n  - L356 ### Take the Jars\n  - L364 ### Study Them\n  - L376 # 8. Secret Vault — Opendis's Wealth\n  - L407 # 9. Secret Vault — Arcane Storage\n  - L434 # Ending the Adventure\n  - L472 # Scaling the Adventure\n  - L474 ### 3 Characters\n  - L480 ### 4 Characters\n  - L484 ### 5 Characters\n  - L490 # Adventure Rewards\n  - L506 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI can still see a few Opendis references. Please find all of them in the Jars of Souls.md \n\n"
-        }
-      ],
-      "createdAt": 1787343947634,
-      "updatedAt": 1787343947634
-    },
     "05996d8c": {
       "hash": "05996d8c",
       "content": [
@@ -253,17 +187,6 @@
       ],
       "createdAt": 1787344306944,
       "updatedAt": 1787344306944
-    },
-    "0c4d56fb": {
-      "hash": "0c4d56fb",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Jar\n  - L154 ### Breaking the Jar\n  - L164 ### Taking the Jar\n  - L172 # 4. Forsaken Sarcophagi\n  - L184 ### Encounter\n  - L196 # 5. East Libraries\n  - L217 ### Dopendis Gravebreath\n  - L245 # 6. West Libraries\n  - L268 ## SYVETHIS\n  - L276 # 7. Ritual Chamber\n  - L296 ### Encounter\n  - L310 ### Soul-Fueled Guardians\n  - L320 ### Destroying a Jar\n  - L337 # The Lost Adventurers\n  - L345 ### Release Them\n  - L361 ### Take the Jars\n  - L369 ### Study Them\n  - L381 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L412 # 9. Secret Vault — Arcane Storage\n  - L439 # Ending the Adventure\n  - L477 # Scaling the Adventure\n  - L479 ### 3 Characters\n  - L485 ### 4 Characters\n  - L489 ### 5 Characters\n  - L495 # Adventure Rewards\n  - L511 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nOk so I was a bit confused. There are 2 Jars of Souls in both areas labeled 3. One jar in each. Then there are four ACTIVE soul jars in area 7. Please correct Jars of Souls.md and make sure the difference between the inert jars and active jars is made clear\n\n"
-        }
-      ],
-      "createdAt": 1787344933659,
-      "updatedAt": 1787344933659
     },
     "e0bafcfc": {
       "hash": "e0bafcfc",
@@ -308,17 +231,6 @@
       ],
       "createdAt": 1787350336003,
       "updatedAt": 1787350336003
-    },
-    "e9c21d80": {
-      "hash": "e9c21d80",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L80 # 1. The Entrance\n  - L94 # 2. The Landing\n  - L122 # 3. Immortal Guardians\n  - L134 ### Encounter\n  - L144 ### The Inert Jar\n  - L154 ### Breaking an Inert Jar\n  - L162 ### Taking the Jar\n  - L170 # 4. Forsaken Sarcophagi\n  - L182 ### Encounter\n  - L194 # 5. East Libraries\n  - L215 ### Dopendis Gravebreath\n  - L243 # 6. West Libraries\n  - L266 ## SYVETHIS\n  - L274 # 7. Ritual Chamber\n  - L302 ### Encounter\n  - L316 ### Soul-Fueled Guardians\n  - L328 ### Breaking an Active Jar\n  - L341 # The Lost Adventurers\n  - L349 ### Release Them\n  - L365 ### Take the Jars\n  - L373 ### Study Them\n  - L385 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L411 # 9. Secret Vault — Arcane Storage\n  - L435 # Ending the Adventure\n  - L469 # Scaling the Adventure\n  - L471 ### 3 Characters\n  - L477 ### 4 Characters\n  - L481 ### 5 Characters\n  - L487 # Adventure Rewards\n  - L510 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI think the funniest option here is to go with something like the jars are actually full of an Arcannabis strain called Soul Diesel, and the trapped souls are being used in place of magic essence. Soul diesel is the product of trapped souls mixed with humanoid blood. The effect of the strain allows a user to do 1d4 bonus damage of the same type as the attack to humanoids for an hour. The specters and alchemist skeleton in area 7 should be under the effects of the strain since the active jars are empowering them. Please update Jars of Souls.md \n\n"
-        }
-      ],
-      "createdAt": 1787352030953,
-      "updatedAt": 1787352030953
     },
     "b1e4f330": {
       "hash": "b1e4f330",
@@ -441,17 +353,6 @@
       "createdAt": 1787598708792,
       "updatedAt": 1787598708792
     },
-    "e54ffc5b": {
-      "hash": "e54ffc5b",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Untitled.md`\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me make Untitled.md a follow up adventure in the series of one-shots including the previous adventures The Tenebrous Stone-r.md  and Jars of Souls.md . This should be for level 4 party.\n\n"
-        }
-      ],
-      "createdAt": 1787609320987,
-      "updatedAt": 1787609320987
-    },
     "a308fd17": {
       "hash": "a308fd17",
       "content": [
@@ -550,6 +451,138 @@
       ],
       "createdAt": 1787611550455,
       "updatedAt": 1787611550455
+    },
+    "4b182ed7": {
+      "hash": "4b182ed7",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md`\n  - L5 ## Background\n  - L17 ### Summary\n  - L25 ### Adventure Hooks\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\" startLine=\"30\" endLine=\"33\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\n30|\n31|- **_Curiosity: The Absent Adventurer._** Twice before, Aramachi has sent a request to Heliana for adventurers to deal with a rot. Both times, an adventurer returned saying they hadn’t found anything. Both times, the rot disappeared. The first adventurer returned to Aramachi but was never seen again. The second, Heliana has kept restrained in the dark of Lut’s basement where he has begun to ‘blossom’ (see [Clue 3](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#Clue3Subterranean)). Though hesitant to send more adventurers to their doom, Heliana wants this rot dealt with once and for all.\n32|- **_Morality: Rotting Rations._** Without immediate intervention, Aramachi faces starvation. The harvest has been decimated and, if this rot isn’t curtailed, there won’t be any harvest at all! The lives of the townspeople are at stake and the town’s mayor has decreed that whatever is causing the rot must be dealt with.\n33|- **_Compensation: Sabotaged Smugglers._** Smugglers that use the sewer and cave system for transporting their treasures can be overheard complaining in the tavern. Something has been rotting their smuggled exotic animals, and the tobacco, halfleaf, and rum is putrefied. Something deeper in the cave system is bad for business and needs sorting. The smugglers use the Loot Tavern* as an interdimensional crossroads.\n```\n</user_selected_content>\n\n\nThe Veiled Lady.md (209 Words) Please update these to fit the setting. Use info in The Veiled Lady.md from above, and read any lore documents you reference\n\n"
+        }
+      ],
+      "createdAt": 1787696263858,
+      "updatedAt": 1787696263858
+    },
+    "eb9963c9": {
+      "hash": "eb9963c9",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\" startLine=\"33\" endLine=\"33\">\n```content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\n33| **_Compensation: Sabotaged Smugglers._** Smugglers using [[The Loot Tavern]] as an interplanar crossroads have begun losing cargo to the same rot. Exotic animals are dying, and shipments of tobacco, halfleaf, and rum are arriving putrefied. The smugglers are willing to pay for a discreet solution, provided the characters investigate the caves beneath North Booftown without involving the authorities or asking too many questions.\n```\n</user_selected_content>\n\n\nThe Veiled Lady.md (62 Words) This one doesn't make much sense\n\n"
+        }
+      ],
+      "createdAt": 1787696875753,
+      "updatedAt": 1787696875753
+    },
+    "85778e64": {
+      "hash": "85778e64",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me fit Jars of Souls.md into the Stickyickistan setting, and I would like it to be related to The Tenebrous Stone-r.md in that it should have something to do with the cult of Orcus\n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "a49e07b5": {
+      "hash": "a49e07b5",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCreate some content for Blacklung Quarry.md \n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "426e0335": {
+      "hash": "426e0335",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n- `content/Regions/Greater Stickyickistan/Mount Zooka.md`\n  - L9 ## Blacklung Quarry\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nBlacklung Quarry.md is actually located on Mount Zooka.md \n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "665a7364": {
+      "hash": "665a7364",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Blacklung Quarry.md`\n  - L1 # Blacklung Quarry\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI just want Blacklung Quarry.md to be a short description of the mine, not a run down on the adventures its related to\n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "6d664b5e": {
+      "hash": "6d664b5e",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\" startLine=\"144\" endLine=\"180\">\n```content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md\n144|### The Jar\n145|\n146|A black ceramic vessel rests upon a stone pedestal.\n147|\n148|Ghostly faces occasionally push outward from its surface before disappearing.\n149|\n150|Each jar contains several tortured souls.\n151|\n152|Touching it causes the creature to hear dozens of overlapping whispers.\n153|\n154|[[Skarguther Dungleboof]] offers **300 gp for each intact jar** delivered to him, up to **1,200 gp** for the four active jars in the ritual chamber. He insists that every vessel remain fully intact and undamaged so that the tortured souls remain preserved inside the relic.\n155|\n156|This creates a clear moral choice. The characters can carry the jars to Skarguther and claim the payment, knowingly consigning the trapped souls to a collector of cursed and unholy relics. Or they can smash the jars, which releases the souls and allows them to pass into the afterlife, but destroys the vessels and forfeits Skarguther’s reward. Characters who choose both may release some souls while keeping other jars intact, but Skarguther pays only for undamaged vessels.\n157|\n158|### Breaking the Jar\n159|\n160|AC 12  \n161|HP 10  \n162|Immune: Poison, Psychic\n163|\n164|Destroying the jar releases the souls trapped inside.\n165|\n166|A wave of spectral energy fills the chamber.\n167|\n168|Every creature within 10 feet must make a **DC 12 Wisdom saving throw**.\n169|\n170|On a failure, the creature is **Frightened until the end of its next turn**.\n171|\n172|The spirits then disappear.\n173|\n174|A character proficient in Arcana or Religion realizes the souls have finally been allowed to pass into the afterlife.\n175|\n176|### Taking the Jar\n177|\n178|The characters may instead carry the intact vessel.\n179|\n180|Doing so could attract the attention of necromancers, undead creatures, religious authorities—or Opendis himself.\n```\n</user_selected_content>\n\n\nJars of Souls.md (262 Words) can you update this section based on prior info about the jars in Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "f38e01ea": {
+      "hash": "f38e01ea",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI can still see a few Opendis references. Please find all of them in the Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "9035a3a0": {
+      "hash": "9035a3a0",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nOk so I was a bit confused. There are 2 Jars of Souls in both areas labeled 3. One jar in each. Then there are four ACTIVE soul jars in area 7. Please correct Jars of Souls.md and make sure the difference between the inert jars and active jars is made clear\n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "be9d87a5": {
+      "hash": "be9d87a5",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI think the funniest option here is to go with something like the jars are actually full of an Arcannabis strain called Soul Diesel, and the trapped souls are being used in place of magic essence. Soul diesel is the product of trapped souls mixed with humanoid blood. The effect of the strain allows a user to do 1d4 bonus damage of the same type as the attack to humanoids for an hour. The specters and alchemist skeleton in area 7 should be under the effects of the strain since the active jars are empowering them. Please update Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "f6de1bec": {
+      "hash": "f6de1bec",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Untitled.md`\n  - L1 # The Last Batch\n  - L11 ## Adventure Summary\n  - L20 ## Adventure Hook\n  - L27 ## Character Connections\n  - L38 ## Part 1: The Missing Wagon\n  - L42 ### Read Aloud\n  - L50 ### Searching the Scene\n  - L62 ### Encounter: Roadside Retrieval Team\n  - L75 ## Part 2: The Forest Trail\n  - L91 ### Optional Travel Complication\n  - L99 ## Part 3: The Waystation\n  - L103 ### Read Aloud\n  - L109 ### The Front Room\n  - L115 ### The Storage Room\n  - L123 ### The Back Room\n  - L131 ### Encounter: The Waystation Guards\n  - L143 ### The Ash Ledger\n  - L163 ## Part 4: The Old Waterworks\n  - L167 ### Read Aloud\n  - L173 ### The Intake Chamber\n  - L181 ### The Pump Room\n  - L187 ### The Distillation Vault\n  - L191 ### Encounter: The Batchmaster\n  - L210 ### The Final Vessel\n  - L218 ## Ending the Adventure\n  - L235 ## Adventure Rewards\n  - L251 ## Scaling the Adventure\n  - L253 ### 3 Characters\n  - L257 ### 4 Characters\n  - L261 ### 5 Characters\n  - L265 ## Future Hook: The Network Survives\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L26 # Adventure Hook\n  - L40 ## The Roach Clip Hook: Unfinished Business\n  - L54 # Reaching the Tomb\n  - L83 # 1. The Entrance\n  - L97 # 2. The Landing\n  - L125 # 3. Stone-d Guardians\n  - L137 ### Encounter\n  - L147 ### The Inert Jar\n  - L159 ### Breaking an Inert Jar\n  - L167 ### Taking the Jar\n  - L175 # 4. Forsaken Sarcophagi\n  - L187 ### Encounter\n  - L199 # 5. East Libraries\n  - L220 ### Dopendis Gravebreath\n  - L248 # 6. West Libraries\n  - L271 ## SYVETHIS\n  - L279 # 7. Ritual Chamber\n  - L307 ### Clue: The Soul Diesel Process\n  - L313 ### Encounter\n  - L327 ### Soul Diesel-Fueled Guardians\n  - L337 ### Breaking an Active Jar\n  - L350 # The Lost Adventurers\n  - L358 ### Release Them\n  - L376 ### Take the Jars\n  - L384 ### Study Them\n  - L390 ### Soul Diesel and the Orcus Cult\n  - L402 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L428 # 9. Secret Vault — Arcane Storage\n  - L452 # Ending the Adventure\n  - L486 # Scaling the Adventure\n  - L488 ### 3 Characters\n  - L494 ### 4 Characters\n  - L498 ### 5 Characters\n  - L504 # Adventure Rewards\n  - L527 ## Future Hook: Dopendis Gravebreath Returns\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me make Untitled.md a follow up adventure in the series of one-shots including the previous adventures The Tenebrous Stone-r.md  and Jars of Souls.md . This should be for level 4 party.\n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
+    },
+    "56c78fba": {
+      "hash": "56c78fba",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md`\n  - L5 ## Background\n  - L17 ### Summary\n  - L25 ### Adventure Hooks\n  - L36 #### Hunt Rewards per Player Character\n  - L44 ### Mulch\n  - L66 ## Know Thy Enemy\n  - L74 ### Clue 1: Mind-bending\n  - L93 #### Infected Adventurer\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nThe Veiled Lady.md Help me intro mulch to the party. How does he arrive at the Guildhall, or is he already there? any other ideas?\n\n"
+        }
+      ],
+      "createdAt": 1787698367649,
+      "updatedAt": 1787698367649
     }
   }
 }
