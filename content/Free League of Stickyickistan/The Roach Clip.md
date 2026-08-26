@@ -1,8 +1,8 @@
 **The Roach Clip** is the under-the-table counterpart to [[The Rolling Papers]]: a whispered classifieds network for jobs too illegal, embarrassing, dangerous, politically inconvenient, or cursed to print in a respectable newspaper.
 
-It is not a single newspaper so much as a chain of folded notes, coded matchbooks, tavern bathroom graffiti, enchanted rolling papers, dead drops, and suspiciously well-informed bartenders. If The Rolling Papers tells Stickyickistan what happened, **The Roach Clip** tells adventurers what someone is willing to pay to make happen quietly.
+It is not an actual newspaper so much as a chain of folded notes, coded matchbooks, enchanted rolling papers, dead drops, and suspiciously well-informed travelers. If The Rolling Papers tells [[Stickyickistan]] what happened, **The Roach Clip** tells adventurers what someone is willing to pay to make happen quietly.
 
-Most postings are anonymous, half-true, and written by people who absolutely do not want the road authorities, noble houses, temple auditors, guild inspectors, or rival criminals asking questions.
+Most postings are anonymous, possibly half-true, and written by people who absolutely do not want the authorities, noble houses, temple auditors, guild inspectors, or rival criminals asking questions.
 
 # What Gets Posted Here
 

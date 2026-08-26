@@ -28,95 +28,6 @@ The guildhall does not make the Free League tidy. It makes the chaos legible. Th
 
 ---
 
-## What Adventurers Can Do Here
-
-- Find public adventure postings from [[The Rolling Papers]]
-- Hear about discreet or illegal jobs from [[The Roach Clip]]
-- Form a party for a one-shot or short arc
-- Meet DMs, patrons, handlers, and faction contacts
-- Research monsters, regions, and old adventure reports
-- Buy basic adventuring supplies
-- Arrange downtime, spellcasting services, or recovery help
-- Report completed contracts and collect payment
-- Display trophies, maps, warnings, and “do not touch this” items
-
----
-
-## Important Areas
-
-### The Main Board
-
-The most visible board in the guildhall, covered in public contracts, monster warnings, missing-person notices, festival security jobs, and civic emergencies. Most jobs here are legal, public, and appropriate for adventurers who want to be paid without explaining themselves to a magistrate.
-
-### Weekly Papers
-
-Every week, fresh copies of [[The Rolling Papers]] and [[The Roach Clip]] make their way through the guildhall. The Rolling Papers are stacked openly near the Main Board, passed around over breakfast, and clipped to public contract files. The Roach Clip is less official, but just as common: folded into coat pockets, tucked between map pages, or quietly handed from one adventurer to another.
-
-No one needs a special shady corner to find work. Public jobs come through headlines, notices, and proper paperwork. Questionable jobs circulate through coded classifieds, rumors, dead-drop instructions, and people who know how to read between the lines.
-
-The guildhall does not endorse illegal work, anonymous bounties, or anything that says “do not involve the authorities,” but it also does not inspect every paper an adventurer brings inside. As long as no one causes trouble in the hall itself, the clerks let the weekly editions float around and let adventurers make their own bad decisions.
-
-### The Trophy Wall
-
-A chaotic display of monster parts, broken weapons, signed sketches, fake plaques, and real warnings. Any trophy mounted here is assumed to have a story, a smell, or a curse attached.
-
-### The Records Nook
-
-A cramped archive of past adventure reports, character records, faction notes, monster sightings, and DM scribbles. The filing system is technically alphabetical if you ask the one person who understands it.
-
----
-
-## Services
-
-Guildhall services improve with a character’s Free League tier. Higher-tier adventurers have better reputations, better paperwork, and access to clerks, handlers, suppliers, and specialists who do not waste time on unproven rookies.
-
-### Standard Services
-
-| Service | Cost | Available To | Notes |
-|---|---:|---|---|
-| Basic job registration | Free | All tiers | Lets a party claim a public contract |
-| Contract filing | Free / small fee | All tiers | Records who accepted what and who survived |
-| Basic supplies | At cost | All tiers | Rope, rations, torches, chalk, oil, common gear |
-| Weekly papers | Free | All tiers | Access to circulating copies of [[The Rolling Papers]] and [[The Roach Clip]] |
-| Rumor gathering | Drinks, tips, or favors | All tiers | Better rumors cost more than coin |
-| [[Port Ale]] | 5 gp | All tiers | The unofficial drink of bad plans and worse sea voyages |
-
-### Tiered Services
-
-| Service | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
-|---|---|---|---|---|
-| Monster-part storage | Basic jars, cold boxes, and “please do not leak” crates | Secured cold storage and minor curse precautions | Reinforced vault space for volatile, cursed, or planar remains | Custom containment for legendary, extraplanar, or politically dangerous trophies |
-| Spellcasting referrals | Identify, cure wounds, basic healing contacts | Lesser restoration, remove curse, dispel magic contacts | Greater restoration, divination, specialist cursebreakers | Resurrection contacts, planar experts, discreet miracle-workers |
-| Research help | Public records and old adventure reports | Monster files, regional maps, and faction notes | Restricted archives and expert consultations | Sealed records, private briefings, and dangerous lore |
-| Supplier access | Common adventuring gear | Uncommon consumables, silvered gear, preservation kits | Rare reagents, advanced monster-hunting gear, specialist tools | Bespoke gear, elite suppliers, and emergency procurement |
-| Contract support | Public postings and simple paperwork | Patron verification and hazard notes | Negotiated terms, liability clauses, and faction introductions | Private commissions, diplomatic cover, and high-risk contract mediation |
-| Recovery support | Bed, bandages, cheap food, and directions to a healer | Trusted healers and curse-removal referrals | Priority care and specialist recovery contacts | Discreet resurrection, restoration, and reputation management |
-
-### Notes
-
-- The guildhall does not provide every service directly. Many services are referrals, introductions, or access to trusted specialists.
-- Costs are usually paid by the character unless a contract or patron covers them.
-- [[The Roach Clip]] work does not receive official guildhall protection, even for high-tier adventurers.
-- A character’s reputation may unlock better service, while reckless behavior may limit access regardless of tier.
-
----
-
-## Faction Presence
-
-The guildhall is neutral ground in theory and a negotiation pit in practice. Representatives, recruiters, and spies from many groups pass through looking for talent.
-
-Possible visitors include:
-
-- [[Ashen Shadow Society]] bounty handlers looking for discreet monster work
-- [[Tribunal Highblade Coalition]] officers seeking lawful mercenaries
-- [[The Loot Tavern]] contacts interested in monster components and field reports
-- Local nobles posting public contracts through [[The Rolling Papers]]
-- Underworld fixers passing jobs through [[The Roach Clip]]
-- Scholars from [[N.E.R.D]] seeking field researchers and magical samples
-- Growers, alchemists, and merchants interested in [[Arcannabis]]-related problems
-
----
-
 ## Legal Status
 
 The [[Free League of Stickyickistan]] operates as a licensed adventuring exchange, not a standing army, mercenary company, or government agency. The guildhall does not command adventurers directly. Instead, it records contracts, verifies patrons when possible, tracks who accepted which job, and provides a public place where dangerous work can be offered to people reckless enough to take it.
@@ -137,3 +48,134 @@ Jobs from [[The Rolling Papers]] are usually public, legal, and tied to named pa
 6. Roach Clip work is not protected by guildhall paperwork.
 7. If you damage the hall, frighten the clerk, or start a faction incident, you pay for it.
 8. Parties are temporary. Reputations are not.
+
+---
+# Adventurer’s Guildhall by Tom Cartos
+
+## Background
+
+Founded over a century ago by renowned adventurer Ferric Dorn, the Adventurers Guild provides contacts, job opportunities, support, advice and particular services to its elite members.
+
+Those who wish to join must prove themselves to the current Guild Master under the tenets set out by Ferric. This is usually done by sending the applicants out on a quest chosen by the Guildmaster, along with an accompanying existing member of the guild to ascertain whether the party completed the task in the spirit of Dorn’s legacy.
+
+Those who are successful in their application gain access to the Guilds training facilities and masters, free accommodation and meals whenever they are in town, the guild mission board, secure storage, extensive library, priest, in-house blacksmith, artificer and apothecary and financial services such as monetary exchange and loans, among many other perks and boons.
+
+## Grid Information
+
+**GRID SIZE – 34x22 (300DPI)**
+
+**VTT SIZE – 4760x3080 (140DPI)**
+
+**RECOMMENDED PRINT SIZE – A1/ANSI D**
+
+## Design Notes
+
+### **Adventurers Guildhall 01 – Training Hall**
+
+• **01** – Cellar – Storage for additional dried goods and barrels for the kitchen. Stairs lead up to 13. Secret doorways lead to **02** and **04,05,06**. A dried up well used to provide water for the Guildhall, but now serves as a secret escape tunnel (**03**)
+
+• **02** – Hidden Passage – Ladder leads up to 21. Secret Doorway leads to **01**.
+
+• **03** – Escape Tunnel – Dried up underground riverbed. Leads out to the main waterway that runs through the City
+
+• **04** – Gold Storage – The Guilds money and valuable items are stored here, along with any valuables being held for members. Only the Guildmaster and Financial Secretary have keys and know the location.
+
+• **05** – Magic Item Storage – The guild keeps a few magic items and relics discovered during their quests. Most are given out to deserving members, but some are kept in storage until needed.
+
+• **06** – Additional Storage – This space is mostly kept empty in case additional supplies need to be bought in. It is also occasionally used to hold prisoners.
+
+• **07** – Training Hall Lobby – Stairs lead up to **10**.
+
+• **08** – Armory Requisitions – Weapons owned by the guild can be signed out for use in the training hall.
+
+• **09** – Training Hall – A number of different training areas are set up for practice and training. Bleachers at the far end allow other members to watch lessons and training sessions. There is a strong competitiveness among members, and an unofficial ranking system for the most powerful warriors.
+
+### **Adventurers Guildhall 02 – Grand Hall**
+
+• **10** – Grand Hall – The original structure built under the leadership of Ferric Dorn. As the guild has grown additional parts of the building have been added over time. This is the social hub of the guild and there are always members here.
+
+The pelt of a dire bear and head of a black dragon adorn the floor and chimney stack, both slain by Ferric himself. His original weapons line the walls, flags sporting the symbol of the guild and tapestries showing Ferric’s achievements are prevalent throughout.
+
+A large ornate noticeboard hangs on the Western wall. Job postings, quest opportunities and monster sightings are posted here.
+
+Stairs lead up to **24**, and down to **07**.
+
+• **11** – High Table – The leading members of the guild convene here to meet on a regular basis. The chamber is open and other members are always welcome to watch and contribute if they wish.
+
+• **12** – Kitchen
+
+• **13** – Pantry – Stairs lead down to **01**
+
+• **14** – Bank – Members can use this service to store their cash, exchange gems for gold or take out loans.
+
+• **15** – Apothecary & General Goods Store
+
+• **16** – Blacksmith - Arms and Armour
+
+• **17** – Artificer – Creator, buyer and seller of magic items and equipment.
+
+• **18** – Courtyard – Side entrance to the Guildhall and additional means of fortification.
+
+A large statue of Ferric Dorn stands in the centre, greeting all who enter.
+
+• **19** – Tower Base – Ladder leads up to **34**
+
+• **20** – Stables
+
+• **21** – Hidden Passage – Ladder leads up to **33**, hatch leads down to **02**
+
+• **22** – Shed
+
+• **23** – Chapel – The priest is also trained as a cleric and can provide healing to members for a price.
+
+### **Adventurers Guildhall 03 – Library**
+
+• **24** – Gallery – Stairs lead down to **10**
+
+• **25** – Balcony
+
+• **26** – Library – Holds the guilds extensive knowledge on history, bestiarys, religion, arcana and many other subjects. Stairs lead down to **11**
+
+• **27** – Bathroom
+
+• **28** – Members Dorm – Free accommodation available for all members
+
+• **29** – WC
+
+• **30** – Suites – Reserved for the guilds leading members
+
+• **31** – Laboratory – The private office of the guild artificer.
+
+• **32** – Guild Masters Quarters
+
+• **33** – Guild Masters Office – Hidden door in the bookshelves reveals a trapdoor that leads down to **21**
+
+• **34** – Ramparts – A rotating guard watch patrols this area at all times. Hatches lead down to **19**
+
+### **Adventurers Guildhall 04 – Roof**
+
+• **35** – Tower – Stairs lead down to **26**
+
+• **36** – Tower – Stairs lead down to **24**
+
+• **37** – Mounted Ballista - A rotating guard watch patrols the rooftop at all times. One guard is always stationed at the Ballista
+
+• **38** – Landing Area – Access platform for members capable of flight.
+
+|Guildhall NPC|2025 MM Stat Block|Role|
+|---|---|---|
+|**Guildmaster**|**Warrior Commander**|Ferric Dorn's successor/current leader|
+|**Financial Secretary**|**Noble**|Bank, vault and guild finances|
+|**Quartermaster**|**Guard Captain**|Armoury, stores and requisitions|
+|**Master-at-Arms**|**Warrior Veteran**|Training Hall|
+|**Blacksmith**|**Warrior Veteran**|Manufacturing & Forging|
+|**Artificer**|**Mage**|Enchanting, magic items and supernatural monsters|
+|**Apothecary**|**Druid**|Potions, natural monsters and monster biology|
+|**Guild Priest**|**Priest**|Healing and chapel|
+|**Librarian / Archivist**|**Mage Apprentice**|Library and research|
+|**Stablemaster**|**Scout**|Mounts and animal handling|
+|**Head Cook**|**Commoner**|Meals and Heliana magical cooking|
+|**Guild Guards**|**Guard**|Regular security|
+|**Watch Commander**|**Guard Captain**|Guildhall security|
+|**Senior Adventurers**|**Warrior Veteran / Mage / Priest / Scout**|Members hanging around the hall|
+|**Junior Adventurers**|**Guard / Mage Apprentice / Priest Acolyte / Scout**|Low-level members|
