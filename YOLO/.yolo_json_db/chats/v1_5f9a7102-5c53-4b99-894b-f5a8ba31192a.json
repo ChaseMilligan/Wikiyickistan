@@ -43031,10 +43031,1843 @@
         "branchModelId": "chatGPT/gpt-5.6-luna",
         "branchLabel": "gpt-5.6-luna"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Veiled Lady.md (302 Words)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Veiled Lady.md (302 Words)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                    "startLine": 172,
+                    "endLine": 189,
+                    "source": "selection-sync",
+                    "contentHash": "d87a0a00",
+                    "contentCount": 302,
+                    "contentUnit": "words"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " Help me make this fit the setting and other details we have altered about this adventure",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "4846add5"
+      },
+      "id": "90b9da75-df46-4145-8a1b-98794a89bdb7",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "## Aramachi\n\nAramachi is a port-town home principally to rakin, birdfolk, humans, and halflings. Originally built around the tower of the wizard, golemancer, and biosmith Doctor Francis Norman Stein, it has bloomed into a compact, bustling hub of activity. The land surrounding Aramachi is famed for the time-dilated grapes from which the infamous reverse-hangover cocktail _reverso_ is made, its flavoured-milk cows, and its fields of golden wheat (each ear of which is rumoured to contain one solid gold kernel).\n\n**_A Rotting Environment._** The farmland around Aramachi is known as the ‘golden sea’ for its vast, rich fields of wheat. In the hills, a great deal of land is given over to raising cattle and sheep. The party can observe the following abnormalities as they explore:\n\nMohammed “Aggi” Bellafquih\n[![](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/06-010.raging-henbane.png)](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/06-010.raging-henbane.png)\n\nRaging Henbane\n\n- Vast swathes of the golden sea look like a furry grey carpet from afar, drained of their luscious colour. The plants are covered in mats of grey-white fibres.\n- The corpses of emaciated livestock dot the rolling hills, covered in the same grey-white fibres.\n- Dead crows and vultures ring several corpses, likewise covered in fibres, the same as the livestock on which they were presumably feasting.\n- Dung in the cow fields is white, covered in hairy mats of fibres.\n- Plumes of black smoke can be seen from several smallholdings and hamlets. Farmers are burning the corpses and rotted crops.\n\n**_Random Encounters & Rest._** Aramachi is easily accessible by boat, through a forest, or across plains and hills. There is plenty of space at the inns. The surrounding farmland, where the rot is taking place, is an hour’s walk from the centre of town.",
+          "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+          "startLine": 172,
+          "endLine": 189,
+          "source": "selection-sync",
+          "contentHash": "d87a0a00",
+          "contentCount": 302,
+          "contentUnit": "words"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-08-26 12:23 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_X0GUDSqq4gq782tRBO3JoN9g",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+              ],
+              "startLine": 140,
+              "endLine": 189
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\"],\"startLine\":140,\"endLine\":189}"
+          }
+        }
+      ],
+      "id": "1639f82c-5ec1-4c81-961c-2a3975f3bb41",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 253779,
+          "completion_tokens": 97,
+          "total_tokens": 253876
+        },
+        "durationMs": 11186,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_X0GUDSqq4gq782tRBO3JoN9g",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+                ],
+                "startLine": 140,
+                "endLine": 189
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\"],\"startLine\":140,\"endLine\":189}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_X0GUDSqq4gq782tRBO3JoN9g\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\n      \"ok\": true,\n      \"totalLines\": 189,\n      \"returnedRange\": {\n        \"startLine\": 140,\n        \"endLine\": 189\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"140|\\n141|- The fibres look fungal in origin. Fungi typically exist as a network of mycelium in the ground.\\n142|- Fungi can be detritivores that feed on dead organic matter.\\n143|\\n144|### Clue 3: Subterranean\\n145|\\n146|The hyphan colony’s adaptation to the dark insulation of The Low grants it **immunity** to necrotic damage. However, it is sickened by radiant damage and sunlight.\\n147|\\n148|![Text on image reads](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/06-009.searing-light.png)\\n149|\\n150|Handout 3: Searing Light\\n151|\\n152|#### Mulch\\n153|\\n154|Mulch imparts the following information:\\n155|\\n156|- He thinks the rot is caused by some sort of fungus.\\n157|- Decaying energy seems ineffective, while radiation appears to damage it severely.\\n158|- Bright sunlight causes the fungus to retreat.\\n159|\\n160|You can read the following:\\n161|\\n162|“I think it’s a strange sort of fungus. Those things are usually susceptible to decaying and burning magic, but this one is unusual.” Mulch glances around, showering you all with particles of earth, before leaning in and whispering “I tried the forbidden magic… blight. Didn’t do a thing!” They lean back, relaxing. “My moonlight beam made it squirm, however. Burned it real nice,” they chuckle. “Where the corpses are in the sun, the webbing is only on the underside. Flip over the corpse and it shrinks back into the ground. Doesn’t like light.”\\n163|\\n164|#### Exploration\\n165|\\n166|**_Experimentation._** Corpses in bright daylight have fungal mats only on their underside. If a corpse is flipped over, or the [daylight](https://www.dndbeyond.com/spells/2060-daylight) spell is cast on a mat of fungal webbing, the fungus retreats, shrinking back into the ground. The players can try dealing different types of damage to the fungal mat, with the following effects:\\n167|\\n168|- Necrotic damage does nothing.\\n169|- Radiant damage causes it to writhe and retreat.\\n170|- Other damage, such as fire, is as effective as normal, but the fungus grows back slowly afterwards.\\n171|\\n172|## Aramachi\\n173|\\n174|Aramachi is a port-town home principally to rakin, birdfolk, humans, and halflings. Originally built around the tower of the wizard, golemancer, and biosmith Doctor Francis Norman Stein, it has bloomed into a compact, bustling hub of activity. The land surrounding Aramachi is famed for the time-dilated grapes from which the infamous reverse-hangover cocktail _reverso_ is made, its flavoured-milk cows, and its fields of golden wheat (each ear of which is rumoured to contain one solid gold kernel).\\n175|\\n176|**_A Rotting Environment._** The farmland around Aramachi is known as the ‘golden sea’ for its vast, rich fields of wheat. In the hills, a great deal of land is given over to raising cattle and sheep. The party can observe the following abnormalities as they explore:\\n177|\\n178|Mohammed “Aggi” Bellafquih\\n179|[![](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/06-010.raging-henbane.png)](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/06-010.raging-henbane.png)\\n180|\\n181|Raging Henbane\\n182|\\n183|- Vast swathes of the golden sea look like a furry grey carpet from afar, drained of their luscious colour. The plants are covered in mats of grey-white fibres.\\n184|- The corpses of emaciated livestock dot the rolling hills, covered in the same grey-white fibres.\\n185|- Dead crows and vultures ring several corpses, likewise covered in fibres, the same as the livestock on which they were presumably feasting.\\n186|- Dung in the cow fields is white, covered in hairy mats of fibres.\\n187|- Plumes of black smoke can be seen from several smallholdings and hamlets. Farmers are burning the corpses and rotted crops.\\n188|\\n189|**_Random Encounters & Rest._** Aramachi is easily accessible by boat, through a forest, or across plains and hills. There is plenty of space at the inns. The surrounding farmland, where the rot is taking place, is an hour’s walk from the centre of town.\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 140,
+                  "endLine": 189,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "dfd218f6-1d15-4a0b-a54e-9d3ffd313264",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_36fZoLCMMKJ2ruRoqoihxWQf",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+              "startLine": 172,
+              "endLine": 189,
+              "newText": "## North Booftown\n\n[[North Booftown]] is [[Stickyickistan]]’s agricultural heartland, a broad region of magically enhanced farmland responsible for much of the city-state’s food production and [[Arcannabis]] exports. The area is known for its rich volcanic soil, sprawling fields, dairy farms, and dense network of irrigation channels. It is also controlled in part by [[House Northbourne]], whose legitimate farming interests exist alongside gambling, bootleg alcohol, and smuggling operations.\n\nThe farmland surrounding North Booftown is usually lush and vibrant. The current rot has made the countryside unnaturally grey. As the party explores, they can observe the following abnormalities:\n\n- Vast stretches of crops look like a furry grey carpet from a distance, drained of their usual colour and covered in grey-white fibres.\n- Emaciated livestock lie dead in the fields, their bodies covered in the same fibres.\n- Dead crows and vultures surround several corpses, their feathers matted with fungal growth.\n- Dung in the cattle fields is white and covered in hairy mats of fibres.\n- Farmers burn rotted crops and livestock in pits along the edges of their fields, sending black smoke over the countryside.\n- The rot is worst in shaded irrigation channels, beneath barns, and around places where dead organic matter has collected.\n\n### Random Encounters and Rest\n\nNorth Booftown is easily reached from the city by road. The region has farmsteads, processing sheds, inns, and [[Arcannabis]] merchants where the characters can rest or gather information. The affected fields begin roughly an hour from the main roads, and the old caves beneath the farmland can be reached through collapsed irrigation tunnels, smuggler routes, or the city’s sewer system.\n\nDuring the day, farmers, field hands, smugglers, and Free League agents move through the region. At night, the fields become quiet except for insects, distant coughing, and the occasional sound of something moving beneath the soil."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\"startLine\":172,\"endLine\":189,\"newText\":\"## North Booftown\\n\\n[[North Booftown]] is [[Stickyickistan]]’s agricultural heartland, a broad region of magically enhanced farmland responsible for much of the city-state’s food production and [[Arcannabis]] exports. The area is known for its rich volcanic soil, sprawling fields, dairy farms, and dense network of irrigation channels. It is also controlled in part by [[House Northbourne]], whose legitimate farming interests exist alongside gambling, bootleg alcohol, and smuggling operations.\\n\\nThe farmland surrounding North Booftown is usually lush and vibrant. The current rot has made the countryside unnaturally grey. As the party explores, they can observe the following abnormalities:\\n\\n- Vast stretches of crops look like a furry grey carpet from a distance, drained of their usual colour and covered in grey-white fibres.\\n- Emaciated livestock lie dead in the fields, their bodies covered in the same fibres.\\n- Dead crows and vultures surround several corpses, their feathers matted with fungal growth.\\n- Dung in the cattle fields is white and covered in hairy mats of fibres.\\n- Farmers burn rotted crops and livestock in pits along the edges of their fields, sending black smoke over the countryside.\\n- The rot is worst in shaded irrigation channels, beneath barns, and around places where dead organic matter has collected.\\n\\n### Random Encounters and Rest\\n\\nNorth Booftown is easily reached from the city by road. The region has farmsteads, processing sheds, inns, and [[Arcannabis]] merchants where the characters can rest or gather information. The affected fields begin roughly an hour from the main roads, and the old caves beneath the farmland can be reached through collapsed irrigation tunnels, smuggler routes, or the city’s sewer system.\\n\\nDuring the day, farmers, field hands, smugglers, and Free League agents move through the region. At night, the fields become quiet except for insects, distant coughing, and the occasional sound of something moving beneath the soil.\"}"
+          }
+        }
+      ],
+      "id": "92736961-2c30-4175-b966-ba7ddc59a93b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 255052,
+          "completion_tokens": 550,
+          "total_tokens": 255602
+        },
+        "durationMs": 13162,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_36fZoLCMMKJ2ruRoqoihxWQf",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                "startLine": 172,
+                "endLine": 189,
+                "newText": "## North Booftown\n\n[[North Booftown]] is [[Stickyickistan]]’s agricultural heartland, a broad region of magically enhanced farmland responsible for much of the city-state’s food production and [[Arcannabis]] exports. The area is known for its rich volcanic soil, sprawling fields, dairy farms, and dense network of irrigation channels. It is also controlled in part by [[House Northbourne]], whose legitimate farming interests exist alongside gambling, bootleg alcohol, and smuggling operations.\n\nThe farmland surrounding North Booftown is usually lush and vibrant. The current rot has made the countryside unnaturally grey. As the party explores, they can observe the following abnormalities:\n\n- Vast stretches of crops look like a furry grey carpet from a distance, drained of their usual colour and covered in grey-white fibres.\n- Emaciated livestock lie dead in the fields, their bodies covered in the same fibres.\n- Dead crows and vultures surround several corpses, their feathers matted with fungal growth.\n- Dung in the cattle fields is white and covered in hairy mats of fibres.\n- Farmers burn rotted crops and livestock in pits along the edges of their fields, sending black smoke over the countryside.\n- The rot is worst in shaded irrigation channels, beneath barns, and around places where dead organic matter has collected.\n\n### Random Encounters and Rest\n\nNorth Booftown is easily reached from the city by road. The region has farmsteads, processing sheds, inns, and [[Arcannabis]] merchants where the characters can rest or gather information. The affected fields begin roughly an hour from the main roads, and the old caves beneath the farmland can be reached through collapsed irrigation tunnels, smuggler routes, or the city’s sewer system.\n\nDuring the day, farmers, field hands, smugglers, and Free League agents move through the region. At night, the fields become quiet except for insects, distant coughing, and the occasional sound of something moving beneath the soil."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\"startLine\":172,\"endLine\":189,\"newText\":\"## North Booftown\\n\\n[[North Booftown]] is [[Stickyickistan]]’s agricultural heartland, a broad region of magically enhanced farmland responsible for much of the city-state’s food production and [[Arcannabis]] exports. The area is known for its rich volcanic soil, sprawling fields, dairy farms, and dense network of irrigation channels. It is also controlled in part by [[House Northbourne]], whose legitimate farming interests exist alongside gambling, bootleg alcohol, and smuggling operations.\\n\\nThe farmland surrounding North Booftown is usually lush and vibrant. The current rot has made the countryside unnaturally grey. As the party explores, they can observe the following abnormalities:\\n\\n- Vast stretches of crops look like a furry grey carpet from a distance, drained of their usual colour and covered in grey-white fibres.\\n- Emaciated livestock lie dead in the fields, their bodies covered in the same fibres.\\n- Dead crows and vultures surround several corpses, their feathers matted with fungal growth.\\n- Dung in the cattle fields is white and covered in hairy mats of fibres.\\n- Farmers burn rotted crops and livestock in pits along the edges of their fields, sending black smoke over the countryside.\\n- The rot is worst in shaded irrigation channels, beneath barns, and around places where dead organic matter has collected.\\n\\n### Random Encounters and Rest\\n\\nNorth Booftown is easily reached from the city by road. The region has farmsteads, processing sheds, inns, and [[Arcannabis]] merchants where the characters can rest or gather information. The affected fields begin roughly an hour from the main roads, and the old caves beneath the farmland can be reached through collapsed irrigation tunnels, smuggler routes, or the city’s sewer system.\\n\\nDuring the day, farmers, field hands, smugglers, and Free League agents move through the region. At night, the fields become quiet except for insects, distant coughing, and the occasional sound of something moving beneath the soil.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace_lines\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"lineRange\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                      "addedLines": 17,
+                      "removedLines": 17,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "f05f1171-8585-4cbf-948e-6e552121ab24"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 17,
+                  "totalRemovedLines": 17,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787768629350
+              }
+            }
+          }
+        }
+      ],
+      "id": "f05f1171-8585-4cbf-948e-6e552121ab24",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Updated the location section to fit the revised Stickyickistan setting:\n\n- Replaced **Aramachi** with [[North Booftown]].\n- Connected the area to its established agriculture and [[Arcannabis]] production.\n- Added [[House Northbourne]] and its smuggling influence.\n- Reworked the rotting crops, livestock, and farmland details.\n- Added irrigation channels, farmsteads, processing sheds, inns, and smuggler routes.\n- Updated travel, rest, investigation, and nighttime atmosphere details.",
+      "id": "37a55e33-501b-43aa-8685-46f2f3eceef4",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 255645,
+          "completion_tokens": 157,
+          "total_tokens": 255802
+        },
+        "durationMs": 7948,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Veiled Lady.md (62 Words)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Veiled Lady.md (62 Words)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                    "startLine": 191,
+                    "endLine": 193,
+                    "source": "selection-sync",
+                    "contentHash": "d8b75edd",
+                    "contentCount": 62,
+                    "contentUnit": "words"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " Help make this fit the setting and other details in ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Veiled Lady.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Veiled Lady.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "a046b8d8"
+      },
+      "id": "5ce2e0f1-1150-4617-bd69-eaf39edec980",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "## Aramachi Sewers\n\nA classic stinking sewer, these tunnels and caves are also home to the Shambling Mound gang. These smugglers sneak in contraband via the river at night, storing it in the basements of the various buildings with whom they have tacit agreements. The Shambling Mound gang see themselves as entrepreneurs and businessmen, rather than criminals, but keep their business discreet, nonetheless.",
+          "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+          "startLine": 191,
+          "endLine": 193,
+          "source": "selection-sync",
+          "contentHash": "d8b75edd",
+          "contentCount": 62,
+          "contentUnit": "words"
+        },
+        {
+          "type": "file",
+          "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-08-26 12:36 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_ovIwAcGY2zBHTLNbw4js4T6m",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+              ],
+              "startLine": 170,
+              "endLine": 193
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\"],\"startLine\":170,\"endLine\":193}"
+          }
+        }
+      ],
+      "id": "d5e60039-eb9b-43ed-9947-ef192f23d080",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 256172,
+          "completion_tokens": 50,
+          "total_tokens": 256222
+        },
+        "durationMs": 7283,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_ovIwAcGY2zBHTLNbw4js4T6m",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+                ],
+                "startLine": 170,
+                "endLine": 193
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\"],\"startLine\":170,\"endLine\":193}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_ovIwAcGY2zBHTLNbw4js4T6m\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\n      \"ok\": true,\n      \"totalLines\": 193,\n      \"returnedRange\": {\n        \"startLine\": 170,\n        \"endLine\": 193\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"170|- Other damage, such as fire, is as effective as normal, but the fungus grows back slowly afterwards.\\n171|\\n172|## North Booftown\\n173|\\n174|[[North Booftown]] is [[Stickyickistan]]’s agricultural heartland, a broad region of magically enhanced farmland responsible for much of the city-state’s food production and [[Arcannabis]] exports. The area is known for its rich volcanic soil, sprawling fields, dairy farms, and dense network of irrigation channels. It is also controlled in part by [[House Northbourne]], whose legitimate farming interests exist alongside gambling, bootleg alcohol, and smuggling operations.\\n175|\\n176|The farmland surrounding North Booftown is usually lush and vibrant. The current rot has made the countryside unnaturally grey. As the party explores, they can observe the following abnormalities:\\n177|\\n178|- Vast stretches of crops look like a furry grey carpet from a distance, drained of their usual colour and covered in grey-white fibres.\\n179|- Emaciated livestock lie dead in the fields, their bodies covered in the same fibres.\\n180|- Dead crows and vultures surround several corpses, their feathers matted with fungal growth.\\n181|- Dung in the cattle fields is white and covered in hairy mats of fibres.\\n182|- Farmers burn rotted crops and livestock in pits along the edges of their fields, sending black smoke over the countryside.\\n183|- The rot is worst in shaded irrigation channels, beneath barns, and around places where dead organic matter has collected.\\n184|\\n185|### Random Encounters and Rest\\n186|\\n187|North Booftown is easily reached from the city by road. The region has farmsteads, processing sheds, inns, and [[Arcannabis]] merchants where the characters can rest or gather information. The affected fields begin roughly an hour from the main roads, and the old caves beneath the farmland can be reached through collapsed irrigation tunnels, smuggler routes, or the city’s sewer system.\\n188|\\n189|During the day, farmers, field hands, smugglers, and Free League agents move through the region. At night, the fields become quiet except for insects, distant coughing, and the occasional sound of something moving beneath the soil.\\n190|\\n191|## Aramachi Sewers\\n192|\\n193|A classic stinking sewer, these tunnels and caves are also home to the Shambling Mound gang. These smugglers sneak in contraband via the river at night, storing it in the basements of the various buildings with whom they have tacit agreements. The Shambling Mound gang see themselves as entrepreneurs and businessmen, rather than criminals, but keep their business discreet, nonetheless.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"North Booftown\",\n          \"path\": \"content/Regions/City of Stickyickistan/North Booftown.md\"\n        },\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Arcannabis\",\n          \"path\": \"content/Arcannabis/Arcannabis.md\"\n        },\n        {\n          \"link\": \"House Northbourne\",\n          \"path\": \"content/Factions/House Northbourne.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 170,
+                  "endLine": 193,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "53bf8ec6-d542-474a-9e84-bb77dfbbe284",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_8lB0LzKZBV3ahIhPTdj1jel0",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md"
+              ],
+              "startLine": 1,
+              "endLine": 30
+            },
+            "rawText": "{\"paths\":[\"content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md\"],\"startLine\":1,\"endLine\":30}"
+          }
+        }
+      ],
+      "id": "ec25c075-2549-4d18-9c53-073c4b0f7efe",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 257074,
+          "completion_tokens": 51,
+          "total_tokens": 257125,
+          "cache_read_input_tokens": 1536
+        },
+        "durationMs": 8035,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_8lB0LzKZBV3ahIhPTdj1jel0",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md"
+                ],
+                "startLine": 1,
+                "endLine": 30
+              },
+              "rawText": "{\"paths\":[\"content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md\"],\"startLine\":1,\"endLine\":30}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_8lB0LzKZBV3ahIhPTdj1jel0\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md\",\n      \"ok\": true,\n      \"totalLines\": 10,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 10\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|![[Lawless-Below-Forgotten-Realms_Adrian_Landeros.png]]\\n2|\\n3|An underground metropolis that is a part of the city of [[Stickyickistan]], but it is the underbelly of the city where [[The Mortuary]] is located, and where the [[Dungsweepers]] toil. Home to many undesirables, the elites of the city above mostly ignore the happenings of this under city. the under city has it's own provisional government, but holds no authority in the eyes of the Nevercough Tribunal.\\n4|\\n5|The Nevercough Tribunal refuses to acknowledge Osslurraggath, but every noble knows their waste doesn’t vanish by magic — it _goes somewhere._\\n6|\\n7|- When Stickyickistan grew into a great metropolis, the [[Nevercough Tribunal]] needed a place for the poor, the diseased, and the dishonored dead. They built vast **bone vaults** beneath the city to serve as its necropolis.\\n8|- These vaults eventually collapsed into deeper Underdark channels. What should have been a tomb became a **threshold**, spilling with refuse, plague-bodies, and exiles.\\n9|- Into this void stepped the **[[Heralds of Dust]]** — led by **[[Factol Skall]]**. They declared that all life in Stickyickistan was already death, and that Osslurraggath would be the sanctum where this truth was embraced.\\n10|The name Osslurraggath comes from the common word \\\"Ossuary\\\", and the Drow word \\\"lurraggath\\\" meaning love.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"The Mortuary\",\n          \"path\": \"content/POIs/The Mortuary.md\"\n        },\n        {\n          \"link\": \"Dungsweepers\",\n          \"path\": \"content/Factions/Dungsweepers.md\"\n        },\n        {\n          \"link\": \"Nevercough Tribunal\",\n          \"path\": \"content/Factions/Nevercough Tribunal.md\"\n        },\n        {\n          \"link\": \"Heralds of Dust\",\n          \"path\": \"content/Factions/Heralds of Dust.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "contentParts": [
+                {
+                  "type": "text",
+                  "text": "1|"
+                },
+                {
+                  "type": "image_url",
+                  "image_url": {
+                    "url": "cache://d70c5f2f",
+                    "cacheKey": "d70c5f2f"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n2|\n3|An underground metropolis that is a part of the city of [[Stickyickistan]], but it is the underbelly of the city where [[The Mortuary]] is located, and where the [[Dungsweepers]] toil. Home to many undesirables, the elites of the city above mostly ignore the happenings of this under city. the under city has it's own provisional government, but holds no authority in the eyes of the Nevercough Tribunal.\n4|\n5|The Nevercough Tribunal refuses to acknowledge Osslurraggath, but every noble knows their waste doesn’t vanish by magic — it _goes somewhere._\n6|\n7|- When Stickyickistan grew into a great metropolis, the [[Nevercough Tribunal]] needed a place for the poor, the diseased, and the dishonored dead. They built vast **bone vaults** beneath the city to serve as its necropolis.\n8|- These vaults eventually collapsed into deeper Underdark channels. What should have been a tomb became a **threshold**, spilling with refuse, plague-bodies, and exiles.\n9|- Into this void stepped the **[[Heralds of Dust]]** — led by **[[Factol Skall]]**. They declared that all life in Stickyickistan was already death, and that Osslurraggath would be the sanctum where this truth was embraced.\n10|The name Osslurraggath comes from the common word \"Ossuary\", and the Drow word \"lurraggath\" meaning love."
+                }
+              ],
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 10,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "81006136-da44-4977-a2d2-be7a4640fd5b",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_rIDFpelWVgJprmJy5b0NNBxW",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+              "startLine": 191,
+              "endLine": 193,
+              "newText": "## North Booftown Sewers\n\nA classic stinking sewer runs beneath the northern edge of [[North Booftown]], where irrigation channels, farm drains, and city pipes converge. Beyond the maintained tunnels, the sewers open into natural caves leading toward [[The Low]]. Smugglers connected to [[House Northbourne]] use these passages to move contraband from hidden farmstead storehouses into the city. They see themselves as practical entrepreneurs, not criminals, but recent fungal growth and rotting cargo have made the route dangerous.\n\nThe smugglers keep their business discreet and avoid attention from the [[Free League of Stickyickistan]] or the city authorities. They know the caves well enough to identify the usual routes, but they do not understand the source of the rot. Their testimony can lead the characters toward the fungal colony without revealing its nature immediately."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\"startLine\":191,\"endLine\":193,\"newText\":\"## North Booftown Sewers\\n\\nA classic stinking sewer runs beneath the northern edge of [[North Booftown]], where irrigation channels, farm drains, and city pipes converge. Beyond the maintained tunnels, the sewers open into natural caves leading toward [[The Low]]. Smugglers connected to [[House Northbourne]] use these passages to move contraband from hidden farmstead storehouses into the city. They see themselves as practical entrepreneurs, not criminals, but recent fungal growth and rotting cargo have made the route dangerous.\\n\\nThe smugglers keep their business discreet and avoid attention from the [[Free League of Stickyickistan]] or the city authorities. They know the caves well enough to identify the usual routes, but they do not understand the source of the rot. Their testimony can lead the characters toward the fungal colony without revealing its nature immediately.\"}"
+          }
+        }
+      ],
+      "id": "f2775acf-a695-413e-8390-906ef0d419e1",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 258088,
+          "completion_tokens": 329,
+          "total_tokens": 258417
+        },
+        "durationMs": 10756,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_rIDFpelWVgJprmJy5b0NNBxW",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                "startLine": 191,
+                "endLine": 193,
+                "newText": "## North Booftown Sewers\n\nA classic stinking sewer runs beneath the northern edge of [[North Booftown]], where irrigation channels, farm drains, and city pipes converge. Beyond the maintained tunnels, the sewers open into natural caves leading toward [[The Low]]. Smugglers connected to [[House Northbourne]] use these passages to move contraband from hidden farmstead storehouses into the city. They see themselves as practical entrepreneurs, not criminals, but recent fungal growth and rotting cargo have made the route dangerous.\n\nThe smugglers keep their business discreet and avoid attention from the [[Free League of Stickyickistan]] or the city authorities. They know the caves well enough to identify the usual routes, but they do not understand the source of the rot. Their testimony can lead the characters toward the fungal colony without revealing its nature immediately."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\"startLine\":191,\"endLine\":193,\"newText\":\"## North Booftown Sewers\\n\\nA classic stinking sewer runs beneath the northern edge of [[North Booftown]], where irrigation channels, farm drains, and city pipes converge. Beyond the maintained tunnels, the sewers open into natural caves leading toward [[The Low]]. Smugglers connected to [[House Northbourne]] use these passages to move contraband from hidden farmstead storehouses into the city. They see themselves as practical entrepreneurs, not criminals, but recent fungal growth and rotting cargo have made the route dangerous.\\n\\nThe smugglers keep their business discreet and avoid attention from the [[Free League of Stickyickistan]] or the city authorities. They know the caves well enough to identify the usual routes, but they do not understand the source of the rot. Their testimony can lead the characters toward the fungal colony without revealing its nature immediately.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace_lines\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"lineRange\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                      "addedLines": 4,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "56e60ef3-2aa7-4fe6-806c-68a0dc01d68d"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 4,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787769411345
+              }
+            }
+          }
+        }
+      ],
+      "id": "56e60ef3-2aa7-4fe6-806c-68a0dc01d68d",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Updated the section to **North Booftown Sewers**.\n\nIt now fits the setting by describing:\n\n- Irrigation channels, farm drains, and city pipes converging beneath North Booftown\n- Natural caves leading toward [[The Low]]\n- Smuggling routes connected to [[House Northbourne]]\n- Contraband moving between farmsteads and the city\n- The smugglers’ limited understanding of the fungal rot\n- Their reluctance to involve the [[Free League of Stickyickistan]] or city authorities",
+      "id": "6b366115-45d8-4cc0-9cad-173d5ae948d8",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 258443,
+          "completion_tokens": 130,
+          "total_tokens": 258573,
+          "cache_read_input_tokens": 257536
+        },
+        "durationMs": 5919,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Veiled Lady.md (35 Words)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Veiled Lady.md (35 Words)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                    "startLine": 254,
+                    "endLine": 254,
+                    "source": "selection-sync",
+                    "contentHash": "ad05a940",
+                    "contentCount": 35,
+                    "contentUnit": "words"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " Make sure this fits the setting and details above in ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Veiled Lady.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Veiled Lady.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "bbe1dc28"
+      },
+      "id": "bc74dea2-e4fc-41af-a882-a8c98450119c",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "**_Rotting Cargo._** The gang’s smuggled exotic animals (blink squirrels), as well as their tobacco, halfleaf, and rum have begun rotting. Everything is covered in thick grey-white mats of fibres. They’re taking what’s left upriver.",
+          "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+          "startLine": 254,
+          "endLine": 254,
+          "source": "selection-sync",
+          "contentHash": "ad05a940",
+          "contentCount": 35,
+          "contentUnit": "words"
+        },
+        {
+          "type": "file",
+          "file": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-08-26 13:36 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_tBcsZZzVuC7FB92ArRTiMIYz",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+              ],
+              "startLine": 244,
+              "endLine": 290
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\"],\"startLine\":244,\"endLine\":290}"
+          }
+        }
+      ],
+      "id": "f98d7b7c-83a6-4455-913e-6822a45f2b4d",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 259540,
+          "completion_tokens": 50,
+          "total_tokens": 259590,
+          "cache_read_input_tokens": 257536
+        },
+        "durationMs": 5410,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_tBcsZZzVuC7FB92ArRTiMIYz",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md"
+                ],
+                "startLine": 244,
+                "endLine": 290
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\"],\"startLine\":244,\"endLine\":290}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_tBcsZZzVuC7FB92ArRTiMIYz\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\n      \"ok\": true,\n      \"totalLines\": 360,\n      \"returnedRange\": {\n        \"startLine\": 244,\n        \"endLine\": 290\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 291,\n      \"content\": \"244|![](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/map-06.00-aramachi-sewers.jpg)\\n245|\\n246|Map 7.1: North Booftown Sewers[View Player Version](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/map-06.00-aramachi-sewers-player.jpg)\\n247|\\n248|The following locations are keyed to Map 7.1. North Booftown Sewers.\\n249|\\n250|#### 1 - Smuggler’s Dock\\n251|\\n252|Under an overhang of bedrock, a rickety pier stands on rotted timbers. Three CN [bandits](https://www.dndbeyond.com/monsters/16798-bandit), Milal (shrewd female halfling), Bodge (happy-go-lucky male human), and Fatakata (suspicious male gnome) are busy loading a rowboat, shuttling the contents from [room 3](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#3SmugglersStoreroom). They are all members of the Shambling Mound gang. Though not immediately hostile, they will question the adventurers if they look to be nosing about. If asked, the bandits will tell the adventurers that mushrooms have been growing in the caves to the north and east.\\n253|\\n254|**_Rotting Cargo._** The gang’s smuggled exotic animals (blink squirrels), as well as their tobacco, halfleaf, and rum have begun rotting. Everything is covered in thick grey-white mats of fibres. They’re taking what’s left upriver.\\n255|\\n256|#### [](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#2SmugglersOffice)2 - Smuggler’s Office\\n257|\\n258|This surprisingly well-appointed room is occupied by Mechatik Clerk (N female urkin [bandit captain](https://www.dndbeyond.com/monsters/16799-bandit-captain)). Mechatik, leader of the Shambling Mound gang, is anxiously tallying the losses incurred by the rot in a report to ‘The Boss’.\\n259|\\n260|#### [](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#3SmugglersStoreroom)3 - Smuggler’s Storeroom\\n261|\\n262|Now mostly empty, this damp room is lined with pallets upon which stand barrels and boxes of rotting contraband. A creature can spend 30 minutes to make a **DC 15 Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))** check, removing all the rocks and opening the passageway to [room 6](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#6FungalField) on a success.\\n263|\\n264|**_Encounter: Bandits._** If the bandits or their captain haven’t already been encountered, they come to the room for a final check. They approach with loaded crossbows. A character that tries to explain their true purpose can make a **VDC - 3 Charisma ([Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))** check. On a success, the bandits back down and explain their plight. On a failure, the bandits attack, believing the party to be thieves, agents of the town watch, or likewise. The bandits surrender if one of their number is killed.\\n265|\\n266|#### [](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#4SauceryBasement)4 - Saucery Basement\\n267|\\n268|Through the locked door to this storage basement, a variety of alchemical scents can be discerned. The shelves are lined with instruments, dried reagents, and books on alchemy. A successful **DC 10 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))** check yields 50 gp of alchemical components.\\n269|\\n270|**_Edibles._** Four small pots are each filled with different mushrooms growing in a small pile of soil: [Amanita rotgut](https://www.dndbeyond.com/magic-items/11327240-amanita-rotgut), [Noradreno mucorales](https://www.dndbeyond.com/magic-items/9787845-noradreno-mucorales), [Psilocybin kwikitrippiae](https://www.dndbeyond.com/magic-items/11327395-psilocybin-kwikitrippiae), and [Raging henbane](https://www.dndbeyond.com/magic-items/11327396-raging-henbane). Each pot contains two portions of one type of mushroom.\\n271|\\n272|#### [](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#5SiltTrap)5 - Silt Trap\\n273|\\n274|The floor of this room, obscured beneath the murky water, is much deeper than the rest of the sewers. A creature that walks into this deeper section must succeed on a **DC 14 Dexterity saving throw** or fall beneath the surface. A creature that falls beneath the surface must succeed on a **VDC Constitution saving throw** or be [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) by sewage for **1 hour**.\\n275|\\n276|#### [](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#6FungalField)6 - Fungal Field\\n277|\\n278|The floor of this room is lit by the dim glow of a field of tiny green-white mushrooms.\\n279|\\n280|**_Hazard: Infectious Spores._** When the party first enters this area, each character must make a **Constitution saving throw** against the Infectious Spores [lair action](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#LairActions).\\n281|\\n282|**_Edibles._** On a successful **DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))** check, a creature spots a clump of blue [Noradreno mucorales](https://www.dndbeyond.com/magic-items/9787845-noradreno-mucorales) (see [Edibles](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#Edibles)). There are two portions of this mushroom.\\n283|\\n284|**_Treasure: Keys._** In the pool on the east side of this room, a set of keys can be spotted swirling in an unending eddy with a successful **DC 10 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))** check. They float by virtue of being tied to a piece of cork. They open the door in the north of [Room 9](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#9SmugglersPens).\\n285|\\n286|#### [](https://www.dndbeyond.com/sources/dnd/hgtmh2/the-veiled-lady#7CaveCamp)7 - Cave Camp\\n287|\\n288|A Small creature can access this room by squeezing through the narrow passageway. A **DC 14 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))** check yields two bottles of alchemist’s fire amongst the detritus.\\n289|\\n290|Mohammed “Aggi” Bellafquih[![](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/06-020.infested-cultists-skull.png)](https://media.dndbeyond.com/compendium-images/hgtmh2/bRk75NXb4K46HWQs/06-020.infested-cultists-skull.png)\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 244,
+                  "endLine": 290,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "a66bd76a-7576-48c1-a57d-22349ad2d518",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_XlSmtdjYuFn6B87ChaSDhUXn",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+              "startLine": 254,
+              "endLine": 254,
+              "newText": "**_Rotting Cargo._** The smugglers’ contraband, including exotic animals, tobacco, halfleaf, and rum, has begun to rot. Everything is covered in thick grey-white mats of fibres. They are moving what remains from the dock toward their hidden storehouses deeper in [[North Booftown]]."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\"startLine\":254,\"endLine\":254,\"newText\":\"**_Rotting Cargo._** The smugglers’ contraband, including exotic animals, tobacco, halfleaf, and rum, has begun to rot. Everything is covered in thick grey-white mats of fibres. They are moving what remains from the dock toward their hidden storehouses deeper in [[North Booftown]].\"}"
+          }
+        }
+      ],
+      "id": "f3fcd0a7-9954-4202-92a3-2af656f7211e",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 261675,
+          "completion_tokens": 317,
+          "total_tokens": 261992,
+          "cache_read_input_tokens": 256512
+        },
+        "durationMs": 9321,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_XlSmtdjYuFn6B87ChaSDhUXn",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                "startLine": 254,
+                "endLine": 254,
+                "newText": "**_Rotting Cargo._** The smugglers’ contraband, including exotic animals, tobacco, halfleaf, and rum, has begun to rot. Everything is covered in thick grey-white mats of fibres. They are moving what remains from the dock toward their hidden storehouses deeper in [[North Booftown]]."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\"startLine\":254,\"endLine\":254,\"newText\":\"**_Rotting Cargo._** The smugglers’ contraband, including exotic animals, tobacco, halfleaf, and rum, has begun to rot. Everything is covered in thick grey-white mats of fibres. They are moving what remains from the dock toward their hidden storehouses deeper in [[North Booftown]].\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace_lines\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"lineRange\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 1/The Veiled Lady.md",
+                      "addedLines": 1,
+                      "removedLines": 1,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "73676897-ab07-4e0d-8b89-f7066a98fe40"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 1,
+                  "totalRemovedLines": 1,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787773019671
+              }
+            }
+          }
+        }
+      ],
+      "id": "73676897-ab07-4e0d-8b89-f7066a98fe40",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Updated the **Rotting Cargo** entry to fit the revised setting:\n\n- Removed the old “upriver” reference.\n- Kept the smugglers’ exotic animals, tobacco, halfleaf, and rum.\n- Placed their hidden storehouses deeper in [[North Booftown]].\n- Clarified that they are moving the remaining cargo away from the dock because of the rot.",
+      "id": "e0fb93e8-ba3d-4fc6-8f23-9789c456dd28",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 261915,
+          "completion_tokens": 112,
+          "total_tokens": 262027
+        },
+        "durationMs": 5609,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Help me come up with a way make themed tournaments of random enemies. Each tournament should consist of up to 5 rounds of increasing difficulty",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "89f8e316-e34b-4f27-83e9-74ee3efc55ad",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-08-26 14:28 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "## Tournament Framework\n\nEach tournament has a theme, a random enemy table, and up to five rounds. The party can stop after any round, but later rounds offer better rewards and greater danger.\n\n### Basic Structure\n\nBefore the tournament begins, determine:\n\n- **Theme:** undead, beasts, constructs, fungi, cultists, elementals, and so on.\n- **Arena:** tavern basement, quarry pit, ruined temple, sewer, forest clearing, or magical demiplane.\n- **Sponsor:** guild, noble, criminal faction, Duster, wizard, or extraplanar being.\n- **Reward:** gold, magic items, faction favor, information, or the right to select the next opponent.\n- **Maximum Rounds:** usually 3 to 5.\n\nEach round should include:\n\n1. A random enemy group.\n2. A distinct arena complication.\n3. A reward for surviving.\n4. A choice to continue or withdraw.\n\n## Increasing Difficulty\n\nUse the party’s level and number of characters to determine the approximate difficulty of each round.\n\n| Round | Difficulty | Purpose |\n|---|---|---|\n| 1 | Easy or Medium | Establish the theme and arena |\n| 2 | Medium | Introduce a tactical complication |\n| 3 | Hard | Add stronger enemies or a dangerous hazard |\n| 4 | Very Hard | Combine enemy abilities and arena effects |\n| 5 | Deadly or Boss | Final champion, monster pair, or special objective |\n\nFor a level 4 party, a simple progression could be:\n\n- **Round 1:** 400 to 600 adjusted XP\n- **Round 2:** 600 to 900 adjusted XP\n- **Round 3:** 900 to 1,200 adjusted XP\n- **Round 4:** 1,200 to 1,600 adjusted XP\n- **Round 5:** 1,600 to 2,200 adjusted XP\n\nThese numbers are only a starting point. The arena hazard can make a fight substantially harder without adding more creatures.\n\n## Random Enemy Tables\n\nEach theme should have several enemy categories rather than one list of unrelated monsters.\n\n### Example: Undead Tournament\n\n| d6 | Enemy Group |\n|---:|---|\n| 1 | 4 Skeletons |\n| 2 | 2 Zombies and 2 Skeletons |\n| 3 | 3 Ghouls |\n| 4 | 1 Wight or elite undead champion |\n| 5 | 2 Specters and 2 Skeletons |\n| 6 | A random undead group chosen by the DM |\n\nThe round determines how many times you roll:\n\n- **Round 1:** Roll once\n- **Round 2:** Roll once, then add one minor minion\n- **Round 3:** Roll twice and combine the groups\n- **Round 4:** Roll twice, then add an arena hazard\n- **Round 5:** Roll once for the boss and once for its support creatures\n\nThis lets you reuse the same table while creating stronger combinations later.\n\n## Themed Tournament Ideas\n\n### The Graveyard Shift\n\nUndead opponents fight in a cemetery arena filled with open graves, mausoleums, and cursed lanterns.\n\nPossible enemies:\n\n- Skeletons\n- Zombies\n- Ghouls\n- Specters\n- Wights\n- Mummies\n- A possessed corpse of a former champion\n\nArena effects:\n\n- Open graves create difficult terrain.\n- Unattended corpses rise after 2 rounds.\n- Radiant damage temporarily suppresses undead reinforcements.\n- The audience is composed of ghosts who cheer whenever someone dies.\n\n### The Sporeshroom Slam\n\nThe party fights fungal creatures in an arena gradually overtaken by aggressive mushrooms.\n\nPossible enemies:\n\n- Violet fungi\n- Gas spores\n- Myconids\n- Shambling mounds\n- Rot-themed beasts\n- Cultists wearing fungal growths\n\nArena effects:\n\n- Spore clouds create obscured areas.\n- Mushrooms grow from blood spilled on the floor.\n- Characters who fail Constitution saves begin hearing commentary from the fungus.\n- A giant mushroom announces the score but keeps getting the names wrong.\n\n### The Scrapheap Rumble\n\nConstructs and magitech creatures fight in a junkyard arena.\n\nPossible enemies:\n\n- Animated armor\n- Flying swords\n- Rug of smothering\n- Helmed horrors\n- Clockwork creatures\n- A patched-together machine champion\n\nArena effects:\n\n- Moving platforms and conveyor belts.\n- Random magical discharges.\n- Cover from piles of scrap.\n- A destroyed construct may explode or release a useful component.\n\n### The Beast Pit\n\nThe party fights increasingly dangerous animals and monstrosities in a shifting wilderness arena.\n\nPossible enemies:\n\n- Wolves\n- Giant spiders\n- Dire wolves\n- Owlbears\n- Displacer beasts\n- Bulette\n- Griffon or wyvern champion\n\nArena effects:\n\n- The terrain changes between forest, swamp, cliffside, and open field.\n- The beasts may attack each other if provoked.\n- Some creatures can be subdued instead of killed.\n- A handler occasionally throws food into the arena, causing a creature to change targets.\n\n### The Cult of the Worst Idea\n\nThe party fights cultists who have misunderstood their own religion.\n\nPossible enemies:\n\n- Cultists\n- A cult fanatic\n- A possessed commoner\n- Animated religious objects\n- Summoned demons or undead\n- A failed cult leader transformed by their own ritual\n\nArena effects:\n\n- Cultists activate one ritual effect each round.\n- The ritual can be disrupted by destroying candles, runes, or sacrificial objects.\n- Some enemies surrender if their leader is defeated.\n- The announcer insists every round is part of a sacred prophecy.\n\n### Arcannabis Cup\n\nThe party fights enemies affected by different Arcannabis strains. Each round introduces a new effect.\n\nPossible enemies:\n\n- Bandits\n- Animated plants\n- Fungal creatures\n- Beasts under strain effects\n- Undead infused with magical plant matter\n- A champion combining several strains\n\nArena effects:\n\n- Colored smoke creates different temporary effects.\n- One strain grants speed.\n- One grants resistance.\n- One causes hallucinations.\n- One makes creatures overly confident and reckless.\n- The audience votes on which strain is released next.\n\n## Round Rewards\n\nGive the players a reason to continue, but make withdrawal meaningful.\n\n| Round Completed | Suggested Reward |\n|---|---|\n| 1 | 25 gp each, food, lodging, or minor consumable |\n| 2 | 50 gp each, faction favor, or common magic item |\n| 3 | 100 gp each, uncommon consumable, or useful information |\n| 4 | 150 gp each, uncommon magic item, or major favor |\n| 5 | 300 gp each, rare story award, or signature prize |\n\nThe rewards should be paid per character when appropriate. Large prizes, such as a magic item or faction favor, should be recorded as party or story rewards.\n\n## Player Choices Between Rounds\n\nAfter each round, let the players choose one benefit:\n\n- **Recover:** Each character can spend Hit Dice.\n- **Prepare:** Gain advantage on one skill check during the next round.\n- **Study:** Learn one resistance, vulnerability, immunity, or special ability of the next enemy.\n- **Sabotage:** Alter one arena feature before the next fight.\n- **Bet:** Risk some of the current reward for a chance to double it.\n- **Withdraw:** Keep the rewards already earned and avoid the next round.\n\nThis makes the tournament more than five consecutive combats.\n\n## Random Complications\n\nAt the beginning of each round, roll a d8:\n\n| d8 | Complication |\n|---:|---|\n| 1 | The arena becomes difficult terrain |\n| 2 | One section becomes hazardous |\n| 3 | The enemies enter from multiple directions |\n| 4 | The audience demands a special objective |\n| 5 | A random combatant gains temporary hit points |\n| 6 | One enemy has a useful environmental advantage |\n| 7 | A defeated creature returns with half its hit points |\n| 8 | The arena changes halfway through the fight |\n\n## Special Tournament Objectives\n\nNot every round needs to be won by killing everything.\n\n- Protect a fragile object for 3 rounds.\n- Capture one enemy alive.\n- Prevent enemies from reaching the audience.\n- Destroy three ritual anchors.\n- Rescue a hostage.\n- Collect a monster component before the round ends.\n- Defeat the champion without using lethal damage.\n- Survive for 5 rounds while reinforcements arrive.\n- Identify which enemy is secretly an illusion.\n- Win while keeping the arena mostly undamaged.\n\n## A Strong Format for Your Vault\n\nEach tournament could use this structure:\n\n```markdown\n# Tournament Name\n\n**Recommended Level:**  \n**Maximum Rounds:**  \n**Theme:**  \n**Arena:**  \n**Sponsor:**  \n**Entry Cost:**  \n**Starting Reward:**  \n\n## Tournament Rules\n\n## Random Enemy Table\n\n## Round 1\n\n### Encounter\n### Arena Effect\n### Reward\n\n## Round 2\n\n### Encounter\n### Arena Effect\n### Reward\n\n## Round 3\n\n### Encounter\n### Arena Effect\n### Reward\n\n## Round 4\n\n### Encounter\n### Arena Effect\n### Reward\n\n## Round 5: Final Champion\n\n### Encounter\n### Arena Effect\n### Reward\n\n## Between-Round Choices\n\n## Tournament Complications\n\n## Scaling\n\n## Aftermath\n```\n\nThe main design principle is to increase difficulty through **combinations, hazards, and objectives**, not only by adding more enemies. This keeps each round distinct and prevents the fifth round from becoming an overcrowded slog.",
+      "id": "3b2d107b-f184-4bfb-8221-c7ac9433ed60",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 262031,
+          "completion_tokens": 2161,
+          "total_tokens": 264192,
+          "cache_read_input_tokens": 255488
+        },
+        "durationMs": 44190,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "please give me a worked example",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "39a2aee2-884f-4435-9543-b2602c3e5165",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-08-26 14:38 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_wSSHUjJjIJkCoBjXk5dqq9mC",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Tournament.md"
+              ],
+              "startLine": 1,
+              "endLine": 314
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\"],\"startLine\":1,\"endLine\":314}"
+          }
+        }
+      ],
+      "id": "17b25795-620a-42bd-b92d-b73c9564d92d",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 264054,
+          "completion_tokens": 95,
+          "total_tokens": 264149
+        },
+        "durationMs": 7369,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_wSSHUjJjIJkCoBjXk5dqq9mC",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Tournament.md"
+                ],
+                "startLine": 1,
+                "endLine": 314
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\"],\"startLine\":1,\"endLine\":314}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_wSSHUjJjIJkCoBjXk5dqq9mC\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\",\n      \"ok\": true,\n      \"totalLines\": 314,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 314\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|## Tournament Framework\\n2|\\n3|Each tournament has a theme, a random enemy table, and up to five rounds. The party can stop after any round, but later rounds offer better rewards and greater danger.\\n4|\\n5|### Basic Structure\\n6|\\n7|Before the tournament begins, determine:\\n8|\\n9|- **Theme:** undead, beasts, constructs, fungi, cultists, elementals, and so on.\\n10|- **Arena:** tavern basement, quarry pit, ruined temple, sewer, forest clearing, or magical demiplane.\\n11|- **Sponsor:** guild, noble, criminal faction, Duster, wizard, or extraplanar being.\\n12|- **Reward:** gold, magic items, faction favor, information, or the right to select the next opponent.\\n13|- **Maximum Rounds:** usually 3 to 5.\\n14|\\n15|Each round should include:\\n16|\\n17|1. A random enemy group.\\n18|2. A distinct arena complication.\\n19|3. A reward for surviving.\\n20|4. A choice to continue or withdraw.\\n21|\\n22|## Increasing Difficulty\\n23|\\n24|Use the party’s level and number of characters to determine the approximate difficulty of each round.\\n25|\\n26|| Round | Difficulty | Purpose |\\n27||---|---|---|\\n28|| 1 | Easy or Medium | Establish the theme and arena |\\n29|| 2 | Medium | Introduce a tactical complication |\\n30|| 3 | Hard | Add stronger enemies or a dangerous hazard |\\n31|| 4 | Very Hard | Combine enemy abilities and arena effects |\\n32|| 5 | Deadly or Boss | Final champion, monster pair, or special objective |\\n33|\\n34|For a level 4 party, a simple progression could be:\\n35|\\n36|- **Round 1:** 400 to 600 adjusted XP\\n37|- **Round 2:** 600 to 900 adjusted XP\\n38|- **Round 3:** 900 to 1,200 adjusted XP\\n39|- **Round 4:** 1,200 to 1,600 adjusted XP\\n40|- **Round 5:** 1,600 to 2,200 adjusted XP\\n41|\\n42|These numbers are only a starting point. The arena hazard can make a fight substantially harder without adding more creatures.\\n43|\\n44|## Random Enemy Tables\\n45|\\n46|Each theme should have several enemy categories rather than one list of unrelated monsters.\\n47|\\n48|### Example: Undead Tournament\\n49|\\n50|| d6 | Enemy Group |\\n51||---:|---|\\n52|| 1 | 4 Skeletons |\\n53|| 2 | 2 Zombies and 2 Skeletons |\\n54|| 3 | 3 Ghouls |\\n55|| 4 | 1 Wight or elite undead champion |\\n56|| 5 | 2 Specters and 2 Skeletons |\\n57|| 6 | A random undead group chosen by the DM |\\n58|\\n59|The round determines how many times you roll:\\n60|\\n61|- **Round 1:** Roll once\\n62|- **Round 2:** Roll once, then add one minor minion\\n63|- **Round 3:** Roll twice and combine the groups\\n64|- **Round 4:** Roll twice, then add an arena hazard\\n65|- **Round 5:** Roll once for the boss and once for its support creatures\\n66|\\n67|This lets you reuse the same table while creating stronger combinations later.\\n68|\\n69|## Themed Tournament Ideas\\n70|\\n71|### The Graveyard Shift\\n72|\\n73|Undead opponents fight in a cemetery arena filled with open graves, mausoleums, and cursed lanterns.\\n74|\\n75|Possible enemies:\\n76|\\n77|- Skeletons\\n78|- Zombies\\n79|- Ghouls\\n80|- Specters\\n81|- Wights\\n82|- Mummies\\n83|- A possessed corpse of a former champion\\n84|\\n85|Arena effects:\\n86|\\n87|- Open graves create difficult terrain.\\n88|- Unattended corpses rise after 2 rounds.\\n89|- Radiant damage temporarily suppresses undead reinforcements.\\n90|- The audience is composed of ghosts who cheer whenever someone dies.\\n91|\\n92|### The Sporeshroom Slam\\n93|\\n94|The party fights fungal creatures in an arena gradually overtaken by aggressive mushrooms.\\n95|\\n96|Possible enemies:\\n97|\\n98|- Violet fungi\\n99|- Gas spores\\n100|- Myconids\\n101|- Shambling mounds\\n102|- Rot-themed beasts\\n103|- Cultists wearing fungal growths\\n104|\\n105|Arena effects:\\n106|\\n107|- Spore clouds create obscured areas.\\n108|- Mushrooms grow from blood spilled on the floor.\\n109|- Characters who fail Constitution saves begin hearing commentary from the fungus.\\n110|- A giant mushroom announces the score but keeps getting the names wrong.\\n111|\\n112|### The Scrapheap Rumble\\n113|\\n114|Constructs and magitech creatures fight in a junkyard arena.\\n115|\\n116|Possible enemies:\\n117|\\n118|- Animated armor\\n119|- Flying swords\\n120|- Rug of smothering\\n121|- Helmed horrors\\n122|- Clockwork creatures\\n123|- A patched-together machine champion\\n124|\\n125|Arena effects:\\n126|\\n127|- Moving platforms and conveyor belts.\\n128|- Random magical discharges.\\n129|- Cover from piles of scrap.\\n130|- A destroyed construct may explode or release a useful component.\\n131|\\n132|### The Beast Pit\\n133|\\n134|The party fights increasingly dangerous animals and monstrosities in a shifting wilderness arena.\\n135|\\n136|Possible enemies:\\n137|\\n138|- Wolves\\n139|- Giant spiders\\n140|- Dire wolves\\n141|- Owlbears\\n142|- Displacer beasts\\n143|- Bulette\\n144|- Griffon or wyvern champion\\n145|\\n146|Arena effects:\\n147|\\n148|- The terrain changes between forest, swamp, cliffside, and open field.\\n149|- The beasts may attack each other if provoked.\\n150|- Some creatures can be subdued instead of killed.\\n151|- A handler occasionally throws food into the arena, causing a creature to change targets.\\n152|\\n153|### The Cult of the Worst Idea\\n154|\\n155|The party fights cultists who have misunderstood their own religion.\\n156|\\n157|Possible enemies:\\n158|\\n159|- Cultists\\n160|- A cult fanatic\\n161|- A possessed commoner\\n162|- Animated religious objects\\n163|- Summoned demons or undead\\n164|- A failed cult leader transformed by their own ritual\\n165|\\n166|Arena effects:\\n167|\\n168|- Cultists activate one ritual effect each round.\\n169|- The ritual can be disrupted by destroying candles, runes, or sacrificial objects.\\n170|- Some enemies surrender if their leader is defeated.\\n171|- The announcer insists every round is part of a sacred prophecy.\\n172|\\n173|### Arcannabis Cup\\n174|\\n175|The party fights enemies affected by different Arcannabis strains. Each round introduces a new effect.\\n176|\\n177|Possible enemies:\\n178|\\n179|- Bandits\\n180|- Animated plants\\n181|- Fungal creatures\\n182|- Beasts under strain effects\\n183|- Undead infused with magical plant matter\\n184|- A champion combining several strains\\n185|\\n186|Arena effects:\\n187|\\n188|- Colored smoke creates different temporary effects.\\n189|- One strain grants speed.\\n190|- One grants resistance.\\n191|- One causes hallucinations.\\n192|- One makes creatures overly confident and reckless.\\n193|- The audience votes on which strain is released next.\\n194|\\n195|## Round Rewards\\n196|\\n197|Give the players a reason to continue, but make withdrawal meaningful.\\n198|\\n199|| Round Completed | Suggested Reward |\\n200||---|---|\\n201|| 1 | 25 gp each, food, lodging, or minor consumable |\\n202|| 2 | 50 gp each, faction favor, or common magic item |\\n203|| 3 | 100 gp each, uncommon consumable, or useful information |\\n204|| 4 | 150 gp each, uncommon magic item, or major favor |\\n205|| 5 | 300 gp each, rare story award, or signature prize |\\n206|\\n207|The rewards should be paid per character when appropriate. Large prizes, such as a magic item or faction favor, should be recorded as party or story rewards.\\n208|\\n209|## Player Choices Between Rounds\\n210|\\n211|After each round, let the players choose one benefit:\\n212|\\n213|- **Recover:** Each character can spend Hit Dice.\\n214|- **Prepare:** Gain advantage on one skill check during the next round.\\n215|- **Study:** Learn one resistance, vulnerability, immunity, or special ability of the next enemy.\\n216|- **Sabotage:** Alter one arena feature before the next fight.\\n217|- **Bet:** Risk some of the current reward for a chance to double it.\\n218|- **Withdraw:** Keep the rewards already earned and avoid the next round.\\n219|\\n220|This makes the tournament more than five consecutive combats.\\n221|\\n222|## Random Complications\\n223|\\n224|At the beginning of each round, roll a d8:\\n225|\\n226|| d8 | Complication |\\n227||---:|---|\\n228|| 1 | The arena becomes difficult terrain |\\n229|| 2 | One section becomes hazardous |\\n230|| 3 | The enemies enter from multiple directions |\\n231|| 4 | The audience demands a special objective |\\n232|| 5 | A random combatant gains temporary hit points |\\n233|| 6 | One enemy has a useful environmental advantage |\\n234|| 7 | A defeated creature returns with half its hit points |\\n235|| 8 | The arena changes halfway through the fight |\\n236|\\n237|## Special Tournament Objectives\\n238|\\n239|Not every round needs to be won by killing everything.\\n240|\\n241|- Protect a fragile object for 3 rounds.\\n242|- Capture one enemy alive.\\n243|- Prevent enemies from reaching the audience.\\n244|- Destroy three ritual anchors.\\n245|- Rescue a hostage.\\n246|- Collect a monster component before the round ends.\\n247|- Defeat the champion without using lethal damage.\\n248|- Survive for 5 rounds while reinforcements arrive.\\n249|- Identify which enemy is secretly an illusion.\\n250|- Win while keeping the arena mostly undamaged.\\n251|\\n252|## A Strong Format for Your Vault\\n253|\\n254|Each tournament could use this structure:\\n255|\\n256|```markdown\\n257|# Tournament Name\\n258|\\n259|**Recommended Level:**  \\n260|**Maximum Rounds:**  \\n261|**Theme:**  \\n262|**Arena:**  \\n263|**Sponsor:**  \\n264|**Entry Cost:**  \\n265|**Starting Reward:**  \\n266|\\n267|## Tournament Rules\\n268|\\n269|## Random Enemy Table\\n270|\\n271|## Round 1\\n272|\\n273|### Encounter\\n274|### Arena Effect\\n275|### Reward\\n276|\\n277|## Round 2\\n278|\\n279|### Encounter\\n280|### Arena Effect\\n281|### Reward\\n282|\\n283|## Round 3\\n284|\\n285|### Encounter\\n286|### Arena Effect\\n287|### Reward\\n288|\\n289|## Round 4\\n290|\\n291|### Encounter\\n292|### Arena Effect\\n293|### Reward\\n294|\\n295|## Round 5: Final Champion\\n296|\\n297|### Encounter\\n298|### Arena Effect\\n299|### Reward\\n300|\\n301|## Between-Round Choices\\n302|\\n303|## Tournament Complications\\n304|\\n305|## Scaling\\n306|\\n307|## Aftermath\\n308|```\\n309|\\n310|The main design principle is to increase difficulty through **combinations, hazards, and objectives**, not only by adding more enemies. This keeps each round distinct and prevents the fifth round from becoming an overcrowded slog.\\n311|\\n312|# Worked Example\\n313|\\n314|\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 314,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "7cf807ee-dcda-4c94-a039-f36ca4d01f1e",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_ZIaaWIAAakRpwQci0vPD5sAS",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/FLS/Tier 1/Tournament.md",
+              "startLine": 314,
+              "endLine": 314,
+              "newText": "# Worked Example\n\n## The Arcannabis Cup: Five Rounds of Bad Decisions\n\n**Recommended Level:** 4  \n**Party Size:** 4 characters  \n**Maximum Rounds:** 5  \n**Theme:** Arcannabis and magical plant effects  \n**Arena:** A circular fighting pit in the basement of [[The Loot Tavern]]  \n**Sponsor:** [[Lutecia]] and the Free League  \n**Entry Cost:** 10 gp each  \n**Starting Reward:** None\n\nThe tournament is presented as a harmless exhibition match, but each round releases a different Arcannabis strain into the arena. The effects are magical, temporary, and increasingly difficult to control. The crowd is encouraged to shout suggestions, throw snacks, and vote for the next strain.\n\n### Tournament Rules\n\n- A creature reduced to 0 hit points is removed from the arena and stabilized by the staff.\n- Characters regain all expended ammunition and ordinary equipment between rounds.\n- Characters can take a short rest between rounds, but the tournament staff does not restore spell slots or other long-rest resources.\n- After each round, the characters can withdraw and keep any rewards earned so far.\n- The arena staff cleans up defeated enemies, so the characters do not need to track bodies or monster components unless a round specifically says otherwise.\n\n### Arcannabis Effects\n\nAt the start of each round, the announcer releases one magical strain. The effect lasts until the end of that round.\n\n| Round | Strain | Effect |\n|---:|---|---|\n| 1 | Hawkeye Haze | Creatures have advantage on Wisdom (Perception) checks and can see through lightly obscured smoke. |\n| 2 | God's Green Crack | Each creature gains 1d6 temporary hit points at the start of the round. |\n| 3 | Death Bubba | The first time each creature takes necrotic damage, reduce that damage by 1d4. |\n| 4 | Brainwreck | Creatures can communicate telepathically with creatures within 30 feet that share a language with them. |\n| 5 | Soul Diesel | When an affected creature hits a humanoid with an attack, it deals an extra 1d4 damage of the same type as the attack. The bonus applies once per turn. |\n\n### Round 1: The Warm-Up\n\n**Encounter:** 4 Bandits\n\nThe bandits are dressed in bright tournament sashes and are more interested in entertaining the crowd than winning. They use improvised weapons, exaggerated flourishes, and terrible victory poses.\n\n**Arena Effect:** Hawkeye Haze fills the pit with pale blue smoke. A creature that moves more than 20 feet on its turn must succeed on a **DC 10 Dexterity saving throw** or slip on the damp arena floor and fall prone.\n\n**Objective:** Defeat the bandits or force them to surrender.\n\n**Reward:** **25 gp each** and one free drink at [[The Loot Tavern]].\n\n### Round 2: The Plant Problem\n\n**Encounter:** 2 Violet Fungi\n\nThe fungi are lowered into the arena in wooden planters. One planter is clearly labeled **DO NOT WATER**, but the staff waters it anyway.\n\n**Arena Effect:** At initiative count 20, one 5-foot square becomes covered in grasping roots and is difficult terrain until the next round.\n\n**Objective:** Defeat the fungi before they spread across half the arena.\n\n**Reward:** **50 gp each** or a common Arcannabis consumable approved by the DM.\n\n### Round 3: The Extremely Confident Beasts\n\n**Encounter:** 2 Dire Wolves\n\nThe wolves have been given a magical Arcannabis dose and believe they are much larger than they really are. They fight aggressively, but each spends its first turn posing for the crowd unless attacked.\n\n**Arena Effect:** Four smoke clouds create lightly obscured 10-foot-radius areas. At the end of each round, one cloud moves 10 feet in a random direction.\n\n**Objective:** Defeat the wolves or calm and restrain them. A character can use an action to make a **DC 13 Wisdom (Animal Handling)** check. Three total successes calm a wolf, while one failed check causes it to attack the nearest creature.\n\n**Reward:** **75 gp each**, plus advantage on the next check made to identify an Arcannabis strain.\n\n### Round 4: The Bad Batch\n\n**Encounter:** 2 Cultists and 1 Cult Fanatic\n\nThe cultists have entered the tournament to test a new strain on live subjects. They are not supposed to be here, but the announcer assumes they are part of the show.\n\n**Arena Effect:** At initiative count 20, the cult fanatic can activate one of three glowing pipes:\n\n- **Red pipe:** One 10-foot square becomes burning terrain until initiative count 20 on the next round. A creature that enters it for the first time on a turn takes 1d6 fire damage.\n- **Green pipe:** One creature in the arena must succeed on a **DC 12 Constitution saving throw** or be Poisoned until the end of its next turn.\n- **Purple pipe:** One creature in the arena must succeed on a **DC 12 Wisdom saving throw** or be unable to take reactions until the end of its next turn.\n\n**Objective:** Defeat the cultists and disable all three pipes. A character adjacent to a pipe can disable it with a successful **DC 13 Intelligence (Arcana or Investigation)** check.\n\n**Reward:** **100 gp each**, plus the information that someone has been selling magical Arcannabis to arena organizers without proper labeling.\n\n### Round 5: The Headliner\n\n**Encounter:** 1 Shambling Mound\n\nThe Shambling Mound is the tournament’s final champion. It was advertised as a “large, handsome plant gentleman,” and the staff refuses to admit that the description may have been misleading.\n\n**Arena Effect:** Soul Diesel smoke fills the arena. At initiative count 20, a random 10-foot square becomes charged with necrotic energy until the next round. A creature that enters the square for the first time on a turn must succeed on a **DC 13 Constitution saving throw** or take 1d6 necrotic damage and become Poisoned until the end of its next turn.\n\n**Objective:** Defeat the Shambling Mound before it reaches the audience. If it reaches the edge of the arena, it begins climbing into the crowd instead of attacking the characters.\n\n**Reward:** **300 gp each**, the tournament trophy, and a free room at [[The Loot Tavern]] for one night.\n\n### Between-Round Choices\n\nAfter each round, the characters choose one option:\n\n- **Recover:** Each character can spend Hit Dice.\n- **Prepare:** One character gains advantage on one check or saving throw during the next round.\n- **Study:** Learn the next round’s enemy type and one of its special abilities.\n- **Sabotage:** Disable one arena effect before the next round begins.\n- **Withdraw:** Keep all rewards earned so far and end the tournament.\n\n### Tournament Complications\n\nRoll a d6 at the start of each round:\n\n| d6 | Complication |\n|---:|---|\n| 1 | The announcer gives incorrect tactical advice, and one random enemy follows it. |\n| 2 | A snack cart tips over, creating difficult terrain in a 10-foot square. |\n| 3 | The audience throws a harmless but distracting object. One creature has disadvantage on its next attack roll. |\n| 4 | A staff member releases the wrong color of smoke. The DM chooses a minor strain effect. |\n| 5 | A defeated enemy leaves behind a useful clue, component, or item. |\n| 6 | The audience votes to increase the stakes. The next round’s reward increases by 25 gp each. |\n\n### Scaling\n\nFor 3 characters, remove one Bandit from Round 1, use only one Dire Wolf in Round 3, and remove one Cultist from Round 4.\n\nFor 5 characters, add two Bandits to Round 1, add one Cultist to Round 4, and give the Shambling Mound 15 additional hit points.\n\n### Aftermath\n\nIf the characters complete all five rounds, the Free League records them as the **current Arcannabis Cup champions**. [[The Loot Tavern]] displays their names on a crooked sign near the bar, although someone has misspelled at least one of them.\n\nIf the characters withdraw early, they keep the rewards earned so far. The tournament organizer offers them another chance to compete later, perhaps against stronger enemies, a rival adventuring party, or an audience that has learned how to vote for even worse ideas."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\",\"startLine\":314,\"endLine\":314,\"newText\":\"# Worked Example\\n\\n## The Arcannabis Cup: Five Rounds of Bad Decisions\\n\\n**Recommended Level:** 4  \\n**Party Size:** 4 characters  \\n**Maximum Rounds:** 5  \\n**Theme:** Arcannabis and magical plant effects  \\n**Arena:** A circular fighting pit in the basement of [[The Loot Tavern]]  \\n**Sponsor:** [[Lutecia]] and the Free League  \\n**Entry Cost:** 10 gp each  \\n**Starting Reward:** None\\n\\nThe tournament is presented as a harmless exhibition match, but each round releases a different Arcannabis strain into the arena. The effects are magical, temporary, and increasingly difficult to control. The crowd is encouraged to shout suggestions, throw snacks, and vote for the next strain.\\n\\n### Tournament Rules\\n\\n- A creature reduced to 0 hit points is removed from the arena and stabilized by the staff.\\n- Characters regain all expended ammunition and ordinary equipment between rounds.\\n- Characters can take a short rest between rounds, but the tournament staff does not restore spell slots or other long-rest resources.\\n- After each round, the characters can withdraw and keep any rewards earned so far.\\n- The arena staff cleans up defeated enemies, so the characters do not need to track bodies or monster components unless a round specifically says otherwise.\\n\\n### Arcannabis Effects\\n\\nAt the start of each round, the announcer releases one magical strain. The effect lasts until the end of that round.\\n\\n| Round | Strain | Effect |\\n|---:|---|---|\\n| 1 | Hawkeye Haze | Creatures have advantage on Wisdom (Perception) checks and can see through lightly obscured smoke. |\\n| 2 | God's Green Crack | Each creature gains 1d6 temporary hit points at the start of the round. |\\n| 3 | Death Bubba | The first time each creature takes necrotic damage, reduce that damage by 1d4. |\\n| 4 | Brainwreck | Creatures can communicate telepathically with creatures within 30 feet that share a language with them. |\\n| 5 | Soul Diesel | When an affected creature hits a humanoid with an attack, it deals an extra 1d4 damage of the same type as the attack. The bonus applies once per turn. |\\n\\n### Round 1: The Warm-Up\\n\\n**Encounter:** 4 Bandits\\n\\nThe bandits are dressed in bright tournament sashes and are more interested in entertaining the crowd than winning. They use improvised weapons, exaggerated flourishes, and terrible victory poses.\\n\\n**Arena Effect:** Hawkeye Haze fills the pit with pale blue smoke. A creature that moves more than 20 feet on its turn must succeed on a **DC 10 Dexterity saving throw** or slip on the damp arena floor and fall prone.\\n\\n**Objective:** Defeat the bandits or force them to surrender.\\n\\n**Reward:** **25 gp each** and one free drink at [[The Loot Tavern]].\\n\\n### Round 2: The Plant Problem\\n\\n**Encounter:** 2 Violet Fungi\\n\\nThe fungi are lowered into the arena in wooden planters. One planter is clearly labeled **DO NOT WATER**, but the staff waters it anyway.\\n\\n**Arena Effect:** At initiative count 20, one 5-foot square becomes covered in grasping roots and is difficult terrain until the next round.\\n\\n**Objective:** Defeat the fungi before they spread across half the arena.\\n\\n**Reward:** **50 gp each** or a common Arcannabis consumable approved by the DM.\\n\\n### Round 3: The Extremely Confident Beasts\\n\\n**Encounter:** 2 Dire Wolves\\n\\nThe wolves have been given a magical Arcannabis dose and believe they are much larger than they really are. They fight aggressively, but each spends its first turn posing for the crowd unless attacked.\\n\\n**Arena Effect:** Four smoke clouds create lightly obscured 10-foot-radius areas. At the end of each round, one cloud moves 10 feet in a random direction.\\n\\n**Objective:** Defeat the wolves or calm and restrain them. A character can use an action to make a **DC 13 Wisdom (Animal Handling)** check. Three total successes calm a wolf, while one failed check causes it to attack the nearest creature.\\n\\n**Reward:** **75 gp each**, plus advantage on the next check made to identify an Arcannabis strain.\\n\\n### Round 4: The Bad Batch\\n\\n**Encounter:** 2 Cultists and 1 Cult Fanatic\\n\\nThe cultists have entered the tournament to test a new strain on live subjects. They are not supposed to be here, but the announcer assumes they are part of the show.\\n\\n**Arena Effect:** At initiative count 20, the cult fanatic can activate one of three glowing pipes:\\n\\n- **Red pipe:** One 10-foot square becomes burning terrain until initiative count 20 on the next round. A creature that enters it for the first time on a turn takes 1d6 fire damage.\\n- **Green pipe:** One creature in the arena must succeed on a **DC 12 Constitution saving throw** or be Poisoned until the end of its next turn.\\n- **Purple pipe:** One creature in the arena must succeed on a **DC 12 Wisdom saving throw** or be unable to take reactions until the end of its next turn.\\n\\n**Objective:** Defeat the cultists and disable all three pipes. A character adjacent to a pipe can disable it with a successful **DC 13 Intelligence (Arcana or Investigation)** check.\\n\\n**Reward:** **100 gp each**, plus the information that someone has been selling magical Arcannabis to arena organizers without proper labeling.\\n\\n### Round 5: The Headliner\\n\\n**Encounter:** 1 Shambling Mound\\n\\nThe Shambling Mound is the tournament’s final champion. It was advertised as a “large, handsome plant gentleman,” and the staff refuses to admit that the description may have been misleading.\\n\\n**Arena Effect:** Soul Diesel smoke fills the arena. At initiative count 20, a random 10-foot square becomes charged with necrotic energy until the next round. A creature that enters the square for the first time on a turn must succeed on a **DC 13 Constitution saving throw** or take 1d6 necrotic damage and become Poisoned until the end of its next turn.\\n\\n**Objective:** Defeat the Shambling Mound before it reaches the audience. If it reaches the edge of the arena, it begins climbing into the crowd instead of attacking the characters.\\n\\n**Reward:** **300 gp each**, the tournament trophy, and a free room at [[The Loot Tavern]] for one night.\\n\\n### Between-Round Choices\\n\\nAfter each round, the characters choose one option:\\n\\n- **Recover:** Each character can spend Hit Dice.\\n- **Prepare:** One character gains advantage on one check or saving throw during the next round.\\n- **Study:** Learn the next round’s enemy type and one of its special abilities.\\n- **Sabotage:** Disable one arena effect before the next round begins.\\n- **Withdraw:** Keep all rewards earned so far and end the tournament.\\n\\n### Tournament Complications\\n\\nRoll a d6 at the start of each round:\\n\\n| d6 | Complication |\\n|---:|---|\\n| 1 | The announcer gives incorrect tactical advice, and one random enemy follows it. |\\n| 2 | A snack cart tips over, creating difficult terrain in a 10-foot square. |\\n| 3 | The audience throws a harmless but distracting object. One creature has disadvantage on its next attack roll. |\\n| 4 | A staff member releases the wrong color of smoke. The DM chooses a minor strain effect. |\\n| 5 | A defeated enemy leaves behind a useful clue, component, or item. |\\n| 6 | The audience votes to increase the stakes. The next round’s reward increases by 25 gp each. |\\n\\n### Scaling\\n\\nFor 3 characters, remove one Bandit from Round 1, use only one Dire Wolf in Round 3, and remove one Cultist from Round 4.\\n\\nFor 5 characters, add two Bandits to Round 1, add one Cultist to Round 4, and give the Shambling Mound 15 additional hit points.\\n\\n### Aftermath\\n\\nIf the characters complete all five rounds, the Free League records them as the **current Arcannabis Cup champions**. [[The Loot Tavern]] displays their names on a crooked sign near the bar, although someone has misspelled at least one of them.\\n\\nIf the characters withdraw early, they keep the rewards earned so far. The tournament organizer offers them another chance to compete later, perhaps against stronger enemies, a rival adventuring party, or an audience that has learned how to vote for even worse ideas.\"}"
+          }
+        }
+      ],
+      "id": "9c4aa287-c7d1-4233-8f31-17a974c88fb5",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 266961,
+          "completion_tokens": 2044,
+          "total_tokens": 269005
+        },
+        "durationMs": 42337,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_ZIaaWIAAakRpwQci0vPD5sAS",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/FLS/Tier 1/Tournament.md",
+                "startLine": 314,
+                "endLine": 314,
+                "newText": "# Worked Example\n\n## The Arcannabis Cup: Five Rounds of Bad Decisions\n\n**Recommended Level:** 4  \n**Party Size:** 4 characters  \n**Maximum Rounds:** 5  \n**Theme:** Arcannabis and magical plant effects  \n**Arena:** A circular fighting pit in the basement of [[The Loot Tavern]]  \n**Sponsor:** [[Lutecia]] and the Free League  \n**Entry Cost:** 10 gp each  \n**Starting Reward:** None\n\nThe tournament is presented as a harmless exhibition match, but each round releases a different Arcannabis strain into the arena. The effects are magical, temporary, and increasingly difficult to control. The crowd is encouraged to shout suggestions, throw snacks, and vote for the next strain.\n\n### Tournament Rules\n\n- A creature reduced to 0 hit points is removed from the arena and stabilized by the staff.\n- Characters regain all expended ammunition and ordinary equipment between rounds.\n- Characters can take a short rest between rounds, but the tournament staff does not restore spell slots or other long-rest resources.\n- After each round, the characters can withdraw and keep any rewards earned so far.\n- The arena staff cleans up defeated enemies, so the characters do not need to track bodies or monster components unless a round specifically says otherwise.\n\n### Arcannabis Effects\n\nAt the start of each round, the announcer releases one magical strain. The effect lasts until the end of that round.\n\n| Round | Strain | Effect |\n|---:|---|---|\n| 1 | Hawkeye Haze | Creatures have advantage on Wisdom (Perception) checks and can see through lightly obscured smoke. |\n| 2 | God's Green Crack | Each creature gains 1d6 temporary hit points at the start of the round. |\n| 3 | Death Bubba | The first time each creature takes necrotic damage, reduce that damage by 1d4. |\n| 4 | Brainwreck | Creatures can communicate telepathically with creatures within 30 feet that share a language with them. |\n| 5 | Soul Diesel | When an affected creature hits a humanoid with an attack, it deals an extra 1d4 damage of the same type as the attack. The bonus applies once per turn. |\n\n### Round 1: The Warm-Up\n\n**Encounter:** 4 Bandits\n\nThe bandits are dressed in bright tournament sashes and are more interested in entertaining the crowd than winning. They use improvised weapons, exaggerated flourishes, and terrible victory poses.\n\n**Arena Effect:** Hawkeye Haze fills the pit with pale blue smoke. A creature that moves more than 20 feet on its turn must succeed on a **DC 10 Dexterity saving throw** or slip on the damp arena floor and fall prone.\n\n**Objective:** Defeat the bandits or force them to surrender.\n\n**Reward:** **25 gp each** and one free drink at [[The Loot Tavern]].\n\n### Round 2: The Plant Problem\n\n**Encounter:** 2 Violet Fungi\n\nThe fungi are lowered into the arena in wooden planters. One planter is clearly labeled **DO NOT WATER**, but the staff waters it anyway.\n\n**Arena Effect:** At initiative count 20, one 5-foot square becomes covered in grasping roots and is difficult terrain until the next round.\n\n**Objective:** Defeat the fungi before they spread across half the arena.\n\n**Reward:** **50 gp each** or a common Arcannabis consumable approved by the DM.\n\n### Round 3: The Extremely Confident Beasts\n\n**Encounter:** 2 Dire Wolves\n\nThe wolves have been given a magical Arcannabis dose and believe they are much larger than they really are. They fight aggressively, but each spends its first turn posing for the crowd unless attacked.\n\n**Arena Effect:** Four smoke clouds create lightly obscured 10-foot-radius areas. At the end of each round, one cloud moves 10 feet in a random direction.\n\n**Objective:** Defeat the wolves or calm and restrain them. A character can use an action to make a **DC 13 Wisdom (Animal Handling)** check. Three total successes calm a wolf, while one failed check causes it to attack the nearest creature.\n\n**Reward:** **75 gp each**, plus advantage on the next check made to identify an Arcannabis strain.\n\n### Round 4: The Bad Batch\n\n**Encounter:** 2 Cultists and 1 Cult Fanatic\n\nThe cultists have entered the tournament to test a new strain on live subjects. They are not supposed to be here, but the announcer assumes they are part of the show.\n\n**Arena Effect:** At initiative count 20, the cult fanatic can activate one of three glowing pipes:\n\n- **Red pipe:** One 10-foot square becomes burning terrain until initiative count 20 on the next round. A creature that enters it for the first time on a turn takes 1d6 fire damage.\n- **Green pipe:** One creature in the arena must succeed on a **DC 12 Constitution saving throw** or be Poisoned until the end of its next turn.\n- **Purple pipe:** One creature in the arena must succeed on a **DC 12 Wisdom saving throw** or be unable to take reactions until the end of its next turn.\n\n**Objective:** Defeat the cultists and disable all three pipes. A character adjacent to a pipe can disable it with a successful **DC 13 Intelligence (Arcana or Investigation)** check.\n\n**Reward:** **100 gp each**, plus the information that someone has been selling magical Arcannabis to arena organizers without proper labeling.\n\n### Round 5: The Headliner\n\n**Encounter:** 1 Shambling Mound\n\nThe Shambling Mound is the tournament’s final champion. It was advertised as a “large, handsome plant gentleman,” and the staff refuses to admit that the description may have been misleading.\n\n**Arena Effect:** Soul Diesel smoke fills the arena. At initiative count 20, a random 10-foot square becomes charged with necrotic energy until the next round. A creature that enters the square for the first time on a turn must succeed on a **DC 13 Constitution saving throw** or take 1d6 necrotic damage and become Poisoned until the end of its next turn.\n\n**Objective:** Defeat the Shambling Mound before it reaches the audience. If it reaches the edge of the arena, it begins climbing into the crowd instead of attacking the characters.\n\n**Reward:** **300 gp each**, the tournament trophy, and a free room at [[The Loot Tavern]] for one night.\n\n### Between-Round Choices\n\nAfter each round, the characters choose one option:\n\n- **Recover:** Each character can spend Hit Dice.\n- **Prepare:** One character gains advantage on one check or saving throw during the next round.\n- **Study:** Learn the next round’s enemy type and one of its special abilities.\n- **Sabotage:** Disable one arena effect before the next round begins.\n- **Withdraw:** Keep all rewards earned so far and end the tournament.\n\n### Tournament Complications\n\nRoll a d6 at the start of each round:\n\n| d6 | Complication |\n|---:|---|\n| 1 | The announcer gives incorrect tactical advice, and one random enemy follows it. |\n| 2 | A snack cart tips over, creating difficult terrain in a 10-foot square. |\n| 3 | The audience throws a harmless but distracting object. One creature has disadvantage on its next attack roll. |\n| 4 | A staff member releases the wrong color of smoke. The DM chooses a minor strain effect. |\n| 5 | A defeated enemy leaves behind a useful clue, component, or item. |\n| 6 | The audience votes to increase the stakes. The next round’s reward increases by 25 gp each. |\n\n### Scaling\n\nFor 3 characters, remove one Bandit from Round 1, use only one Dire Wolf in Round 3, and remove one Cultist from Round 4.\n\nFor 5 characters, add two Bandits to Round 1, add one Cultist to Round 4, and give the Shambling Mound 15 additional hit points.\n\n### Aftermath\n\nIf the characters complete all five rounds, the Free League records them as the **current Arcannabis Cup champions**. [[The Loot Tavern]] displays their names on a crooked sign near the bar, although someone has misspelled at least one of them.\n\nIf the characters withdraw early, they keep the rewards earned so far. The tournament organizer offers them another chance to compete later, perhaps against stronger enemies, a rival adventuring party, or an audience that has learned how to vote for even worse ideas."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\",\"startLine\":314,\"endLine\":314,\"newText\":\"# Worked Example\\n\\n## The Arcannabis Cup: Five Rounds of Bad Decisions\\n\\n**Recommended Level:** 4  \\n**Party Size:** 4 characters  \\n**Maximum Rounds:** 5  \\n**Theme:** Arcannabis and magical plant effects  \\n**Arena:** A circular fighting pit in the basement of [[The Loot Tavern]]  \\n**Sponsor:** [[Lutecia]] and the Free League  \\n**Entry Cost:** 10 gp each  \\n**Starting Reward:** None\\n\\nThe tournament is presented as a harmless exhibition match, but each round releases a different Arcannabis strain into the arena. The effects are magical, temporary, and increasingly difficult to control. The crowd is encouraged to shout suggestions, throw snacks, and vote for the next strain.\\n\\n### Tournament Rules\\n\\n- A creature reduced to 0 hit points is removed from the arena and stabilized by the staff.\\n- Characters regain all expended ammunition and ordinary equipment between rounds.\\n- Characters can take a short rest between rounds, but the tournament staff does not restore spell slots or other long-rest resources.\\n- After each round, the characters can withdraw and keep any rewards earned so far.\\n- The arena staff cleans up defeated enemies, so the characters do not need to track bodies or monster components unless a round specifically says otherwise.\\n\\n### Arcannabis Effects\\n\\nAt the start of each round, the announcer releases one magical strain. The effect lasts until the end of that round.\\n\\n| Round | Strain | Effect |\\n|---:|---|---|\\n| 1 | Hawkeye Haze | Creatures have advantage on Wisdom (Perception) checks and can see through lightly obscured smoke. |\\n| 2 | God's Green Crack | Each creature gains 1d6 temporary hit points at the start of the round. |\\n| 3 | Death Bubba | The first time each creature takes necrotic damage, reduce that damage by 1d4. |\\n| 4 | Brainwreck | Creatures can communicate telepathically with creatures within 30 feet that share a language with them. |\\n| 5 | Soul Diesel | When an affected creature hits a humanoid with an attack, it deals an extra 1d4 damage of the same type as the attack. The bonus applies once per turn. |\\n\\n### Round 1: The Warm-Up\\n\\n**Encounter:** 4 Bandits\\n\\nThe bandits are dressed in bright tournament sashes and are more interested in entertaining the crowd than winning. They use improvised weapons, exaggerated flourishes, and terrible victory poses.\\n\\n**Arena Effect:** Hawkeye Haze fills the pit with pale blue smoke. A creature that moves more than 20 feet on its turn must succeed on a **DC 10 Dexterity saving throw** or slip on the damp arena floor and fall prone.\\n\\n**Objective:** Defeat the bandits or force them to surrender.\\n\\n**Reward:** **25 gp each** and one free drink at [[The Loot Tavern]].\\n\\n### Round 2: The Plant Problem\\n\\n**Encounter:** 2 Violet Fungi\\n\\nThe fungi are lowered into the arena in wooden planters. One planter is clearly labeled **DO NOT WATER**, but the staff waters it anyway.\\n\\n**Arena Effect:** At initiative count 20, one 5-foot square becomes covered in grasping roots and is difficult terrain until the next round.\\n\\n**Objective:** Defeat the fungi before they spread across half the arena.\\n\\n**Reward:** **50 gp each** or a common Arcannabis consumable approved by the DM.\\n\\n### Round 3: The Extremely Confident Beasts\\n\\n**Encounter:** 2 Dire Wolves\\n\\nThe wolves have been given a magical Arcannabis dose and believe they are much larger than they really are. They fight aggressively, but each spends its first turn posing for the crowd unless attacked.\\n\\n**Arena Effect:** Four smoke clouds create lightly obscured 10-foot-radius areas. At the end of each round, one cloud moves 10 feet in a random direction.\\n\\n**Objective:** Defeat the wolves or calm and restrain them. A character can use an action to make a **DC 13 Wisdom (Animal Handling)** check. Three total successes calm a wolf, while one failed check causes it to attack the nearest creature.\\n\\n**Reward:** **75 gp each**, plus advantage on the next check made to identify an Arcannabis strain.\\n\\n### Round 4: The Bad Batch\\n\\n**Encounter:** 2 Cultists and 1 Cult Fanatic\\n\\nThe cultists have entered the tournament to test a new strain on live subjects. They are not supposed to be here, but the announcer assumes they are part of the show.\\n\\n**Arena Effect:** At initiative count 20, the cult fanatic can activate one of three glowing pipes:\\n\\n- **Red pipe:** One 10-foot square becomes burning terrain until initiative count 20 on the next round. A creature that enters it for the first time on a turn takes 1d6 fire damage.\\n- **Green pipe:** One creature in the arena must succeed on a **DC 12 Constitution saving throw** or be Poisoned until the end of its next turn.\\n- **Purple pipe:** One creature in the arena must succeed on a **DC 12 Wisdom saving throw** or be unable to take reactions until the end of its next turn.\\n\\n**Objective:** Defeat the cultists and disable all three pipes. A character adjacent to a pipe can disable it with a successful **DC 13 Intelligence (Arcana or Investigation)** check.\\n\\n**Reward:** **100 gp each**, plus the information that someone has been selling magical Arcannabis to arena organizers without proper labeling.\\n\\n### Round 5: The Headliner\\n\\n**Encounter:** 1 Shambling Mound\\n\\nThe Shambling Mound is the tournament’s final champion. It was advertised as a “large, handsome plant gentleman,” and the staff refuses to admit that the description may have been misleading.\\n\\n**Arena Effect:** Soul Diesel smoke fills the arena. At initiative count 20, a random 10-foot square becomes charged with necrotic energy until the next round. A creature that enters the square for the first time on a turn must succeed on a **DC 13 Constitution saving throw** or take 1d6 necrotic damage and become Poisoned until the end of its next turn.\\n\\n**Objective:** Defeat the Shambling Mound before it reaches the audience. If it reaches the edge of the arena, it begins climbing into the crowd instead of attacking the characters.\\n\\n**Reward:** **300 gp each**, the tournament trophy, and a free room at [[The Loot Tavern]] for one night.\\n\\n### Between-Round Choices\\n\\nAfter each round, the characters choose one option:\\n\\n- **Recover:** Each character can spend Hit Dice.\\n- **Prepare:** One character gains advantage on one check or saving throw during the next round.\\n- **Study:** Learn the next round’s enemy type and one of its special abilities.\\n- **Sabotage:** Disable one arena effect before the next round begins.\\n- **Withdraw:** Keep all rewards earned so far and end the tournament.\\n\\n### Tournament Complications\\n\\nRoll a d6 at the start of each round:\\n\\n| d6 | Complication |\\n|---:|---|\\n| 1 | The announcer gives incorrect tactical advice, and one random enemy follows it. |\\n| 2 | A snack cart tips over, creating difficult terrain in a 10-foot square. |\\n| 3 | The audience throws a harmless but distracting object. One creature has disadvantage on its next attack roll. |\\n| 4 | A staff member releases the wrong color of smoke. The DM chooses a minor strain effect. |\\n| 5 | A defeated enemy leaves behind a useful clue, component, or item. |\\n| 6 | The audience votes to increase the stakes. The next round’s reward increases by 25 gp each. |\\n\\n### Scaling\\n\\nFor 3 characters, remove one Bandit from Round 1, use only one Dire Wolf in Round 3, and remove one Cultist from Round 4.\\n\\nFor 5 characters, add two Bandits to Round 1, add one Cultist to Round 4, and give the Shambling Mound 15 additional hit points.\\n\\n### Aftermath\\n\\nIf the characters complete all five rounds, the Free League records them as the **current Arcannabis Cup champions**. [[The Loot Tavern]] displays their names on a crooked sign near the bar, although someone has misspelled at least one of them.\\n\\nIf the characters withdraw early, they keep the rewards earned so far. The tournament organizer offers them another chance to compete later, perhaps against stronger enemies, a rival adventuring party, or an audience that has learned how to vote for even worse ideas.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace_lines\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"lineRange\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/FLS/Tier 1/Tournament.md",
+                      "addedLines": 133,
+                      "removedLines": 1,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "b7bb7fb7-da0f-464f-a3c0-7ab707a4b655"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 133,
+                  "totalRemovedLines": 1,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1787776790838
+              }
+            }
+          }
+        }
+      ],
+      "id": "b7bb7fb7-da0f-464f-a3c0-7ab707a4b655",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_uMWLbM8dAVcRcTIANoQpUFaV",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/FLS/Tier 1/Tournament.md"
+              ],
+              "startLine": 308,
+              "endLine": 500
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\"],\"startLine\":308,\"endLine\":500}"
+          }
+        }
+      ],
+      "id": "18d97177-4ab2-4679-90f9-28a89d22fcb4",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 269034,
+          "completion_tokens": 114,
+          "total_tokens": 269148
+        },
+        "durationMs": 11383,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_uMWLbM8dAVcRcTIANoQpUFaV",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/FLS/Tier 1/Tournament.md"
+                ],
+                "startLine": 308,
+                "endLine": 500
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\"],\"startLine\":308,\"endLine\":500}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_uMWLbM8dAVcRcTIANoQpUFaV\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/Tournament.md\",\n      \"ok\": true,\n      \"totalLines\": 444,\n      \"returnedRange\": {\n        \"startLine\": 308,\n        \"endLine\": 444\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"308|```\\n309|\\n310|The main design principle is to increase difficulty through **combinations, hazards, and objectives**, not only by adding more enemies. This keeps each round distinct and prevents the fifth round from becoming an overcrowded slog.\\n311|\\n312|# Worked Example\\n313|\\n314|## The Arcannabis Cup: Five Rounds of Bad Decisions\\n315|\\n316|**Recommended Level:** 4  \\n317|**Party Size:** 4 characters  \\n318|**Maximum Rounds:** 5  \\n319|**Theme:** Arcannabis and magical plant effects  \\n320|**Arena:** A circular fighting pit in the basement of [[The Loot Tavern]]  \\n321|**Sponsor:** [[Lutecia]] and the Free League  \\n322|**Entry Cost:** 10 gp each  \\n323|**Starting Reward:** None\\n324|\\n325|The tournament is presented as a harmless exhibition match, but each round releases a different Arcannabis strain into the arena. The effects are magical, temporary, and increasingly difficult to control. The crowd is encouraged to shout suggestions, throw snacks, and vote for the next strain.\\n326|\\n327|### Tournament Rules\\n328|\\n329|- A creature reduced to 0 hit points is removed from the arena and stabilized by the staff.\\n330|- Characters regain all expended ammunition and ordinary equipment between rounds.\\n331|- Characters can take a short rest between rounds, but the tournament staff does not restore spell slots or other long-rest resources.\\n332|- After each round, the characters can withdraw and keep any rewards earned so far.\\n333|- The arena staff cleans up defeated enemies, so the characters do not need to track bodies or monster components unless a round specifically says otherwise.\\n334|\\n335|### Arcannabis Effects\\n336|\\n337|At the start of each round, the announcer releases one magical strain. The effect lasts until the end of that round.\\n338|\\n339|| Round | Strain | Effect |\\n340||---:|---|---|\\n341|| 1 | Hawkeye Haze | Creatures have advantage on Wisdom (Perception) checks and can see through lightly obscured smoke. |\\n342|| 2 | God's Green Crack | Each creature gains 1d6 temporary hit points at the start of the round. |\\n343|| 3 | Death Bubba | The first time each creature takes necrotic damage, reduce that damage by 1d4. |\\n344|| 4 | Brainwreck | Creatures can communicate telepathically with creatures within 30 feet that share a language with them. |\\n345|| 5 | Soul Diesel | When an affected creature hits a humanoid with an attack, it deals an extra 1d4 damage of the same type as the attack. The bonus applies once per turn. |\\n346|\\n347|### Round 1: The Warm-Up\\n348|\\n349|**Encounter:** 4 Bandits\\n350|\\n351|The bandits are dressed in bright tournament sashes and are more interested in entertaining the crowd than winning. They use improvised weapons, exaggerated flourishes, and terrible victory poses.\\n352|\\n353|**Arena Effect:** Hawkeye Haze fills the pit with pale blue smoke. A creature that moves more than 20 feet on its turn must succeed on a **DC 10 Dexterity saving throw** or slip on the damp arena floor and fall prone.\\n354|\\n355|**Objective:** Defeat the bandits or force them to surrender.\\n356|\\n357|**Reward:** **25 gp each** and one free drink at [[The Loot Tavern]].\\n358|\\n359|### Round 2: The Plant Problem\\n360|\\n361|**Encounter:** 2 Violet Fungi\\n362|\\n363|The fungi are lowered into the arena in wooden planters. One planter is clearly labeled **DO NOT WATER**, but the staff waters it anyway.\\n364|\\n365|**Arena Effect:** At initiative count 20, one 5-foot square becomes covered in grasping roots and is difficult terrain until the next round.\\n366|\\n367|**Objective:** Defeat the fungi before they spread across half the arena.\\n368|\\n369|**Reward:** **50 gp each** or a common Arcannabis consumable approved by the DM.\\n370|\\n371|### Round 3: The Extremely Confident Beasts\\n372|\\n373|**Encounter:** 2 Dire Wolves\\n374|\\n375|The wolves have been given a magical Arcannabis dose and believe they are much larger than they really are. They fight aggressively, but each spends its first turn posing for the crowd unless attacked.\\n376|\\n377|**Arena Effect:** Four smoke clouds create lightly obscured 10-foot-radius areas. At the end of each round, one cloud moves 10 feet in a random direction.\\n378|\\n379|**Objective:** Defeat the wolves or calm and restrain them. A character can use an action to make a **DC 13 Wisdom (Animal Handling)** check. Three total successes calm a wolf, while one failed check causes it to attack the nearest creature.\\n380|\\n381|**Reward:** **75 gp each**, plus advantage on the next check made to identify an Arcannabis strain.\\n382|\\n383|### Round 4: The Bad Batch\\n384|\\n385|**Encounter:** 2 Cultists and 1 Cult Fanatic\\n386|\\n387|The cultists have entered the tournament to test a new strain on live subjects. They are not supposed to be here, but the announcer assumes they are part of the show.\\n388|\\n389|**Arena Effect:** At initiative count 20, the cult fanatic can activate one of three glowing pipes:\\n390|\\n391|- **Red pipe:** One 10-foot square becomes burning terrain until initiative count 20 on the next round. A creature that enters it for the first time on a turn takes 1d6 fire damage.\\n392|- **Green pipe:** One creature in the arena must succeed on a **DC 12 Constitution saving throw** or be Poisoned until the end of its next turn.\\n393|- **Purple pipe:** One creature in the arena must succeed on a **DC 12 Wisdom saving throw** or be unable to take reactions until the end of its next turn.\\n394|\\n395|**Objective:** Defeat the cultists and disable all three pipes. A character adjacent to a pipe can disable it with a successful **DC 13 Intelligence (Arcana or Investigation)** check.\\n396|\\n397|**Reward:** **100 gp each**, plus the information that someone has been selling magical Arcannabis to arena organizers without proper labeling.\\n398|\\n399|### Round 5: The Headliner\\n400|\\n401|**Encounter:** 1 Shambling Mound\\n402|\\n403|The Shambling Mound is the tournament’s final champion. It was advertised as a “large, handsome plant gentleman,” and the staff refuses to admit that the description may have been misleading.\\n404|\\n405|**Arena Effect:** Soul Diesel smoke fills the arena. At initiative count 20, a random 10-foot square becomes charged with necrotic energy until the next round. A creature that enters the square for the first time on a turn must succeed on a **DC 13 Constitution saving throw** or take 1d6 necrotic damage and become Poisoned until the end of its next turn.\\n406|\\n407|**Objective:** Defeat the Shambling Mound before it reaches the audience. If it reaches the edge of the arena, it begins climbing into the crowd instead of attacking the characters.\\n408|\\n409|**Reward:** **300 gp each**, the tournament trophy, and a free room at [[The Loot Tavern]] for one night.\\n410|\\n411|### Between-Round Choices\\n412|\\n413|After each round, the characters choose one option:\\n414|\\n415|- **Recover:** Each character can spend Hit Dice.\\n416|- **Prepare:** One character gains advantage on one check or saving throw during the next round.\\n417|- **Study:** Learn the next round’s enemy type and one of its special abilities.\\n418|- **Sabotage:** Disable one arena effect before the next round begins.\\n419|- **Withdraw:** Keep all rewards earned so far and end the tournament.\\n420|\\n421|### Tournament Complications\\n422|\\n423|Roll a d6 at the start of each round:\\n424|\\n425|| d6 | Complication |\\n426||---:|---|\\n427|| 1 | The announcer gives incorrect tactical advice, and one random enemy follows it. |\\n428|| 2 | A snack cart tips over, creating difficult terrain in a 10-foot square. |\\n429|| 3 | The audience throws a harmless but distracting object. One creature has disadvantage on its next attack roll. |\\n430|| 4 | A staff member releases the wrong color of smoke. The DM chooses a minor strain effect. |\\n431|| 5 | A defeated enemy leaves behind a useful clue, component, or item. |\\n432|| 6 | The audience votes to increase the stakes. The next round’s reward increases by 25 gp each. |\\n433|\\n434|### Scaling\\n435|\\n436|For 3 characters, remove one Bandit from Round 1, use only one Dire Wolf in Round 3, and remove one Cultist from Round 4.\\n437|\\n438|For 5 characters, add two Bandits to Round 1, add one Cultist to Round 4, and give the Shambling Mound 15 additional hit points.\\n439|\\n440|### Aftermath\\n441|\\n442|If the characters complete all five rounds, the Free League records them as the **current Arcannabis Cup champions**. [[The Loot Tavern]] displays their names on a crooked sign near the bar, although someone has misspelled at least one of them.\\n443|\\n444|If the characters withdraw early, they keep the rewards earned so far. The tournament organizer offers them another chance to compete later, perhaps against stronger enemies, a rival adventuring party, or an audience that has learned how to vote for even worse ideas.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"The Loot Tavern\",\n          \"path\": \"content/POIs/The Loot Tavern.md\"\n        },\n        {\n          \"link\": \"Lutecia\",\n          \"path\": \"content/NPCs/minor/Lutecia.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 308,
+                  "endLine": 444,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "f6f537af-c116-4935-b0b2-5590590b1fc9",
+      "metadata": {
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Added a complete worked example to `Tournament.md`:\n\n## The Arcannabis Cup: Five Rounds of Bad Decisions\n\nIt includes:\n\n- Recommended level, party size, arena, sponsor, and entry cost\n- Tournament rules\n- Five rounds with increasing difficulty\n- Different Arcannabis effects each round\n- Enemy groups and objectives\n- Arena hazards\n- Rewards after every round\n- Between-round choices\n- Random complications\n- Scaling for 3, 4, or 5 characters\n- Aftermath for winning or withdrawing early",
+      "id": "00f87d06-77e6-4582-9042-6538999b1ee5",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 271494,
+          "completion_tokens": 218,
+          "total_tokens": 271712,
+          "cache_read_input_tokens": 253440
+        },
+        "durationMs": 8707,
+        "generationState": "completed",
+        "branchConversationId": "5f9a7102-5c53-4b99-894b-f5a8ba31192a",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
     }
   ],
   "createdAt": 1787325567988,
-  "updatedAt": 1787698388057,
+  "updatedAt": 1787776815671,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
@@ -43109,7 +44942,11 @@
     "ecedef0a-10ae-453a-9169-edba328d0c4b": "chatGPT/gpt-5.6-luna",
     "d1ffe5ba-aa06-4d9c-8de7-a64ae5aa85cc": "chatGPT/gpt-5.6-luna",
     "4bbaf54c-1ac5-4443-a325-5e93e22866cf": "chatGPT/gpt-5.6-luna",
-    "73f8fba9-70f8-405a-ae16-ae4c50a13917": "chatGPT/gpt-5.6-luna"
+    "73f8fba9-70f8-405a-ae16-ae4c50a13917": "chatGPT/gpt-5.6-luna",
+    "90b9da75-df46-4145-8a1b-98794a89bdb7": "chatGPT/gpt-5.6-luna",
+    "5ce2e0f1-1150-4617-bd69-eaf39edec980": "chatGPT/gpt-5.6-luna",
+    "bc74dea2-e4fc-41af-a882-a8c98450119c": "chatGPT/gpt-5.6-luna",
+    "89f8e316-e34b-4f27-83e9-74ee3efc55ad": "chatGPT/gpt-5.6-luna"
   },
   "assistantGroupBoundaryMessageIds": [],
   "reasoningLevel": "auto",
