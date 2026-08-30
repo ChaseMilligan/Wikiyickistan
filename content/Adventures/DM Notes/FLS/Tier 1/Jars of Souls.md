@@ -28,11 +28,11 @@ His experiments have not gone anywhere, and his illusion obscuring the laborator
 
 The characters begin at the [[FLS Guildhall]] on [[Nevercough Island]], looking for work through the [[Free League of Stickyickistan]]. A public notice on [[The Rolling Papers]] offers **150 gp** to investigate a newly revealed tomb in the wooded interior of [[The Outback]] and return with evidence of its purpose.
 
-The notice explains that several explorers, hunters, and woodsmen from [[Doobius House]] entered the tomb after its discovery and never returned. Their sole survivor, **[[Bongston Vale]]**, was found half-starved and raving about black ceramic jars filled with screaming souls. He is recovering in the guildhall’s [[FLS Guildhall#Recovery support|recovery quarters]] and can be questioned before the party leaves.
+The notice explains that several explorers, hunters, and woodsmen from [[Doobius House]] entered the tomb after its discovery and never returned. Their sole survivor, **[[Shparkenup DeChalice]]**, was found half-starved and raving about black ceramic jars filled with screaming souls. He is recovering in the guildhall’s [[FLS Guildhall#Recovery support|recovery quarters]] and can be questioned before the party leaves.
 
-Their families have contacted the Guildhall, desperate to learn what happened to them. A scholar from [[N.E.R.D]] has also taken an interest in the tomb after comparing Bongston’s account to reports from [[content/POIs/Blacklung Quarry|Blacklung Quarry]], where [[Bartholomew Dorkymin V]] helped document strange necromantic evidence recovered from the quarry. The scholar suspects the jars may be connected to a forbidden substance called **[[Soul Diesel]]**, but needs proof from inside the tomb. After hearing Bongston’s account, the families of the missing urge the characters to **free any trapped souls they find**.
+Their families have contacted the Guildhall, desperate to learn what happened to them. A scholar from [[N.E.R.D]] has also taken an interest in the tomb after comparing Shparkenup’s account to reports from [[content/POIs/Blacklung Quarry|Blacklung Quarry]], where [[Bartholomew Dorkymin V]] helped document strange necromantic evidence recovered from the quarry. The scholar suspects the jars may be connected to a forbidden substance called **[[Soul Diesel]]**, but needs proof from inside the tomb. After hearing Shparkenup’s account, the families of the missing urge the characters to **free any trapped souls they find**.
 
-Bongston remembers little clearly, but repeatedly warns:
+Shparkenup remembers little clearly, but repeatedly warns:
 
 > "Don't touch the jars. Gods above, don't touch the jars."
 
@@ -48,7 +48,7 @@ The contact is [[Skarguther Dungleboof]], a well-connected member of the [[Heral
 
 > **“Touch the jars. Bring me every one you can carry.”**
 
-Skarguther pays **300 gp per intact active jar** and **100 gp per intact inert jar**. The four active jars in the ritual chamber are worth **1,200 gp** total, and the two inert jars in Area 3 are worth **200 gp** total, for a possible maximum payment of **1,400 gp** if all six jars are recovered intact. To collect, deliver the jars to the Dungsweepers’ mortuary offices in [[The Undercity Osslurraggath]] and give the clerk the notice or the phrase **“The dead are still moving.”** Broken jars and released souls earn no payment. The public 100 gp reward remains available, but this contract asks the characters to collect the jars rather than smash them.
+Skarguther pays **300 gp per intact active jar** and **100 gp per intact inert jar**. The four active jars in the ritual chamber are worth **1,200 gp** total, and the two inert jars in Area 3 are worth **200 gp** total, for a possible maximum payment of **1,400 gp** if all six jars are recovered intact. To collect, deliver the jars to the Dungsweepers’ mortuary offices in [[The Undercity Osslurraggath]] and give the clerk the notice or the phrase **“The dead are still moving.”** Broken jars and released souls earn no payment. The public 100 gp reward remains available, but this asks the characters to collect the jars rather than smash them.
 
 ---
 
@@ -149,7 +149,7 @@ If characters retreat from the chamber, the constructs return to their original 
 
 A black ceramic vessel rests upon a stone pedestal. Ghostly faces occasionally push outward from its surface before disappearing.
 
-Each inert jar contains a dark, viscous Arcannabis concentrate called **[[Soul Diesel]]**: trapped souls mixed with humanoid blood. The souls remain conscious within the mixture, which is why the liquid whispers with the voices Bongston heard after his companions died. A creature that touches the jar hears dozens of overlapping whispers, including fragments of the souls’ final memories. Unlike the active jars in Area 7, an inert jar is not connected to the ritual machinery and does not empower the undead.
+Each inert jar contains a dark, viscous Arcannabis concentrate called **[[Soul Diesel]]**: trapped souls mixed with humanoid blood. The souls remain conscious within the mixture, which is why the liquid whispers with the voices Shparkenup heard after his companions died. A creature that touches the jar hears dozens of overlapping whispers, including fragments of the souls’ final memories. Unlike the active jars in Area 7, an inert jar is not connected to the ritual machinery and does not empower the undead.
 
 A creature that ingests a dose of Soul Diesel gains **1d4 bonus damage of the same type as its attack against humanoids** for 1 hour. The effect applies once per turn. Using the strain is disturbing and illegal in most civilized settlements, since its manufacture requires tortured souls and humanoid blood.
 

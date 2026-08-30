@@ -11,7 +11,7 @@
 
 The [Free League of Stickyickistan](Free%20League%20of%20Stickyickistan) seeks licensed adventurers for an urgent expedition beyond [Doobius House](Doobius%20House). A recently uncovered stone entrance in [The Outback](The%20Outback) has drawn local curiosity, reckless explorers, and now grieving families.
 
-Applicants should be prepared for hazardous ruins, unreliable survivor testimony, and conditions unsuitable for casual treasure hunters. [Bongston Vale](Bongston%20Vale), the only known survivor, is recovering at the [FLS Guildhall](FLS%20Guildhall) and may be questioned before departure. The Guildhall requests discretion, evidence, and, if possible, answers for the families of those who did not return.
+Applicants should be prepared for hazardous ruins, unreliable survivor testimony, and conditions unsuitable for casual treasure hunters. [[Shparkenup DeChalice]], the only known survivor, is recovering at the [FLS Guildhall](FLS%20Guildhall) and may be questioned before departure. The Guildhall requests discretion, evidence, and, if possible, answers for the families of those who did not return.
 
 A scholar from [N.E.R.D](N.E.R.D) offers payment for reliable evidence recovered from the tomb. The scholar suspects the site may be connected to a forbidden substance, but proof is needed from inside.
 
