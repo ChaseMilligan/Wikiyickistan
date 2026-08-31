@@ -1,5 +1,5 @@
 
-**Zaza** is the proprietor of [[Zaza's Apothecary]], a trusted supplier serving the [[Free League of Stickyickistan]]. Their shop provides potions, poisons, medicines, herbs, monster components, harvesting supplies, and expedition gear to adventurers who are willing to follow instructions and sign the appropriate waivers.
+**Zaza** is the proprietor of [[Zaza's Apothecary]], a trusted supplier serving the [[Free League of Stickyickistan]]. Their shop provides potions, poisons, medicines, herbs, monster components, harvesting supplies, and expedition gear to adventurers who are willing to follow instructions and sign the appropriate waivers. Zaza is also a member of the [[Blossom Union]].
 
 ## Role in the Free League
 
@@ -9,7 +9,7 @@ Zaza sells ordinary supplies directly, while more powerful potions, poisons, and
 
 ## Appearance
 
-Zaza is a compact, broad-shouldered rakin with dark fur, bright yellow eyes, and a perpetual smear of green powder across one cheek. They wear a patched leather apron covered in pockets, loops, labels, and tiny glass vials. Their sleeves are usually rolled up, and their claws are stained with whatever they were brewing most recently.
+Zaza is a compact, halfling with dark hair, bright yellow eyes. They wear a patched leather apron covered in pockets, loops, labels, and tiny glass vials. Their sleeves are usually rolled up, and their claws are stained with whatever they were brewing most recently.
 
 ## Personality
 
@@ -24,25 +24,3 @@ They are careful with customers but reckless with personal experiments. Zaza bel
 - Sniffs every ingredient, even when warned not to.
 - Keeps a running list of adventurers who owe them empty bottles.
 - Refers to Arcannabis strains as “cultivars,” unless someone is being annoying.
-
-## Services
-
-Zaza can:
-
-- Sell potions, poisons, medicines, herbs, and expedition supplies.
-- Identify biological monster components.
-- Purchase harvested organs, glands, venoms, spores, blood, hides, and unusual plant matter.
-- Provide Arcannabis seeds, soil, fertilizer, water, and brewing supplies.
-- Teach the cultivation and brewing procedures in [[Arcannabis System Rework]].
-- Permanently unlock approved potion and Arcannabis recipes.
-- Help preserve unstable biological materials for later crafting.
-
-## Favorite Quotes
-
-> “If it glows, bubbles, or whispers, put it on the left shelf.”
-
-> “That is not a poison. It is a medicine with poor public relations.”
-
-> “Do not eat anything until I have finished writing the label.”
-
-> “The plant is not cursed. The soil is cursed. Very different problem.”

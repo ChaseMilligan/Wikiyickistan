@@ -27,6 +27,6 @@ The rivalry is usually political and philosophical rather than violent. Union me
 
 ## Notable Members
 
-- **[[Threeflower]]:** A timid gnome druid who guides visitors and serves as a field representative for the Union.
+- [[Zaza]]: The proprietor of the Apothecary & General Store of the [[FLS Guildhall]].
 - **[[Pyrax]]:** A [[Lizardfolk]] fire druid who studies controlled burns and forest renewal.
 - **[[Archdruid Xyxl]]:** The Union’s senior spiritual authority and guardian of Springarden’s oldest traditions.
