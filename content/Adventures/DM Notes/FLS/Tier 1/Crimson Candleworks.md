@@ -20,9 +20,9 @@ The following information is key to the adventure's story.
 
 **Part 1:** [[The Rolling Papers]]. The characters answer a bounty from the [[Tribunal Highblade Coalition]] and meet [[Ziggy Tootokes]] at [[Highblade Tower]]. Ziggy briefs them on the investigation into an illegal [[Bloodwalker OG]] distribution network and sends them to inspect [[Wick & Wax Candleworks]] in the [[Old Market District]].
 
-**Part 2:** Wick & Wax Candleworks. The characters investigate the candle shop, which operates as a legitimate business during the day and a criminal distribution point after dark. They can uncover hidden Bloodwalker OG shipments, evidence linking the workshop to [[The Bloodline]], and one of two routes into the cellar: the concealed trapdoor beneath the office rug or the abandoned well in the alley. The workshop's occupants, led by [[Marek Flint]], resist the investigation, and Marek may retreat into the cellar with the operation's strongbox.
+**Part 2:** Wick & Wax Candleworks. The characters investigate the candle shop, which operates as a legitimate business during the day and a criminal distribution point after dark. They can uncover hidden Bloodwalker OG shipments, evidence linking the workshop to [[The Bloodline]], and one of two routes into the cellar: the concealed trapdoor beneath the office rug or the abandoned well in the alley. The workshop's occupants, led by [[Jihnong Hun-Yeongi]], resist the investigation, and Jihnong may retreat into the cellar with the operation's strongbox.
 
-**Part 3:** The Hidden Cellar. The characters raid Branch Seven's distribution center, confront its undead workers and Marek Flint, and secure or destroy the Bloodwalker OG stored there. The cellar's shipment records, correspondence, and other evidence reveal that Branch Seven is only one part of The Bloodline's wider criminal network. Marek may be defeated or escape through the smuggler's well.
+**Part 3:** The Hidden Cellar. The characters raid Branch Seven's distribution center, confront its undead workers and Jihnong Hun-Yeongi, and secure or destroy the Bloodwalker OG stored there. The cellar's shipment records, correspondence, and other evidence reveal that Branch Seven is only one part of The Bloodline's wider criminal network. Jihnong may be defeated or escape through the smuggler's well.
 
 **Conclusion:** Another Candle Extinguished. The characters return the recovered evidence to Ziggy Tootokes, allowing the [[Tribunal Highblade Coalition]] to identify Branch Seven and gain its first tangible lead against The Bloodline. The operation beneath the candle shop is dismantled, though the larger syndicate remains active.
 
@@ -51,12 +51,12 @@ The following stat blocks are used in this adventure:
 
 ## Key NPCs
 
-|                      |                                                                                                                      |                       |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| Name                 | Role                                                                                                                 | Stat Block            |
-| [[Ziggy Tootokes]]   | Coalition agent overseeing the bounty                                                                                | Level 3 Rogue (Scout) |
-| [[Marek Flint]]      | Manager of the Wick & Wax Candleshop. Also a member of a gang called The Bloodline. He leads this distribution cell. | Vampirate Mage        |
-| Apprentice Vamplocks | Undead assistants managing the cellar                                                                                | Apprentice Vamplock   |
+|                        |                                                                                                                      |                       |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Name                   | Role                                                                                                                 | Stat Block            |
+| [[Ziggy Tootokes]]     | Coalition agent overseeing the bounty                                                                                | Level 3 Rogue (Scout) |
+| [[Jihnong Hun-Yeongi]] | Manager of the Wick & Wax Candleshop. Also a member of a gang called The Bloodline. He leads this distribution cell. | Vampirate Mage        |
+| Apprentice Vamplocks   | Undead assistants managing the cellar                                                                                | Apprentice Vamplock   |
 
 ---
 
@@ -207,7 +207,7 @@ Unless otherwise noted, the workshop has the following features.
 - **Ceilings.** The workshop ceilings are 12 feet high.
 - **Lighting**. During business hours, sunlight enters through the front windows while candles illuminate the work areas. At night, the building is lit entirely by candles and oil lamps.
 - **Smell**. The workshop smells strongly of beeswax, rendered tallow, wood smoke, and faint herbal aromas.
-- **Bloodwalker Awareness.** Every Cultist, Apprentice Vamplock, and Marek Flint has consumed Bloodwalker OG. They always know the direction of every humanoid within 960 feet. This awareness doesn't reveal identities, numbers, or intentions, only direction. Because of this, the traffickers are rarely surprised by approaching intruders.
+- **Bloodwalker Awareness.** Every Cultist, Apprentice Vamplock, and Jihnong Hun-Yeongi has consumed Bloodwalker OG. They always know the direction of every humanoid within 960 feet. This awareness doesn't reveal identities, numbers, or intentions, only direction. Because of this, the traffickers are rarely surprised by approaching intruders.
 
 ---
 
@@ -270,7 +270,7 @@ Because of Bloodwalker OG, the occupants already know humanoids have approached 
 
 Unless the characters enter through the hidden well, the following creatures occupy the workshop.
 
-- Marek Flint, Vampirate Mage
+- Jihnong Hun-Yeongi, Vampirate Mage
 - 1 Apprentice Vamplock
 - 2 Cultists
 
@@ -278,19 +278,19 @@ The Cultists work openly on the production floor.
 
 The Apprentice Vamplock assists with bookkeeping and shipment preparation.
 
-Marek Flint remains in the northeast office reviewing shipment manifests.
+Jihnong Hun-Yeongi remains in the northeast office reviewing shipment manifests.
 
 ---
 
-### Marek Flint
+### Jihnong Hun-Yeongi
 
 Vampirate Mage
 
-Marek Flint was once a respected alchemist whose fascination with rare Arcannabis strains slowly consumed him. After embracing undeath, he now oversees one of the city's largest Bloodwalker OG distribution houses.
+Jihnong Hun-Yeongi was once a respected alchemist whose fascination with rare Arcannabis strains slowly consumed him. After embracing undeath, he now oversees one of the city's largest Bloodwalker OG distribution houses.
 
-Marek is calm, patient, and exceptionally organized. He speaks with measured confidence and treats every conversation as though negotiating a business contract. Violence is simply another expense to be managed.
+Jihnong is calm, patient, and exceptionally organized. He speaks with measured confidence and treats every conversation as though negotiating a business contract. Violence is simply another expense to be managed.
 
-Unlike the Cultists who serve him, Marek has little interest in fanaticism. He believes Bloodwalker OG is the future of Arcannabis and considers morality an obstacle to progress.
+Unlike the Cultists who serve him, Jihnong has little interest in fanaticism. He believes Bloodwalker OG is the future of Arcannabis and considers morality an obstacle to progress.
 
 His office is immaculate. Every shipment, payment, and customer is carefully documented in ledgers arranged with obsessive precision.
 
@@ -307,7 +307,7 @@ Characters searching the workshop can discover the following.
 - ### Storage
 	- Most crates contain legitimate supplies. Several barrels feature cleverly constructed false bottoms capable of concealing packages.
 - ### Office
-	- Marek Flint's office is immaculate. A polished oak desk dominates the room, its surface free of clutter save for neatly stacked ledgers, an inkpot, and a brass candle holder. Shelves line the walls, filled with years of business records documenting the workshop's legitimate candle sales.
+	- Jihnong Hun-Yeongi's office is immaculate. A polished oak desk dominates the room, its surface free of clutter save for neatly stacked ledgers, an inkpot, and a brass candle holder. Shelves line the walls, filled with years of business records documenting the workshop's legitimate candle sales.
 	- A large crimson rug covers most of the wooden floor.
 	- A character who succeeds on a **DC 12 Wisdom (Perception) or DC 12 Intelligence (Investigation)** check notices faint scrape marks around the edges of the rug. Pulling it aside reveals a heavy wooden trapdoor fitted with a recessed iron pull ring. The trapdoor opens onto a sturdy wooden ladder descending into the hidden cellar below.
 	- A successful **DC 14 Intelligence (Investigation)** check of the desk reveals a false compartment concealed within one of the drawers. Inside is a folded letter sealed with crimson wax bearing the image of a circle enclosing three parallel vertical lines.
@@ -355,7 +355,7 @@ Characters searching the workshop can discover the following.
 
 ## Combat
 
-If combat begins inside the workshop, the Cultists immediately engage the intruders while the Apprentice Vamplock supports them with spells from behind cover. Marek Flint enters the battle from his office at the beginning of the first round. He calmly closes his ledger before joining the fight.
+If combat begins inside the workshop, the Cultists immediately engage the intruders while the Apprentice Vamplock supports them with spells from behind cover. Jihnong Hun-Yeongi enters the battle from his office at the beginning of the first round. He calmly closes his ledger before joining the fight.
 
 Read or paraphrase:
 
@@ -368,21 +368,21 @@ Read or paraphrase:
 > 
 > *"This is becoming expensive."*
 
-Marek fights intelligently, preferring to remain behind his subordinates while using his spells to control the battlefield.
+Jihnong fights intelligently, preferring to remain behind his subordinates while using his spells to control the battlefield.
 
-When reduced to half his hit points or fewer, Marek abandons the workshop.
+When reduced to half his hit points or fewer, Jihnong abandons the workshop.
 
 Without revealing the hidden trapdoor, he grabs the Strongbox from under his desk then casts Dimension Door, teleporting into the cellar below where he prepares a final defense.
 
 The Cultists continue fighting, buying time for their master.
 
-Alternatively, if the characters entered through the hidden well, Marek remains in his office until he hears combat below in Part 3. He then descends into the cellar through the trapdoor at the start of the second round of combat.
+Alternatively, if the characters entered through the hidden well, Jihnong remains in his office until he hears combat below in Part 3. He then descends into the cellar through the trapdoor at the start of the second round of combat.
 
 ## Development
 
-If the characters defeat the workshop occupants, they eventually discover the concealed trapdoor beneath Marek's office, or they take too long and Marek escapes with his henchmen and the product.
+If the characters defeat the workshop occupants, they eventually discover the concealed trapdoor beneath Jihnong Hun-Yeongi's office, or they take too long and Jihnong escapes with his henchmen and the product.
 
-If they instead entered through the hidden well, they bypass the workshop entirely. The Cultists remain above while Marek is forced to descend into the cellar after hearing combat below.
+If they instead entered through the hidden well, they bypass the workshop entirely. The Cultists remain above while Jihnong is forced to descend into the cellar after hearing combat below.
 
 In either case, proceed to Part 3: The Hidden Cellar.
 
@@ -395,7 +395,7 @@ In either case, proceed to Part 3: The Hidden Cellar.
 
 Hidden beneath Wick & Wax Candleworks lies Branch Seven's distribution center. Here, Bloodwalker OG is weighed, packaged, and prepared for shipment throughout Stickyickistan. Unlike the orderly storefront above, the cellar serves only one purpose—keeping The Bloodline's illicit trade moving.
 
-If the characters discovered the hidden well, they enter through area C2. Otherwise, they descend from Marek's office into C1.
+If the characters discovered the hidden well, they enter through area C2. Otherwise, they descend from Jihnong Hun-Yeongi's office into C1.
 
 ## General Features
 
@@ -414,7 +414,7 @@ A sturdy wooden ladder descends from the trapdoor above into a small storage alc
 
 If the characters enter from the workshop, they arrive here.
 
-If Marek escaped the battle above, he appears here after casting Dimension Door, clutching the strongbox from his office before moving toward area C3.
+If Jihnong escaped the battle above, he appears here after casting Dimension Door, clutching the strongbox from his office before moving toward area C3.
 
 ---
 
@@ -462,9 +462,9 @@ No destinations or names are recorded.
 
 ---
 
-### Marek Arrives
+### Jihnong Arrives
 
-Marek joins the encounter under either of the following circumstances:
+Jihnong joins the encounter under either of the following circumstances:
 
 - He escaped from the workshop using Dimension Door, arriving through area C1 with the strongbox.
 - The characters entered through the hidden well and combat breaks out in the cellar.
@@ -474,7 +474,7 @@ Read or paraphrase:
 > [!Read Aloud]
 > *Heavy footsteps echo overhead, followed by the crash of a trapdoor opening.*
 > 
-> *Marek Flint descends quickly, an iron strongbox tucked securely beneath one arm.*
+> *Jihnong Hun-Yeongi descends quickly, an iron strongbox tucked securely beneath one arm.*
 > 
 > *His eyes dart briefly toward the well before settling on the intruders.*
 > 
@@ -484,22 +484,22 @@ Read or paraphrase:
 > 
 > *"I won't allow you to cost me the rest."*
 
-Roll initiative for Marek if he has not already acted.
+Roll initiative for Jihnong if he has not already acted.
 
-### Marek's Goal
+### Jihnong Hun-Yeongi's Goal
 
-- Marek has no intention of dying beneath the workshop.
+- Jihnong has no intention of dying beneath the workshop.
 - His priority is protecting Bloodline property.
-- If an opportunity presents itself, Marek attempts to fight his way to the smuggler's well and escape with the strongbox.
+- If an opportunity presents itself, Jihnong attempts to fight his way to the smuggler's well and escape with the strongbox.
 - He only abandons the strongbox if doing so is necessary to preserve his own unlife.
 
 ---
 
 ### Shadows
 
-Marek's Energy Drain creates Shadows as described in his stat block.
+Jihnong Hun-Yeongi's Energy Drain creates Shadows as described in his stat block.
 
-If a humanoid is slain by this attack, its shadow tears free from the corpse and immediately joins the battle under Marek's control.
+If a humanoid is slain by this attack, its shadow tears free from the corpse and immediately joins the battle under Jihnong Hun-Yeongi's control.
 
 ---
 
@@ -515,15 +515,15 @@ Searching the room uncovers no treasure, though a successful DC 12 Intelligence 
 
 ## Development
 
-If Marek escapes through the well, the characters have successfully dismantled Branch Seven's distribution center, though its manager remains at large.
+If Jihnong escapes through the well, the characters have successfully dismantled Branch Seven's distribution center, though its manager remains at large.
 
-If Marek is defeated, the characters recover the strongbox along with any Bloodline property he carried from the office.
+If Jihnong is defeated, the characters recover the strongbox along with any Bloodline property he carried from the office.
 
 Without its leadership and distribution network, Branch Seven ceases operation.
 
 The Bloodwalker OG stored within the cellar can be confiscated or destroyed, preventing countless doses from reaching the streets of Stickyickistan.
 
-The evidence recovered from Marek's office confirms that Branch Seven is only one small part of a much larger criminal syndicate known as The Bloodline. Returning this evidence to Ziggy Tootokes completes the investigation and provides the Tribunal Highblade Coalition with its first tangible lead into the organization.
+The evidence recovered from Jihnong Hun-Yeongi's office confirms that Branch Seven is only one small part of a much larger criminal syndicate known as The Bloodline. Returning this evidence to Ziggy Tootokes completes the investigation and provides the Tribunal Highblade Coalition with its first tangible lead into the organization.
 
 # Conclusion
 
@@ -543,7 +543,7 @@ Ziggy smiles and extends a hand.
 
 "Excellent work. The Tribunal Highblade Coalition finally has something real to investigate."
 
-Whether Marek Flint escaped or was defeated, the destruction of Branch Seven deals a significant blow to The Bloodline's operations in the Old Market District.
+Whether Jihnong Hun-Yeongi escaped or was defeated, the destruction of Branch Seven deals a significant blow to The Bloodline's operations in the Old Market District.
 
 Unfortunately, the evidence recovered from his office suggests the organization extends far beyond a single candle shop.
 
@@ -576,7 +576,7 @@ At the conclusion of the adventure, award one Treasure Bundle to the party. Roll
 | 2 | **Alchemist’s Cache.** A sturdy leather case containing an *alchemy jug* and 75 gp. |
 | 3 | **Explorer’s Kit.** A beautifully crafted *lantern of revealing* and a *potion of greater healing*. |
 
-The Portable Hole is recovered from the strongbox if Marek is defeated. If the party already recovered it, treat Treasure Bundle option 1 as unavailable and roll again or choose another option.
+The Portable Hole is recovered from the strongbox if Jihnong is defeated. If the party already recovered it, treat Treasure Bundle option 1 as unavailable and roll again or choose another option.
 
 ---
 
@@ -642,17 +642,17 @@ A retired halfling fence turned neighborhood broker, Penny earns a comfortable l
 
 Penny never guarantees her information—but she refuses to sell rumors she doesn't believe.
 
-|   |   |
-|---|---|
-|d8|Rumor|
-|1|The workshop is perfectly legitimate during the day. Whatever is happening there occurs after business hours.|
-|2|Marek Flint spends most of his time working from a private office toward the rear of the building.|
-|3|Workers have been seen entering through the front door and leaving by the eastern alley late at night.|
-|4|The abandoned well beside the workshop predates the building itself.|
-|5|Large deliveries almost always arrive after sunset.|
-|6|More people work at Wick & Wax than a candle shop should reasonably employ.|
-|7|Customers are never permitted beyond the showroom and workshop floor.|
-|8|Coalition investigators have watched the shop for months but have never found enough evidence to justify a raid.|
+|     |                                                                                                                  |
+| --- | ---------------------------------------------------------------------------------------------------------------- |
+| d8  | Rumor                                                                                                            |
+| 1   | The workshop is perfectly legitimate during the day. Whatever is happening there occurs after business hours.    |
+| 2   | Jihnong Hun-Yeongi spends most of his time working from a private office toward the rear of the building.        |
+| 3   | Workers have been seen entering through the front door and leaving by the eastern alley late at night.           |
+| 4   | The abandoned well beside the workshop predates the building itself.                                             |
+| 5   | Large deliveries almost always arrive after sunset.                                                              |
+| 6   | More people work at Wick & Wax than a candle shop should reasonably employ.                                      |
+| 7   | Customers are never permitted beyond the showroom and workshop floor.                                            |
+| 8   | Coalition investigators have watched the shop for months but have never found enough evidence to justify a raid. |
 
 ---
 
@@ -662,12 +662,12 @@ Source: Ziggy Tootokes
 
 As an investigator with the Tribunal Highblade Coalition, Ziggy has access to confidential reports, informants, and evidence unavailable to the general public. He only shares this information with adventurers he believes can be trusted.
 
-|   |   |
-|---|---|
-|d6|Rumor|
-|1|Coalition surveillance strongly suggests the abandoned well connects to the cellar beneath the workshop.|
-|2|Marek Flint is known for protecting Bloodline assets above all else. If forced to retreat, he'll likely attempt to escape with whatever valuables he can carry.|
-|3|Bloodwalker OG grants its users an uncanny awareness of nearby humanoids. Stealth alone won't be enough to catch them by surprise.|
-|4|Wick & Wax Candleworks appears to be a distribution point, not the source of Bloodwalker OG. Someone else is supplying the operation.|
-|5|Coalition informants believe Marek keeps his most important records in his office rather than the cellar below.|
-|6|Criminal correspondence refers to Wick & Wax as Branch Seven, implying it is only one part of a much larger network.|
+|   |                                                                                                                                                                        |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|d6| Rumor                                                                                                                                                                  |
+|1| Coalition surveillance strongly suggests the abandoned well connects to the cellar beneath the workshop.                                                               |
+|2| Jihnong Hun-Yeongi is known for protecting Bloodline assets above all else. If forced to retreat, he'll likely attempt to escape with whatever valuables he can carry. |
+|3| Bloodwalker OG grants its users an uncanny awareness of nearby humanoids. Stealth alone won't be enough to catch them by surprise.                                     |
+|4| Wick & Wax Candleworks appears to be a distribution point, not the source of Bloodwalker OG. Someone else is supplying the operation.                                  |
+|5| Coalition informants believe Jihnong keeps his most important records in his office rather than the cellar below.                                                      |
+|6| Criminal correspondence refers to Wick & Wax as Branch Seven, implying it is only one part of a much larger network.                                                   |

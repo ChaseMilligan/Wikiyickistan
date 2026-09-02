@@ -122,17 +122,6 @@
       "createdAt": 1787682959489,
       "updatedAt": 1787682959489
     },
-    "74a3ddc6": {
-      "hash": "74a3ddc6",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L27 # Adventure Hook\n  - L41 ## The Roach Clip Hook: Unfinished Business\n  - L55 # Reaching the Tomb\n  - L84 # 1. The Entrance\n  - L98 # 2. The Landing\n  - L126 # 3. Stone-d Guardians\n  - L138 ### Encounter\n  - L148 ### The Inert Jar\n  - L160 ### Breaking an Inert Jar\n  - L168 ### Taking the Jar\n  - L176 # 4. Forsaken Sarcophagi\n  - L188 ### Encounter\n  - L200 # 5. East Libraries\n  - L221 ### Dopendis Gravebreath\n  - L249 # 6. West Libraries\n  - L272 ## SYVETHIS\n  - L280 # 7. Ritual Chamber\n  - L308 ### Clue: The Soul Diesel Process\n  - L314 ### Encounter\n  - L328 ### Soul Diesel-Fueled Guardians\n  - L338 ### Breaking an Active Jar\n  - L351 # The Lost Adventurers\n  - L359 ### Release Them\n  - L377 ### Take the Jars\n  - L385 ### Study Them\n  - L391 ### Soul Diesel and the Orcus Cult\n  - L403 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L429 # 9. Secret Vault — Arcane Storage\n  - L453 # Ending the Adventure\n  - L487 # Scaling the Adventure\n  - L489 ### 3 Characters\n  - L495 ### 4 Characters\n  - L499 ### 5 Characters\n  - L505 # Adventure Rewards\n  - L528 ## Future Hook: Dopendis Gravebreath Returns\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # What Players Should Know\n  - L31 # Rewards\n  - L41 # Sign-Up\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n- `content/Adventure Briefs/The Twilight Hunter Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # The Roach Clip Tip\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L45 # Sign-Up\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make an Adventure Briefs document for Jars of Souls.md \n\n"
-        }
-      ],
-      "createdAt": 1787682959489,
-      "updatedAt": 1787682959489
-    },
     "5e8a5e59": {
       "hash": "5e8a5e59",
       "content": [
@@ -150,17 +139,6 @@
         {
           "type": "text",
           "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you go through Jars of Souls Player Brief.md and make sure thats true\n\n"
-        }
-      ],
-      "createdAt": 1787682959489,
-      "updatedAt": 1787682959489
-    },
-    "93b62cdc": {
-      "hash": "93b62cdc",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Ashen Shadow Society/Airships.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Airships.md`\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society.md`\n  - L2 # History\n  - L13 # Hierarchy\n  - L16 ## The Council of Shadows:\n  - L19 ## The Enigmatic Quartet:\n  - L22 ## The Squad Hierarchy:\n  - L25 ## Squad Ranks:\n  - L27 ### a) Novices:\n  - L30 ### b) Bloodhounds:\n  - L33 ### c) Ravens:\n  - L36 ### d) Shadowsong:\n  - L39 ## Squad Competition and Rewards:\n  - L46 # Support Squad:\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce.md`\n  - L1 # ASSCUNT\n  - L12 ## Purpose and Mandate\n  - L21 ## Operations\n  - L29 ## Field Protocols\n  - L42 ## Rank and Squad Structure\n  - L48 ## Known Members\n  - L57 ## Known Allies and Contacts\n  - L65 ## Reputation\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Pilots/Ket 'Baby' Snoozh.md`\n  - L13 ### Price for Flight - 25gp\n- `content/Factions/Ashen Shadow Society/Pilots/Ket 'Baby' Snoozh.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Pilots/Velindra Ashveil.md`\n  - L15 ### Price for Flight - 40gp\n- `content/Factions/Ashen Shadow Society/Pilots/Velindra Ashveil.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Squads/Unit BH-Umbra Δ9.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Squads/Unit BH-Umbra Δ9.md`\n  - L3 # Lore\n  - L5 #### Arcannabis Colossus\n  - L8 #### Pot Potion Press Pilfer\n  - L12 #### The [[Gilded Nug]]\n  - L15 #### Bugs & Bloodhounds\n  - L17 ## Members\n  - L23 ## Allies\n  - L31 ## Enemies\n\n## Mentioned Vault Folders\n- `content/Factions/Ashen Shadow Society`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"9\" endLine=\"9\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n9| The [[Ashen Shadow Society]] \n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (4 Words) Please refer to Ashen Shadow Society \n\n"
         }
       ],
       "createdAt": 1787682959489,
@@ -187,6 +165,127 @@
       ],
       "createdAt": 1787682959489,
       "updatedAt": 1787682959489
+    },
+    "97336df2": {
+      "hash": "97336df2",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `Redwood Watch.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\n Make a couple paragraphs for Redwood Watch.md \n\n"
+        }
+      ],
+      "createdAt": 1788322570724,
+      "updatedAt": 1788322570724
+    },
+    "e4ac0e66": {
+      "hash": "e4ac0e66",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `Redwood Grove.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\n Make a couple paragraphs for Redwood Grove.md \n\n"
+        }
+      ],
+      "createdAt": 1788322789842,
+      "updatedAt": 1788322789842
+    },
+    "f35cc6c4": {
+      "hash": "f35cc6c4",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Redwood Watch.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake sure Redwood Watch.md can be player facing\n\n"
+        }
+      ],
+      "createdAt": 1788323165760,
+      "updatedAt": 1788323165760
+    },
+    "a19cf519": {
+      "hash": "a19cf519",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/POIs/Redwood Watch.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake sure this is player facing and is consistent with that Redwood Watch.md says\n\n"
+        }
+      ],
+      "createdAt": 1788323795063,
+      "updatedAt": 1788323795063
+    },
+    "e6452df8": {
+      "hash": "e6452df8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `Gwenhumara Goldmoss.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a couple paragraphs for Gwenhumara Goldmoss.md \n\n"
+        }
+      ],
+      "createdAt": 1788324977515,
+      "updatedAt": 1788324977515
+    },
+    "6daa378f": {
+      "hash": "6daa378f",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Jars of Souls.md`\n  - L27 # Adventure Hook\n  - L41 ## The Roach Clip Hook: Unfinished Business\n  - L55 # Reaching the Tomb\n  - L84 # 1. The Entrance\n  - L98 # 2. The Landing\n  - L126 # 3. Stone-d Guardians\n  - L138 ### Encounter\n  - L148 ### The Inert Jar\n  - L160 ### Breaking an Inert Jar\n  - L168 ### Taking the Jar\n  - L176 # 4. Forsaken Sarcophagi\n  - L188 ### Encounter\n  - L200 # 5. East Libraries\n  - L221 ### Dopendis Gravebreath\n  - L249 # 6. West Libraries\n  - L272 ## SYVETHIS\n  - L280 # 7. Ritual Chamber\n  - L308 ### Clue: The Soul Diesel Process\n  - L314 ### Encounter\n  - L328 ### Soul Diesel-Fueled Guardians\n  - L338 ### Breaking an Active Jar\n  - L351 # The Lost Adventurers\n  - L359 ### Release Them\n  - L377 ### Take the Jars\n  - L385 ### Study Them\n  - L391 ### Soul Diesel and the Orcus Cult\n  - L403 # 8. Secret Vault — Dopendis Gravebreath's Wealth\n  - L429 # 9. Secret Vault — Arcane Storage\n  - L453 # Ending the Adventure\n  - L487 # Scaling the Adventure\n  - L489 ### 3 Characters\n  - L495 ### 4 Characters\n  - L499 ### 5 Characters\n  - L505 # Adventure Rewards\n  - L528 ## Future Hook: Dopendis Gravebreath Returns\n- `content/Adventure Briefs/Curse of Slaad Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L26 # The Roach Clip Tip\n  - L32 # What Players Should Know\n  - L39 # Rewards\n  - L46 # Sign-Up\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n- `content/Adventure Briefs/Dread and Breakfast Player Brief.md`\n  - L1 # Adventure Summary\n  - L7 # The Rolling Papers Advertisement\n  - L16 ## Headline\n  - L20 ## Public Notice\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L43 # Sign-Up\n- `content/Adventure Briefs/Death at Sunset Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## History\n  - L28 ## Rewards\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n- `content/Adventure Briefs/The Twilight Hunter Player Brief.md`\n  - L1 # Adventure Summary\n  - L5 # The Rolling Papers Advertisement\n  - L14 ## Headline\n  - L18 ## Public Notice\n  - L24 # The Roach Clip Tip\n  - L28 # What Players Should Know\n  - L35 # Rewards\n  - L45 # Sign-Up\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n- `content/Adventure Briefs/Hall of the Wyrmbone Anvil.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n- `content/Adventure Briefs/The Tenebrous Stone-r.md`\n  - L1 # The Tenebrous Stone-r\n  - L7 # Adventure Hook\n  - L17 # Character Creation\n  - L25 ## Stickyickistanian Backgrounds\n  - L32 ### Lore Context\n  - L39 ## Helpful Skills\n  - L43 ## Magic Items\n  - L47 ### Common\n  - L83 ### Arcannabis\n  - L101 ### Uncommon\n  - L103 #### Weapons & Armor\n  - L112 #### Wondrous Items\n  - L137 #### Wands & Staves\n  - L144 #### Potions\n\n## Mentioned Vault Folders\n- `content/Adventure Briefs`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you make an Adventure Briefs document for Jars of Souls.md \n\n"
+        }
+      ],
+      "createdAt": 1788325119734,
+      "updatedAt": 1788325119734
+    },
+    "d57fff64": {
+      "hash": "d57fff64",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Factions/Ashen Shadow Society/Airships.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Airships.md`\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society.md`\n  - L2 # History\n  - L13 # Hierarchy\n  - L16 ## The Council of Shadows:\n  - L19 ## The Enigmatic Quartet:\n  - L22 ## The Squad Hierarchy:\n  - L25 ## Squad Ranks:\n  - L27 ### a) Novices:\n  - L30 ### b) Bloodhounds:\n  - L33 ### c) Ravens:\n  - L36 ### d) Shadowsong:\n  - L39 ## Squad Competition and Rewards:\n  - L46 # Support Squad:\n- `content/Factions/Ashen Shadow Society/Pilots/Velindra Ashveil.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Pilots/Ket 'Baby' Snoozh.md`\n  - L13 ### Price for Flight - 25gp\n- `content/Factions/Ashen Shadow Society/Pilots/Ket 'Baby' Snoozh.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Pilots/Velindra Ashveil.md`\n  - L15 ### Price for Flight - 40gp\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society Creature Utilisation & Neutralisation Taskforce.md`\n  - L1 # ASSCUNT\n  - L12 ## Purpose and Mandate\n  - L21 ## Operations\n  - L29 ## Field Protocols\n  - L42 ## Rank and Squad Structure\n  - L48 ## Known Members\n  - L57 ## Known Allies and Contacts\n  - L65 ## Reputation\n- `content/Factions/Ashen Shadow Society/Squads/Unit BH-Umbra Δ9.md`\n  - L3 # Lore\n  - L5 #### Arcannabis Colossus\n  - L8 #### Pot Potion Press Pilfer\n  - L12 #### The [[Gilded Nug]]\n  - L15 #### Bugs & Bloodhounds\n  - L17 ## Members\n  - L23 ## Allies\n  - L31 ## Enemies\n- `content/Factions/Ashen Shadow Society/Squads/Unit BH-Umbra Δ9.mdZone.Identifier`\n- `content/Factions/Ashen Shadow Society/Ashen Shadow Society.mdZone.Identifier`\n\n## Mentioned Vault Folders\n- `content/Factions/Ashen Shadow Society`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/ASSCUNT Prison Break.md\" startLine=\"9\" endLine=\"9\">\n```content/Adventures/DM Notes/ASSCUNT Prison Break.md\n9| The [[Ashen Shadow Society]] \n```\n</user_selected_content>\n\n\nASSCUNT Prison Break.md (4 Words) Please refer to Ashen Shadow Society \n\n"
+        }
+      ],
+      "createdAt": 1788325119734,
+      "updatedAt": 1788325119734
+    },
+    "ad095946": {
+      "hash": "ad095946",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Death at Sunset Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## History\n  - L28 ## Rewards\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me make a player brief in Death at Sunset Player Brief.md like the one for Jars of Souls Player Brief.md using the following info:\n\nCenturies ago, six quarreling elven families reconciled. Each family planted a redwood sapling in a circular grove to represent their newfound harmony. Decades later, after the saplings grew tall and mighty, an ancient green dragon dug a lair in the redwoods’ roots, poisoning the grove and surrounding forest. The elves called the dragon Death-at-Sunset, for twilight was always when the dragon descended on her prey. The dragon adopted this name, reveling in the terror it inspired and bellowing it just before rampaging.\n\nOne hundred years ago, an elf warrior named Ethvarn and her allies slew Death-at-Sunset. Ethvarn died in the assault. The surviving elves pulled back from Redwood Grove, leaving only a few wardens in an outpost called Redwood Watch.\n\nOver the past few months, the inhabitants of Redwood Watch, now a village, have noticed the forest’s trees growing sickly. In the past month, five villagers have disappeared in the grove. The first was council member Armin Whisperwind. Four villagers then went searching for him, but none returned. Terrified and confused, the village’s council has called for heroes to investigate.\n\nUnbeknownst to the villagers, a green dragon wyrmling has hatched from an egg in Death-at-Sunset’s lair. The wyrmling’s presence has corrupted the forest and lured other evil creatures to the area; he has also captured the missing villagers and forced them to serve him. The characters must investigate the grove’s corruption and defeat this wyrmling, who calls himself Sunset-Is-Nigh.\n\nRedwood Watch\nRedwood Watch is a village of about a hundred people who work primarily as hunters, trappers, lumberers, and artisans. Most are elves descended from the grove’s six original families, but the village’s peaceful ways and idyllic surroundings have also attracted humans, orcs, and a few goliaths and dragonborn.\n\nThe village consists of freestanding huts made from wood and leaves as well as large tree hollows that serve as homes and shops. A few hardy individuals have made their homes amid the forest’s branches in tree houses that overlook the forest floor.\n\nOwing to the village’s multicultural heritage, all villagers know Common. The residents are close-knit; most consider themselves an extended family.\n\nThe Council\nArmin and two other elf council members lead Redwood Watch, though Armin is missing. The council members were among those who faced Death-at-Sunset a century ago, and the councilors’ heroism is remembered to this day; the villagers share all the following information if the characters ask about the council members.\n\nArmin Whisperwind. Armin (Medium Scout) left Redwood Watch to investigate reports of the grove’s corruption a month ago. He never returned. The villagers worry something terrible befell him, saying the skilled elf tracker would never have abandoned Redwood Watch permanently. (The wyrmling is now forcing Armin to defend area R4.)\n\nGwenhumara Goldmoss. Gwenhumara (Medium Priest Acolyte) is an elf healer who tended to the wounded after the battle against Death-at-Sunset. Recently, she’s had nightmares of the dragon’s return; she worries that the dragon’s spirit lingers among the redwoods’ roots. Gwenhumara happily heals characters who are injured, though she is too afraid to leave the village herself.\n\nSelenar Woodwise. Selenar (Medium Noble) was among the elf warriors in Death-at-Sunset’s lair when the ancient green dragon died, and he is erroneously convinced the forest’s corruption isn’t related to dragons. Selenar holds a deep reverence for nature and is anxious for the characters to identify the threat against the forest.\n\nA Call for Heroes\nWhen the adventure begins, the characters know the general history of Redwood Watch and its plight involving missing villagers. As soon as the characters enter the village, council members Selenar Woodwise and Gwenhumara Goldmoss approach them to provide more information about Redwood Watch’s call for heroes.\n\nRead or paraphrase the following:\n\nStanding before you are two wood elves with the regal bearing of leaders. The man, Selenar Woodwise, wears a steel breastplate and billowing green cloak, while the woman, Gwenhumara Goldmoss, is clad in flowing verdant robes.\n\n“We are pleased you answered our call,” Gwenhumara says. “Something evil lurks in Redwood Grove. Given our history with the dragon Death-at-Sunset, you can understand our concern—and now villagers are missing. We need you to find our missing villagers, determine why the forest is blighted, and end any threats you discover.”\n\nSelenar interjects, “I’m certain there isn’t another dragon, but something is terribly wrong.”\n\nGwenhumara clasps a reassuring hand on Selenar’s shoulder.\n\n"
+        }
+      ],
+      "createdAt": 1788325119734,
+      "updatedAt": 1788325119734
+    },
+    "e6c511a8": {
+      "hash": "e6c511a8",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/Crimson Candleworks Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n- `content/Adventure Briefs/Jars of Souls Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## The Roach Clip\n  - L22 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan you please make Crimson Candleworks Player Brief.md  more like Jars of Souls Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1788325119734,
+      "updatedAt": 1788325119734
+    },
+    "cb6218bf": {
+      "hash": "cb6218bf",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/FLS/Tier 1/Crimson Candleworks.md`\n  - L7 # Intro\n  - L9 ## Adjusting Encounters\n  - L17 ## Key Plot Points\n  - L31 ## Preparation\n  - L52 ## Key NPCs\n  - L63 ## Content Warning\n  - L69 ## Adventure Background\n  - L87 # Part 1: The Rolling Papers\n  - L92 ## Adventure Hook\n  - L100 ### BOUNTY POSTED\n  - L102 #### Tribunal Highblade Coalition\n  - L123 ## [[Highblade Tower]]\n  - L140 ### Ziggy Tootokes\n  - L148 ### The Briefing\n  - L169 ### What Ziggy Knows\n  - L182 ## Treasure\n  - L186 ## Development\n  - L194 # Part 2: Wick & Wax Candleworks\n  - L203 ## General Features\n  - L214 ## Arriving at the Workshop\n  - L231 ## Visiting During the Day\n  - L250 ## Visiting After Dark\n  - L269 ## Workshop Occupants\n  - L285 ### Jihnong Hun-Yeongi\n  - L299 ## Searching the Workshop\n  - L356 ## Combat\n  - L381 ## Development\n  - L391 # Part 3: The Hidden Cellar\n  - L400 ## General Features\n  - L411 ## C1. Trapdoor Entrance\n  - L421 ## C2. Smuggler's Well\n  - L431 ## C3. Distribution Floor\n  - L449 ### Crates\n  - L455 ### Shipment Records\n  - L465 ### Jihnong Arrives\n  - L489 ### Jihnong Hun-Yeongi's Goal\n  - L498 ### Shadows\n  - L506 ## C4. Workers' Quarters\n  - L516 ## Development\n  - L528 # Conclusion\n  - L550 ## Rewards\n  - L554 ### Adventure Rewards\n  - L569 ### Treasure Bundles\n  - L583 ## Story Award\n  - L585 ### Friend of Ziggy\n  - L595 # Experience\n  - L601 # Dungeon Master Aid: Rumors\n  - L613 ## Copper Rumors (1 cp)\n  - L637 ## Silver Rumors (1 sp)\n  - L659 ## Gold Rumors (1 gp)\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI want to change the name of Marek Flint in Crimson Candleworks.md to Gaseu Hun-Yeongi. Please chnage it everywhere\n\n"
+        }
+      ],
+      "createdAt": 1788325119734,
+      "updatedAt": 1788325119734
+    },
+    "e0564962": {
+      "hash": "e0564962",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `Selenar Woodwise.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nMake a couple paragraphs for Selenar Woodwise.md \n\n"
+        }
+      ],
+      "createdAt": 1788325119734,
+      "updatedAt": 1788325119734
     }
   }
 }
