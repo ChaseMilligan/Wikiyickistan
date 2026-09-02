@@ -11,7 +11,7 @@
 
 The council of [Redwood Watch](Redwood%20Watch.md) seeks capable adventurers to investigate a spreading blight in nearby [Redwood Grove](Redwood%20Grove.md). Once a symbol of peace between six reconciled Eladrin families, the grove has begun showing signs of corruption, and villagers who entered to investigate have not returned.
 
-Applicants should be prepared for hazardous forest travel, frightened locals, old draconic legends, and a community desperate for answers. Council members [Gwenhumara Goldmoss](Gwenhumara%20Goldmoss) and [Selenar Woodwise](Selenar%20Woodwise) will meet responding adventurers in Redwood Watch to explain the situation and provide directions into the grove.
+Applicants should be prepared for hazardous forest travel, frightened locals, old draconic legends, and a community desperate for answers. Council members [Gwenhumara Goldmoss](Gwenhumara%20Goldmoss.md) and [Selenar Woodwise](Selenar%20Woodwise.md) will meet responding adventurers in Redwood Watch to explain the situation and provide directions into the grove.
 
 Redwood Watch asks that the missing villagers be found if possible, the source of the forest’s sickness identified, and any immediate threat to the village ended.
 
