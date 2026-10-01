@@ -118,12 +118,16 @@ The drill becomes more dangerous when the captain introduces a surprise complica
 
 ## The Raven Squad Is Cast Off
 
-Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.
+Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. Their orders are to secure the Helm and remove the captain before the Heist Squad begins the prisoner extraction. All four Raven operatives therefore push toward the flight deck together. They need enough people to overwhelm the captain, secure the controls, and keep the THC detail from retaking the Helm while the Heist Squad moves below.
+
+The Heist Squad’s cover is exposed naturally when one of the Raven operatives uses the agreed signal and calls for the infiltrators to begin their part of the operation. The words are brief, but several THC guards hear them. The guards now understand that the supposed members of their detail are working with the boarders and turn their attention toward the Heist Squad. The Raven squad reaches the flight deck before the THC can stop them and confronts the captain.
 
 The captain responds by throwing The Recluse into a steep dive. Before the Raven squad can secure him, he cuts the harness lashing him to the helm. The dive sends the Raven squad and the captain tumbling overboard, leaving the Heist Squad alone aboard the airship with [[Unit BH-Umbra Δ9]] and the THC detail.
 
 > [!read-aloud]
-> The grappling lines snap taut as the Raven operatives cross onto the deck. Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and crates, weapons, and bodies slide across the deck. With a sharp metallic crack, the captain cuts the harness holding him to the helm. The Raven squad and the captain tumble into the clouds below, leaving you aboard a ship with no one at the controls of the vessel which is rapidly plummeting towards the open ocean.
+> The grappling lines snap taut as the Raven operatives cross onto the deck. One of them gives the agreed signal and shouts, “Heist Squad, begin the extraction!” The words carry across the deck. The THC guards turn toward you as the Raven squad drives toward the flight deck, all four of them converging on the Helm.
+>
+> Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and crates, weapons, and bodies slide across the deck. With a sharp metallic crack, the captain cuts the harness holding him to the helm. The Raven squad and the captain tumble into the clouds below, leaving you aboard a ship with no one at the controls of the vessel which is rapidly plummeting towards the open ocean.
 
 Without a pilot, there’s no chance of The Recluse righting itself, let alone continuing its voyage. The Heist Squad must finish the extraction alone and find a way to stop the airship from crashing.
 

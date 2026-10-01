@@ -5375,10 +5375,594 @@
         "branchModelId": "chatGPT/gpt-5.6-luna",
         "branchLabel": "gpt-5.6-luna"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Intercepting the Rec… (41 Words)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Intercepting the Recluse.md (41 Words)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+                    "startLine": 121,
+                    "endLine": 121,
+                    "source": "selection-sync",
+                    "contentHash": "19172780",
+                    "contentCount": 41,
+                    "contentUnit": "words"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " This section should have the raven squad reveal the party's true identity one way or another.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "6d03ee3c"
+      },
+      "id": "a0fab05d-4404-4f58-8a92-3b6e3f522563",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.",
+          "file": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+          "startLine": 121,
+          "endLine": 121,
+          "source": "selection-sync",
+          "contentHash": "19172780",
+          "contentCount": 41,
+          "contentUnit": "words"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-09-11 12:20 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_OIE2e557X2aXEWQ2Mos8Fl81",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+              "oldText": "Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.",
+              "newText": "Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. As soon as they reach the deck, the Raven operatives call out to the Heist Squad by name and identify them as Ashen Shadow Society agents. The announcement is deliberate: the Raven squad needs the infiltrators to act immediately, and the chaos of the boarding assault should prevent the THC from organizing a response. Instead, every THC guard nearby hears the truth. The characters’ covers are exposed, and the guards now know that the supposed members of their detail are accomplices to the attack. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/Intercepting the Recluse.md\",\"oldText\":\"Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.\",\"newText\":\"Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. As soon as they reach the deck, the Raven operatives call out to the Heist Squad by name and identify them as Ashen Shadow Society agents. The announcement is deliberate: the Raven squad needs the infiltrators to act immediately, and the chaos of the boarding assault should prevent the THC from organizing a response. Instead, every THC guard nearby hears the truth. The characters’ covers are exposed, and the guards now know that the supposed members of their detail are accomplices to the attack. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.\"}"
+          }
+        }
+      ],
+      "id": "de7e063c-c7e2-4e34-a810-a145172a840b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 38060,
+          "completion_tokens": 300,
+          "total_tokens": 38360
+        },
+        "durationMs": 7532,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_OIE2e557X2aXEWQ2Mos8Fl81",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+                "oldText": "Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.",
+                "newText": "Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. As soon as they reach the deck, the Raven operatives call out to the Heist Squad by name and identify them as Ashen Shadow Society agents. The announcement is deliberate: the Raven squad needs the infiltrators to act immediately, and the chaos of the boarding assault should prevent the THC from organizing a response. Instead, every THC guard nearby hears the truth. The characters’ covers are exposed, and the guards now know that the supposed members of their detail are accomplices to the attack. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/Intercepting the Recluse.md\",\"oldText\":\"Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.\",\"newText\":\"Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. As soon as they reach the deck, the Raven operatives call out to the Heist Squad by name and identify them as Ashen Shadow Society agents. The announcement is deliberate: the Raven squad needs the infiltrators to act immediately, and the chaos of the boarding assault should prevent the THC from organizing a response. Instead, every THC guard nearby hears the truth. The characters’ covers are exposed, and the guards now know that the supposed members of their detail are accomplices to the attack. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/Intercepting the Recluse.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+                      "addedLines": 1,
+                      "removedLines": 1,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "8b33c003-1e52-4082-a04e-912c0c0c5ad5"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 1,
+                  "totalRemovedLines": 1,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1789150834374
+              }
+            }
+          }
+        }
+      ],
+      "id": "8b33c003-1e52-4082-a04e-912c0c0c5ad5",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Updated the section so the Raven squad deliberately reveals the Heist Squad’s identities upon boarding. The THC guards now hear that the characters are Ashen Shadow Society agents and understand that they are collaborators in the attack.",
+      "id": "ea0a5574-ad33-4d05-b1ab-4d79b397da76",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 38418,
+          "completion_tokens": 88,
+          "total_tokens": 38506
+        },
+        "durationMs": 3759,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "That seems a little forced. Also there needs to be a reason that all four raven squad members go to the helm",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "14e1d8e0-79c8-41c0-95a4-3f4492d5ea0a",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-09-11 12:21 (Friday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_pWlEFmHjbVO8yROyEkkssBcN",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/Intercepting the Recluse.md"
+              ],
+              "startLine": 119,
+              "endLine": 130
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Intercepting the Recluse.md\"],\"startLine\":119,\"endLine\":130}"
+          }
+        }
+      ],
+      "id": "3034b9c8-6cf1-471c-b407-b59ca80a323e",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 38510,
+          "completion_tokens": 157,
+          "total_tokens": 38667,
+          "cache_read_input_tokens": 37376
+        },
+        "durationMs": 4195,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_pWlEFmHjbVO8yROyEkkssBcN",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/Intercepting the Recluse.md"
+                ],
+                "startLine": 119,
+                "endLine": 130
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Intercepting the Recluse.md\"],\"startLine\":119,\"endLine\":130}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_pWlEFmHjbVO8yROyEkkssBcN\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/Intercepting the Recluse.md\",\n      \"ok\": true,\n      \"totalLines\": 162,\n      \"returnedRange\": {\n        \"startLine\": 119,\n        \"endLine\": 130\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 131,\n      \"content\": \"119|## The Raven Squad Is Cast Off\\n120|\\n121|Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. As soon as they reach the deck, the Raven operatives call out to the Heist Squad by name and identify them as Ashen Shadow Society agents. The announcement is deliberate: the Raven squad needs the infiltrators to act immediately, and the chaos of the boarding assault should prevent the THC from organizing a response. Instead, every THC guard nearby hears the truth. The characters’ covers are exposed, and the guards now know that the supposed members of their detail are accomplices to the attack. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.\\n122|\\n123|The captain responds by throwing The Recluse into a steep dive. Before the Raven squad can secure him, he cuts the harness lashing him to the helm. The dive sends the Raven squad and the captain tumbling overboard, leaving the Heist Squad alone aboard the airship with [[Unit BH-Umbra Δ9]] and the THC detail.\\n124|\\n125|> [!read-aloud]\\n126|> The grappling lines snap taut as the Raven operatives cross onto the deck. Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and crates, weapons, and bodies slide across the deck. With a sharp metallic crack, the captain cuts the harness holding him to the helm. The Raven squad and the captain tumble into the clouds below, leaving you aboard a ship with no one at the controls of the vessel which is rapidly plummeting towards the open ocean.\\n127|\\n128|Without a pilot, there’s no chance of The Recluse righting itself, let alone continuing its voyage. The Heist Squad must finish the extraction alone and find a way to stop the airship from crashing.\\n129|\\n130|### Regaining Control of the Helm\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Unit BH-Umbra Δ9\",\n          \"path\": \"content/Factions/Ashen Shadow Society/Squads/Unit BH-Umbra Δ9.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 119,
+                  "endLine": 130,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "d7a3be4a-2465-4792-a574-5cddaa3fb6f9",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_Bp7LB0qubpXnDMuCW3gmCcQU",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+              "startLine": 121,
+              "endLine": 126,
+              "newText": "Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. Their orders are to secure the Helm and remove the captain before the Heist Squad begins the prisoner extraction. All four Raven operatives therefore push toward the flight deck together. They need enough people to overwhelm the captain, secure the controls, and keep the THC detail from retaking the Helm while the Heist Squad moves below.\n\nThe Heist Squad’s cover is exposed naturally when one of the Raven operatives uses the agreed signal and calls for the infiltrators to begin their part of the operation. The words are brief, but several THC guards hear them. The guards now understand that the supposed members of their detail are working with the boarders and turn their attention toward the Heist Squad. The Raven squad reaches the flight deck before the THC can stop them and confronts the captain.\n\nThe captain responds by throwing The Recluse into a steep dive. Before the Raven squad can secure him, he cuts the harness lashing him to the helm. The dive sends the Raven squad and the captain tumbling overboard, leaving the Heist Squad alone aboard the airship with [[Unit BH-Umbra Δ9]] and the THC detail.\n\n> [!read-aloud]\n> The grappling lines snap taut as the Raven operatives cross onto the deck. One of them gives the agreed signal and shouts, “Heist Squad, begin the extraction!” The words carry across the deck. The THC guards turn toward you as the Raven squad drives toward the flight deck, all four of them converging on the Helm.\n>\n> Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and crates, weapons, and bodies slide across the deck. With a sharp metallic crack, the captain cuts the harness holding him to the helm. The Raven squad and the captain tumble into the clouds below, leaving you aboard a ship with no one at the controls of the vessel which is rapidly plummeting towards the open ocean."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/Intercepting the Recluse.md\",\"startLine\":121,\"endLine\":126,\"newText\":\"Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. Their orders are to secure the Helm and remove the captain before the Heist Squad begins the prisoner extraction. All four Raven operatives therefore push toward the flight deck together. They need enough people to overwhelm the captain, secure the controls, and keep the THC detail from retaking the Helm while the Heist Squad moves below.\\n\\nThe Heist Squad’s cover is exposed naturally when one of the Raven operatives uses the agreed signal and calls for the infiltrators to begin their part of the operation. The words are brief, but several THC guards hear them. The guards now understand that the supposed members of their detail are working with the boarders and turn their attention toward the Heist Squad. The Raven squad reaches the flight deck before the THC can stop them and confronts the captain.\\n\\nThe captain responds by throwing The Recluse into a steep dive. Before the Raven squad can secure him, he cuts the harness lashing him to the helm. The dive sends the Raven squad and the captain tumbling overboard, leaving the Heist Squad alone aboard the airship with [[Unit BH-Umbra Δ9]] and the THC detail.\\n\\n> [!read-aloud]\\n> The grappling lines snap taut as the Raven operatives cross onto the deck. One of them gives the agreed signal and shouts, “Heist Squad, begin the extraction!” The words carry across the deck. The THC guards turn toward you as the Raven squad drives toward the flight deck, all four of them converging on the Helm.\\n>\\n> Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and crates, weapons, and bodies slide across the deck. With a sharp metallic crack, the captain cuts the harness holding him to the helm. The Raven squad and the captain tumble into the clouds below, leaving you aboard a ship with no one at the controls of the vessel which is rapidly plummeting towards the open ocean.\"}"
+          }
+        }
+      ],
+      "id": "3a8d1851-fd1d-430e-81a6-ab70a9996863",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 39184,
+          "completion_tokens": 579,
+          "total_tokens": 39763
+        },
+        "durationMs": 12285,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_Bp7LB0qubpXnDMuCW3gmCcQU",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+                "startLine": 121,
+                "endLine": 126,
+                "newText": "Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. Their orders are to secure the Helm and remove the captain before the Heist Squad begins the prisoner extraction. All four Raven operatives therefore push toward the flight deck together. They need enough people to overwhelm the captain, secure the controls, and keep the THC detail from retaking the Helm while the Heist Squad moves below.\n\nThe Heist Squad’s cover is exposed naturally when one of the Raven operatives uses the agreed signal and calls for the infiltrators to begin their part of the operation. The words are brief, but several THC guards hear them. The guards now understand that the supposed members of their detail are working with the boarders and turn their attention toward the Heist Squad. The Raven squad reaches the flight deck before the THC can stop them and confronts the captain.\n\nThe captain responds by throwing The Recluse into a steep dive. Before the Raven squad can secure him, he cuts the harness lashing him to the helm. The dive sends the Raven squad and the captain tumbling overboard, leaving the Heist Squad alone aboard the airship with [[Unit BH-Umbra Δ9]] and the THC detail.\n\n> [!read-aloud]\n> The grappling lines snap taut as the Raven operatives cross onto the deck. One of them gives the agreed signal and shouts, “Heist Squad, begin the extraction!” The words carry across the deck. The THC guards turn toward you as the Raven squad drives toward the flight deck, all four of them converging on the Helm.\n>\n> Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and crates, weapons, and bodies slide across the deck. With a sharp metallic crack, the captain cuts the harness holding him to the helm. The Raven squad and the captain tumble into the clouds below, leaving you aboard a ship with no one at the controls of the vessel which is rapidly plummeting towards the open ocean."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/Intercepting the Recluse.md\",\"startLine\":121,\"endLine\":126,\"newText\":\"Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. Their orders are to secure the Helm and remove the captain before the Heist Squad begins the prisoner extraction. All four Raven operatives therefore push toward the flight deck together. They need enough people to overwhelm the captain, secure the controls, and keep the THC detail from retaking the Helm while the Heist Squad moves below.\\n\\nThe Heist Squad’s cover is exposed naturally when one of the Raven operatives uses the agreed signal and calls for the infiltrators to begin their part of the operation. The words are brief, but several THC guards hear them. The guards now understand that the supposed members of their detail are working with the boarders and turn their attention toward the Heist Squad. The Raven squad reaches the flight deck before the THC can stop them and confronts the captain.\\n\\nThe captain responds by throwing The Recluse into a steep dive. Before the Raven squad can secure him, he cuts the harness lashing him to the helm. The dive sends the Raven squad and the captain tumbling overboard, leaving the Heist Squad alone aboard the airship with [[Unit BH-Umbra Δ9]] and the THC detail.\\n\\n> [!read-aloud]\\n> The grappling lines snap taut as the Raven operatives cross onto the deck. One of them gives the agreed signal and shouts, “Heist Squad, begin the extraction!” The words carry across the deck. The THC guards turn toward you as the Raven squad drives toward the flight deck, all four of them converging on the Helm.\\n>\\n> Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and crates, weapons, and bodies slide across the deck. With a sharp metallic crack, the captain cuts the harness holding him to the helm. The Raven squad and the captain tumble into the clouds below, leaving you aboard a ship with no one at the controls of the vessel which is rapidly plummeting towards the open ocean.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/Adventures/DM Notes/Intercepting the Recluse.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace_lines\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"lineRange\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/Intercepting the Recluse.md",
+                      "addedLines": 6,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "9a200e9b-a084-4649-8182-0e2cc7f60590"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 6,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1789150923861
+              }
+            }
+          }
+        }
+      ],
+      "id": "9a200e9b-a084-4649-8182-0e2cc7f60590",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Reworked the section so:\n\n- The Raven squad’s objective is to secure the Helm and remove the captain.\n- All four members go to the Helm because they need enough force to overwhelm the captain and defend the controls.\n- The party’s identities are exposed through a brief operational signal, rather than the Ravens inexplicably announcing them by name.\n- The signal is overheard by nearby THC guards, naturally revealing the party as collaborators.\n- The read-aloud now includes this moment before the captain sends everyone at the Helm overboard.",
+      "id": "949cddb1-2573-40e7-bc30-7b2a4202735e",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 39783,
+          "completion_tokens": 187,
+          "total_tokens": 39970
+        },
+        "durationMs": 5027,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
     }
   ],
   "createdAt": 1788972580799,
-  "updatedAt": 1788989402241,
+  "updatedAt": 1789150929239,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
@@ -5402,7 +5986,9 @@
     "048d841a-dbab-4bd8-9521-94288ac6dc54": "chatGPT/gpt-5.6-luna",
     "d912a3de-ad61-40c8-b9bf-7de2736160b3": "chatGPT/gpt-5.6-luna",
     "a38197b0-0f3c-43bf-a691-2c7397b0270f": "chatGPT/gpt-5.6-luna",
-    "ab755d4a-c40d-4528-b972-4579bb415600": "chatGPT/gpt-5.6-luna"
+    "ab755d4a-c40d-4528-b972-4579bb415600": "chatGPT/gpt-5.6-luna",
+    "a0fab05d-4404-4f58-8a92-3b6e3f522563": "chatGPT/gpt-5.6-luna",
+    "14e1d8e0-79c8-41c0-95a4-3f4492d5ea0a": "chatGPT/gpt-5.6-luna"
   },
   "assistantGroupBoundaryMessageIds": [],
   "reasoningLevel": "auto",

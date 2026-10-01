@@ -121,6 +121,17 @@
       ],
       "createdAt": 1788989383513,
       "updatedAt": 1788989383513
+    },
+    "6d03ee3c": {
+      "hash": "6d03ee3c",
+      "content": [
+        {
+          "type": "text",
+          "text": "<user_selected_content path=\"content/Adventures/DM Notes/Intercepting the Recluse.md\" startLine=\"121\" endLine=\"121\">\n```content/Adventures/DM Notes/Intercepting the Recluse.md\n121|Several hours into the flight, the Raven squad arrives aboard its Society-owned airship and boards The Recluse by grappling lines. The THC guards have little time to react before the Raven operatives reach the flight deck and confront the captain.\n```\n</user_selected_content>\n\n\nIntercepting the Recluse.md (41 Words) This section should have the raven squad reveal the party's true identity one way or another.\n\n"
+        }
+      ],
+      "createdAt": 1789150826515,
+      "updatedAt": 1789150826515
     }
   }
 }
