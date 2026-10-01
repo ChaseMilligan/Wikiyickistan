@@ -3465,7 +3465,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "aab08af5"
+        "hash": "b9e22f0e"
       },
       "id": "86f25757-9f45-4ca4-a1b3-2448676119f3",
       "mentionables": [
@@ -4072,7 +4072,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "8c6e56de"
+        "hash": "db4b7589"
       },
       "id": "f0a2f902-03ea-4a15-ab61-6dbe0d0b2934",
       "mentionables": [
@@ -5959,10 +5959,1428 @@
         "branchModelId": "chatGPT/gpt-5.6-luna",
         "branchLabel": "gpt-5.6-luna"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "I need some content for ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Dregs of Stickyickistan.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Dregs of Stickyickistan.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " just enough to get me started. Please use info about Delerium and Delerium Dregs from Drakkenheim to populate it.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "d680fdee"
+      },
+      "id": "4036a0d4-38d0-40ab-b2db-2109efa4fa55",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-10-01 11:06 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_AxJrpMl0Hu0WyNLU0hEgbp5P",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\"]}"
+          }
+        }
+      ],
+      "id": "d94be615-10b4-4f5c-a498-a2ee370c9257",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 40089,
+          "completion_tokens": 76,
+          "total_tokens": 40165
+        },
+        "durationMs": 5141,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_AxJrpMl0Hu0WyNLU0hEgbp5P",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_AxJrpMl0Hu0WyNLU0hEgbp5P\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\n      \"ok\": true,\n      \"totalLines\": 2,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|\\n2|\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "39bcde8b-73bc-4d9d-a28b-130c54d7d6f9",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_azFD4V3W9aqZc9dGvhc0Z0oj",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "hybrid",
+              "scope": "content",
+              "query": "Delerium Dregs Drakkenheim",
+              "path": "content",
+              "maxResults": 20
+            },
+            "rawText": "{\"mode\":\"hybrid\",\"scope\":\"content\",\"query\":\"Delerium Dregs Drakkenheim\",\"path\":\"content\",\"maxResults\":20}"
+          }
+        },
+        {
+          "id": "call_9ahNHjIQOvT7q5tlhpRBWWGc",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "content",
+              "query": "Delerium",
+              "path": "content",
+              "maxResults": 30
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"query\":\"Delerium\",\"path\":\"content\",\"maxResults\":30}"
+          }
+        },
+        {
+          "id": "call_iYjPrCMdFnsNRlwl4yI9yeuV",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "mode": "keyword",
+              "scope": "files",
+              "query": "Stickyickistan",
+              "path": "content",
+              "maxResults": 30
+            },
+            "rawText": "{\"mode\":\"keyword\",\"scope\":\"files\",\"query\":\"Stickyickistan\",\"path\":\"content\",\"maxResults\":30}"
+          }
+        }
+      ],
+      "id": "e1ac49b6-c209-409b-a0c4-56e383210836",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 40260,
+          "completion_tokens": 190,
+          "total_tokens": 40450,
+          "cache_read_input_tokens": 39424
+        },
+        "durationMs": 5225,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_azFD4V3W9aqZc9dGvhc0Z0oj",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "hybrid",
+                "scope": "content",
+                "query": "Delerium Dregs Drakkenheim",
+                "path": "content",
+                "maxResults": 20
+              },
+              "rawText": "{\"mode\":\"hybrid\",\"scope\":\"content\",\"query\":\"Delerium Dregs Drakkenheim\",\"path\":\"content\",\"maxResults\":20}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"hybrid\",\n  \"effectiveMode\": \"keyword\",\n  \"fallbackReason\": \"No embedding model configured. Fell back to keyword search.\",\n  \"scope\": \"content\",\n  \"query\": \"Delerium Dregs Drakkenheim\",\n  \"path\": \"content\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Beastiary/Delerium Dregs.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"[![](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)...\",\n          \"source\": \"keyword\",\n          \"cite\": 1\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Delerium.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"Delerium is a magical mineral left behind by the meteor that landed in Drakkenheim. It is the antithesis of [[Arcanite]]. It app...\",\n          \"source\": \"keyword\",\n          \"cite\": 2\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Free League of Stickyickistan/FLS & Drakkenheim.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"# FLS & Drakkenheim The world of **[[Drakkenheim]]** has been semi-incorporated into the greater Stickyickistanian world of [[Mythmos]]. I...\",\n          \"source\": \"keyword\",\n          \"cite\": 3\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Followers of the Falling Fire.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"The annihilation of [[Drakkenheim]] incited a serious religious schism within [[The Faith of the Sacred Flame]]. A new sect has emerged known as the Foll...\",\n          \"source\": \"keyword\",\n          \"cite\": 4\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Arcannabis/Arcannabis System Rework.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...cannabis is going to borrow heavily from the cooking section of Heliana’s Guide to Monster Hunting, and a little from [[Drakkenheim]].** # Landrace Strains There are 4 landraces of [[Arcannabis]] to represent the 4 different rarity levels. Each land...\",\n          \"source\": \"keyword\",\n          \"cite\": 5\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/History/Amethyst Blight.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...osmic cataclysm that destroyed the historical city of [[Spliffholm]], giving birth to the [[Ruins of Spliffholm]] aka [[Drakkenheim]]. It was given this name due to [[Delerium]] looking very similar to amethyst. --- *Spliffholm is no more. The once-...\",\n          \"source\": \"keyword\",\n          \"cite\": 6\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Regions/Mythmos/Drakkenheim.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 3,\n          \"startLine\": 3,\n          \"endLine\": 3,\n          \"snippet\": \"...Spliffholm]] is a historical city that was destroyed in a cosmic cataclysm called the [[Amethyst Blight]]. ![[map-0.01-drakkenheim-player.jpg]] --- *Spliffholm is no more. The once-proud city of magical innovation is now a desolate urban wasteland,...\",\n          \"source\": \"keyword\",\n          \"cite\": 7\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Knights of the Silver Order.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...ormally travel the realms in small bands and companies, and adhere to [[The Faith of the Sacred Flame]]. They believe [[Delerium]] is a contaminating blight borne of the darkest chaos, and have resolved to annihilate the corrupted crystals, slay ev...\",\n          \"source\": \"keyword\",\n          \"cite\": 8\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Mythmos.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...tside the mythic atmosphere of Mythmos are mining expeditions for rare cosmic elements. Trace amounts of Arcanite and [[Delerium]] can be found in the solar system's asteroid belt. Sages from across the realms have put forth differing theories to e...\",\n          \"source\": \"keyword\",\n          \"cite\": 9\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Amethyst Academy.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...: the Inscrutable Tower. Archwizard Eldrick Runeweaver leads the Academy’s efforts to access the tower in what is now [[Drakkenheim]], and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding [[Delerium]]’...\",\n          \"source\": \"keyword\",\n          \"cite\": 10\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/index.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 12,\n          \"startLine\": 12,\n          \"endLine\": 12,\n          \"snippet\": \"...blished settings, including the [[Forgotten Realms]], [[Eberron]], [[Ravnica]], [[Dragonlance]], [[Spelljammer]], and [[Drakkenheim]]. I am also heavily using the book [[Heliana's Guide to Monster Hunting]] which adds systems for tracking, harvesting...\",\n          \"source\": \"keyword\",\n          \"cite\": 11\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Conditions of Drakkenheim.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 64,\n          \"startLine\": 64,\n          \"endLine\": 64,\n          \"snippet\": \"...s://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage). ### Distracted You can’t take Reactions. ### Drakkenheim Madness A character with Drakkenheim Madness gains one of the following traits: [![](https://media.dndbeyond.com/comp...\",\n          \"source\": \"keyword\",\n          \"cite\": 12\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/House League/Free League of Drakkenheim.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 3,\n          \"startLine\": 3,\n          \"endLine\": 3,\n          \"snippet\": \"![[flod.png]] _[Free League of Drakkenheim](https://www.dndbeyond.com/campaigns/join/70974482140917586)_ is set in a gothic renaissance ruined city. **DRAKKENHEI...\",\n          \"source\": \"keyword\",\n          \"cite\": 13\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Hooded Lanterns.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"Formally known as the 4th Provisional Expeditionary Force to Reclaim [[Drakkenheim]], the Hooded Lanterns are an irregular military drawn up from veterans of the Colonial War and remnants of the old [[S...\",\n          \"source\": \"keyword\",\n          \"cite\": 14\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Magitech.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...mechanical ingenuity that has propelled the city-state into a new era of power and excess. Fueled by [[Arcanite]] and [[Delerium]], the rare magical ore harvested from [[Mount Zooka]], Magitech ranges from simple enchanted tools to experimental war...\",\n          \"source\": \"keyword\",\n          \"cite\": 15\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Queen's Men.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...se reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the...\",\n          \"source\": \"keyword\",\n          \"cite\": 16\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Free League of Stickyickistan/Free League of Stickyickistan.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 14,\n          \"startLine\": 14,\n          \"endLine\": 14,\n          \"snippet\": \"...ED! Dungeon Masters]] - [[DMs Aid]] - [[The Rolling Papers]] - [[The Roach Clip]] - [[FLS & The Loot Tavern]] - [[FLS & Drakkenheim]] Any text with a ~~strikethrough~~ is null. View the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickista...\",\n          \"source\": \"keyword\",\n          \"cite\": 17\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Regions/Mythmos/Westemär.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 5,\n          \"startLine\": 5,\n          \"endLine\": 5,\n          \"snippet\": \"...ished, but materialistic and prideful, in contrast to the hard-working and pragmatic common folk. #### A Broken Realm Drakkenheim was the capital of Westemär and home to the ruling family, **House von Kessel**. After the meteor fell, the two survivi...\",\n          \"source\": \"keyword\",\n          \"cite\": 18\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Arcanite.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 6,\n          \"startLine\": 6,\n          \"endLine\": 6,\n          \"snippet\": \"...--------- | ------------ | ----------- | --- | --- | --------------- | | [Chip](https://www.dndbeyond.com/equipment/730-delerium-chip) | 65 gold | 1/4 lbs | 15 | 5 | 1 action | | [Fragment](https://www.dndbe...\",\n          \"source\": \"keyword\",\n          \"cite\": 19\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/House League/A League of Our Own.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 20,\n          \"startLine\": 20,\n          \"endLine\": 20,\n          \"snippet\": \"...er adventures that also use that source. - The same goes for official AL campaign settings or third-party worlds like **Drakkenheim**, **Grim Hollow**, or **Humblewood**. - All official AL item and species bans apply Each DM has the right to restrict...\",\n          \"source\": \"keyword\",\n          \"cite\": 20\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_9ahNHjIQOvT7q5tlhpRBWWGc",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "content",
+                "query": "Delerium",
+                "path": "content",
+                "maxResults": 30
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"content\",\"query\":\"Delerium\",\"path\":\"content\",\"maxResults\":30}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Delerium\",\n  \"path\": \"content\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Delerium.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"Delerium is a magical mineral left behind by the meteor that landed in Drakkenheim. It is the antithesis of [[Arcanite]]. It app...\",\n          \"source\": \"keyword\",\n          \"cite\": 2\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Beastiary/Delerium Dregs.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"[![](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)...\",\n          \"source\": \"keyword\",\n          \"cite\": 1\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/History/Amethyst Blight.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...ity of [[Spliffholm]], giving birth to the [[Ruins of Spliffholm]] aka [[Drakkenheim]]. It was given this name due to [[Delerium]] looking very similar to amethyst. --- *Spliffholm is no more. The once-proud city of magical innovation is now a de...\",\n          \"source\": \"keyword\",\n          \"cite\": 6\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Magitech.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...mechanical ingenuity that has propelled the city-state into a new era of power and excess. Fueled by [[Arcanite]] and [[Delerium]], the rare magical ore harvested from [[Mount Zooka]], Magitech ranges from simple enchanted tools to experimental war...\",\n          \"source\": \"keyword\",\n          \"cite\": 15\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Followers of the Falling Fire.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...Followers of the Falling Fire, who adhere to the prophecies of former Flamekeeper Lucretia Mathias. She attests that [[Delerium]] is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to c...\",\n          \"source\": \"keyword\",\n          \"cite\": 4\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Knights of the Silver Order.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...ormally travel the realms in small bands and companies, and adhere to [[The Faith of the Sacred Flame]]. They believe [[Delerium]] is a contaminating blight borne of the darkest chaos, and have resolved to annihilate the corrupted crystals, slay ev...\",\n          \"source\": \"keyword\",\n          \"cite\": 8\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Mythmos.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...tside the mythic atmosphere of Mythmos are mining expeditions for rare cosmic elements. Trace amounts of Arcanite and [[Delerium]] can be found in the solar system's asteroid belt. Sages from across the realms have put forth differing theories to e...\",\n          \"source\": \"keyword\",\n          \"cite\": 9\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Free League of Stickyickistan/FLS & Drakkenheim.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 5,\n          \"startLine\": 5,\n          \"endLine\": 5,\n          \"snippet\": \"...heim is treated as a connected but distinct region of the wider world rather than a fully separate setting. Rumors of [[Delerium]], contaminated ruins, rival factions, holy crusaders, mageborn politics, and doomed expeditions may travel far beyond...\",\n          \"source\": \"keyword\",\n          \"cite\": 21\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Queen's Men.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...se reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the...\",\n          \"source\": \"keyword\",\n          \"cite\": 16\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Amethyst Academy.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...Drakkenheim]], and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding [[Delerium]]’s supernatural qualities and unknown dangers. The mages plan to harness the crystal’s vast energies to craft magical...\",\n          \"source\": \"keyword\",\n          \"cite\": 10\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Regions/Mythmos/Drakkenheim.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 13,\n          \"startLine\": 13,\n          \"endLine\": 13,\n          \"snippet\": \"..., and undead wretches created by the otherworldly forces which have taken root in the ruins.* --- # Quick Facts ## [[Delerium]] Delerium crystals are found throughout the ruined streets of Drakkenheim, jutting forth from piles of rubble, spread...\",\n          \"source\": \"keyword\",\n          \"cite\": 22\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Arcanite.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 6,\n          \"startLine\": 6,\n          \"endLine\": 6,\n          \"snippet\": \"...--------- | ------------ | ----------- | --- | --- | --------------- | | [Chip](https://www.dndbeyond.com/equipment/730-delerium-chip) | 65 gold | 1/4 lbs | 15 | 5 | 1 action | | [Fragment](https://www.dndbe...\",\n          \"source\": \"keyword\",\n          \"cite\": 19\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/index.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 20,\n          \"startLine\": 20,\n          \"endLine\": 20,\n          \"snippet\": \"...tside the mythic atmosphere of Mythmos are mining expeditions for rare cosmic elements. Trace amounts of Arcanite and [[Delerium]] can be found in the solar system's asteroid belt. Sages from across the realms have put forth differing theories to e...\",\n          \"source\": \"keyword\",\n          \"cite\": 23\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Misc/Conditions of Drakkenheim.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 91,\n          \"startLine\": 91,\n          \"endLine\": 91,\n          \"snippet\": \"...X) You’re partially encased in ice: - You’re **[Immobilized](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#Immobilized)** and **[Defenseless](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium...\",\n          \"source\": \"keyword\",\n          \"cite\": 24\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Arcannabis/Arcannabis System Rework.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 199,\n          \"startLine\": 199,\n          \"endLine\": 199,\n          \"snippet\": \"...ion.*** Characters in the world of Drakkenheim may be exposed to eldritch pollutants or arcane radiation emitted by [^3]delerium. These hazards cause a new condition called Contamination, which causes otherworldly Mutations that have both detriment...\",\n          \"source\": \"keyword\",\n          \"cite\": 25\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_iYjPrCMdFnsNRlwl4yI9yeuV",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "mode": "keyword",
+                "scope": "files",
+                "query": "Stickyickistan",
+                "path": "content",
+                "maxResults": 30
+              },
+              "rawText": "{\"mode\":\"keyword\",\"scope\":\"files\",\"query\":\"Stickyickistan\",\"path\":\"content\",\"maxResults\":30}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"files\",\n  \"query\": \"Stickyickistan\",\n  \"path\": \"content\",\n  \"results\": [\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Stickyickistan.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Stickyickistan.jpg\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Stickyickistan.jpgZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Character Advancement.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Character Building.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/DMs Aid.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/FLS & Drakkenheim.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/FLS & The Loot Tavern.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/FLS Guildhall.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Free League of Stickyickistan.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/Guild Advancement.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/The Roach Clip.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/The Rolling Papers.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Free League of Stickyickistan/WANTED! Dungeon Masters.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Ashen Citadel.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Ashen Citadel.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Astallon Acres.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Astallon Acres.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Bobo Bush Estates.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Bobo Bush Estates.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Bongstad.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Bongstad.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Industrial Zone.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Industrial Zone.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Mount Zooka.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Nevercough City.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Nevercough City.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Regions/City of Stickyickistan/North Booftown.md\",\n      \"source\": \"keyword\"\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "f495337b-03c0-4078-9a5c-39e2aadbc729",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_Eeu0Q3w0nLodKrJ9j5PFlzSu",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Misc/Delerium.md"
+              ],
+              "startLine": 1,
+              "endLine": 80
+            },
+            "rawText": "{\"paths\":[\"content/Misc/Delerium.md\"],\"startLine\":1,\"endLine\":80}"
+          }
+        },
+        {
+          "id": "call_6PquwulFHa2lkufWQWcilNJh",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Beastiary/Delerium Dregs.md"
+              ],
+              "startLine": 1,
+              "endLine": 80
+            },
+            "rawText": "{\"paths\":[\"content/Beastiary/Delerium Dregs.md\"],\"startLine\":1,\"endLine\":80}"
+          }
+        },
+        {
+          "id": "call_tdVGT7rYDO2Njkd4bJ45kaAa",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Free League of Stickyickistan/FLS & Drakkenheim.md"
+              ],
+              "startLine": 1,
+              "endLine": 40
+            },
+            "rawText": "{\"paths\":[\"content/Free League of Stickyickistan/FLS & Drakkenheim.md\"],\"startLine\":1,\"endLine\":40}"
+          }
+        }
+      ],
+      "id": "346ade2e-2afc-4b14-aaef-69b3b754683a",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 47402,
+          "completion_tokens": 161,
+          "total_tokens": 47563
+        },
+        "durationMs": 6126,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_Eeu0Q3w0nLodKrJ9j5PFlzSu",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Misc/Delerium.md"
+                ],
+                "startLine": 1,
+                "endLine": 80
+              },
+              "rawText": "{\"paths\":[\"content/Misc/Delerium.md\"],\"startLine\":1,\"endLine\":80}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_Eeu0Q3w0nLodKrJ9j5PFlzSu\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Misc/Delerium.md\",\n      \"ok\": true,\n      \"totalLines\": 48,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 48\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|Delerium is a magical mineral left behind by the meteor that landed in Drakkenheim. It is the antithesis of [[Arcanite]]. It appears in geode clusters of translucent, sharp-edged crystals which reflect octarine light. The eldritch stones softly hum in dissonant tones, and glow brightly at night or when exposed to magic. Deposits are found throughout Drakkenheim, often fused into stone streets and buildings like crystalline moss.\\n2|\\n3|A typical delerium fragment is about the size of a finger. Crystals may be fist-sized or slightly larger, and geodes may be as big as a pumpkin. Massive clusters might grow taller than a human.\\n4|\\n5|### Delerium Crystals\\n6|| Crystal Size                                                                        | Market Value (Buy) | Weight      | AC  | HP  | Extraction Time | Stabilization DC |\\n7|| ----------------------------------------------------------------------------------- | ------------------ | ----------- | --- | --- | --------------- | ---------------- |\\n8|| [Chip](https://www.dndbeyond.com/equipment/730-delerium-chip)                       | 30 gold            | 1/4 lbs     | 15  | 5   | 1 action        | 8                |\\n9|| [Fragment](https://www.dndbeyond.com/equipment/734-delerium-fragment)               | 80 gold            | 1/2 lbs     | 17  | 10  | 1 minute        | 12               |\\n10|| [Shard](https://www.dndbeyond.com/equipment/735-delerium-shard)                     | 300 gold           | 1 lbs       | 19  | 15  | 5 minutes       | 16               |\\n11|| [Crystal](https://www.dndbeyond.com/equipment/736-delerium-crystal)                 | 1,600 gold         | 2 lbs       | 21  | 20  | 30 minutes      | 20               |\\n12|| [Geode](https://www.dndbeyond.com/equipment/731-delerium-geode)                     | 8,000 gold         | 20 lbs +    | 23  | 25  | 1 hour          | 24               |\\n13|| [Massive Cluster](https://www.dndbeyond.com/equipment/732-delerium-massive-cluster) | Priceless          | 8,000 lbs + | 25  | 50  | 7 days          | 28               |\\n14|\\n15|### Delerium Properties\\n16|\\n17|All delerium samples have the following traits regardless of size:\\n18|\\n19|- [Immune](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Immunity) to Necrotic, Poison, and Psychic damage; as well as Bludgeoning, Piercing, and Slashing damage from non-magical weapons.\\n20|- [Resistant](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Resistance) to Acid, Cold, Fire, and Lightning damage; as well as Slashing and Piercing damage from magical weapons.\\n21|- [Vulnerable](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Vulnerability) to Bludgeoning damage from magical weapons.\\n22|- Unless contained within an [Antimagic Field](https://www.dndbeyond.com/spells/2618860-antimagic-field), delerium shatters and crumbles into worthless ash when reduced to 0 Hit Points. However, delerium geodes release a random Arcane Anomaly when destroyed ([see below](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ArcaneAnomalies)).\\n23|\\n24|#### Delerium Hazards\\n25|\\n26|When a humanoid creature touches delerium without protective gear for the first time on their turn, or ends their turn in bodily contact with delerium, they must make a DC 10 Constitution saving throw or take 1d6 Necrotic damage and gain one level of **[Contamination](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ContaminationCondition)**, as described earlier in this appendix.\\n27|\\n28|#### Delerium Harvesting\\n29|\\n30|Delerium found in Drakkenheim is usually fused into the ground or stone buildings. It is carefully extracted using handheld mining equipment such as shovels, picks, hammers, and chisels. Consult the [table](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#DeleriumCrystals) to determine how long it takes characters to extract delerium. Lacking proper equipment, extraction takes ten times as long. Massive clusters are impossible to extract without heavy equipment or powerful magic.\\n31|\\n32|### Uses for Delerium\\n33|\\n34|Delerium has vast arcane potential. Beyond trade, crystals are used for several purposes:\\n35|\\n36|**_Spell Component._** Delerium may be used as an arcane focus or material component for any spell on the sorcerer, warlock, or wizard spell list. When casting a spell which requires a costly material component, a spellcaster may instead use delerium of equivalent or greater value to the required cost.\\n37|\\n38|**_Magic Items._** Delerium is an exceptional material for creating magical items of all kinds. Any existing magic item described in the [Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024/magic-items-a-z) could be made with delerium. Fragments, shards, crystals, and geodes may be used to make uncommon, rare, very rare, and legendary items respectively.\\n39|\\n40|**_Stable Delerium._** The process for crafting magic items with delerium renders the crystals stable, effectively turning it into [[Arcanite]]. Unless otherwise specified, characters do not take damage nor risk **[Contamination](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ContaminationCondition)** when they touch or handle stable delerium. Stable delerium is damaged and destroyed in the same manner as a normal magic item of its kind. Enough Stability Serum costs 50% of the buying price of the shard. If an attempt at stabilizing a shard is made outside an Antimagic Field and fails, the shard turns to dust. If the attempt fails by 5 or more, the shard explodes dealing VDAM necrotic damage and applying 1 level of contamination to any creature within 10 feet.\\n41|\\n42|**_Delerium Dust._** Delerium dust is usually made by grinding the crystals against one another to create a fine powder. This milling process is extraordinarily hazardous unless performed within an [Antimagic Field](https://www.dndbeyond.com/spells/2618860-antimagic-field). Delerium dust can be used in alchemy, as a spell component, a reagent for brewing potions, or mixed into inks used to scribe spell scrolls.\\n43|\\n44|**_Improvised Weapons & Ammunition._** Delerium fragments may be used as ammunition for a sling or fashioned into a makeshift club. Such weapons and ammunition deal an extra 1d6 Necrotic damage, and humanoid creatures struck must make a DC 10 Constitution saving throw or gain one level of **[Contamination](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ContaminationCondition)**. Delerium used as ammunition in this way is destroyed.\\n45|\\n46|### Delicate Balance of the Elements\\n47|\\n48|[[Arcanite]] and Delerium are like yin and yang. Arcanite represents order, and light while Delerium represents darkness, and chaos. Arcanite's magical properties are perfectly stable making it very reliable at powering most magitech, but slightly less powerful and much more expensive. Delerium on the other hand is a highly volatile element allowing it to output more magical energy for powering magitech, but not as reliable and much more dangerous.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Arcanite\",\n          \"path\": \"content/Misc/Arcanite.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 48,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_6PquwulFHa2lkufWQWcilNJh",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Beastiary/Delerium Dregs.md"
+                ],
+                "startLine": 1,
+                "endLine": 80
+              },
+              "rawText": "{\"paths\":[\"content/Beastiary/Delerium Dregs.md\"],\"startLine\":1,\"endLine\":80}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_6PquwulFHa2lkufWQWcilNJh\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Beastiary/Delerium Dregs.md\",\n      \"ok\": true,\n      \"totalLines\": 114,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 80\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 81,\n      \"content\": \"1|[![](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)\\n2|\\n3|“One minute you’re getting a foot rub from your royal masseuse Peter and suddenly, because you asked him to grab something sharp to carve off the dead skin, he’s transformed into a blobby monster. These poor souls used to be so important to my daily routine. My sword fetcher, my helmet fetcher, my servant fetcher, heck, even my flower arranger all turned into wretched twisted creatures. Good help is hard to find but when they become an amorphous killing machine bent on consuming your flesh it’s time to find some new hires.”\\n4|\\n5|—Pluto Jackson\\n6|\\n7|When a human is exposed to enough eldritch contamination to cause a monstrous transformation, the ensuing cascade of mutations most commonly results in a horrific mockery of their former selves. Countless inhabitants of Drakkenheim have suffered this horrible fate, transformed after the meteor fell. Others are fallen soldiers, lost adventurers, or faction agents who never escaped the ruins. Survivors and explorers often refer to these creatures as “wretches,” “unfortunates,” “the lost ones,” but they are most commonly known as Delerium Dregs.\\n8|\\n9|These monsters are hideously transfigured in both body and mind. They are trapped in a terrifying landscape filled with delusions and torment, left with only fragmented memories, unable to comprehend what has happened to them. Delerium Dregs have been driven mad by their transformations.\\n10|\\n11|Occasionally, a Delerium Dreg may still be recognizable to their friends and loved ones, but are so stricken with madness that little remains of their former personalities. Others have changed so much they bear no resemblance to their former selves, though most retain some humanoid features and body proportions. No matter how they ended up in this horrific form, they are doomed to wander the ruins, disorientation occasionally wavering into anguish, distress, or violent outbursts.\\n12|\\n13|## [](https://www.dndbeyond.com/sources/dnd/modr/delerium-dregs#MultitudinousMutations)Multitudinous Mutations\\n14|\\n15|No two Delerium Dregs are exactly alike, as all are transformed in chaotic and unpredictable ways. Their bodies sprout all manner of twisted limbs, spines, and bones. Their organs, muscles, and flesh are resculpted, their faces twisted painfully into terrifying visages. Nevertheless, there are several recognizable and relatively common variations which all express a differing degree of danger to those exploring Drakkenheim.\\n16|\\n17|Those who have studied eldritch contamination and mutations have theorized that certain factors may influence the types of mutations a contaminated individual may manifest. Perhaps the subject’s physical or biological traits are the determining factor, especially in those who may already possess magical talents or who have been touched by arcane forces in some way. It may also be that the environment and conditions under which an individual gains **[Contamination](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#ContaminationCondition)** affect the forms they develop, as [Bloated Dregs](https://www.dndbeyond.com/monsters/5524952-bloated-dreg) appear more commonly near flooded regions, and [Lambent Dregs](https://www.dndbeyond.com/monsters/5525049-lambent-dreg) are more common near the crater. It is also entirely possible it is all simply chaotic magic, and any patterns are mere coincidence.\\n18|\\n19|Indeed, a [Delerium Dreg](https://www.dndbeyond.com/monsters/5524979-delerium-dreg) continues to mutate with continued exposure to eldritch contamination. Over time, the typical Delerium Dreg described here may change into one of the other forms. However, these continued mutations may eventually cause their form to destabilize, transforming them into a [Protean Abomination](https://www.dndbeyond.com/monsters/5525081-protean-abomination) or [Pyknic Maunder](https://www.dndbeyond.com/monsters/5525083-pyknic-maunder).\\n20|\\n21|### [](https://www.dndbeyond.com/sources/dnd/modr/delerium-dregs#WarpedMinds)Warped Minds\\n22|\\n23|While their new form may hold some uncanny resemblance to their original appearance, most often, a Delerium Dreg’s mutations are so drastic and their behavior so radically altered that little trace is left of their former identity. Most Dregs wander Drakkenheim unfettered from reality and are easily provoked to violence.\\n24|\\n25|Experienced soldiers amongst the Hooded Lanterns have observed how Dregs passively follow one another. As they aimlessly roam the ruined streets, more stragglers and lone dregs join a group, which eventually gathers into a large crowd. While occasionally infighting or hostility breaks out within the throng, left unchecked in the city, Delerium Dregs slowly start to form massive mobs that clog the city streets.\\n26|\\n27|[Hooded Lantern scouts](https://www.dndbeyond.com/monsters/5525036-hooded-lantern-scout) have adamantly patrolled the western parts of the city near their barracks, slaying any small group of Dregs on sight. If they can keep their numbers down, it is less likely that uncontrollable swarms of them will gather. Dreg cleanup is one of the most harrowing duties for the Lanterns. More often than not, the Dregs in western Drakkenheim are fallen Lanterns, friends, or even family.\\n28|\\n29|Adventurers incorrectly believe Delerium Dregs are cannibalistic, driven to feed on flesh. All evidence suggests Delerium Dregs are physically sustained by the magic of the Haze. They do not need to eat or drink, and do not sleep. They do, however, need to breathe. Consequently, they do not consume the bodies of their victims; rather, they attack out of madness-induced aggression. As such, a Delerium Dreg won’t be lured into a trap by meat and usually can’t be bargained with using food.\\n30|\\n31|### [](https://www.dndbeyond.com/sources/dnd/modr/delerium-dregs#HazeHulks)Haze Hulks\\n32|\\n33|Occasionaly, these transformations include tremendous growth. Although studies of this are scarce, it seems that a common change is an instant increase in both muscle mass and ferocity. These violent monstrosities are known as [Haze Hulks](https://www.dndbeyond.com/monsters/5525021-haze-hulk), huge cousins to the twisted Delerium Dregs.\\n34|\\n35|The delerium affects the flesh of the creature, immediately toughening a creature and increasing its inherent strength, while diminishing parts of the brain that process emotions such as anger or frustration, and completely neutralizing the concepts of fear and greatly diminishing pain. The effects of this are a massive hulking beast that shrugs off attacks, is violently territorial, and shows no fear in the face of danger.\\n36|\\n37|### [](https://www.dndbeyond.com/sources/dnd/modr/delerium-dregs#AdvancedMutations)Advanced Mutations\\n38|\\n39|Some creatures grow beyond the confines of standard mutations, where a rare few no longer fit into the obvious categories of Delerium Dregs or Haze Hulks. These creatures possess traits that separate them from the mutated hordes of the ruins, often because of their ability to maintain control of their sentience and sense of self in a way most others cannot.\\n40|\\n41|The danger occurs when these creatures believe they are still human despite terrible transformations. These advanced mutants are often twisted by misguided goals, such as gaining control over their mutations. Others are just unfortunates who cling to the shreds of self remaining in their slowly fragmenting minds. These may be the most dangerous of all. They still possess a cunning intellect while slipping into a madness they cannot fathom.\\n42|\\n43|Although rare, encountering these forms of advanced mutations is always dangerous—they have been known to control Dregs, or unite the mutated monsters to fight on their behalf. Two of these advanced mutants are described in this chapter: the malfeasant wizard known as the [Pale Man](https://www.dndbeyond.com/monsters/5525076-pale-man), and the former Queen of Drakkenheim, [Lenore von Kessel](https://www.dndbeyond.com/monsters/5525051-lenore-von-kessel).\\n44|\\n45|[![](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-02.delerium-stone-1.png)](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-02.delerium-stone-1.png)\\n46|\\n47|## [](https://www.dndbeyond.com/sources/dnd/modr/delerium-dregs#RoleplayingTraits)Roleplaying Traits\\n48|\\n49|These traits can be used in tandem with those described in the [Horrors of Drakkenheim](https://www.dndbeyond.com/sources/dnd/modr/horrors-of-drakkenheim#RoleplayingTraits) chapter. In particular, consider items from the [Aberrant Physiology](https://www.dndbeyond.com/sources/dnd/modr/horrors-of-drakkenheim#AberrantPhysiology) section to add additional variation to individual Delerium Dregs.\\n50|\\n51|### [](https://www.dndbeyond.com/sources/dnd/modr/delerium-dregs#ShatteredPsyches)Shattered Psyches\\n52|\\n53|Rookie adventurers often liken [Delerium Dregs](https://www.dndbeyond.com/monsters/5524979-delerium-dreg) to the mindless undead such as zombies. While the comparison is apt in some respects, Delerium Dregs are not brainless creatures or reanimated thralls. Rather, these mutated humans retain a broken consciousness drifting in and out of a lucid state. These horrible shreds of sentience can be difficult to witness, as the once human creatures mumble phrases of their last moments. Some cry for help, others beg for safety, while others call to loved ones and old companions. There are a few reports of Delerium Dregs have apparently coherent conversations for a few minutes before returning to their incoherent mumbles and ravenous cries.\\n54|\\n55|Over the years, many have attempted to communicate with Delerium Dregs in search of their former humanity. Occasionally, Delerium Dregs respond to such appeals, but the effect is short-lived. The madness gripping their minds is all-consuming and isn’t readily treated with words or even powerful magic. More than once have well-intentioned individuals sought out a transformed friend or loved one and tried to coax them back into a cogent state, grasping at whatever shreds of humanity remain. Unfortunately, these attempts ultimately fail; at best gleaning a fleeting moment of recognition before the terrifying realization of their wretched state becomes apparent. Often, such efforts only succeed in triggering frenzied outbursts, but there is no doubt that a handful of Dregs are kept captive in the hopes that one day their condition may somehow be healed or reversed.\\n56|\\n57|### [](https://www.dndbeyond.com/sources/dnd/modr/delerium-dregs#LastingMemories)Lasting Memories\\n58|\\n59|Dregs may not be coherent, or even human anymore, but a small sliver of their former selves remains. Many have strange quirks that reveal their former selves, often displayed while tearing their victims apart.\\n60|\\n61|1. In a deep, bellowing tone, the Dreg exclaims “Meat.”\\n62|2. It begs for release, “Help me! I need to get out of this city!”\\n63|3. “Please, please, help! I’m sick... are you a doctor? Bring me to the Flamekeeper!”\\n64|4. It recites a list of its former comrades-in-arms: “Jenkins. Watson. Lang. Wagner. Livingston. Hayes.”\\n65|5. “Miserable weather. Just dreadful. Awful. Won’t stop raining. When will we see the sun?”\\n66|6. It cries out for its parents or family “Where is my daddy? I want my daddy!”\\n67|7. It hums or whistles fragments of songs from time to time.\\n68|8. It won’t stop giggling horrifically. Between laughs, it says “Who wants tickles?!?”\\n69|9. It keeps speaking about a plan it had, such as an event, or party it was meant to attend. “I’m going to be late for the masquerade ball! I have my finest suit pressed and ready.”\\n70|10. It seems confused and lost and keeps requesting directions to a specific location. “Do I turn left at Copper Street? Where’s the wainwright’s shop? Around the corner?”\\n71|11. It screams accusations at the top of its lungs constantly “Thief! You dirty thief!”\\n72|12. The Dreg recites a children’s nursery rhyme or poem with an eerie, echoing cadence: “Ashes, ashes, we all fall down...”\\n73|13. “I’m late... I’m late... oh bother... I should have left sooner... the Queen will have my head for sure.”\\n74|14. The Dreg gestures or points at itself, crying out “Guilty! Guilty! Guilty!”\\n75|15. It regards you as a long-lost family member. “Are you my mommy?”\\n76|16. “Where did I leave my glasses? I thought they were right here... there was time now...”\\n77|17. It apologizes constantly and profusely. “I’m sorry, I am so sorry!”\\n78|18. This Dreg used to be an old construction worker who keeps mumbling “Tear down the wall, tear down the wall...”\\n79|19. The Dreg chases you yelling in a cackling screech “I’ll swallow your soul!”\\n80|20. “We had porridge yesterday! I don’t want porridge again. We had it yesterday!”\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 80,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_tdVGT7rYDO2Njkd4bJ45kaAa",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Free League of Stickyickistan/FLS & Drakkenheim.md"
+                ],
+                "startLine": 1,
+                "endLine": 40
+              },
+              "rawText": "{\"paths\":[\"content/Free League of Stickyickistan/FLS & Drakkenheim.md\"],\"startLine\":1,\"endLine\":40}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_tdVGT7rYDO2Njkd4bJ45kaAa\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Free League of Stickyickistan/FLS & Drakkenheim.md\",\n      \"ok\": true,\n      \"totalLines\": 17,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 17\n      },\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|# FLS & Drakkenheim\\n2|\\n3|The world of **[[Drakkenheim]]** has been semi-incorporated into the greater Stickyickistanian world of [[Mythmos]]. Its factions, history, monsters, magic, contamination, political conflicts, and apocalyptic weirdness may appear in Free League of Stickyickistan lore when they fit the tone of the setting.\\n4|\\n5|In Mythmos, Drakkenheim is treated as a connected but distinct region of the wider world rather than a fully separate setting. Rumors of [[Delerium]], contaminated ruins, rival factions, holy crusaders, mageborn politics, and doomed expeditions may travel far beyond the city itself. Drakkenheim material can be used as inspiration for adventures, NPCs, factions, magic items, monsters, and campaign threats within Stickyickistan.\\n6|\\n7|However, ==the [[Free League of Stickyickistan]] and the **Free League of Drakkenheim** are not character-compatible adventure settings==.\\n8|\\n9|Characters created for the Free League of Stickyickistan are **not automatically eligible** for adventures run under [[Free League of Drakkenheim]]. Likewise, characters made specifically for Drakkenheim are not automatically eligible for standard FLS adventures. The two leagues may share a world, themes, lore, and occasional references, but they use different assumptions about character creation, tone, danger, rewards, and campaign structure.\\n10|\\n11|This separation exists to preserve the identity of both games. Stickyickistan is broad, eclectic, planar, and deliberately chaotic. Drakkenheim is darker, more focused, more contaminated, and built around the specific pressures of that setting. Mixing characters freely between the two could create balance issues, undermine campaign tone, or weaken the consequences that make Drakkenheim feel distinct.\\n12|\\n13|TLDR:\\n14|\\n15|**Drakkenheim exists in Mythmos, but Free League of Stickyickistan characters do not get a free ticket into it.**\\n16|\\n17|Any crossover, cameo, adapted content, or special exception must, as always, be approved by the DM running that adventure.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Drakkenheim\",\n          \"path\": \"content/Regions/Mythmos/Drakkenheim.md\"\n        },\n        {\n          \"link\": \"Mythmos\",\n          \"path\": \"content/Mythmos.md\"\n        },\n        {\n          \"link\": \"Delerium\",\n          \"path\": \"content/Misc/Delerium.md\"\n        },\n        {\n          \"link\": \"Free League of Stickyickistan\",\n          \"path\": \"content/Free League of Stickyickistan/Free League of Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Free League of Drakkenheim\",\n          \"path\": \"content/House League/Free League of Drakkenheim.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 17,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "2aad6419-bada-4799-9919-5b5d063f5045",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_NbULx2Z9BL7rNs2e1qtCp1Fn",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/Dregs of Stickyickistan.md",
+              "content": "# Dregs of Stickyickistan\n\n## Adventure Premise\n\nA contaminated shipment of [[Delerium]] has reached [[Stickyickistan]] from the ruins of [[Drakkenheim]]. The crystals were meant to be processed through the city's magitech industry, but several workers exposed to the raw mineral have transformed into violent, malformed creatures known as [[Delerium Dregs]]. The characters are hired to investigate the outbreak, rescue anyone still alive, and prevent the contaminated material from entering the wider city.\n\nThe incident is more complicated than a simple monster hunt. The Dregs were once people, and some retain broken fragments of their former identities. A transformed worker may recognize a friend, repeat a familiar phrase, or briefly plead for help before the contamination overwhelms them again. The characters must decide whether to destroy the creatures, attempt to contain them, or risk searching for a way to stabilize the victims.\n\n## Delerium in Stickyickistan\n\n[[Delerium]] is a magical mineral left behind by the meteor that destroyed Drakkenheim. It appears as translucent, sharp-edged crystals that reflect strange colors, hum softly, and glow when exposed to magic. It is the chaotic counterpart to [[Arcanite]], producing more magical energy but proving much less stable and much more dangerous.\n\nSmall amounts of Delerium can be found in the wider world, including traces in the asteroid belt beyond [[Mythmos]]. In Stickyickistan, the mineral is valuable to magitech engineers, alchemists, smugglers, and researchers. Raw Delerium can be used as a powerful spell component or magical fuel, but prolonged contact risks necrotic injury and [[Contamination]].\n\nFor this adventure, treat the contaminated shipment as raw, unstable Delerium. Characters who handle it without protection may suffer a minor injury and gain a level of Contamination. The mineral should feel valuable enough to tempt people, but dangerous enough that a careless salvage operation can create another outbreak.\n\n## Delerium Dregs\n\nDelerium Dregs are humanoids transformed by severe eldritch contamination. Their bodies have been reshaped into unpredictable combinations of swollen flesh, twisted limbs, exposed bone, spines, and malformed features. No two Dregs need look alike.\n\nMost Dregs are driven by fractured memories and violent impulses. They do not need to eat or drink, although they still need to breathe. Their attacks are caused by madness, fear, territorial instinct, or bursts of confused aggression rather than hunger. They may gather together as they wander, forming increasingly dangerous mobs if left unchecked.\n\nUse the [[Delerium Dregs]] stat block for the main creatures in this adventure. For variety, alter their appearance and behavior without changing their statistics. A Dreg near a flooded processing plant might be bloated and dripping with contaminated water. One exposed to intense magical energy might glow from within. A former guard could still attempt to follow old patrol routes, while a former musician hums a familiar tune between attacks.\n\n## Adventure Hooks\n\n- A worker's family asks the characters to search a sealed processing facility after the worker fails to return home.\n- A [[Magitech]] manufacturer wants the outbreak contained quietly before the city learns that its Delerium shipment was mishandled.\n- The [[Ashen Shadow Society]] offers a bounty for recovering an intact Delerium geode and identifying whoever caused the contamination.\n- A researcher claims that one of the Dregs is still lucid and may know how to stop the transformation from spreading.\n- A small group of Dregs has escaped into an industrial district, where their presence is drawing more contaminated creatures toward the city.\n\n## Suggested Locations\n\n### The Shattered Storehouse\n\nA warehouse near the [[Industrial Zone]] contains broken crates, glowing crystal fragments, and signs of a hurried evacuation. The characters can find the shipment records here, but disturbing the debris risks releasing a burst of unstable magical energy.\n\n### The Processing Floor\n\nThe facility's machines are still running without supervision. Delerium dust hangs in the air, broken conduits spark across the floor, and several transformed workers hide among the machinery. The characters must navigate the hazards while determining which victims are still alive.\n\n### The Gathering Place\n\nThe surviving Dregs have begun congregating in a nearby abandoned structure. Their numbers grow as more contaminated creatures follow the sounds and magical resonance. The group is not organized, but one unusually lucid Dreg may be able to direct the others for short periods.\n\n## Important Questions for the DM\n\n- Who authorized the shipment of raw Delerium into Stickyickistan?\n- Was the contamination an accident, sabotage, or an experiment?\n- Can any victim be stabilized, or is transformation permanent?\n- Who benefits if the outbreak becomes public?\n- What will happen to the surviving Dregs after the adventure?\n\n## Tone and Themes\n\nThis adventure should combine body horror with moments of tragic recognition. The Dregs are dangerous monsters, but they are also victims of a magical disaster. Give the characters opportunities to notice traces of the people these creatures used to be without making every encounter solvable through conversation.\n\nThe central choice is not simply whether the characters can defeat the Dregs. It is what they are willing to do with the knowledge that defeating them may mean killing people who cannot be saved."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\"content\":\"# Dregs of Stickyickistan\\n\\n## Adventure Premise\\n\\nA contaminated shipment of [[Delerium]] has reached [[Stickyickistan]] from the ruins of [[Drakkenheim]]. The crystals were meant to be processed through the city's magitech industry, but several workers exposed to the raw mineral have transformed into violent, malformed creatures known as [[Delerium Dregs]]. The characters are hired to investigate the outbreak, rescue anyone still alive, and prevent the contaminated material from entering the wider city.\\n\\nThe incident is more complicated than a simple monster hunt. The Dregs were once people, and some retain broken fragments of their former identities. A transformed worker may recognize a friend, repeat a familiar phrase, or briefly plead for help before the contamination overwhelms them again. The characters must decide whether to destroy the creatures, attempt to contain them, or risk searching for a way to stabilize the victims.\\n\\n## Delerium in Stickyickistan\\n\\n[[Delerium]] is a magical mineral left behind by the meteor that destroyed Drakkenheim. It appears as translucent, sharp-edged crystals that reflect strange colors, hum softly, and glow when exposed to magic. It is the chaotic counterpart to [[Arcanite]], producing more magical energy but proving much less stable and much more dangerous.\\n\\nSmall amounts of Delerium can be found in the wider world, including traces in the asteroid belt beyond [[Mythmos]]. In Stickyickistan, the mineral is valuable to magitech engineers, alchemists, smugglers, and researchers. Raw Delerium can be used as a powerful spell component or magical fuel, but prolonged contact risks necrotic injury and [[Contamination]].\\n\\nFor this adventure, treat the contaminated shipment as raw, unstable Delerium. Characters who handle it without protection may suffer a minor injury and gain a level of Contamination. The mineral should feel valuable enough to tempt people, but dangerous enough that a careless salvage operation can create another outbreak.\\n\\n## Delerium Dregs\\n\\nDelerium Dregs are humanoids transformed by severe eldritch contamination. Their bodies have been reshaped into unpredictable combinations of swollen flesh, twisted limbs, exposed bone, spines, and malformed features. No two Dregs need look alike.\\n\\nMost Dregs are driven by fractured memories and violent impulses. They do not need to eat or drink, although they still need to breathe. Their attacks are caused by madness, fear, territorial instinct, or bursts of confused aggression rather than hunger. They may gather together as they wander, forming increasingly dangerous mobs if left unchecked.\\n\\nUse the [[Delerium Dregs]] stat block for the main creatures in this adventure. For variety, alter their appearance and behavior without changing their statistics. A Dreg near a flooded processing plant might be bloated and dripping with contaminated water. One exposed to intense magical energy might glow from within. A former guard could still attempt to follow old patrol routes, while a former musician hums a familiar tune between attacks.\\n\\n## Adventure Hooks\\n\\n- A worker's family asks the characters to search a sealed processing facility after the worker fails to return home.\\n- A [[Magitech]] manufacturer wants the outbreak contained quietly before the city learns that its Delerium shipment was mishandled.\\n- The [[Ashen Shadow Society]] offers a bounty for recovering an intact Delerium geode and identifying whoever caused the contamination.\\n- A researcher claims that one of the Dregs is still lucid and may know how to stop the transformation from spreading.\\n- A small group of Dregs has escaped into an industrial district, where their presence is drawing more contaminated creatures toward the city.\\n\\n## Suggested Locations\\n\\n### The Shattered Storehouse\\n\\nA warehouse near the [[Industrial Zone]] contains broken crates, glowing crystal fragments, and signs of a hurried evacuation. The characters can find the shipment records here, but disturbing the debris risks releasing a burst of unstable magical energy.\\n\\n### The Processing Floor\\n\\nThe facility's machines are still running without supervision. Delerium dust hangs in the air, broken conduits spark across the floor, and several transformed workers hide among the machinery. The characters must navigate the hazards while determining which victims are still alive.\\n\\n### The Gathering Place\\n\\nThe surviving Dregs have begun congregating in a nearby abandoned structure. Their numbers grow as more contaminated creatures follow the sounds and magical resonance. The group is not organized, but one unusually lucid Dreg may be able to direct the others for short periods.\\n\\n## Important Questions for the DM\\n\\n- Who authorized the shipment of raw Delerium into Stickyickistan?\\n- Was the contamination an accident, sabotage, or an experiment?\\n- Can any victim be stabilized, or is transformation permanent?\\n- Who benefits if the outbreak becomes public?\\n- What will happen to the surviving Dregs after the adventure?\\n\\n## Tone and Themes\\n\\nThis adventure should combine body horror with moments of tragic recognition. The Dregs are dangerous monsters, but they are also victims of a magical disaster. Give the characters opportunities to notice traces of the people these creatures used to be without making every encounter solvable through conversation.\\n\\nThe central choice is not simply whether the characters can defeat the Dregs. It is what they are willing to do with the knowledge that defeating them may mean killing people who cannot be saved.\"}"
+          }
+        }
+      ],
+      "id": "e9a9e6e8-6594-49cb-bd31-0cf3621c50ee",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 53687,
+          "completion_tokens": 1289,
+          "total_tokens": 54976
+        },
+        "durationMs": 25110,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna",
+        "sources": [
+          {
+            "path": "content/Beastiary/Delerium Dregs.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "[![](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)](https://media.dndbeyond.com/compendium-images/modr/i21BweaGcBC4zPih/02-01.delerium-dreg-splash.jpg)...",
+            "source": "keyword",
+            "ordinal": 1
+          },
+          {
+            "path": "content/Misc/Delerium.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "Delerium is a magical mineral left behind by the meteor that landed in Drakkenheim. It is the antithesis of [[Arcanite]]. It app...",
+            "source": "keyword",
+            "ordinal": 2
+          },
+          {
+            "path": "content/Free League of Stickyickistan/FLS & Drakkenheim.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "# FLS & Drakkenheim The world of **[[Drakkenheim]]** has been semi-incorporated into the greater Stickyickistanian world of [[Mythmos]]. I...",
+            "source": "keyword",
+            "ordinal": 3
+          },
+          {
+            "path": "content/Factions/Followers of the Falling Fire.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "The annihilation of [[Drakkenheim]] incited a serious religious schism within [[The Faith of the Sacred Flame]]. A new sect has emerged known as the Foll...",
+            "source": "keyword",
+            "ordinal": 4
+          },
+          {
+            "path": "content/Arcannabis/Arcannabis System Rework.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...cannabis is going to borrow heavily from the cooking section of Heliana’s Guide to Monster Hunting, and a little from [[Drakkenheim]].** # Landrace Strains There are 4 landraces of [[Arcannabis]] to represent the 4 different rarity levels. Each land...",
+            "source": "keyword",
+            "ordinal": 5
+          },
+          {
+            "path": "content/History/Amethyst Blight.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...osmic cataclysm that destroyed the historical city of [[Spliffholm]], giving birth to the [[Ruins of Spliffholm]] aka [[Drakkenheim]]. It was given this name due to [[Delerium]] looking very similar to amethyst. --- *Spliffholm is no more. The once-...",
+            "source": "keyword",
+            "ordinal": 6
+          },
+          {
+            "path": "content/Regions/Mythmos/Drakkenheim.md",
+            "startLine": 3,
+            "endLine": 3,
+            "snippet": "...Spliffholm]] is a historical city that was destroyed in a cosmic cataclysm called the [[Amethyst Blight]]. ![[map-0.01-drakkenheim-player.jpg]] --- *Spliffholm is no more. The once-proud city of magical innovation is now a desolate urban wasteland,...",
+            "source": "keyword",
+            "ordinal": 7
+          },
+          {
+            "path": "content/Factions/Knights of the Silver Order.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...ormally travel the realms in small bands and companies, and adhere to [[The Faith of the Sacred Flame]]. They believe [[Delerium]] is a contaminating blight borne of the darkest chaos, and have resolved to annihilate the corrupted crystals, slay ev...",
+            "source": "keyword",
+            "ordinal": 8
+          },
+          {
+            "path": "content/Mythmos.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...tside the mythic atmosphere of Mythmos are mining expeditions for rare cosmic elements. Trace amounts of Arcanite and [[Delerium]] can be found in the solar system's asteroid belt. Sages from across the realms have put forth differing theories to e...",
+            "source": "keyword",
+            "ordinal": 9
+          },
+          {
+            "path": "content/Factions/Amethyst Academy.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...: the Inscrutable Tower. Archwizard Eldrick Runeweaver leads the Academy’s efforts to access the tower in what is now [[Drakkenheim]], and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding [[Delerium]]’...",
+            "source": "keyword",
+            "ordinal": 10
+          },
+          {
+            "path": "content/index.md",
+            "startLine": 12,
+            "endLine": 12,
+            "snippet": "...blished settings, including the [[Forgotten Realms]], [[Eberron]], [[Ravnica]], [[Dragonlance]], [[Spelljammer]], and [[Drakkenheim]]. I am also heavily using the book [[Heliana's Guide to Monster Hunting]] which adds systems for tracking, harvesting...",
+            "source": "keyword",
+            "ordinal": 11
+          },
+          {
+            "path": "content/Misc/Conditions of Drakkenheim.md",
+            "startLine": 64,
+            "endLine": 64,
+            "snippet": "...s://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage). ### Distracted You can’t take Reactions. ### Drakkenheim Madness A character with Drakkenheim Madness gains one of the following traits: [![](https://media.dndbeyond.com/comp...",
+            "source": "keyword",
+            "ordinal": 12
+          },
+          {
+            "path": "content/House League/Free League of Drakkenheim.md",
+            "startLine": 3,
+            "endLine": 3,
+            "snippet": "![[flod.png]] _[Free League of Drakkenheim](https://www.dndbeyond.com/campaigns/join/70974482140917586)_ is set in a gothic renaissance ruined city. **DRAKKENHEI...",
+            "source": "keyword",
+            "ordinal": 13
+          },
+          {
+            "path": "content/Factions/Hooded Lanterns.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "Formally known as the 4th Provisional Expeditionary Force to Reclaim [[Drakkenheim]], the Hooded Lanterns are an irregular military drawn up from veterans of the Colonial War and remnants of the old [[S...",
+            "source": "keyword",
+            "ordinal": 14
+          },
+          {
+            "path": "content/Misc/Magitech.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...mechanical ingenuity that has propelled the city-state into a new era of power and excess. Fueled by [[Arcanite]] and [[Delerium]], the rare magical ore harvested from [[Mount Zooka]], Magitech ranges from simple enchanted tools to experimental war...",
+            "source": "keyword",
+            "ordinal": 15
+          },
+          {
+            "path": "content/Factions/Queen's Men.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...se reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the...",
+            "source": "keyword",
+            "ordinal": 16
+          },
+          {
+            "path": "content/Free League of Stickyickistan/Free League of Stickyickistan.md",
+            "startLine": 14,
+            "endLine": 14,
+            "snippet": "...ED! Dungeon Masters]] - [[DMs Aid]] - [[The Rolling Papers]] - [[The Roach Clip]] - [[FLS & The Loot Tavern]] - [[FLS & Drakkenheim]] Any text with a ~~strikethrough~~ is null. View the [wiki commit log](https://github.com/ChaseMilligan/Wikiyickista...",
+            "source": "keyword",
+            "ordinal": 17
+          },
+          {
+            "path": "content/Regions/Mythmos/Westemär.md",
+            "startLine": 5,
+            "endLine": 5,
+            "snippet": "...ished, but materialistic and prideful, in contrast to the hard-working and pragmatic common folk. #### A Broken Realm Drakkenheim was the capital of Westemär and home to the ruling family, **House von Kessel**. After the meteor fell, the two survivi...",
+            "source": "keyword",
+            "ordinal": 18
+          },
+          {
+            "path": "content/Misc/Arcanite.md",
+            "startLine": 6,
+            "endLine": 6,
+            "snippet": "...--------- | ------------ | ----------- | --- | --- | --------------- | | [Chip](https://www.dndbeyond.com/equipment/730-delerium-chip) | 65 gold | 1/4 lbs | 15 | 5 | 1 action | | [Fragment](https://www.dndbe...",
+            "source": "keyword",
+            "ordinal": 19
+          },
+          {
+            "path": "content/House League/A League of Our Own.md",
+            "startLine": 20,
+            "endLine": 20,
+            "snippet": "...er adventures that also use that source. - The same goes for official AL campaign settings or third-party worlds like **Drakkenheim**, **Grim Hollow**, or **Humblewood**. - All official AL item and species bans apply Each DM has the right to restrict...",
+            "source": "keyword",
+            "ordinal": 20
+          },
+          {
+            "path": "content/Free League of Stickyickistan/FLS & Drakkenheim.md",
+            "startLine": 5,
+            "endLine": 5,
+            "snippet": "...heim is treated as a connected but distinct region of the wider world rather than a fully separate setting. Rumors of [[Delerium]], contaminated ruins, rival factions, holy crusaders, mageborn politics, and doomed expeditions may travel far beyond...",
+            "source": "keyword",
+            "ordinal": 21
+          },
+          {
+            "path": "content/Regions/Mythmos/Drakkenheim.md",
+            "startLine": 13,
+            "endLine": 13,
+            "snippet": "..., and undead wretches created by the otherworldly forces which have taken root in the ruins.* --- # Quick Facts ## [[Delerium]] Delerium crystals are found throughout the ruined streets of Drakkenheim, jutting forth from piles of rubble, spread...",
+            "source": "keyword",
+            "ordinal": 22
+          },
+          {
+            "path": "content/index.md",
+            "startLine": 20,
+            "endLine": 20,
+            "snippet": "...tside the mythic atmosphere of Mythmos are mining expeditions for rare cosmic elements. Trace amounts of Arcanite and [[Delerium]] can be found in the solar system's asteroid belt. Sages from across the realms have put forth differing theories to e...",
+            "source": "keyword",
+            "ordinal": 23
+          },
+          {
+            "path": "content/Misc/Conditions of Drakkenheim.md",
+            "startLine": 91,
+            "endLine": 91,
+            "snippet": "...X) You’re partially encased in ice: - You’re **[Immobilized](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium-and-new-conditions#Immobilized)** and **[Defenseless](https://www.dndbeyond.com/sources/dnd/modr/contamination-delerium...",
+            "source": "keyword",
+            "ordinal": 24
+          },
+          {
+            "path": "content/Arcannabis/Arcannabis System Rework.md",
+            "startLine": 199,
+            "endLine": 199,
+            "snippet": "...ion.*** Characters in the world of Drakkenheim may be exposed to eldritch pollutants or arcane radiation emitted by [^3]delerium. These hazards cause a new condition called Contamination, which causes otherworldly Mutations that have both detriment...",
+            "source": "keyword",
+            "ordinal": 25
+          }
+        ]
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_NbULx2Z9BL7rNs2e1qtCp1Fn",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/Dregs of Stickyickistan.md",
+                "content": "# Dregs of Stickyickistan\n\n## Adventure Premise\n\nA contaminated shipment of [[Delerium]] has reached [[Stickyickistan]] from the ruins of [[Drakkenheim]]. The crystals were meant to be processed through the city's magitech industry, but several workers exposed to the raw mineral have transformed into violent, malformed creatures known as [[Delerium Dregs]]. The characters are hired to investigate the outbreak, rescue anyone still alive, and prevent the contaminated material from entering the wider city.\n\nThe incident is more complicated than a simple monster hunt. The Dregs were once people, and some retain broken fragments of their former identities. A transformed worker may recognize a friend, repeat a familiar phrase, or briefly plead for help before the contamination overwhelms them again. The characters must decide whether to destroy the creatures, attempt to contain them, or risk searching for a way to stabilize the victims.\n\n## Delerium in Stickyickistan\n\n[[Delerium]] is a magical mineral left behind by the meteor that destroyed Drakkenheim. It appears as translucent, sharp-edged crystals that reflect strange colors, hum softly, and glow when exposed to magic. It is the chaotic counterpart to [[Arcanite]], producing more magical energy but proving much less stable and much more dangerous.\n\nSmall amounts of Delerium can be found in the wider world, including traces in the asteroid belt beyond [[Mythmos]]. In Stickyickistan, the mineral is valuable to magitech engineers, alchemists, smugglers, and researchers. Raw Delerium can be used as a powerful spell component or magical fuel, but prolonged contact risks necrotic injury and [[Contamination]].\n\nFor this adventure, treat the contaminated shipment as raw, unstable Delerium. Characters who handle it without protection may suffer a minor injury and gain a level of Contamination. The mineral should feel valuable enough to tempt people, but dangerous enough that a careless salvage operation can create another outbreak.\n\n## Delerium Dregs\n\nDelerium Dregs are humanoids transformed by severe eldritch contamination. Their bodies have been reshaped into unpredictable combinations of swollen flesh, twisted limbs, exposed bone, spines, and malformed features. No two Dregs need look alike.\n\nMost Dregs are driven by fractured memories and violent impulses. They do not need to eat or drink, although they still need to breathe. Their attacks are caused by madness, fear, territorial instinct, or bursts of confused aggression rather than hunger. They may gather together as they wander, forming increasingly dangerous mobs if left unchecked.\n\nUse the [[Delerium Dregs]] stat block for the main creatures in this adventure. For variety, alter their appearance and behavior without changing their statistics. A Dreg near a flooded processing plant might be bloated and dripping with contaminated water. One exposed to intense magical energy might glow from within. A former guard could still attempt to follow old patrol routes, while a former musician hums a familiar tune between attacks.\n\n## Adventure Hooks\n\n- A worker's family asks the characters to search a sealed processing facility after the worker fails to return home.\n- A [[Magitech]] manufacturer wants the outbreak contained quietly before the city learns that its Delerium shipment was mishandled.\n- The [[Ashen Shadow Society]] offers a bounty for recovering an intact Delerium geode and identifying whoever caused the contamination.\n- A researcher claims that one of the Dregs is still lucid and may know how to stop the transformation from spreading.\n- A small group of Dregs has escaped into an industrial district, where their presence is drawing more contaminated creatures toward the city.\n\n## Suggested Locations\n\n### The Shattered Storehouse\n\nA warehouse near the [[Industrial Zone]] contains broken crates, glowing crystal fragments, and signs of a hurried evacuation. The characters can find the shipment records here, but disturbing the debris risks releasing a burst of unstable magical energy.\n\n### The Processing Floor\n\nThe facility's machines are still running without supervision. Delerium dust hangs in the air, broken conduits spark across the floor, and several transformed workers hide among the machinery. The characters must navigate the hazards while determining which victims are still alive.\n\n### The Gathering Place\n\nThe surviving Dregs have begun congregating in a nearby abandoned structure. Their numbers grow as more contaminated creatures follow the sounds and magical resonance. The group is not organized, but one unusually lucid Dreg may be able to direct the others for short periods.\n\n## Important Questions for the DM\n\n- Who authorized the shipment of raw Delerium into Stickyickistan?\n- Was the contamination an accident, sabotage, or an experiment?\n- Can any victim be stabilized, or is transformation permanent?\n- Who benefits if the outbreak becomes public?\n- What will happen to the surviving Dregs after the adventure?\n\n## Tone and Themes\n\nThis adventure should combine body horror with moments of tragic recognition. The Dregs are dangerous monsters, but they are also victims of a magical disaster. Give the characters opportunities to notice traces of the people these creatures used to be without making every encounter solvable through conversation.\n\nThe central choice is not simply whether the characters can defeat the Dregs. It is what they are willing to do with the knowledge that defeating them may mean killing people who cannot be saved."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\"content\":\"# Dregs of Stickyickistan\\n\\n## Adventure Premise\\n\\nA contaminated shipment of [[Delerium]] has reached [[Stickyickistan]] from the ruins of [[Drakkenheim]]. The crystals were meant to be processed through the city's magitech industry, but several workers exposed to the raw mineral have transformed into violent, malformed creatures known as [[Delerium Dregs]]. The characters are hired to investigate the outbreak, rescue anyone still alive, and prevent the contaminated material from entering the wider city.\\n\\nThe incident is more complicated than a simple monster hunt. The Dregs were once people, and some retain broken fragments of their former identities. A transformed worker may recognize a friend, repeat a familiar phrase, or briefly plead for help before the contamination overwhelms them again. The characters must decide whether to destroy the creatures, attempt to contain them, or risk searching for a way to stabilize the victims.\\n\\n## Delerium in Stickyickistan\\n\\n[[Delerium]] is a magical mineral left behind by the meteor that destroyed Drakkenheim. It appears as translucent, sharp-edged crystals that reflect strange colors, hum softly, and glow when exposed to magic. It is the chaotic counterpart to [[Arcanite]], producing more magical energy but proving much less stable and much more dangerous.\\n\\nSmall amounts of Delerium can be found in the wider world, including traces in the asteroid belt beyond [[Mythmos]]. In Stickyickistan, the mineral is valuable to magitech engineers, alchemists, smugglers, and researchers. Raw Delerium can be used as a powerful spell component or magical fuel, but prolonged contact risks necrotic injury and [[Contamination]].\\n\\nFor this adventure, treat the contaminated shipment as raw, unstable Delerium. Characters who handle it without protection may suffer a minor injury and gain a level of Contamination. The mineral should feel valuable enough to tempt people, but dangerous enough that a careless salvage operation can create another outbreak.\\n\\n## Delerium Dregs\\n\\nDelerium Dregs are humanoids transformed by severe eldritch contamination. Their bodies have been reshaped into unpredictable combinations of swollen flesh, twisted limbs, exposed bone, spines, and malformed features. No two Dregs need look alike.\\n\\nMost Dregs are driven by fractured memories and violent impulses. They do not need to eat or drink, although they still need to breathe. Their attacks are caused by madness, fear, territorial instinct, or bursts of confused aggression rather than hunger. They may gather together as they wander, forming increasingly dangerous mobs if left unchecked.\\n\\nUse the [[Delerium Dregs]] stat block for the main creatures in this adventure. For variety, alter their appearance and behavior without changing their statistics. A Dreg near a flooded processing plant might be bloated and dripping with contaminated water. One exposed to intense magical energy might glow from within. A former guard could still attempt to follow old patrol routes, while a former musician hums a familiar tune between attacks.\\n\\n## Adventure Hooks\\n\\n- A worker's family asks the characters to search a sealed processing facility after the worker fails to return home.\\n- A [[Magitech]] manufacturer wants the outbreak contained quietly before the city learns that its Delerium shipment was mishandled.\\n- The [[Ashen Shadow Society]] offers a bounty for recovering an intact Delerium geode and identifying whoever caused the contamination.\\n- A researcher claims that one of the Dregs is still lucid and may know how to stop the transformation from spreading.\\n- A small group of Dregs has escaped into an industrial district, where their presence is drawing more contaminated creatures toward the city.\\n\\n## Suggested Locations\\n\\n### The Shattered Storehouse\\n\\nA warehouse near the [[Industrial Zone]] contains broken crates, glowing crystal fragments, and signs of a hurried evacuation. The characters can find the shipment records here, but disturbing the debris risks releasing a burst of unstable magical energy.\\n\\n### The Processing Floor\\n\\nThe facility's machines are still running without supervision. Delerium dust hangs in the air, broken conduits spark across the floor, and several transformed workers hide among the machinery. The characters must navigate the hazards while determining which victims are still alive.\\n\\n### The Gathering Place\\n\\nThe surviving Dregs have begun congregating in a nearby abandoned structure. Their numbers grow as more contaminated creatures follow the sounds and magical resonance. The group is not organized, but one unusually lucid Dreg may be able to direct the others for short periods.\\n\\n## Important Questions for the DM\\n\\n- Who authorized the shipment of raw Delerium into Stickyickistan?\\n- Was the contamination an accident, sabotage, or an experiment?\\n- Can any victim be stabilized, or is transformation permanent?\\n- Who benefits if the outbreak becomes public?\\n- What will happen to the surviving Dregs after the adventure?\\n\\n## Tone and Themes\\n\\nThis adventure should combine body horror with moments of tragic recognition. The Dregs are dangerous monsters, but they are also victims of a magical disaster. Give the characters opportunities to notice traces of the people these creatures used to be without making every encounter solvable through conversation.\\n\\nThe central choice is not simply whether the characters can defeat the Dregs. It is what they are willing to do with the knowledge that defeating them may mean killing people who cannot be saved.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/Dregs of Stickyickistan.md",
+                      "addedLines": 59,
+                      "removedLines": 2,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "8f2e877e-01a1-41a9-b414-0f3240078a1f"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 59,
+                  "totalRemovedLines": 2,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1790874450436
+              }
+            }
+          }
+        }
+      ],
+      "id": "8f2e877e-01a1-41a9-b414-0f3240078a1f",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_SDmqUbPPGXzZQXcTuBGMsF5D",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+              ],
+              "startLine": 1,
+              "endLine": 10
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\"],\"startLine\":1,\"endLine\":10}"
+          }
+        }
+      ],
+      "id": "34073d0f-194f-44f7-901a-162c4a21d7a6",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 54925,
+          "completion_tokens": 139,
+          "total_tokens": 55064,
+          "cache_read_input_tokens": 52736
+        },
+        "durationMs": 4501,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_SDmqUbPPGXzZQXcTuBGMsF5D",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+                ],
+                "startLine": 1,
+                "endLine": 10
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\"],\"startLine\":1,\"endLine\":10}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_SDmqUbPPGXzZQXcTuBGMsF5D\",\n  \"requestedOperation\": {\n    \"type\": \"lines\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\n      \"ok\": true,\n      \"totalLines\": 59,\n      \"returnedRange\": {\n        \"startLine\": 1,\n        \"endLine\": 10\n      },\n      \"hasMoreBelow\": true,\n      \"nextStartLine\": 11,\n      \"content\": \"1|# Dregs of Stickyickistan\\n2|\\n3|## Adventure Premise\\n4|\\n5|A contaminated shipment of [[Delerium]] has reached [[Stickyickistan]] from the ruins of [[Drakkenheim]]. The crystals were meant to be processed through the city's magitech industry, but several workers exposed to the raw mineral have transformed into violent, malformed creatures known as [[Delerium Dregs]]. The characters are hired to investigate the outbreak, rescue anyone still alive, and prevent the contaminated material from entering the wider city.\\n6|\\n7|The incident is more complicated than a simple monster hunt. The Dregs were once people, and some retain broken fragments of their former identities. A transformed worker may recognize a friend, repeat a familiar phrase, or briefly plead for help before the contamination overwhelms them again. The characters must decide whether to destroy the creatures, attempt to contain them, or risk searching for a way to stabilize the victims.\\n8|\\n9|## Delerium in Stickyickistan\\n10|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Delerium\",\n          \"path\": \"content/Misc/Delerium.md\"\n        },\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Drakkenheim\",\n          \"path\": \"content/Regions/Mythmos/Drakkenheim.md\"\n        },\n        {\n          \"link\": \"Delerium Dregs\",\n          \"path\": \"content/Beastiary/Delerium Dregs.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "lines",
+                  "startLine": 1,
+                  "endLine": 10,
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "7a2f6f95-0159-42d0-b5ab-e8d2d1c29bac",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Added starter content to `Dregs of Stickyickistan.md`, including:\n\n- Adventure premise and outbreak setup\n- Delerium’s properties and dangers\n- Delerium Dreg lore and behavior\n- Adventure hooks\n- Suggested locations\n- Questions for developing the mystery\n- Tone and themes focused on body horror, tragedy, and difficult choices",
+      "id": "0d451365-66f0-40f6-84dc-aa80068b773a",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 55458,
+          "completion_tokens": 129,
+          "total_tokens": 55587,
+          "cache_read_input_tokens": 52736
+        },
+        "durationMs": 4274,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "for ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Dregs of Stickyickistan.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Dregs of Stickyickistan.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "  I don't want it to be and adventure just an explanation(s) for how delerium dregs got to Stickyickistan, and why they keep appearing. I think it makes the most sense for Delerium to be used as a highly addictive and destructive drug like crack in real life, or Shimmer from Arcane in Zaun.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "cf30cece"
+      },
+      "id": "c41de128-41a7-44cf-9442-8ddce85d1252",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "auto",
+      "timeContext": "2026-10-01 11:09 (Thursday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_GNHINGNJz9JwmQzae7GM84aj",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\"]}"
+          }
+        }
+      ],
+      "id": "25ad5fc2-a1be-4aca-941e-74b4ff41f444",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 55779,
+          "completion_tokens": 64,
+          "total_tokens": 55843
+        },
+        "durationMs": 3754,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_GNHINGNJz9JwmQzae7GM84aj",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventures/DM Notes/Dregs of Stickyickistan.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_GNHINGNJz9JwmQzae7GM84aj\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\n      \"ok\": true,\n      \"totalLines\": 57,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|## Adventure Premise\\n2|\\n3|A contaminated shipment of [[Delerium]] has reached [[Stickyickistan]] from the ruins of [[Drakkenheim]]. The crystals were meant to be processed through the city's magitech industry, but several workers exposed to the raw mineral have transformed into violent, malformed creatures known as [[Delerium Dregs]]. The characters are hired to investigate the outbreak, rescue anyone still alive, and prevent the contaminated material from entering the wider city.\\n4|\\n5|The incident is more complicated than a simple monster hunt. The Dregs were once people, and some retain broken fragments of their former identities. A transformed worker may recognize a friend, repeat a familiar phrase, or briefly plead for help before the contamination overwhelms For @them again. The characters must decide whether to destroy the creatures, attempt to contain them, or risk searching for a way to stabilize the victims.\\n6|\\n7|## Delerium in Stickyickistan\\n8|\\n9|[[Delerium]] is a magical mineral left behind by the meteor that destroyed Drakkenheim. It appears as translucent, sharp-edged crystals that reflect strange colors, hum softly, and glow when exposed to magic. It is the chaotic counterpart to [[Arcanite]], producing more magical energy but proving much less stable and much more dangerous.\\n10|\\n11|Small amounts of Delerium can be found in the wider world, including traces in the asteroid belt beyond [[Mythmos]]. In Stickyickistan, the mineral is valuable to magitech engineers, alchemists, smugglers, and researchers. Raw Delerium can be used as a powerful spell component or magical fuel, but prolonged contact risks necrotic injury and [[Contamination]].\\n12|\\n13|For this adventure, treat the contaminated shipment as raw, unstable Delerium. Characters who handle it without protection may suffer a minor injury and gain a level of Contamination. The mineral should feel valuable enough to tempt people, but dangerous enough that a careless salvage operation can create another outbreak.\\n14|\\n15|## Delerium Dregs\\n16|\\n17|Delerium Dregs are humanoids transformed by severe eldritch contamination. Their bodies have been reshaped into unpredictable combinations of swollen flesh, twisted limbs, exposed bone, spines, and malformed features. No two Dregs need look alike.\\n18|\\n19|Most Dregs are driven by fractured memories and violent impulses. They do not need to eat or drink, although they still need to breathe. Their attacks are caused by madness, fear, territorial instinct, or bursts of confused aggression rather than hunger. They may gather together as they wander, forming increasingly dangerous mobs if left unchecked.\\n20|\\n21|Use the [[Delerium Dregs]] stat block for the main creatures in this adventure. For variety, alter their appearance and behavior without changing their statistics. A Dreg near a flooded processing plant might be bloated and dripping with contaminated water. One exposed to intense magical energy might glow from within. A former guard could still attempt to follow old patrol routes, while a former musician hums a familiar tune between attacks.\\n22|\\n23|## Adventure Hooks\\n24|\\n25|- A worker's family asks the characters to search a sealed processing facility after the worker fails to return home.\\n26|- A [[Magitech]] manufacturer wants the outbreak contained quietly before the city learns that its Delerium shipment was mishandled.\\n27|- The [[Ashen Shadow Society]] offers a bounty for recovering an intact Delerium geode and identifying whoever caused the contamination.\\n28|- A researcher claims that one of the Dregs is still lucid and may know how to stop the transformation from spreading.\\n29|- A small group of Dregs has escaped into an industrial district, where their presence is drawing more contaminated creatures toward the city.\\n30|\\n31|## Suggested Locations\\n32|\\n33|### The Shattered Storehouse\\n34|\\n35|A warehouse near the [[Industrial Zone]] contains broken crates, glowing crystal fragments, and signs of a hurried evacuation. The characters can find the shipment records here, but disturbing the debris risks releasing a burst of unstable magical energy.\\n36|\\n37|### The Processing Floor\\n38|\\n39|The facility's machines are still running without supervision. Delerium dust hangs in the air, broken conduits spark across the floor, and several transformed workers hide among the machinery. The characters must navigate the hazards while determining which victims are still alive.\\n40|\\n41|### The Gathering Place\\n42|\\n43|The surviving Dregs have begun congregating in a nearby abandoned structure. Their numbers grow as more contaminated creatures follow the sounds and magical resonance. The group is not organized, but one unusually lucid Dreg may be able to direct the others for short periods.\\n44|\\n45|## Important Questions for the DM\\n46|\\n47|- Who authorized the shipment of raw Delerium into Stickyickistan?\\n48|- Was the contamination an accident, sabotage, or an experiment?\\n49|- Can any victim be stabilized, or is transformation permanent?\\n50|- Who benefits if the outbreak becomes public?\\n51|- What will happen to the surviving Dregs after the adventure?\\n52|\\n53|## Tone and Themes\\n54|\\n55|This adventure should combine body horror with moments of tragic recognition. The Dregs are dangerous monsters, but they are also victims of a magical disaster. Give the characters opportunities to notice traces of the people these creatures used to be without making every encounter solvable through conversation.\\n56|\\n57|The central choice is not simply whether the characters can defeat the Dregs. It is what they are willing to do with the knowledge that defeating them may mean killing people who cannot be saved.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Delerium\",\n          \"path\": \"content/Misc/Delerium.md\"\n        },\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Drakkenheim\",\n          \"path\": \"content/Regions/Mythmos/Drakkenheim.md\"\n        },\n        {\n          \"link\": \"Delerium Dregs\",\n          \"path\": \"content/Beastiary/Delerium Dregs.md\"\n        },\n        {\n          \"link\": \"Arcanite\",\n          \"path\": \"content/Misc/Arcanite.md\"\n        },\n        {\n          \"link\": \"Mythmos\",\n          \"path\": \"content/Mythmos.md\"\n        },\n        {\n          \"link\": \"Magitech\",\n          \"path\": \"content/Misc/Magitech.md\"\n        },\n        {\n          \"link\": \"Ashen Shadow Society\",\n          \"path\": \"content/Factions/Ashen Shadow Society/Ashen Shadow Society.md\"\n        },\n        {\n          \"link\": \"Industrial Zone\",\n          \"path\": \"content/Regions/City of Stickyickistan/Industrial Zone.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "14db446a-ea5c-41cc-970a-3dc5ea518370",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_bd150XtjXM2O5V9zFPVywpRP",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventures/DM Notes/Dregs of Stickyickistan.md",
+              "content": "# Dregs of Stickyickistan\n\n## The Delerium Trade\n\n[[Delerium]] reached [[Stickyickistan]] through salvage crews, smugglers, researchers, and [[Magitech]] manufacturers importing material from the ruins of [[Drakkenheim]]. At first, the crystals were treated as an expensive but dangerous magical resource. That changed when alchemists discovered that raw Delerium could be processed into an intensely euphoric inhalant, commonly called **Dreg** or **Delerium Dust**.\n\nDelerium Dust is not a normal narcotic. It is a powdered form of unstable crystal mixed with alchemical solvents and magical reagents. When inhaled, it floods the user with energy, confidence, vivid sensory distortions, and a temporary feeling of magical potential. The high is powerful but short-lived, encouraging repeated use. Users often describe the first experience as feeling like their body has become stronger, brighter, and more important than it really is.\n\nThe drug is cheap to produce from low-quality Delerium, easy to conceal, and highly profitable. It first spread through the [[Industrial Zone]], where exhausted workers and desperate laborers used it to stay awake during long shifts. From there, it moved through clubs, gambling dens, criminal networks, and wealthy circles looking for a more dangerous thrill.\n\n## Why Delerium Creates Dregs\n\nRaw Delerium is chaotic and contaminating. Processing it into a drug does not make it safe. It only changes how the contamination enters the body. Each dose exposes the user to a small amount of eldritch energy, and repeated use allows that energy to accumulate.\n\nThe early effects are easy to mistake for ordinary drug abuse: sleeplessness, agitation, emotional volatility, paranoia, and a growing need for larger doses. Over time, the user develops physical changes. Their eyes may reflect octarine light, their skin may become cold or translucent, and strange growths may appear beneath the flesh. Some users develop compulsive movements, distorted voices, or an inability to recognize their own reflection.\n\nEventually, the contamination reaches a point where the body and mind can no longer contain it. The user undergoes a violent transformation into a [[Delerium Dregs]]. The resulting creature retains fragments of its former identity, but its memories, emotions, and instincts have been warped by the contamination. The transformation is unpredictable. Some Dregs become swollen and powerful, while others develop extra limbs, exposed bone, luminous organs, or fluid bodies suited to the environment where they changed.\n\nDelerium Dregs are not created only by drug use. Direct contact with raw Delerium, exposure to Delerium Dust during its manufacture, and magical accidents can also cause enough contamination to trigger a transformation. The drug trade is simply the most common reason Dregs keep appearing in populated areas.\n\n## Why Dregs Keep Appearing\n\nDregs continue to appear in Stickyickistan because the supply chain has never been completely stopped. Delerium Dust is produced in hidden workshops using contaminated crystals smuggled out of [[Drakkenheim]], along with unstable material recovered from mines and industrial waste sites around [[Mount Zooka]]. Every time one workshop is shut down, another supplier takes its place.\n\nSeveral factors keep the problem alive:\n\n- **Profit:** Delerium Dust sells for far more than the raw material costs to produce it.\n- **Addiction:** Users return to the drug despite the physical and psychological damage, often committing crimes or selling possessions to obtain more.\n- **Magitech demand:** Manufacturers and researchers buy Delerium for legitimate purposes, creating legal routes that smugglers can exploit.\n- **Contaminated waste:** Failed batches, crystal shavings, and used alchemical equipment are dumped into sewers, scrapyards, and industrial refuse sites.\n- **Criminal protection:** Dealers pay gangs, corrupt officials, and private security forces to keep production sites hidden.\n- **Incomplete knowledge:** Many people understand that Delerium is dangerous, but few understand that repeated exposure can cause a delayed transformation.\n\nThe result is a cycle. Delerium is mined or salvaged, processed into a drug, sold to users, and discarded into the city. Some users die, some recover, and others become Dregs. Those Dregs then gather near contaminated sites, spreading panic and drawing attention away from the people who profit from the trade.\n\n## The Dreg State\n\nA Delerium Dreg is a transformed person, not a creature that was born monstrous. Most Dregs are driven by madness, fear, territorial instinct, and violent confusion. They do not attack because they need to eat. Their bodies are sustained by eldritch contamination, although they still need to breathe and may imitate feeding behaviors from broken memories.\n\nDregs often retain small pieces of their previous lives. One may repeat a work song, recite a family name, ask for a missing child, follow an old patrol route, or beg someone to hide the crystals. These moments of recognition are real but brief. A Dreg may speak coherently for a few seconds before becoming frightened or aggressive again.\n\nDregs also tend to gather. A lone Dreg may follow the sounds, magical resonance, or movements of another. Groups gradually become larger and more dangerous, especially near drug dens, abandoned workshops, scrapyards, and contaminated sewers. They are not organized in the usual sense, but a particularly lucid or advanced mutant may be able to direct them for a short time.\n\n## The Delerium Dust Economy\n\nThe street trade has several grades of product:\n\n- **Chips:** Weak, impure material sold to new users. The high is brief, but repeated use still causes contamination.\n- **Shards:** The common street product, strong enough to produce the characteristic euphoria and magical sensations.\n- **Crystal Dust:** Highly concentrated material sold to experienced users, wealthy thrill-seekers, and criminal enforcers. A single dose can cause a severe reaction.\n- **Black Dreg:** Failed or deliberately intensified batches containing visible crystal fragments. It is cheap, extremely addictive, and responsible for many sudden transformations.\n\nDealers often claim that their product is purified, stabilized, or safe for magical bloodlines. These claims are unreliable. The only genuinely stable form of Delerium is material that has been properly converted into [[Arcanite]] or another finished magical item. Anything sold as an inhaled raw crystal product remains dangerous.\n\n## Public Understanding\n\nThe public knows that Delerium Dust is destructive, but many people do not understand how quickly it can ruin a life. Wealthy users frame it as an exotic magical vice, while industrial employers may quietly tolerate its use because workers remain awake for longer shifts. Families often hide a relative's addiction out of shame or fear that authorities will take them away.\n\nThe appearance of a Dreg is usually treated as a monster attack rather than the final stage of addiction and contamination. This allows dealers and manufacturers to distance themselves from the consequences. A dead or transformed user is described as unstable, cursed, or criminal, while the people who sold them the drug disappear behind layers of intermediaries.\n\n## Common Explanations for New Outbreaks\n\nWhen Dregs appear in a new part of Stickyickistan, one or more of the following explanations may be true:\n\n- A new dealer has opened a distribution point nearby.\n- A contaminated batch has entered circulation.\n- A hidden workshop is venting Delerium Dust into the surrounding area.\n- Industrial waste has been dumped in a sewer, scrapyard, or abandoned building.\n- A group of users has gathered around a particularly potent crystal deposit.\n- A smuggling route from Drakkenheim has been disrupted, forcing dealers to use a more dangerous supply.\n- Someone is deliberately creating Dregs to use as disposable muscle, test subjects, or a source of contaminated biological material.\n\n## Tone and Themes\n\nDelerium Dust should be presented as alluring, destructive, and exploitative. The drug gives users a brief feeling of power while gradually damaging their bodies, minds, relationships, and communities. The people who become Dregs are victims of contamination, addiction, criminal exploitation, and magical negligence, even when they have harmed others.\n\nThe horror of the Dregs is not only that ordinary people can become monsters. It is that the transformation is profitable for someone, and that the city has reasons to look away."
+            },
+            "rawText": "{\"path\":\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\"content\":\"# Dregs of Stickyickistan\\n\\n## The Delerium Trade\\n\\n[[Delerium]] reached [[Stickyickistan]] through salvage crews, smugglers, researchers, and [[Magitech]] manufacturers importing material from the ruins of [[Drakkenheim]]. At first, the crystals were treated as an expensive but dangerous magical resource. That changed when alchemists discovered that raw Delerium could be processed into an intensely euphoric inhalant, commonly called **Dreg** or **Delerium Dust**.\\n\\nDelerium Dust is not a normal narcotic. It is a powdered form of unstable crystal mixed with alchemical solvents and magical reagents. When inhaled, it floods the user with energy, confidence, vivid sensory distortions, and a temporary feeling of magical potential. The high is powerful but short-lived, encouraging repeated use. Users often describe the first experience as feeling like their body has become stronger, brighter, and more important than it really is.\\n\\nThe drug is cheap to produce from low-quality Delerium, easy to conceal, and highly profitable. It first spread through the [[Industrial Zone]], where exhausted workers and desperate laborers used it to stay awake during long shifts. From there, it moved through clubs, gambling dens, criminal networks, and wealthy circles looking for a more dangerous thrill.\\n\\n## Why Delerium Creates Dregs\\n\\nRaw Delerium is chaotic and contaminating. Processing it into a drug does not make it safe. It only changes how the contamination enters the body. Each dose exposes the user to a small amount of eldritch energy, and repeated use allows that energy to accumulate.\\n\\nThe early effects are easy to mistake for ordinary drug abuse: sleeplessness, agitation, emotional volatility, paranoia, and a growing need for larger doses. Over time, the user develops physical changes. Their eyes may reflect octarine light, their skin may become cold or translucent, and strange growths may appear beneath the flesh. Some users develop compulsive movements, distorted voices, or an inability to recognize their own reflection.\\n\\nEventually, the contamination reaches a point where the body and mind can no longer contain it. The user undergoes a violent transformation into a [[Delerium Dregs]]. The resulting creature retains fragments of its former identity, but its memories, emotions, and instincts have been warped by the contamination. The transformation is unpredictable. Some Dregs become swollen and powerful, while others develop extra limbs, exposed bone, luminous organs, or fluid bodies suited to the environment where they changed.\\n\\nDelerium Dregs are not created only by drug use. Direct contact with raw Delerium, exposure to Delerium Dust during its manufacture, and magical accidents can also cause enough contamination to trigger a transformation. The drug trade is simply the most common reason Dregs keep appearing in populated areas.\\n\\n## Why Dregs Keep Appearing\\n\\nDregs continue to appear in Stickyickistan because the supply chain has never been completely stopped. Delerium Dust is produced in hidden workshops using contaminated crystals smuggled out of [[Drakkenheim]], along with unstable material recovered from mines and industrial waste sites around [[Mount Zooka]]. Every time one workshop is shut down, another supplier takes its place.\\n\\nSeveral factors keep the problem alive:\\n\\n- **Profit:** Delerium Dust sells for far more than the raw material costs to produce it.\\n- **Addiction:** Users return to the drug despite the physical and psychological damage, often committing crimes or selling possessions to obtain more.\\n- **Magitech demand:** Manufacturers and researchers buy Delerium for legitimate purposes, creating legal routes that smugglers can exploit.\\n- **Contaminated waste:** Failed batches, crystal shavings, and used alchemical equipment are dumped into sewers, scrapyards, and industrial refuse sites.\\n- **Criminal protection:** Dealers pay gangs, corrupt officials, and private security forces to keep production sites hidden.\\n- **Incomplete knowledge:** Many people understand that Delerium is dangerous, but few understand that repeated exposure can cause a delayed transformation.\\n\\nThe result is a cycle. Delerium is mined or salvaged, processed into a drug, sold to users, and discarded into the city. Some users die, some recover, and others become Dregs. Those Dregs then gather near contaminated sites, spreading panic and drawing attention away from the people who profit from the trade.\\n\\n## The Dreg State\\n\\nA Delerium Dreg is a transformed person, not a creature that was born monstrous. Most Dregs are driven by madness, fear, territorial instinct, and violent confusion. They do not attack because they need to eat. Their bodies are sustained by eldritch contamination, although they still need to breathe and may imitate feeding behaviors from broken memories.\\n\\nDregs often retain small pieces of their previous lives. One may repeat a work song, recite a family name, ask for a missing child, follow an old patrol route, or beg someone to hide the crystals. These moments of recognition are real but brief. A Dreg may speak coherently for a few seconds before becoming frightened or aggressive again.\\n\\nDregs also tend to gather. A lone Dreg may follow the sounds, magical resonance, or movements of another. Groups gradually become larger and more dangerous, especially near drug dens, abandoned workshops, scrapyards, and contaminated sewers. They are not organized in the usual sense, but a particularly lucid or advanced mutant may be able to direct them for a short time.\\n\\n## The Delerium Dust Economy\\n\\nThe street trade has several grades of product:\\n\\n- **Chips:** Weak, impure material sold to new users. The high is brief, but repeated use still causes contamination.\\n- **Shards:** The common street product, strong enough to produce the characteristic euphoria and magical sensations.\\n- **Crystal Dust:** Highly concentrated material sold to experienced users, wealthy thrill-seekers, and criminal enforcers. A single dose can cause a severe reaction.\\n- **Black Dreg:** Failed or deliberately intensified batches containing visible crystal fragments. It is cheap, extremely addictive, and responsible for many sudden transformations.\\n\\nDealers often claim that their product is purified, stabilized, or safe for magical bloodlines. These claims are unreliable. The only genuinely stable form of Delerium is material that has been properly converted into [[Arcanite]] or another finished magical item. Anything sold as an inhaled raw crystal product remains dangerous.\\n\\n## Public Understanding\\n\\nThe public knows that Delerium Dust is destructive, but many people do not understand how quickly it can ruin a life. Wealthy users frame it as an exotic magical vice, while industrial employers may quietly tolerate its use because workers remain awake for longer shifts. Families often hide a relative's addiction out of shame or fear that authorities will take them away.\\n\\nThe appearance of a Dreg is usually treated as a monster attack rather than the final stage of addiction and contamination. This allows dealers and manufacturers to distance themselves from the consequences. A dead or transformed user is described as unstable, cursed, or criminal, while the people who sold them the drug disappear behind layers of intermediaries.\\n\\n## Common Explanations for New Outbreaks\\n\\nWhen Dregs appear in a new part of Stickyickistan, one or more of the following explanations may be true:\\n\\n- A new dealer has opened a distribution point nearby.\\n- A contaminated batch has entered circulation.\\n- A hidden workshop is venting Delerium Dust into the surrounding area.\\n- Industrial waste has been dumped in a sewer, scrapyard, or abandoned building.\\n- A group of users has gathered around a particularly potent crystal deposit.\\n- A smuggling route from Drakkenheim has been disrupted, forcing dealers to use a more dangerous supply.\\n- Someone is deliberately creating Dregs to use as disposable muscle, test subjects, or a source of contaminated biological material.\\n\\n## Tone and Themes\\n\\nDelerium Dust should be presented as alluring, destructive, and exploitative. The drug gives users a brief feeling of power while gradually damaging their bodies, minds, relationships, and communities. The people who become Dregs are victims of contamination, addiction, criminal exploitation, and magical negligence, even when they have harmed others.\\n\\nThe horror of the Dregs is not only that ordinary people can become monsters. It is that the transformation is profitable for someone, and that the city has reasons to look away.\"}"
+          }
+        }
+      ],
+      "id": "0e96ede5-87e7-4ae2-afc9-c11d3001ae17",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 57413,
+          "completion_tokens": 1892,
+          "total_tokens": 59305,
+          "cache_read_input_tokens": 46592
+        },
+        "durationMs": 38415,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_bd150XtjXM2O5V9zFPVywpRP",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventures/DM Notes/Dregs of Stickyickistan.md",
+                "content": "# Dregs of Stickyickistan\n\n## The Delerium Trade\n\n[[Delerium]] reached [[Stickyickistan]] through salvage crews, smugglers, researchers, and [[Magitech]] manufacturers importing material from the ruins of [[Drakkenheim]]. At first, the crystals were treated as an expensive but dangerous magical resource. That changed when alchemists discovered that raw Delerium could be processed into an intensely euphoric inhalant, commonly called **Dreg** or **Delerium Dust**.\n\nDelerium Dust is not a normal narcotic. It is a powdered form of unstable crystal mixed with alchemical solvents and magical reagents. When inhaled, it floods the user with energy, confidence, vivid sensory distortions, and a temporary feeling of magical potential. The high is powerful but short-lived, encouraging repeated use. Users often describe the first experience as feeling like their body has become stronger, brighter, and more important than it really is.\n\nThe drug is cheap to produce from low-quality Delerium, easy to conceal, and highly profitable. It first spread through the [[Industrial Zone]], where exhausted workers and desperate laborers used it to stay awake during long shifts. From there, it moved through clubs, gambling dens, criminal networks, and wealthy circles looking for a more dangerous thrill.\n\n## Why Delerium Creates Dregs\n\nRaw Delerium is chaotic and contaminating. Processing it into a drug does not make it safe. It only changes how the contamination enters the body. Each dose exposes the user to a small amount of eldritch energy, and repeated use allows that energy to accumulate.\n\nThe early effects are easy to mistake for ordinary drug abuse: sleeplessness, agitation, emotional volatility, paranoia, and a growing need for larger doses. Over time, the user develops physical changes. Their eyes may reflect octarine light, their skin may become cold or translucent, and strange growths may appear beneath the flesh. Some users develop compulsive movements, distorted voices, or an inability to recognize their own reflection.\n\nEventually, the contamination reaches a point where the body and mind can no longer contain it. The user undergoes a violent transformation into a [[Delerium Dregs]]. The resulting creature retains fragments of its former identity, but its memories, emotions, and instincts have been warped by the contamination. The transformation is unpredictable. Some Dregs become swollen and powerful, while others develop extra limbs, exposed bone, luminous organs, or fluid bodies suited to the environment where they changed.\n\nDelerium Dregs are not created only by drug use. Direct contact with raw Delerium, exposure to Delerium Dust during its manufacture, and magical accidents can also cause enough contamination to trigger a transformation. The drug trade is simply the most common reason Dregs keep appearing in populated areas.\n\n## Why Dregs Keep Appearing\n\nDregs continue to appear in Stickyickistan because the supply chain has never been completely stopped. Delerium Dust is produced in hidden workshops using contaminated crystals smuggled out of [[Drakkenheim]], along with unstable material recovered from mines and industrial waste sites around [[Mount Zooka]]. Every time one workshop is shut down, another supplier takes its place.\n\nSeveral factors keep the problem alive:\n\n- **Profit:** Delerium Dust sells for far more than the raw material costs to produce it.\n- **Addiction:** Users return to the drug despite the physical and psychological damage, often committing crimes or selling possessions to obtain more.\n- **Magitech demand:** Manufacturers and researchers buy Delerium for legitimate purposes, creating legal routes that smugglers can exploit.\n- **Contaminated waste:** Failed batches, crystal shavings, and used alchemical equipment are dumped into sewers, scrapyards, and industrial refuse sites.\n- **Criminal protection:** Dealers pay gangs, corrupt officials, and private security forces to keep production sites hidden.\n- **Incomplete knowledge:** Many people understand that Delerium is dangerous, but few understand that repeated exposure can cause a delayed transformation.\n\nThe result is a cycle. Delerium is mined or salvaged, processed into a drug, sold to users, and discarded into the city. Some users die, some recover, and others become Dregs. Those Dregs then gather near contaminated sites, spreading panic and drawing attention away from the people who profit from the trade.\n\n## The Dreg State\n\nA Delerium Dreg is a transformed person, not a creature that was born monstrous. Most Dregs are driven by madness, fear, territorial instinct, and violent confusion. They do not attack because they need to eat. Their bodies are sustained by eldritch contamination, although they still need to breathe and may imitate feeding behaviors from broken memories.\n\nDregs often retain small pieces of their previous lives. One may repeat a work song, recite a family name, ask for a missing child, follow an old patrol route, or beg someone to hide the crystals. These moments of recognition are real but brief. A Dreg may speak coherently for a few seconds before becoming frightened or aggressive again.\n\nDregs also tend to gather. A lone Dreg may follow the sounds, magical resonance, or movements of another. Groups gradually become larger and more dangerous, especially near drug dens, abandoned workshops, scrapyards, and contaminated sewers. They are not organized in the usual sense, but a particularly lucid or advanced mutant may be able to direct them for a short time.\n\n## The Delerium Dust Economy\n\nThe street trade has several grades of product:\n\n- **Chips:** Weak, impure material sold to new users. The high is brief, but repeated use still causes contamination.\n- **Shards:** The common street product, strong enough to produce the characteristic euphoria and magical sensations.\n- **Crystal Dust:** Highly concentrated material sold to experienced users, wealthy thrill-seekers, and criminal enforcers. A single dose can cause a severe reaction.\n- **Black Dreg:** Failed or deliberately intensified batches containing visible crystal fragments. It is cheap, extremely addictive, and responsible for many sudden transformations.\n\nDealers often claim that their product is purified, stabilized, or safe for magical bloodlines. These claims are unreliable. The only genuinely stable form of Delerium is material that has been properly converted into [[Arcanite]] or another finished magical item. Anything sold as an inhaled raw crystal product remains dangerous.\n\n## Public Understanding\n\nThe public knows that Delerium Dust is destructive, but many people do not understand how quickly it can ruin a life. Wealthy users frame it as an exotic magical vice, while industrial employers may quietly tolerate its use because workers remain awake for longer shifts. Families often hide a relative's addiction out of shame or fear that authorities will take them away.\n\nThe appearance of a Dreg is usually treated as a monster attack rather than the final stage of addiction and contamination. This allows dealers and manufacturers to distance themselves from the consequences. A dead or transformed user is described as unstable, cursed, or criminal, while the people who sold them the drug disappear behind layers of intermediaries.\n\n## Common Explanations for New Outbreaks\n\nWhen Dregs appear in a new part of Stickyickistan, one or more of the following explanations may be true:\n\n- A new dealer has opened a distribution point nearby.\n- A contaminated batch has entered circulation.\n- A hidden workshop is venting Delerium Dust into the surrounding area.\n- Industrial waste has been dumped in a sewer, scrapyard, or abandoned building.\n- A group of users has gathered around a particularly potent crystal deposit.\n- A smuggling route from Drakkenheim has been disrupted, forcing dealers to use a more dangerous supply.\n- Someone is deliberately creating Dregs to use as disposable muscle, test subjects, or a source of contaminated biological material.\n\n## Tone and Themes\n\nDelerium Dust should be presented as alluring, destructive, and exploitative. The drug gives users a brief feeling of power while gradually damaging their bodies, minds, relationships, and communities. The people who become Dregs are victims of contamination, addiction, criminal exploitation, and magical negligence, even when they have harmed others.\n\nThe horror of the Dregs is not only that ordinary people can become monsters. It is that the transformation is profitable for someone, and that the city has reasons to look away."
+              },
+              "rawText": "{\"path\":\"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\"content\":\"# Dregs of Stickyickistan\\n\\n## The Delerium Trade\\n\\n[[Delerium]] reached [[Stickyickistan]] through salvage crews, smugglers, researchers, and [[Magitech]] manufacturers importing material from the ruins of [[Drakkenheim]]. At first, the crystals were treated as an expensive but dangerous magical resource. That changed when alchemists discovered that raw Delerium could be processed into an intensely euphoric inhalant, commonly called **Dreg** or **Delerium Dust**.\\n\\nDelerium Dust is not a normal narcotic. It is a powdered form of unstable crystal mixed with alchemical solvents and magical reagents. When inhaled, it floods the user with energy, confidence, vivid sensory distortions, and a temporary feeling of magical potential. The high is powerful but short-lived, encouraging repeated use. Users often describe the first experience as feeling like their body has become stronger, brighter, and more important than it really is.\\n\\nThe drug is cheap to produce from low-quality Delerium, easy to conceal, and highly profitable. It first spread through the [[Industrial Zone]], where exhausted workers and desperate laborers used it to stay awake during long shifts. From there, it moved through clubs, gambling dens, criminal networks, and wealthy circles looking for a more dangerous thrill.\\n\\n## Why Delerium Creates Dregs\\n\\nRaw Delerium is chaotic and contaminating. Processing it into a drug does not make it safe. It only changes how the contamination enters the body. Each dose exposes the user to a small amount of eldritch energy, and repeated use allows that energy to accumulate.\\n\\nThe early effects are easy to mistake for ordinary drug abuse: sleeplessness, agitation, emotional volatility, paranoia, and a growing need for larger doses. Over time, the user develops physical changes. Their eyes may reflect octarine light, their skin may become cold or translucent, and strange growths may appear beneath the flesh. Some users develop compulsive movements, distorted voices, or an inability to recognize their own reflection.\\n\\nEventually, the contamination reaches a point where the body and mind can no longer contain it. The user undergoes a violent transformation into a [[Delerium Dregs]]. The resulting creature retains fragments of its former identity, but its memories, emotions, and instincts have been warped by the contamination. The transformation is unpredictable. Some Dregs become swollen and powerful, while others develop extra limbs, exposed bone, luminous organs, or fluid bodies suited to the environment where they changed.\\n\\nDelerium Dregs are not created only by drug use. Direct contact with raw Delerium, exposure to Delerium Dust during its manufacture, and magical accidents can also cause enough contamination to trigger a transformation. The drug trade is simply the most common reason Dregs keep appearing in populated areas.\\n\\n## Why Dregs Keep Appearing\\n\\nDregs continue to appear in Stickyickistan because the supply chain has never been completely stopped. Delerium Dust is produced in hidden workshops using contaminated crystals smuggled out of [[Drakkenheim]], along with unstable material recovered from mines and industrial waste sites around [[Mount Zooka]]. Every time one workshop is shut down, another supplier takes its place.\\n\\nSeveral factors keep the problem alive:\\n\\n- **Profit:** Delerium Dust sells for far more than the raw material costs to produce it.\\n- **Addiction:** Users return to the drug despite the physical and psychological damage, often committing crimes or selling possessions to obtain more.\\n- **Magitech demand:** Manufacturers and researchers buy Delerium for legitimate purposes, creating legal routes that smugglers can exploit.\\n- **Contaminated waste:** Failed batches, crystal shavings, and used alchemical equipment are dumped into sewers, scrapyards, and industrial refuse sites.\\n- **Criminal protection:** Dealers pay gangs, corrupt officials, and private security forces to keep production sites hidden.\\n- **Incomplete knowledge:** Many people understand that Delerium is dangerous, but few understand that repeated exposure can cause a delayed transformation.\\n\\nThe result is a cycle. Delerium is mined or salvaged, processed into a drug, sold to users, and discarded into the city. Some users die, some recover, and others become Dregs. Those Dregs then gather near contaminated sites, spreading panic and drawing attention away from the people who profit from the trade.\\n\\n## The Dreg State\\n\\nA Delerium Dreg is a transformed person, not a creature that was born monstrous. Most Dregs are driven by madness, fear, territorial instinct, and violent confusion. They do not attack because they need to eat. Their bodies are sustained by eldritch contamination, although they still need to breathe and may imitate feeding behaviors from broken memories.\\n\\nDregs often retain small pieces of their previous lives. One may repeat a work song, recite a family name, ask for a missing child, follow an old patrol route, or beg someone to hide the crystals. These moments of recognition are real but brief. A Dreg may speak coherently for a few seconds before becoming frightened or aggressive again.\\n\\nDregs also tend to gather. A lone Dreg may follow the sounds, magical resonance, or movements of another. Groups gradually become larger and more dangerous, especially near drug dens, abandoned workshops, scrapyards, and contaminated sewers. They are not organized in the usual sense, but a particularly lucid or advanced mutant may be able to direct them for a short time.\\n\\n## The Delerium Dust Economy\\n\\nThe street trade has several grades of product:\\n\\n- **Chips:** Weak, impure material sold to new users. The high is brief, but repeated use still causes contamination.\\n- **Shards:** The common street product, strong enough to produce the characteristic euphoria and magical sensations.\\n- **Crystal Dust:** Highly concentrated material sold to experienced users, wealthy thrill-seekers, and criminal enforcers. A single dose can cause a severe reaction.\\n- **Black Dreg:** Failed or deliberately intensified batches containing visible crystal fragments. It is cheap, extremely addictive, and responsible for many sudden transformations.\\n\\nDealers often claim that their product is purified, stabilized, or safe for magical bloodlines. These claims are unreliable. The only genuinely stable form of Delerium is material that has been properly converted into [[Arcanite]] or another finished magical item. Anything sold as an inhaled raw crystal product remains dangerous.\\n\\n## Public Understanding\\n\\nThe public knows that Delerium Dust is destructive, but many people do not understand how quickly it can ruin a life. Wealthy users frame it as an exotic magical vice, while industrial employers may quietly tolerate its use because workers remain awake for longer shifts. Families often hide a relative's addiction out of shame or fear that authorities will take them away.\\n\\nThe appearance of a Dreg is usually treated as a monster attack rather than the final stage of addiction and contamination. This allows dealers and manufacturers to distance themselves from the consequences. A dead or transformed user is described as unstable, cursed, or criminal, while the people who sold them the drug disappear behind layers of intermediaries.\\n\\n## Common Explanations for New Outbreaks\\n\\nWhen Dregs appear in a new part of Stickyickistan, one or more of the following explanations may be true:\\n\\n- A new dealer has opened a distribution point nearby.\\n- A contaminated batch has entered circulation.\\n- A hidden workshop is venting Delerium Dust into the surrounding area.\\n- Industrial waste has been dumped in a sewer, scrapyard, or abandoned building.\\n- A group of users has gathered around a particularly potent crystal deposit.\\n- A smuggling route from Drakkenheim has been disrupted, forcing dealers to use a more dangerous supply.\\n- Someone is deliberately creating Dregs to use as disposable muscle, test subjects, or a source of contaminated biological material.\\n\\n## Tone and Themes\\n\\nDelerium Dust should be presented as alluring, destructive, and exploitative. The drug gives users a brief feeling of power while gradually damaging their bodies, minds, relationships, and communities. The people who become Dregs are victims of contamination, addiction, criminal exploitation, and magical negligence, even when they have harmed others.\\n\\nThe horror of the Dregs is not only that ordinary people can become monsters. It is that the transformation is profitable for someone, and that the city has reasons to look away.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/Adventures/DM Notes/Dregs of Stickyickistan.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventures/DM Notes/Dregs of Stickyickistan.md",
+                      "addedLines": 71,
+                      "removedLines": 51,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "ddd45c19-ddd1-470d-a104-8c46615f003e"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 71,
+                  "totalRemovedLines": 51,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1790874618072
+              }
+            }
+          }
+        }
+      ],
+      "id": "ddd45c19-ddd1-470d-a104-8c46615f003e",
+      "metadata": {
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Reworked `Dregs of Stickyickistan.md` from an adventure outline into setting lore explaining:\n\n- How Delerium arrived in Stickyickistan\n- How raw Delerium is processed into an addictive drug called **Dreg** or **Delerium Dust**\n- Why the drug produces euphoric and destructive effects\n- How repeated exposure causes contamination and creates Delerium Dregs\n- Why Dregs continue appearing across the city\n- The role of smugglers, manufacturers, criminal networks, and contaminated waste\n- Different grades of Delerium Dust\n- How the public misunderstands the source of the problem\n- Common causes behind new Dreg outbreaks\n- The intended themes of addiction, exploitation, magical contamination, and institutional negligence",
+      "id": "7f9cc410-b445-4806-8a88-699aead3debf",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.6-luna",
+          "model": "gpt-5.6-luna",
+          "name": "gpt-5.6-luna",
+          "reasoningType": "openai",
+          "modalities": [
+            "text",
+            "vision"
+          ],
+          "builtinToolProvider": "gpt",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 59299,
+          "completion_tokens": 201,
+          "total_tokens": 59500
+        },
+        "durationMs": 8403,
+        "generationState": "completed",
+        "branchConversationId": "e004bf37-96e3-4665-addf-b9aaced84da1",
+        "branchModelId": "chatGPT/gpt-5.6-luna",
+        "branchLabel": "gpt-5.6-luna"
+      }
     }
   ],
   "createdAt": 1788972580799,
-  "updatedAt": 1789150929239,
+  "updatedAt": 1790874633830,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
@@ -5988,7 +7406,9 @@
     "a38197b0-0f3c-43bf-a691-2c7397b0270f": "chatGPT/gpt-5.6-luna",
     "ab755d4a-c40d-4528-b972-4579bb415600": "chatGPT/gpt-5.6-luna",
     "a0fab05d-4404-4f58-8a92-3b6e3f522563": "chatGPT/gpt-5.6-luna",
-    "14e1d8e0-79c8-41c0-95a4-3f4492d5ea0a": "chatGPT/gpt-5.6-luna"
+    "14e1d8e0-79c8-41c0-95a4-3f4492d5ea0a": "chatGPT/gpt-5.6-luna",
+    "4036a0d4-38d0-40ab-b2db-2109efa4fa55": "chatGPT/gpt-5.6-luna",
+    "c41de128-41a7-44cf-9442-8ddce85d1252": "chatGPT/gpt-5.6-luna"
   },
   "assistantGroupBoundaryMessageIds": [],
   "reasoningLevel": "auto",

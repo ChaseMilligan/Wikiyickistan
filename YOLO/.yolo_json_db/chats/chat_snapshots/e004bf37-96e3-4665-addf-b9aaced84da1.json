@@ -45,17 +45,6 @@
       "createdAt": 1788987412072,
       "updatedAt": 1788987412072
     },
-    "aab08af5": {
-      "hash": "aab08af5",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/Intercepting the Recluse.md`\n  - L5 # Adventure Intro\n  - L17 # Infiltrating the THC\n  - L19 ## Joining the THC Detail\n  - L29 ## Narrative Encounters\n  - L31 ### 1. The Missing Guard\n  - L49 ### 2. The Unexpected Inspection\n  - L67 ### 3. The Prisoners’ Public Transfer\n  - L85 ### 4. The Unscheduled Mooring\n  - L101 ### 5. The Guard Captain’s Security Drill\n  - L117 # Adventure Conversion\n  - L119 ## Halfling Overboard\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI have copied the Halfling Overboard section from the original I am repurposing. Please rewrite this section to match what we already have in Intercepting the Recluse.md . The raven squad should take the place of the \"pirates\" that fly off the ship when the captain cuts the harness lashing leaving just the heist squad behind on the ship to finish the extraction by themselves. Do not fundamentally change how the adventure works.\n\n"
-        }
-      ],
-      "createdAt": 1788987728785,
-      "updatedAt": 1788987728785
-    },
     "c5b54321": {
       "hash": "c5b54321",
       "content": [
@@ -66,17 +55,6 @@
       ],
       "createdAt": 1788987847695,
       "updatedAt": 1788987847695
-    },
-    "8c6e56de": {
-      "hash": "8c6e56de",
-      "content": [
-        {
-          "type": "text",
-          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/Intercepting the Recluse.md`\n  - L5 # Adventure Intro\n  - L17 # Infiltrating the THC\n  - L19 ## Joining the THC Detail\n  - L29 ## Narrative Encounters\n  - L31 ### 1. The Missing Guard\n  - L49 ### 2. The Unexpected Inspection\n  - L67 ### 3. The Prisoners’ Public Transfer\n  - L85 ### 4. The Unscheduled Mooring\n  - L101 ### 5. The Guard Captain’s Security Drill\n  - L117 # Adventure Conversion\n  - L119 ## The Raven Squad Is Cast Off\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/Intercepting the Recluse.md\" startLine=\"119\" endLine=\"136\">\n```content/Adventures/DM Notes/Intercepting the Recluse.md\n119|## The Raven Squad Is Cast Off\n120|\n121|Several hours into the flight, once the Heist Squad has had time to establish its cover and learn the THC’s procedures, the Raven squad arrives aboard its Society-owned airship. It rises from below The Recluse and draws alongside, allowing the Raven operatives to cross over by grappling lines. Their arrival is sudden and controlled. The THC guards have little time to understand what is happening before the Raven squad reaches the flight deck and confronts the captain.\n122|\n123|The Raven squad’s orders are to seize control of The Recluse long enough for the Heist Squad to release [[Unit BH-Umbra Δ9]]. The captain, however, reacts before they can secure him. Rather than allow the vessel to be taken, he throws The Recluse into a steep dive. The ship pitches violently, sending unsecured equipment, supplies, and personnel sliding across the deck.\n124|\n125|At the last moment, the captain cuts the harness lashing him to the helm. The sudden movement and severed restraints send the Raven squad tumbling away from The Recluse. Their operatives disappear into the clouds below, along with the chance for the Heist Squad to rely on outside support. The Society airship is forced to pull away and search for the fallen squad, leaving the Heist Squad behind aboard The Recluse.\n126|\n127|> [!read-aloud]\n128|> The grappling lines snap taut as the Raven operatives cross onto the deck. For one breath, the plan seems to be working. Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and the entire ship groans around you. Crates, weapons, and bodies slide across the deck as the sky rushes up to meet you.\n129|>\n130|> With a sharp metallic crack, the captain cuts the harness holding him to the helm. The sudden release throws the Raven squad into open air. One by one, their silhouettes vanish beneath the ship and into the clouds. The Society airship pulls away after them, leaving you alone aboard The Recluse with the prisoners, the THC, and a vessel still falling.\n131|\n132|The ship groans as it struggles to recover from the dive. The captain is no longer at the helm, the Raven squad is gone, and the THC detail is beginning to regain control of itself. The Heist Squad must now finish the extraction alone. They need to reach the security office, bypass the protections on the prisoner compartment, release [[Unit BH-Umbra Δ9]], and regain control of The Recluse before the THC can identify them as infiltrators.\n133|\n134|The characters have only a short time before the surviving THC officers organize a response. If they act quickly, they can use the confusion to reach the prisoners and redirect The Recluse toward a rendezvous with the Society’s airship. If they delay, the guards seal the prisoner compartment, move the prisoners to a secondary holding area, and begin searching the ship for the intruders who helped the Raven squad board.\n135|\n136|The Raven squad’s disappearance should not end the adventure. It removes the characters’ planned support and forces them to rely on the information, alliances, and access they gained while undercover. The extraction is still possible, but from this point forward, the Heist Squad is on its own.\n```\n</user_selected_content>\n\n\nIntercepting the Recluse.md (536 Words) Please do not change the way the adventure works. Do not add anything to happen after what I have given you. In this section the ship never does recover from the dive, that is the whole point of the adventure is to see if the characters can stop it from crashing. Again, here is the original. Please make sure what we have in Intercepting the Recluse.md still makes sense based on the original:\n\nIt wasn’t long before the Strider Airship, Recluse, having departed the dwarven city of Soldorakhold only the day before, was beset by a group of human pirates aboard a pair of Lyrandar Skyskiffs as they passed over the vast Ironroot Mountains. See chapter 7 of Eberron: Forge of the Artificer for the Strider Airship and Lyrandar Skyskiff statistics.\n\nEight pirates boarded the Recluse when the Recluse’s captain, a halfling named Ryvan Rallanith, made a brash decision; he veered the ship into a steep dive. Four of the pirates fell overboard—however, not before one of them cut the harnesses lashing Captain Rallanith to the helm. Four pirates remain aboard the airship.\n\nThe soarwood planks of the ship groan and creak in protest as the Recluse hangs helplessly in the sky, the bow pitching steeply. Thousands of galifars’ worth of unsecured supplies and, more importantly, the halfling captain Ryvan Rallanith, are now black specks fading away hundreds of feet beneath.\n\nKreffik Soldorak, your employer, lies in a heap of furniture and luggage nearby. “Dolurrh!” he cries out, pushing a small nightstand off himself and attempting to straighten out his coat, “what is that thrice-damned helmsman doing?!”\n\nWithout a pilot, there’s no chance of the ship righting itself, let alone continuing their voyage.\n\n"
-        }
-      ],
-      "createdAt": 1788988035753,
-      "updatedAt": 1788988035753
     },
     "53a938c2": {
       "hash": "53a938c2",
@@ -132,6 +110,50 @@
       ],
       "createdAt": 1789150826515,
       "updatedAt": 1789150826515
+    },
+    "b9e22f0e": {
+      "hash": "b9e22f0e",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/Intercepting the Recluse.md`\n  - L5 # Adventure Intro\n  - L17 # Infiltrating the THC\n  - L19 ## Joining the THC Detail\n  - L29 ## Narrative Encounters\n  - L31 ### 1. The Missing Guard\n  - L49 ### 2. The Unexpected Inspection\n  - L67 ### 3. The Prisoners’ Public Transfer\n  - L85 ### 4. The Unscheduled Mooring\n  - L101 ### 5. The Guard Captain’s Security Drill\n  - L117 # Adventure Conversion\n  - L119 ## The Raven Squad Is Cast Off\n  - L134 ### Regaining Control of the Helm\n  - L146 #### Reaching the Helm\n  - L156 #### THC Response\n  - L162 #### The Spirit in the Machine\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI have copied the Halfling Overboard section from the original I am repurposing. Please rewrite this section to match what we already have in Intercepting the Recluse.md . The raven squad should take the place of the \"pirates\" that fly off the ship when the captain cuts the harness lashing leaving just the heist squad behind on the ship to finish the extraction by themselves. Do not fundamentally change how the adventure works.\n\n"
+        }
+      ],
+      "createdAt": 1790874404847,
+      "updatedAt": 1790874404847
+    },
+    "db4b7589": {
+      "hash": "db4b7589",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/Intercepting the Recluse.md`\n  - L5 # Adventure Intro\n  - L17 # Infiltrating the THC\n  - L19 ## Joining the THC Detail\n  - L29 ## Narrative Encounters\n  - L31 ### 1. The Missing Guard\n  - L49 ### 2. The Unexpected Inspection\n  - L67 ### 3. The Prisoners’ Public Transfer\n  - L85 ### 4. The Unscheduled Mooring\n  - L101 ### 5. The Guard Captain’s Security Drill\n  - L117 # Adventure Conversion\n  - L119 ## The Raven Squad Is Cast Off\n  - L134 ### Regaining Control of the Helm\n  - L146 #### Reaching the Helm\n  - L156 #### THC Response\n  - L162 #### The Spirit in the Machine\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n<user_selected_content path=\"content/Adventures/DM Notes/Intercepting the Recluse.md\" startLine=\"119\" endLine=\"136\">\n```content/Adventures/DM Notes/Intercepting the Recluse.md\n119|## The Raven Squad Is Cast Off\n120|\n121|Several hours into the flight, once the Heist Squad has had time to establish its cover and learn the THC’s procedures, the Raven squad arrives aboard its Society-owned airship. It rises from below The Recluse and draws alongside, allowing the Raven operatives to cross over by grappling lines. Their arrival is sudden and controlled. The THC guards have little time to understand what is happening before the Raven squad reaches the flight deck and confronts the captain.\n122|\n123|The Raven squad’s orders are to seize control of The Recluse long enough for the Heist Squad to release [[Unit BH-Umbra Δ9]]. The captain, however, reacts before they can secure him. Rather than allow the vessel to be taken, he throws The Recluse into a steep dive. The ship pitches violently, sending unsecured equipment, supplies, and personnel sliding across the deck.\n124|\n125|At the last moment, the captain cuts the harness lashing him to the helm. The sudden movement and severed restraints send the Raven squad tumbling away from The Recluse. Their operatives disappear into the clouds below, along with the chance for the Heist Squad to rely on outside support. The Society airship is forced to pull away and search for the fallen squad, leaving the Heist Squad behind aboard The Recluse.\n126|\n127|> [!read-aloud]\n128|> The grappling lines snap taut as the Raven operatives cross onto the deck. For one breath, the plan seems to be working. Then the captain wrenches the helm hard to one side. The Recluse plunges into a steep dive, and the entire ship groans around you. Crates, weapons, and bodies slide across the deck as the sky rushes up to meet you.\n129|>\n130|> With a sharp metallic crack, the captain cuts the harness holding him to the helm. The sudden release throws the Raven squad into open air. One by one, their silhouettes vanish beneath the ship and into the clouds. The Society airship pulls away after them, leaving you alone aboard The Recluse with the prisoners, the THC, and a vessel still falling.\n131|\n132|The ship groans as it struggles to recover from the dive. The captain is no longer at the helm, the Raven squad is gone, and the THC detail is beginning to regain control of itself. The Heist Squad must now finish the extraction alone. They need to reach the security office, bypass the protections on the prisoner compartment, release [[Unit BH-Umbra Δ9]], and regain control of The Recluse before the THC can identify them as infiltrators.\n133|\n134|The characters have only a short time before the surviving THC officers organize a response. If they act quickly, they can use the confusion to reach the prisoners and redirect The Recluse toward a rendezvous with the Society’s airship. If they delay, the guards seal the prisoner compartment, move the prisoners to a secondary holding area, and begin searching the ship for the intruders who helped the Raven squad board.\n135|\n136|The Raven squad’s disappearance should not end the adventure. It removes the characters’ planned support and forces them to rely on the information, alliances, and access they gained while undercover. The extraction is still possible, but from this point forward, the Heist Squad is on its own.\n```\n</user_selected_content>\n\n\nIntercepting the Recluse.md (536 Words) Please do not change the way the adventure works. Do not add anything to happen after what I have given you. In this section the ship never does recover from the dive, that is the whole point of the adventure is to see if the characters can stop it from crashing. Again, here is the original. Please make sure what we have in Intercepting the Recluse.md still makes sense based on the original:\n\nIt wasn’t long before the Strider Airship, Recluse, having departed the dwarven city of Soldorakhold only the day before, was beset by a group of human pirates aboard a pair of Lyrandar Skyskiffs as they passed over the vast Ironroot Mountains. See chapter 7 of Eberron: Forge of the Artificer for the Strider Airship and Lyrandar Skyskiff statistics.\n\nEight pirates boarded the Recluse when the Recluse’s captain, a halfling named Ryvan Rallanith, made a brash decision; he veered the ship into a steep dive. Four of the pirates fell overboard—however, not before one of them cut the harnesses lashing Captain Rallanith to the helm. Four pirates remain aboard the airship.\n\nThe soarwood planks of the ship groan and creak in protest as the Recluse hangs helplessly in the sky, the bow pitching steeply. Thousands of galifars’ worth of unsecured supplies and, more importantly, the halfling captain Ryvan Rallanith, are now black specks fading away hundreds of feet beneath.\n\nKreffik Soldorak, your employer, lies in a heap of furniture and luggage nearby. “Dolurrh!” he cries out, pushing a small nightstand off himself and attempting to straighten out his coat, “what is that thrice-damned helmsman doing?!”\n\nWithout a pilot, there’s no chance of the ship righting itself, let alone continuing their voyage.\n\n"
+        }
+      ],
+      "createdAt": 1790874404847,
+      "updatedAt": 1790874404847
+    },
+    "d680fdee": {
+      "hash": "d680fdee",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/Dregs of Stickyickistan.md`\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nI need some content for Dregs of Stickyickistan.md just enough to get me started. Please use info about Delerium and Delerium Dregs from Drakkenheim to populate it.\n\n"
+        }
+      ],
+      "createdAt": 1790874404847,
+      "updatedAt": 1790874404847
+    },
+    "cf30cece": {
+      "hash": "cf30cece",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventures/DM Notes/Dregs of Stickyickistan.md`\n  - L1 ## Adventure Premise\n  - L7 ## Delerium in Stickyickistan\n  - L15 ## Delerium Dregs\n  - L23 ## Adventure Hooks\n  - L31 ## Suggested Locations\n  - L33 ### The Shattered Storehouse\n  - L37 ### The Processing Floor\n  - L41 ### The Gathering Place\n  - L45 ## Important Questions for the DM\n  - L53 ## Tone and Themes\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nfor Dregs of Stickyickistan.md  I don't want it to be and adventure just an explanation(s) for how delerium dregs got to Stickyickistan, and why they keep appearing. I think it makes the most sense for Delerium to be used as a highly addictive and destructive drug like crack in real life, or Shimmer from Arcane in Zaun.\n\n"
+        }
+      ],
+      "createdAt": 1790874571949,
+      "updatedAt": 1790874571949
     }
   }
 }
