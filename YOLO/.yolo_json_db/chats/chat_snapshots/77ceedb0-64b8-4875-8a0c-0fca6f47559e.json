@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "3ee1cdc9": {
+      "hash": "3ee1cdc9",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Shrine of Oaths Player Brief.md`\n  - L8 ### Public Notice\n  - L20 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nHelp me make The Shrine of Oaths Player Brief.md fit the Stickyickistanian setting\n\n"
+        }
+      ],
+      "createdAt": 1789321821921,
+      "updatedAt": 1789321821921
+    },
+    "bc8267de": {
+      "hash": "bc8267de",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Shrine of Oaths Player Brief.md`\n  - L8 ### Public Notice\n  - L24 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan we try to add an Arcannabis element to The Shrine of Oaths Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1789322014185,
+      "updatedAt": 1789322014185
+    },
+    "b9caf617": {
+      "hash": "b9caf617",
+      "content": [
+        {
+          "type": "text",
+          "text": "## Mentioned Vault Files (outline only)\n- `content/Adventure Briefs/The Shrine of Oaths Player Brief.md`\n  - L8 ### Public Notice\n  - L26 ## Rewards\n- `content/Adventure Briefs/The Shining Shrine Player Brief.md`\n  - L8 ### Public Notice\n  - L18 ## Rewards\n\nThis section provides only paths and outlines. Use file tools only if you need the full contents or a specific line range.\n\n\nCan we make the lenth of The Shrine of Oaths Player Brief.md more similar to The Shining Shrine Player Brief.md \n\n"
+        }
+      ],
+      "createdAt": 1789322197948,
+      "updatedAt": 1789322197948
+    }
+  }
+}

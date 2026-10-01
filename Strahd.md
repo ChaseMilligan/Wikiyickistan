@@ -1,0 +1,6 @@
+- 20,000 copper
+- Book collection worth 80,000 gp
+- +2 Shield of warning (cleo)
+- 1000 pp 
+- Alchemy Jug (bruk)
+- 

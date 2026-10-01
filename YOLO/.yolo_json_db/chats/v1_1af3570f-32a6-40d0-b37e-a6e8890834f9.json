@@ -3335,7 +3335,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "6daa378f"
+        "hash": "fff443b5"
       },
       "id": "6fd792c2-03e8-4608-b6e9-2488418a1fa6",
       "mentionables": [
@@ -8189,7 +8189,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "d57fff64"
+        "hash": "ee52f6a6"
       },
       "id": "87802163-d025-4941-8a54-043980729a39",
       "mentionables": [
@@ -13004,7 +13004,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "97336df2"
+        "hash": "7adbef86"
       },
       "id": "ddd8666a-e92b-4d95-ba6b-289b00099a11",
       "mentionables": [
@@ -13240,7 +13240,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "e4ac0e66"
+        "hash": "0282cb44"
       },
       "id": "523e0e0a-1be8-4406-87d8-6790cb0fcf4a",
       "mentionables": [
@@ -13514,7 +13514,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "f35cc6c4"
+        "hash": "5355aa56"
       },
       "id": "e0994348-2c40-4aa2-bed4-69042e17765e",
       "mentionables": [
@@ -13873,7 +13873,7 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "a19cf519"
+        "hash": "c2805f6b"
       },
       "id": "bb03349c-b91b-42af-b978-fb8cf291f7c1",
       "mentionables": [
@@ -14376,13 +14376,13 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "e6452df8"
+        "hash": "0a190f7d"
       },
       "id": "c48f5ea9-18ef-4e62-8fcb-3731e388c430",
       "mentionables": [
         {
           "type": "file",
-          "file": "Gwenhumara Goldmoss.md"
+          "file": "content/NPCs/Gwenhumara Goldmoss.md"
         }
       ],
       "selectedSkills": [],
@@ -14504,13 +14504,13 @@
       },
       "promptContent": null,
       "snapshotRef": {
-        "hash": "e0564962"
+        "hash": "9d0e8feb"
       },
       "id": "1980f8e0-ed9e-4f61-8fd5-c880874cfeb0",
       "mentionables": [
         {
           "type": "file",
-          "file": "Selenar Woodwise.md"
+          "file": "content/NPCs/Selenar Woodwise.md"
         }
       ],
       "selectedSkills": [],
@@ -14573,10 +14573,750 @@
         "branchModelId": "chatGPT/gpt-5.5",
         "branchLabel": "gpt-5.5"
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give me a little write up fro this based on tyhe following:",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Rankor serves as the main respite on this side of the",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Broadwater Span. The tiny settlement is carved into",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "the tops of a ring of tall, volcanic sea stacks that rise",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "from the open Voidsea. Ladders, pulley lines, and",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hand-cranked winches link the docks that line the",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "inside of the ring to wooden platforms that frame",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "the dark openings that pockmark each stack. These",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "are the living quarters, storage rooms, shops and",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "other buildings that comprise the mid-sea dwelling",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "of Rankor.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "05534206-018c-4d1e-9312-8f5c41949792",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-09-02 00:24 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "Here’s a short player-facing write-up for `Rankor.md`:\n\n<yolo_block filename=\"content/Regions/Greater Stickyickistan/Rankor.md\">\n<<<<<<< APPEND\nRankor is the main respite on this side of the [[Broadwater Span]], a tiny mid-sea settlement perched atop a ring of tall volcanic sea stacks rising from the open [[Voidsea]]. From a distance, it looks less like a town than a collection of lanterns, rope bridges, and weather-beaten platforms clinging stubbornly to black stone above the waves.\n\nThe settlement is carved into and around the stacks themselves. Docks line the sheltered interior of the ring, while ladders, pulley lines, and hand-cranked winches connect boats below to the wooden platforms above. Dark openings pockmark each stack, leading into living quarters, storerooms, shops, workshops, and cramped common rooms. Rankor is small, salty, loud with gulls and winches, and deeply welcome to travelers who have spent too long crossing open water.\n>>>>>>> END\n</yolo_block>",
+      "id": "6622789c-4409-4724-b858-40718a9caa7e",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 102506,
+          "completion_tokens": 223,
+          "total_tokens": 102729
+        },
+        "durationMs": 13268,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can we change ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "Sir Davrik Varkos.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Sir Davrik Varkos.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/NPCs/minor/Sir Davrik Varkos.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " so that he isn't a knight, but instead a merchant style NPC",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "d8166e59"
+      },
+      "id": "06c2f762-9667-45e9-9a34-b41cf4ac550c",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/NPCs/minor/Sir Davrik Varkos.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-09-02 00:33 (Wednesday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_L1R39NmUnFtGOm0c7MJ1byUX",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/NPCs/minor/Sir Davrik Varkos.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/NPCs/minor/Sir Davrik Varkos.md\"]}"
+          }
+        }
+      ],
+      "id": "b910b892-6696-4b8c-a324-d72253810e0a",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 102845,
+          "completion_tokens": 36,
+          "total_tokens": 102881,
+          "cache_read_input_tokens": 101504
+        },
+        "durationMs": 3337,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_L1R39NmUnFtGOm0c7MJ1byUX",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/NPCs/minor/Sir Davrik Varkos.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/NPCs/minor/Sir Davrik Varkos.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_L1R39NmUnFtGOm0c7MJ1byUX\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/NPCs/minor/Sir Davrik Varkos.md\",\n      \"ok\": true,\n      \"totalLines\": 3,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|#Alive \\n2|\\n3|The eldest son, a battle-hardened knight and commander of [[House Varkos]]'s privateer fleet, sworn to avenge his father.\",\n      \"wikilinks\": [\n        {\n          \"link\": \"House Varkos\",\n          \"path\": \"content/Factions/House Varkos.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "f62a052d-8279-4cee-a8f1-642c101cbeaf",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_Gr6LkxpAjLH1QR2X9QnXDu1L",
+          "name": "yolo_local__fs_edit",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/NPCs/minor/Sir Davrik Varkos.md",
+              "oldText": "The eldest son, a battle-hardened knight and commander of [[House Varkos]]'s privateer fleet, sworn to avenge his father.",
+              "newText": "The eldest son of [[House Varkos]], Davrik is a sharp-eyed merchant and privateer financier whose wealth moves more ships than any sword arm could. He manages contracts, cargo rights, insurance schemes, and discreet payments for the family fleet, presenting himself as a polished gentleman of commerce while quietly turning grief, debt, and vengeance into profitable leverage."
+            },
+            "rawText": "{\"path\":\"content/NPCs/minor/Sir Davrik Varkos.md\",\"oldText\":\"The eldest son, a battle-hardened knight and commander of [[House Varkos]]'s privateer fleet, sworn to avenge his father.\",\"newText\":\"The eldest son of [[House Varkos]], Davrik is a sharp-eyed merchant and privateer financier whose wealth moves more ships than any sword arm could. He manages contracts, cargo rights, insurance schemes, and discreet payments for the family fleet, presenting himself as a polished gentleman of commerce while quietly turning grief, debt, and vengeance into profitable leverage.\"}"
+          }
+        }
+      ],
+      "id": "8539ad28-212e-4e51-95d1-86bc28b1fc04",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 103089,
+          "completion_tokens": 145,
+          "total_tokens": 103234
+        },
+        "durationMs": 5807,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_Gr6LkxpAjLH1QR2X9QnXDu1L",
+            "name": "yolo_local__fs_edit",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/NPCs/minor/Sir Davrik Varkos.md",
+                "oldText": "The eldest son, a battle-hardened knight and commander of [[House Varkos]]'s privateer fleet, sworn to avenge his father.",
+                "newText": "The eldest son of [[House Varkos]], Davrik is a sharp-eyed merchant and privateer financier whose wealth moves more ships than any sword arm could. He manages contracts, cargo rights, insurance schemes, and discreet payments for the family fleet, presenting himself as a polished gentleman of commerce while quietly turning grief, debt, and vengeance into profitable leverage."
+              },
+              "rawText": "{\"path\":\"content/NPCs/minor/Sir Davrik Varkos.md\",\"oldText\":\"The eldest son, a battle-hardened knight and commander of [[House Varkos]]'s privateer fleet, sworn to avenge his father.\",\"newText\":\"The eldest son of [[House Varkos]], Davrik is a sharp-eyed merchant and privateer financier whose wealth moves more ships than any sword arm could. He manages contracts, cargo rights, insurance schemes, and discreet payments for the family fleet, presenting himself as a polished gentleman of commerce while quietly turning grief, debt, and vengeance into profitable leverage.\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_edit\",\n  \"path\": \"content/NPCs/minor/Sir Davrik Varkos.md\",\n  \"totalOperations\": 1,\n  \"appliedCount\": 1,\n  \"operationResults\": [\n    {\n      \"type\": \"replace\",\n      \"changed\": true,\n      \"actualOccurrences\": 1,\n      \"matchMode\": \"exact\"\n    }\n  ],\n  \"changed\": true,\n  \"message\": \"Applied edit.\"\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/NPCs/minor/Sir Davrik Varkos.md",
+                      "addedLines": 1,
+                      "removedLines": 1,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "c5c02295-2100-4401-9c97-79140d671f2a"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 1,
+                  "totalRemovedLines": 1,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1788330794885
+              }
+            }
+          }
+        }
+      ],
+      "id": "c5c02295-2100-4401-9c97-79140d671f2a",
+      "metadata": {
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done — I updated `content/NPCs/minor/Sir Davrik Varkos.md` so Davrik is now a merchant-style NPC instead of a knight.\n\nHe is now described as:\n\n- The eldest son of [[House Varkos]]\n- A merchant and privateer financier\n- Someone who manages contracts, cargo rights, insurance schemes, and discreet payments\n- A polished commercial operator who turns grief, debt, and vengeance into leverage",
+      "id": "4bd3177b-7da5-4acd-841e-e7c01de97a8c",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 103351,
+          "completion_tokens": 94,
+          "total_tokens": 103445,
+          "cache_read_input_tokens": 101504
+        },
+        "durationMs": 6182,
+        "generationState": "completed",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Make ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Shrine of Oaths Player Brie…",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Shrine of Oaths Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " in the same format as ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Shining Shrine Player Brief…",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Shining Shrine Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " . Make sure it is all player facing information written like a notice posted in a adventurers guildhall",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "bb11bf49"
+      },
+      "id": "af76bf22-42b1-49c0-8b7d-b358789150a7",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+        },
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-09-13 11:43 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "559bbe00-3d82-4432-9644-9c0c387eb3de",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "durationMs": 621,
+        "generationState": "error",
+        "errorMessage": "400 Invalid 'input[165].content[1].image_url'. Expected a valid URL, but got a value with an invalid format.\nCaused by: Invalid 'input[165].content[1].image_url'. Expected a valid URL, but got a value with an invalid format.",
+        "branchConversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
     }
   ],
   "createdAt": 1787364902688,
-  "updatedAt": 1788325126064,
+  "updatedAt": 1789321394254,
   "schemaVersion": 1,
   "overrides": {
     "chatMode": "agent",
