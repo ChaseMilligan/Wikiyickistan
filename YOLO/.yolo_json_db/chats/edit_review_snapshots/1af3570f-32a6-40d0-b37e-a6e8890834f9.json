@@ -312,6 +312,19 @@
       "removedLines": 1,
       "createdAt": 1788323817604,
       "updatedAt": 1788323817604
+    },
+    "c5c02295-2100-4401-9c97-79140d671f2a::content/NPCs/minor/Sir Davrik Varkos.md": {
+      "conversationId": "1af3570f-32a6-40d0-b37e-a6e8890834f9",
+      "roundId": "c5c02295-2100-4401-9c97-79140d671f2a",
+      "filePath": "content/NPCs/minor/Sir Davrik Varkos.md",
+      "beforeContent": "#Alive \n\nThe eldest son, a battle-hardened knight and commander of [[House Varkos]]'s privateer fleet, sworn to avenge his father.",
+      "afterContent": "#Alive \n\nThe eldest son of [[House Varkos]], Davrik is a sharp-eyed merchant and privateer financier whose wealth moves more ships than any sword arm could. He manages contracts, cargo rights, insurance schemes, and discreet payments for the family fleet, presenting himself as a polished gentleman of commerce while quietly turning grief, debt, and vengeance into profitable leverage.",
+      "beforeExists": true,
+      "afterExists": true,
+      "addedLines": 1,
+      "removedLines": 1,
+      "createdAt": 1788330794906,
+      "updatedAt": 1788330794906
     }
   }
 }

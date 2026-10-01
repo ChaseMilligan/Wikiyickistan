@@ -1,0 +1,1878 @@
+{
+  "id": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+  "title": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Make The Shrine of Oaths Player Brief.md in the same format as The Shining Shrine Player Brief.md . Make sure it is all player facing information written like a notice posted in a adventurers guildhall",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "830f27b4-257c-4ae8-aee0-b5391be24ece",
+      "mentionables": [],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-09-13 11:43 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_syXsXZG8ENVNFElaM8PjqBMU",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\"]}"
+          }
+        },
+        {
+          "id": "call_MJa4HdsSE7jztWb4kseNNjw5",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "query": "The Shining Shrine Player Brief",
+              "scope": "files",
+              "mode": "keyword",
+              "maxResults": 10
+            },
+            "rawText": "{\"query\":\"The Shining Shrine Player Brief\",\"scope\":\"files\",\"mode\":\"keyword\",\"maxResults\":10}"
+          }
+        }
+      ],
+      "id": "c7b77a97-6fdc-48b6-aa60-e48fa3f999c4",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 3782,
+          "completion_tokens": 87,
+          "total_tokens": 3869
+        },
+        "durationMs": 2918,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_syXsXZG8ENVNFElaM8PjqBMU",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_syXsXZG8ENVNFElaM8PjqBMU\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 29,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|\\n2|# ADVENTURE SUMMARY\\n3|\\n4|### The Shrine’s History\\n5|\\n6|Long ago, the **Shrine of the Oathsworn Knights** was a place of worship, a sacred ground where knights and warriors swore their oaths, pledging their lives to justice, protection, and service.\\n7|\\n8|When war called them away, the knights sealed the shrine with powerful wards to keep it safe until they could return. They awakened their ancestors' spirits to guard it in their absence, watching over the sacred halls as eternal protectors.\\n9|\\n10|But none of the knights survived the war. Their order was lost, and the shrine was left to time, forgotten as the years passed.\\n11|\\n12|### The Recent Discovery\\n13|\\n14|For generations, the shrine remained hidden beneath overgrown ruins, untouched by the outside world. That changed when part of the structure collapsed, revealing a passage leading into the sealed crypt below.\\n15|\\n16|Travelers passing nearby have reported hearing distant voices, though no one has dared to venture inside.\\n17|\\n18|When the shrine’s reappearance was reported, the **Order of the Argent Watch** took interest. The organization is dedicated to preventing old, abandoned places of power from unleashing dangers beyond their walls.\\n19|\\n20|**Sir Emil Corvian**, **Knight Petros Valescu**, and **Squire Gregor Marov** were sent to investigate the disturbance at the newly uncovered shrine. As knights of the Argent Watch, their duty is to ensure that whatever lingers there is contained or laid to rest.\\n21|\\n22|### The Party’s Mission\\n23|\\n24|The party must find their way from the crypt to the shrine, where they will discover that the knights of the Argent Watch are dead, and that Sir Emil Corvian has been possessed by an ancient ghost that protects the shrine.\\n25|\\n26|It is up to them whether they persuade, confront, or exorcize the ghost to free the knight from possession and cleanse the shrine.\\n27|# Hook\\n28|\\n29|The Order of the Argent Watch has not heard from Sir Emil Corvian, Sir Petros Valescu, and Squire Gregor Marov since they were sent to investigate the shrine. The party is tasked with finding out what happened to them.\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_MJa4HdsSE7jztWb4kseNNjw5",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "query": "The Shining Shrine Player Brief",
+                "scope": "files",
+                "mode": "keyword",
+                "maxResults": 10
+              },
+              "rawText": "{\"query\":\"The Shining Shrine Player Brief\",\"scope\":\"files\",\"mode\":\"keyword\",\"maxResults\":10}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"files\",\n  \"query\": \"The Shining Shrine Player Brief\",\n  \"path\": \"\",\n  \"results\": [\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/The Shining Shrine Player Brief.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/The Twilight Hunter Player Brief.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventures/DM Notes/FLS/Tier 1/The Shining Shrine.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/Crimson Candleworks Player Brief.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/Curse of Slaad Player Brief.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/Death at Sunset Player Brief.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/Dread and Breakfast Player Brief.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/Hall of the Wyrmbone Anvil.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Adventure Briefs/Jars of Souls Player Brief.md\",\n      \"source\": \"keyword\"\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "8aa7a92a-5b28-4581-8ffe-38f9ce54b39e",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_btvjYJ0jUVOk5NxQSDyXlRBt",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shining Shrine Player Brief.md\"]}"
+          }
+        }
+      ],
+      "id": "6fd1192d-52c5-430e-a596-86639c523d0f",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 4946,
+          "completion_tokens": 34,
+          "total_tokens": 4980,
+          "cache_read_input_tokens": 3584
+        },
+        "durationMs": 1939,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_btvjYJ0jUVOk5NxQSDyXlRBt",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shining Shrine Player Brief.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_btvjYJ0jUVOk5NxQSDyXlRBt\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventure Briefs/The Shining Shrine Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 26,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|**Submitted by:** [Blossom Union](Blossom%20Union)  \\n2|**Tier:** Tier 1  \\n3|**Recommended Level:** 3  \\n4|**Expected Length:** One-shot, approximately 2–4 hours  \\n5|**Tone:** Fey monster hunt, sacred garden mystery, whimsical danger  \\n6|**Location:** [Springwood](Springwood) / [Springarden](Springarden)\\n7|\\n8|### Public Notice\\n9|\\n10|> **SPRINGARDEN SEEKS LICENSED MONSTER HUNTERS AFTER FEY DISTURBANCE AT HOLY SHRINE**\\n11|\\n12|The [Blossom Union](Blossom%20Union) seeks licensed adventurers for an urgent matter in the holy gardens of [Springwood](Springwood). Visitors have been warned away from [Springarden](Springarden) after a dangerous fey presence disrupted the shrine, injured caretakers, and disturbed the sacred waters.\\n13|\\n14|Applicants should be prepared for unpredictable fey magic, delicate terrain, and a site whose caretakers would strongly prefer it remain intact. Once a party is formed, report to [The Loot Tavern](The%20Loot%20Tavern) and ask for [Threeflower](Threeflower), who will provide travel instructions and explain how to reach Springarden.\\n15|\\n16|The Blossom Union offers payment to capable adventurers who can identify the threat, protect the shrine, and resolve the disturbance without unnecessary damage to the garden or its sacred pools.\\n17|\\n18|## Rewards\\n19|\\n20|- **Up to 600 XP each** for completing the adventure.\\n21|- **225 gp each** from the [Blossom Union](Blossom%20Union) for protecting Springarden and resolving the fey disturbance.\\n22|- Gratitude from the [Blossom Union](Blossom%20Union).\\n23|- Possible future access to [Springarden](Springarden) as trusted guests, assuming the shrine is preserved.\\n24|- The opportunity to harvest unusual monster components for crafting up to 3 bespoke Boss Monster magic items.\\n25|- Possible bonus XP for preserving the shrine, protecting the sacred pools, or rescuing injured Blossom Union members.\\n26|\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "dc12e4c2-e021-44e1-9207-acc4d4a04950",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_NYnMMdA6VQpDsd3cIjlU9u2z",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+              "content": "**Submitted by:** [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch)  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 2-4 hours  \n**Tone:** Haunted shrine investigation, lost knights, solemn oaths  \n**Location:** Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **ARGENT WATCH SEEKS CAPABLE ADVENTURERS AFTER KNIGHTS VANISH AT UNCOVERED SHRINE**\n\nThe [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) seeks licensed adventurers for an urgent investigation at the recently uncovered Shrine of the Oathsworn Knights. The old shrine was discovered beneath overgrown ruins after part of the structure collapsed, revealing a passage into sealed chambers below.\n\nTravelers near the site have reported distant voices from within the ruins, though no one has yet returned with a clear account of what lies inside. Sir Emil Corvian, Sir Petros Valescu, and Squire Gregor Marov were dispatched by the Argent Watch to investigate, but the order has received no word from them since.\n\nApplicants should be prepared for a sealed holy site, possible restless spirits, unstable ruins, and whatever old wards or guardians may still remain in service to forgotten vows. Once a party is formed, report to the nearest Argent Watch contact or guild posting officer for directions to the shrine and the knights' last known route.\n\nThe Argent Watch offers payment to capable adventurers who can enter the shrine, discover the fate of the missing knights, recover any survivors if possible, and ensure that any lingering danger within the sacred site is contained or laid to rest.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) for investigating the shrine and resolving the disturbance.\n- Gratitude from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch).\n- Possible future favor with the Argent Watch for those who treat the shrine and its oathbound dead with respect.\n- The opportunity to recover relics, records, or other remnants of the lost Oathsworn Knights, subject to Argent Watch review.\n- Possible bonus XP for rescuing missing personnel, preserving the shrine, or peacefully laying restless spirits to rest.\n"
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch)  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 2-4 hours  \\n**Tone:** Haunted shrine investigation, lost knights, solemn oaths  \\n**Location:** Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **ARGENT WATCH SEEKS CAPABLE ADVENTURERS AFTER KNIGHTS VANISH AT UNCOVERED SHRINE**\\n\\nThe [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) seeks licensed adventurers for an urgent investigation at the recently uncovered Shrine of the Oathsworn Knights. The old shrine was discovered beneath overgrown ruins after part of the structure collapsed, revealing a passage into sealed chambers below.\\n\\nTravelers near the site have reported distant voices from within the ruins, though no one has yet returned with a clear account of what lies inside. Sir Emil Corvian, Sir Petros Valescu, and Squire Gregor Marov were dispatched by the Argent Watch to investigate, but the order has received no word from them since.\\n\\nApplicants should be prepared for a sealed holy site, possible restless spirits, unstable ruins, and whatever old wards or guardians may still remain in service to forgotten vows. Once a party is formed, report to the nearest Argent Watch contact or guild posting officer for directions to the shrine and the knights' last known route.\\n\\nThe Argent Watch offers payment to capable adventurers who can enter the shrine, discover the fate of the missing knights, recover any survivors if possible, and ensure that any lingering danger within the sacred site is contained or laid to rest.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) for investigating the shrine and resolving the disturbance.\\n- Gratitude from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch).\\n- Possible future favor with the Argent Watch for those who treat the shrine and its oathbound dead with respect.\\n- The opportunity to recover relics, records, or other remnants of the lost Oathsworn Knights, subject to Argent Watch review.\\n- Possible bonus XP for rescuing missing personnel, preserving the shrine, or peacefully laying restless spirits to rest.\\n\"}"
+          }
+        }
+      ],
+      "id": "6a48e208-a021-4c53-828b-01493e934e13",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 5594,
+          "completion_tokens": 577,
+          "total_tokens": 6171
+        },
+        "durationMs": 11888,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_NYnMMdA6VQpDsd3cIjlU9u2z",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                "content": "**Submitted by:** [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch)  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 2-4 hours  \n**Tone:** Haunted shrine investigation, lost knights, solemn oaths  \n**Location:** Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **ARGENT WATCH SEEKS CAPABLE ADVENTURERS AFTER KNIGHTS VANISH AT UNCOVERED SHRINE**\n\nThe [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) seeks licensed adventurers for an urgent investigation at the recently uncovered Shrine of the Oathsworn Knights. The old shrine was discovered beneath overgrown ruins after part of the structure collapsed, revealing a passage into sealed chambers below.\n\nTravelers near the site have reported distant voices from within the ruins, though no one has yet returned with a clear account of what lies inside. Sir Emil Corvian, Sir Petros Valescu, and Squire Gregor Marov were dispatched by the Argent Watch to investigate, but the order has received no word from them since.\n\nApplicants should be prepared for a sealed holy site, possible restless spirits, unstable ruins, and whatever old wards or guardians may still remain in service to forgotten vows. Once a party is formed, report to the nearest Argent Watch contact or guild posting officer for directions to the shrine and the knights' last known route.\n\nThe Argent Watch offers payment to capable adventurers who can enter the shrine, discover the fate of the missing knights, recover any survivors if possible, and ensure that any lingering danger within the sacred site is contained or laid to rest.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) for investigating the shrine and resolving the disturbance.\n- Gratitude from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch).\n- Possible future favor with the Argent Watch for those who treat the shrine and its oathbound dead with respect.\n- The opportunity to recover relics, records, or other remnants of the lost Oathsworn Knights, subject to Argent Watch review.\n- Possible bonus XP for rescuing missing personnel, preserving the shrine, or peacefully laying restless spirits to rest.\n"
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch)  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 2-4 hours  \\n**Tone:** Haunted shrine investigation, lost knights, solemn oaths  \\n**Location:** Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **ARGENT WATCH SEEKS CAPABLE ADVENTURERS AFTER KNIGHTS VANISH AT UNCOVERED SHRINE**\\n\\nThe [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) seeks licensed adventurers for an urgent investigation at the recently uncovered Shrine of the Oathsworn Knights. The old shrine was discovered beneath overgrown ruins after part of the structure collapsed, revealing a passage into sealed chambers below.\\n\\nTravelers near the site have reported distant voices from within the ruins, though no one has yet returned with a clear account of what lies inside. Sir Emil Corvian, Sir Petros Valescu, and Squire Gregor Marov were dispatched by the Argent Watch to investigate, but the order has received no word from them since.\\n\\nApplicants should be prepared for a sealed holy site, possible restless spirits, unstable ruins, and whatever old wards or guardians may still remain in service to forgotten vows. Once a party is formed, report to the nearest Argent Watch contact or guild posting officer for directions to the shrine and the knights' last known route.\\n\\nThe Argent Watch offers payment to capable adventurers who can enter the shrine, discover the fate of the missing knights, recover any survivors if possible, and ensure that any lingering danger within the sacred site is contained or laid to rest.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) for investigating the shrine and resolving the disturbance.\\n- Gratitude from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch).\\n- Possible future favor with the Argent Watch for those who treat the shrine and its oathbound dead with respect.\\n- The opportunity to recover relics, records, or other remnants of the lost Oathsworn Knights, subject to Argent Watch review.\\n- Possible bonus XP for rescuing missing personnel, preserving the shrine, or peacefully laying restless spirits to rest.\\n\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                      "addedLines": 26,
+                      "removedLines": 27,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "6fe138f5-7b97-4615-8e71-6ffbd61967be"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 26,
+                  "totalRemovedLines": 27,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1789321431561
+              }
+            }
+          }
+        }
+      ],
+      "id": "6fe138f5-7b97-4615-8e71-6ffbd61967be",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done, I reformatted `The Shrine of Oaths Player Brief.md` to match `The Shining Shrine Player Brief.md` and rewrote it as player-facing guildhall notice information.",
+      "id": "37e38a3c-4809-44eb-8e67-095370f4be6b",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 6256,
+          "completion_tokens": 42,
+          "total_tokens": 6298,
+          "cache_read_input_tokens": 4608
+        },
+        "durationMs": 2779,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Help me make ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Shrine of Oaths Player Brie…",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Shrine of Oaths Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " fit the Stickyickistanian setting",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "3ee1cdc9"
+      },
+      "id": "431d91c6-455c-4244-ae44-305a4643eef5",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-09-13 11:50 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_FIwJBMAPXYUD0Ud3wIjFqbS0",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\"]}"
+          }
+        },
+        {
+          "id": "call_7JTwF3A93dEyArQJ7wbflh1E",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "query": "Stickyickistanian Stickyickistan setting",
+              "mode": "hybrid",
+              "scope": "all",
+              "maxResults": 10,
+              "ragLimit": 10
+            },
+            "rawText": "{\"query\":\"Stickyickistanian Stickyickistan setting\",\"mode\":\"hybrid\",\"scope\":\"all\",\"maxResults\":10,\"ragLimit\":10}"
+          }
+        }
+      ],
+      "id": "47702ca9-fa0a-478e-aa49-8b676e4634b7",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 6403,
+          "completion_tokens": 95,
+          "total_tokens": 6498
+        },
+        "durationMs": 5460,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_FIwJBMAPXYUD0Ud3wIjFqbS0",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_FIwJBMAPXYUD0Ud3wIjFqbS0\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 28,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|**Submitted by:** [[Tribunal Highblade Coalition]]  \\n2|**Tier:** Tier 1  \\n3|**Recommended Level:** 3  \\n4|**Expected Length:** One-shot, approximately 3-4 hours  \\n5|**Tone:** Haunted shrine investigation, lost knights, solemn oaths  \\n6|**Location:** Shrine of the Oathsworn Knights\\n7|\\n8|### Public Notice\\n9|\\n10|> **THC SEEKS CAPABLE ADVENTURERS AFTER KNIGHTS VANISH AT UNCOVERED SHRINE**\\n11|\\n12|The [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent investigation at the recently uncovered Shrine of the Oathsworn Knights. The old shrine was discovered beneath overgrown ruins after part of the structure collapsed, revealing a passage into sealed chambers below.\\n13|\\n14|Travelers near the site have reported distant voices from within the ruins, though no one has yet returned with a clear account of what lies inside. **Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched by the Argent Watch to investigate, but the order has received no word from them since.\\n15|\\n16|Applicants should be prepared for a sealed holy site, possible restless spirits, unstable ruins, and whatever old wards or guardians may still remain in service to forgotten vows. Once a party is formed, report to the nearest Argent Watch contact or guild posting officer for directions to the shrine and the knights' last known route.\\n17|\\n18|The Argent Watch offers payment to capable adventurers who can enter the shrine, discover the fate of the missing knights, recover any survivors if possible, and ensure that any lingering danger within the sacred site is contained or laid to rest.\\n19|\\n20|## Rewards\\n21|\\n22|- **Up to 600 XP each** for completing the adventure.\\n23|- **225 gp each** from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch) for investigating the shrine and resolving the disturbance.\\n24|- Gratitude from the [Order of the Argent Watch](Order%20of%20the%20Argent%20Watch).\\n25|- Possible future favor with the Argent Watch for those who treat the shrine and its oathbound dead with respect.\\n26|- The opportunity to recover relics, records, or other remnants of the lost Oathsworn Knights, subject to Argent Watch review.\\n27|- Possible bonus XP for rescuing missing personnel, preserving the shrine, or peacefully laying restless spirits to rest.\\n28|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Tribunal Highblade Coalition\",\n          \"path\": \"content/Factions/Tribunal Highblade Coalition.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_7JTwF3A93dEyArQJ7wbflh1E",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "query": "Stickyickistanian Stickyickistan setting",
+                "mode": "hybrid",
+                "scope": "all",
+                "maxResults": 10,
+                "ragLimit": 10
+              },
+              "rawText": "{\"query\":\"Stickyickistanian Stickyickistan setting\",\"mode\":\"hybrid\",\"scope\":\"all\",\"maxResults\":10,\"ragLimit\":10}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"hybrid\",\n  \"effectiveMode\": \"keyword\",\n  \"fallbackReason\": \"No embedding model configured. Fell back to keyword search.\",\n  \"scope\": \"all\",\n  \"query\": \"Stickyickistanian Stickyickistan setting\",\n  \"path\": \"\",\n  \"results\": [\n    {\n      \"kind\": \"file\",\n      \"path\": \"docs/setting up your GitHub repository.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"public/Stickyickistan.html\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Stickyickistan.md\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"public/Images/Stickyickistan.jpg\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"public/Images/Stickyickistan.jpgZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Stickyickistan.jpg\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"content/Images/Stickyickistan.jpgZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"public/Regions/Stickyickistan/Ashen-Citadel.html\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"public/Regions/Stickyickistan/Ashen-Citadel.mdZone.Identifier\",\n      \"source\": \"keyword\"\n    },\n    {\n      \"kind\": \"file\",\n      \"path\": \"public/Regions/Stickyickistan/Astallon-Acres.html\",\n      \"source\": \"keyword\"\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "245886d6-f413-4690-9367-1449681ebf83",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_o9AsdPgTDeo04ijJ1PQPoUSU",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Stickyickistan.md",
+                "content/Factions/Tribunal Highblade Coalition.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Stickyickistan.md\",\"content/Factions/Tribunal Highblade Coalition.md\"]}"
+          }
+        },
+        {
+          "id": "call_WDK44wjwmFgnpHgsebJHZsXa",
+          "name": "yolo_local__fs_search",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "query": "Tribunal Highblade Coalition",
+              "mode": "keyword",
+              "scope": "content",
+              "maxResults": 10
+            },
+            "rawText": "{\"query\":\"Tribunal Highblade Coalition\",\"mode\":\"keyword\",\"scope\":\"content\",\"maxResults\":10}"
+          }
+        }
+      ],
+      "id": "fd5ac1fe-e47b-48a9-82ac-876c1f885b92",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 7662,
+          "completion_tokens": 90,
+          "total_tokens": 7752
+        },
+        "durationMs": 3385,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_o9AsdPgTDeo04ijJ1PQPoUSU",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Stickyickistan.md",
+                  "content/Factions/Tribunal Highblade Coalition.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Stickyickistan.md\",\"content/Factions/Tribunal Highblade Coalition.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_o9AsdPgTDeo04ijJ1PQPoUSU\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Stickyickistan.md\",\n      \"ok\": true,\n      \"totalLines\": 100,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|---\\n2|title: History of Stickyickistan\\n3|---\\n4|\\n5|Stickyickistan is an island on the planet of [[Mythmos]], shrouded in magic and home to one of the largest economies in the realms. Its wealth is built primarily on the cultivation and export of [[Arcannabis]], along with trade in [[Arcanite]] and other resources. The island’s size and distance from other landmasses are difficult to measure. Even the most sophisticated magic and technology fails beyond a certain distance from its shores.\\n6|\\n7|The waters around Stickyickistan form a region much like a magical Bermuda Triangle. Pilots and sailors report violent weather, distorted horizons, impossible currents, and terrifying creatures from above and below. Vast deposits of [[Arcanite]] beneath [[Mount Zooka]] have warped time, space, and the Weave around the island, producing these phenomena and making accurate maps difficult to create. Stickyickistan can be seen from [[Lumytholarispace]] and appears on maps of Mythmos, but it always looks smaller than it seems when approached.\\n8|\\n9|![[city_of_stick_2026.png]]\\n10|*This map is not to scale, and does not include all regions.*\\n11|# Modern Stickyickistan\\n12|\\n13|Stickyickistan is a city-state built around the active [[Mount Zooka]], whose obsidian slopes and glowing Arcanite veins dominate the island’s skyline. Approximately 27 million people live across a dense network of terraced districts connected by bridges, roads, canals, lifts, and industrial transit lines. The Capitol stands on [[Nevercough Island]], a small landmass sheltered within the [[Percolat Inlet]]. The climate is generally tropical, with hot, humid weather across the urban core. Farther inland, desertification has created increasingly arid regions, a legacy of [[Human Colonialism]] and industrialization.\\n14|\\n15|The city rises in layers around the volcano. Wealthy residences climb into the jungle, where enchanted gardens and fortified estates overlook the ocean. Beneath them, poorer settlements cling to the mountainside in a haze of ash, smoke, brimstone, and sulfur. Above these districts, the [[Industrial Zone]] follows the crater’s rim and extends into the mountain through mines, foundries, refineries, and [[Magitech]] workshops.\\n16|\\n17|[[Mount Zooka]] is an active [[Arcanite]] Cone, a rare volcano formed above rich deposits of raw Arcanite. Its slopes are black and glassy, marked by glowing veins of molten rock and slow-moving lava flows. Violent eruptions scatter volcanic stone, magma, and chunks of raw Arcanite across the island. Miners, magitech engineers, alchemists, and bounty hunters maintain dangerous outposts along the crater’s rim, searching for ore, magical artifacts, and volatile energy. The Dwarves of [[Bongstad]] have carved a fortified settlement into the mountain’s base, using its heat to power their forges.\\n18|\\n19|Arcanite fuels much of Stickyickistan’s wealth and technology. Once extracted and purified, it can be worked into weapons, armor, artifacts, and industrial systems. The [[Nevercough Tribunal]] and [[The Seekers of the Vein]] operate mines and outposts around the crater, while [[Tokenheim Extractions Inc.]] and other industrial concerns process the ore and produce much of the city-state’s Magitech. Waste from the [[Industrial Zone]] feeds salvage operations at [[Seekers' Scrapyard]] and is collected by groups such as [[The Seekers of the Vein]], [[Zooka Mire Collective]], and [[The Iron Sovereign]].\\n20|\\n21|The island’s soil is rich in nutrients and infused with Arcanite. Flora and fauna grow with unusual fertility and magical potency, especially in [[North Booftown]], the agricultural heartland. [[Astallon Acres]] lies along the wetlands bordering the [[Zooka Mire]], where [[Ezra Astallon]] pays farm workers unusually well and resolves local problems with money. [[Arcannabis]] remains the city-state’s primary export, while Arcanite, magebred animals, and other natural resources provide additional wealth.\\n22|\\n23|Since the arrival of Human colonists, [[Alcohol]] has been outlawed because the government considers it a threat to the Arcannabis market. [[Zooka Malt]], a beverage made from Arcannabis buds, has become the principal alternative to traditional ale. The city’s merchants sell countless infused varieties, from cheap street brews to carefully aged drinks served in the private lounges of [[Bobo Bush Estates]].\\n24|\\n25|[[Nevercough Island]] is the seat of political power and old money. At its heart stands the [[Capitol Building]], where Chief Magistrate [[Dabnar Nevercough]] rules through courts that dispense justice and corruption in equal measure. The island also contains the [[Grand Arcanum Library]], the [[Nevercough Museum]], elite magical academies such as [[N.E.R.D]], high-end boutiques, apothecaries, and specialty Magitech shops. The former settlement of [[Nevercough City]] remains the name commonly used for the island and its historic urban core.\\n26|\\n27|The [[Ashen Citadel]] rises over Nevercough Island as the headquarters of the [[Ashen Shadow Society]], Stickyickistan’s most infamous bounty-hunting guild. Its dark stone walls, Magitech barriers, arcane wards, training facilities, forges, laboratories, archives, and holding cells make it both fortress and command center. Few outsiders enter without a contract, and fewer leave without becoming part of someone else’s case file.\\n28|\\n29|South of Nevercough Island and north of the volcano lies [[Lower South Booftown]], commonly called [[Booftown]]. This middle-class district is known for family-owned shops, public parks, and relatively stable neighborhoods. A slow-moving river of thick, dark lava separates it from [[Upper South Booftown]], known as [[The Ashtray]].\\n30|\\n31|The Ashtray is a smoke-blackened district of crooked tenements, ash-slick alleys, rooftop walkways, hidden grow rooms, and half-legal additions built over generations. Its native [[Halfling|halfling]] population is large, but it also shelters outcasts, fugitives, smugglers, mercenaries, failed apprentices, and anyone too useful, desperate, or dangerous to fit elsewhere. The [[Mandem on Booftown]] and [[Cough City Crew]] fight over Arcannabis, underground fighting, protection rackets, gambling, bootlegged Alcohol, and black-market Magitech. Neither gang fully controls the district. The Sootsteps connect rooftops and exterior stairways, the Cinder Courts host dice games and informal trials, and [[The Black Stalls]] sell stolen goods, poisons, counterfeit papers, and illegal Magitech parts. To outsiders, the district is dangerous. To locals, it is home.\\n32|\\n33|To the east of the volcano lies [[Bobo Bush Estates]], where merchant lords, arcane industrialists, politicians, and retired crime bosses live in lavish villas protected by enchanted gardens and high-security Magitech. Deals worth more than a kingdom’s treasury are made over fine Arcannabis and aged Zooka Malt. Espionage, blackmail, and silent assassinations decide more than elections ever do.\\n34|\\n35|North Booftown is the center of food production and Arcannabis cultivation. Its volcanic soil produces crops that grow larger, faster, and stronger than those found elsewhere. The region also belongs to [[House Northbourne]], the least powerful noble house in the [[Nevercough Tribunal]]. Publicly, the Northbournes dominate animal breeding, training, and handling. They own [[The North Booftown Downs]] and founded the [[Handler’s Guild]], whose expertise includes prized racehorses, exotic creatures, and [[Magebred Animals]].\\n36|\\n37|In criminal circles, the Northbournes are called [[The Norfies]]. The family does not use the name, since it can imply criminal affiliations and attract the attention of the [[Nevercough Tribunal]] or the [[Tribunal Highblade Coalition]]. Behind their respectable public image, the Norfies control much of the city-state’s illicit Alcohol trade, manipulate racing odds and outcomes, operate gambling syndicates, and host underground fighting rings. Their agents and intermediaries preserve the noble family’s plausible deniability.\\n38|\\n39|On the western side of the city, [[Bongstad]] is a Dwarven settlement carved into Mount Zooka. Its maze of tunnels, bridges, terraces, and magitech pipes carries molten slag and processed Arcanite between refineries and forges. Bongstad combines old Dwarven traditions with Arcannabis-fueled invention. Miners and blacksmiths share the settlement with inventors, alchemists, and experimental herbalists. Visitors are advised to bring a strong constitution, a high tolerance for Zooka Malt, and no outstanding gambling debts.\\n40|\\n41|Beneath the city lies [[The Undercity Osslurraggath]], an underground metropolis ignored by the urban elite and denied official recognition by the Nevercough Tribunal. It is home to [[The Mortuary]], the [[Dungsweepers]], exiles, criminals, and people the surface city would rather forget. Its provisional government has little legal authority, but it governs the people who live below. Osslurraggath began as bone vaults and necropolis tunnels before collapsing into deeper Underdark channels, creating a refuge for the poor, the diseased, the dead, and the unwanted. The [[Heralds of Dust]] established a philosophy of decay there.\\n42|\\n43|Beyond the city lies [[The Outback]], a largely unexplored wilderness where civilization gives way to ancient ruins, arcane forests, hidden rivers, swamps, bogs, mountains, beaches, and magical anomalies. [[Springwood]] is a massive naturalized park and sacred woodland that remains in an impossible state of spring. Its settlements include [[Kerning’s Crossing]], known for apothecaries and its reliance on the [[Solarium Botanica]]. \\n44|\\n45|Farther out, [[Doobius House]] remains a humble frontier village inhabited mainly by indigenous [[Twothirdlings]] and a few full Halflings. Its former importance came from its role as the Gate to the Outback and from the military workshops established there during Elyrian expansion. The [[Grim Forest]] borders the village, its history preserved mainly through indigenous oral traditions. The forest contains hostile plants and undead, while an ancient awakened radiant tree guards its edge.\\n46|\\n47|The Outback also contains [[Zooka Mire]], a swamp just beyond the city limits where the [[Zooka Mire Collective]] operates, and the distant [[Molten Maw]], an underground volcanic city inhabited mainly by [[Duergar]] and [[Svirfneblin]]. Molten Maw’s Veins are semi-intelligent rivers of magical lava, while [[The Silt Road]] moves contraband, monster parts, forbidden magic, fugitives, and secrets beneath surface authorities. The Outback’s raw magic, combined with Mount Zooka’s influence, has made Stickyickistan a hotspot in the multiverse. For bounty hunters, smugglers, prospectors, and treasure seekers, its wilderness promises lost knowledge and untapped power. It also promises that something dangerous is always waiting beyond the city’s last road.\\n48|\\n49|# Past Stickyickistan\\n50|\\n51|Stickyickistan did not always have its current tropical climate. In earlier ages, the island maintained a more balanced pattern of hot and cold regions, as well as arid and humid zones. The northern part once held an ice cap, while the south resembled a Mediterranean climate more than a Caribbean one. Industrialization caused severe climate change. Rising temperatures melted the ice cap and turned some old-growth forests into desert. Recent conservation efforts have slowed the damage, but much of the original landscape has been lost.\\n52|\\n53|## [[Human Colonialism]]\\n54|\\n55|Long ago, the island’s humanoid inhabitants were small communities of [[Halflings]], [[Eladrin]], [[Goblins]], and [[Lizardfolk]]. Many followed a polytheistic faith devoted to [[The Three Sisters]], lived in close relationship with the land, and respected the creatures that shared it. The island flourished, its soil was fertile, and its forests teemed with life.\\n56|\\n57|That balance was disrupted when ambitious Human settlers arrived. Seeking control of the island’s resources, they treated the Halflings as obstacles and launched a violent invasion. The settlers established [[Nevercough City]] on what they called [[Nevercough Island]], forming the nation that would eventually become Stickyickistan.\\n58|\\n59|The Halflings resisted, but they were outnumbered and outmatched. Their leaders eventually negotiated for survival. The resulting pact granted them a protected enclave in what is now [[Upper South Booftown]] and acknowledged their right to participate in the new nation’s prosperity.\\n60|\\n61|The settlers later discovered [[Arcannabis]], an extraordinary plant whose magical properties became the foundation of the island’s economy. Properly cultivated, Arcannabis could heighten the senses, expand magical abilities, and reveal visions of unseen realms. [[Arcannabis Cultivation]] became a specialized tradition passed from generation to generation, and merchants soon traveled from distant lands to purchase the crop.\\n62|\\n63|Economic prosperity did not erase the divisions created by colonization. Human settlers and Halfling communities continued to live with distrust, cultural conflict, and unequal access to power. Over time, their traditions and technologies blended into a distinctive culture of music, art, food, and festivals. This cultural exchange created a shared identity, but racial tensions never disappeared entirely.\\n64|\\n65|Stickyickistan’s modern identity is therefore built on both coexistence and unresolved history. Its architecture, markets, and festivals reflect the fusion of Halfling traditions with Human innovation, while the island’s political institutions continue to bear the marks of conquest and resistance.\\n66|\\n67|## The Doobius House Resistance\\n68|\\n69|Stickyickistan was once a nation with several population centers rather than a single city-state. The main [[Human]] settlement on [[Nevercough Island]] was [[Nevercough City]], named for its patriarchal noble family. Across the [[Percolat Inlet]], [[Bongstad]] was carved into the base of [[Mount Zooka]]. The native [[Halfling]] reserve occupied land between a great lava river and the mountain’s slopes, where the terrain was barely habitable.\\n70|\\n71|Farther inland, [[Doobius House]] was founded by [[Duke Doobius Highblade]] as the “Gate to the Outback.” The frontier settlement attracted adventurers, prospectors, artificers, and others willing to live beyond the protection of the coastal communities. At its height, Doobius House rivaled [[Nevercough City]] and became famous for producing arcane ballistae and nature-infused war machines.\\n72|\\n73|Its frontier role gave Doobius House an unusual population. Elyrian settlers, native Halflings, craftspeople, hunters, and exiles lived beside one another, though not as equals. The Highblades claimed the land and profited from its workshops, while the Twothirdlings and other native communities supplied much of the local knowledge, labor, and military experience that kept the settlement alive.\\n74|\\n75|When [[Duke Doobius Highblade]] died, his Human heirs inherited the family’s formal authority and attempted to preserve the old order. The [[Twothirdlings]], who heavily outnumbered the Elyrian population around Doobius House, rejected that arrangement. Led by [[Jimmyjock Labingi]], the duke’s disinherited Twothirdling son, they seized the estate and surrounding settlement. They declared that Doobius House belonged to the people who had made it livable and defended it.\\n76|\\n77|Jimmyjock formed a provisional government and began negotiations with the Elyrian nobility of [[Nevercough City]]. The negotiations quickly failed. The nobles refused to recognize the Twothirdlings’ claim, while Jimmyjock refused to surrender the land or accept an arrangement that would leave his mother’s people subject to the family that had rejected him.\\n78|\\n79|## The [[Arcane Civil War]]\\n80|\\n81|The dispute over Doobius House became one of the first major armed conflicts between Elyrian settlers and the native resistance. House Highblade forces tried to retake the estate and secure the frontier road, while volunteers from Doobius House fortified the settlement and turned the surrounding wilderness into a weapon.\\n82|\\n83|The resulting skirmishes spread into what is now called the [[Grim Forest]]. Doobius House’s militia was badly outnumbered, but its fighters knew the terrain intimately. They attacked at night, cut supply lines, sabotaged war machines, and disappeared into the forest before larger Elyrian forces could respond. Old arcane ballistae, nature-infused war machines, trained beasts, and improvised traps allowed the resistance to ambush troops who expected a quick victory.\\n84|\\n85|The fighting around Doobius House became entangled with the wider power struggle among the [[Four Founding Houses]]. The houses disagreed over how quickly the frontier should be conquered, who would control its resources, and whether the Twothirdlings should be expelled, absorbed, or granted limited autonomy. Rival nobles supported, supplied, or undermined the campaign according to their own interests. House Highblade demanded that its claim be restored by force, while other factions used the conflict to weaken Highblade influence and seize the roads, workshops, and military technology produced at Doobius House.\\n86|\\n87|As the dispute widened, the conflict spread beyond the frontier. Industrial sabotage disrupted foundries and supply depots. Magical duels between noble arcanists devastated sections of the growing settlements. Factions summoned fiends, created unstable war golems, and unleashed necromantic plagues in attempts to gain the upper hand. The original dispute over Doobius House became only one front in a larger struggle for control of the island’s government, resources, and future.\\n88|\\n89|The war was fought through espionage and sabotage as much as open battle. Couriers disappeared along frontier roads, military contracts changed hands through bribery, and entire workshops were destroyed rather than allowed to fall into an enemy’s hands. The [[Grim Forest]] became a maze of abandoned siege engines, burned supply routes, hidden militia camps, and battlefields reclaimed by rapidly growing vegetation.\\n90|\\n91|The Twothirdling resistance did not cause the entire [[Arcane Civil War]], but it exposed the weakness of Elyrian rule. Doobius House became a symbol for both sides. To the resistance, it proved that settlers could be defeated. To the nobles, it proved that frontier autonomy threatened the authority of every ruling house. The conflict widened into a prolonged civil war that reshaped the island’s political order.\\n92|\\n93|As the cost of the campaign mounted, the nobles of Nevercough City grew weary of trying to dominate a settlement that refused to surrender. Doobius House could not be conquered cheaply, and continued warfare threatened trade routes and the stability of the coastal settlements. The wider civil war also forced the houses to redirect troops and resources away from the frontier.\\n94|\\n95|Jimmyjock used his knowledge of Elyrian law and military practice, combined with the indigenous values of his mother’s people, to negotiate a settlement. The final agreement recognized the Twothirdlings’ right to govern Doobius House while allowing Elyrian families and institutions to remain under negotiated protections. The settlement did not erase the violence or the unequal power that produced it, but it prevented House Highblade from reclaiming the town by force.\\n96|\\n97|Doobius House remained an autonomous and heavily armed frontier community for generations. Its workshops continued producing arcane ballistae and nature-infused war machines, officially to defend against the dangers of [[The Outback]], but also as a reminder that the town’s independence had been won through resistance. Jimmyjock’s songs preserved the memory of the conflict, while Elyrian histories recast him as a rebel and thief of noble property.\\n98|\\n99|After the [[Arcane Civil War]], the surviving settlements eventually united into the city-state of Stickyickistan. Doobius House lost much of its former independence as roads, bureaucracy, and urban expansion absorbed the frontier town into the wider state. Even so, the resistance remains central to its identity. It was the place where the Twothirdlings first proved that Elyrian settlements could be challenged, and where Jimmyjock Labingi turned a disputed inheritance into a homeland.\\n100|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Mythmos\",\n          \"path\": \"content/Mythmos.md\"\n        },\n        {\n          \"link\": \"Arcannabis\",\n          \"path\": \"content/Arcannabis/Arcannabis.md\"\n        },\n        {\n          \"link\": \"Arcanite\",\n          \"path\": \"content/Misc/Arcanite.md\"\n        },\n        {\n          \"link\": \"Mount Zooka\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Mount Zooka.md\"\n        },\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        },\n        {\n          \"link\": \"Human Colonialism\",\n          \"path\": \"content/History/Human Colonialism.md\"\n        },\n        {\n          \"link\": \"Industrial Zone\",\n          \"path\": \"content/Regions/City of Stickyickistan/Industrial Zone.md\"\n        },\n        {\n          \"link\": \"Magitech\",\n          \"path\": \"content/Misc/Magitech.md\"\n        },\n        {\n          \"link\": \"Bongstad\",\n          \"path\": \"content/Regions/City of Stickyickistan/Bongstad.md\"\n        },\n        {\n          \"link\": \"Nevercough Tribunal\",\n          \"path\": \"content/Factions/Nevercough Tribunal.md\"\n        },\n        {\n          \"link\": \"The Seekers of the Vein\",\n          \"path\": \"content/Factions/The Seekers of the Vein.md\"\n        },\n        {\n          \"link\": \"Seekers' Scrapyard\",\n          \"path\": \"content/POIs/Seekers' Scrapyard.md\"\n        },\n        {\n          \"link\": \"Zooka Mire Collective\",\n          \"path\": \"content/Factions/Zooka Mire Collective.md\"\n        },\n        {\n          \"link\": \"The Iron Sovereign\",\n          \"path\": \"content/Factions/The Iron Sovereign.md\"\n        },\n        {\n          \"link\": \"North Booftown\",\n          \"path\": \"content/Regions/City of Stickyickistan/North Booftown.md\"\n        },\n        {\n          \"link\": \"Astallon Acres\",\n          \"path\": \"content/Regions/City of Stickyickistan/Astallon Acres.md\"\n        },\n        {\n          \"link\": \"Zooka Mire\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Zooka Mire.md\"\n        },\n        {\n          \"link\": \"Ezra Astallon\",\n          \"path\": \"content/NPCs/minor/Ezra Astallon.md\"\n        },\n        {\n          \"link\": \"Alcohol\",\n          \"path\": \"content/Misc/Alcohol.md\"\n        },\n        {\n          \"link\": \"Zooka Malt\",\n          \"path\": \"content/Misc/Zooka Malt.md\"\n        },\n        {\n          \"link\": \"Bobo Bush Estates\",\n          \"path\": \"content/Regions/City of Stickyickistan/Bobo Bush Estates.md\"\n        },\n        {\n          \"link\": \"N.E.R.D\",\n          \"path\": \"content/POIs/N.E.R.D.md\"\n        },\n        {\n          \"link\": \"Nevercough City\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough City.md\"\n        },\n        {\n          \"link\": \"Ashen Citadel\",\n          \"path\": \"content/Regions/City of Stickyickistan/Ashen Citadel.md\"\n        },\n        {\n          \"link\": \"Ashen Shadow Society\",\n          \"path\": \"content/Factions/Ashen Shadow Society/Ashen Shadow Society.md\"\n        },\n        {\n          \"link\": \"Upper South Booftown\",\n          \"path\": \"content/Regions/City of Stickyickistan/Upper South Booftown.md\"\n        },\n        {\n          \"link\": \"The Ashtray\",\n          \"path\": \"content/Regions/City of Stickyickistan/The Ashtray.md\"\n        },\n        {\n          \"link\": \"Mandem on Booftown\",\n          \"path\": \"content/Factions/Mandem on Booftown.md\"\n        },\n        {\n          \"link\": \"Cough City Crew\",\n          \"path\": \"content/Factions/Cough City Crew.md\"\n        },\n        {\n          \"link\": \"House Northbourne\",\n          \"path\": \"content/Factions/House Northbourne.md\"\n        },\n        {\n          \"link\": \"The North Booftown Downs\",\n          \"path\": \"content/POIs/The North Booftown Downs.md\"\n        },\n        {\n          \"link\": \"Magebred Animals\",\n          \"path\": \"content/Misc/Magebred Animals.md\"\n        },\n        {\n          \"link\": \"The Norfies\",\n          \"path\": \"content/Factions/The Norfies.md\"\n        },\n        {\n          \"link\": \"Tribunal Highblade Coalition\",\n          \"path\": \"content/Factions/Tribunal Highblade Coalition.md\"\n        },\n        {\n          \"link\": \"The Undercity Osslurraggath\",\n          \"path\": \"content/Regions/City of Stickyickistan/The Undercity Osslurraggath.md\"\n        },\n        {\n          \"link\": \"The Mortuary\",\n          \"path\": \"content/POIs/The Mortuary.md\"\n        },\n        {\n          \"link\": \"Dungsweepers\",\n          \"path\": \"content/Factions/Dungsweepers.md\"\n        },\n        {\n          \"link\": \"Heralds of Dust\",\n          \"path\": \"content/Factions/Heralds of Dust.md\"\n        },\n        {\n          \"link\": \"The Outback\",\n          \"path\": \"content/Regions/Greater Stickyickistan/The Outback.md\"\n        },\n        {\n          \"link\": \"Springwood\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Springwood.md\"\n        },\n        {\n          \"link\": \"Doobius House\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Doobius House.md\"\n        },\n        {\n          \"link\": \"Twothirdlings\",\n          \"path\": \"content/Species/Twothirdlings.md\"\n        },\n        {\n          \"link\": \"Grim Forest\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Grim Forest.md\"\n        },\n        {\n          \"link\": \"Molten Maw\",\n          \"path\": \"content/Regions/Greater Stickyickistan/Molten Maw.md\"\n        },\n        {\n          \"link\": \"The Silt Road\",\n          \"path\": \"content/Misc/The Silt Road.md\"\n        },\n        {\n          \"link\": \"Halflings\",\n          \"path\": \"content/Species/Halflings.md\"\n        },\n        {\n          \"link\": \"Eladrin\",\n          \"path\": \"content/Species/Eladrin.md\"\n        },\n        {\n          \"link\": \"Goblins\",\n          \"path\": \"content/Species/Goblins.md\"\n        },\n        {\n          \"link\": \"Lizardfolk\",\n          \"path\": \"content/Species/Lizardfolk.md\"\n        },\n        {\n          \"link\": \"The Three Sisters\",\n          \"path\": \"content/Religion/The Three Sisters/The Three Sisters.md\"\n        },\n        {\n          \"link\": \"Arcannabis Cultivation\",\n          \"path\": \"content/Arcannabis/Arcannabis Cultivation.md\"\n        },\n        {\n          \"link\": \"Human\",\n          \"path\": \"content/Species/Human.md\"\n        },\n        {\n          \"link\": \"Duke Doobius Highblade\",\n          \"path\": \"content/NPCs/minor/Duke Doobius Highblade.md\"\n        },\n        {\n          \"link\": \"Jimmyjock Labingi\",\n          \"path\": \"content/NPCs/minor/Jimmyjock Labingi.md\"\n        },\n        {\n          \"link\": \"Four Founding Houses\",\n          \"path\": \"content/Factions/Four Founding Houses.md\"\n        }\n      ]\n    },\n    {\n      \"path\": \"content/Factions/Tribunal Highblade Coalition.md\",\n      \"ok\": true,\n      \"totalLines\": 25,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|# **Origins & The Highblade Conquests**\\n2|\\n3|Before they became the premier mercenary house of [[Stickyickistan]], the Tribunal Highblade Coalition (THC) was known as [[House Highblade]], a powerful militant noble family that rose to prominence during the early days of [[Human Colonialism]]. Backed by the [[Nevercough Tribunal]], the Highblades led a brutal campaign of conquest across what is now [[Upper South Booftown]] and [[Lower South Booftown]], bringing the region under the Tribunal’s control.\\n4|\\n5|At the time, these lands were sparsely populated but fiercely defended by numerous native [[Halflings]] factions. Despite their resilience, most of these groups were crushed, displaced, or driven into [[The Outback]], where their remnants survive to this day. Through this conquest, House Highblade secured a reputation as an unyielding military force, loyal to the Tribunal and instrumental in shaping the human-dominated colonial order.\\n6|# **House Highblade & The Formation of the Tribunal Highblade Coalition**\\n7|\\n8|Over time, warfare became a business, and House Highblade adapted. While the noble house maintained its ancestral status and holdings, its military forces evolved into the Tribunal Highblade Coalition—an elite mercenary house for hire that serves as a semi-independent military arm of the Nevercough Tribunal.\\n9|\\n10|Now headquartered in the imposing [[Highblade Tower]] on Nevercough Island, the Tribunal Highblade Coalition operates as a neutral yet formidable force, selling its soldiers and war tacticians to the highest bidder while maintaining strong ties to Nevercough’s elite power structure. Most of its commanders and officers hail from House Highblade’s bloodline, ensuring that the noble family still holds deep influence over the Coalition’s leadership. However, while House Highblade remains a noble dynasty, the Coalition is a military enterprise—loyalty is earned through skill, experience, and discipline rather than blood alone.\\n11|# **Enemies in Business**\\n12|\\n13|Since the decline of Human Colonialism, the Tribunal Highblade Coalition has clashed with rival organizations, not over ideology, but over business. In the world of private security, bounty hunting, and mercenary work, competition is fierce, and THC will not tolerate threats to its dominance.\\n14|\\n15|- [[The Forgewright Guild]]’s [[Warforged]] Mercenaries – The rise of Warforged soldiers as independent combatants threatens THC’s supremacy. A tireless, obedient soldier-for-hire is bad for business, and the Coalition does everything in its power to undermine, discredit, or eliminate Warforged mercenary operations.\\n16|- [[The Seekers of the Vein]] – Prospecting mercenaries hired by the Seekers to guard expeditions and mining sites pose an issue for THC, who once dominated the security contracts for such endeavors. Where once Highblades patrolled the veins of [[Arcanite]], now Seekers’ men have begun carving out their own power, and the Coalition sees them as an insulting upstart force.\\n17|- The [[Ashen Shadow Society]] – THC prides itself on discipline, organization, and professionalism. The Ashen Shadow Society, on the other hand, is a guild of lawless bounty hunters and assassins, operating without honor, codes, or restrictions. The two groups have competed over high-profile contracts, and the Highblades view the Ashen Shadow Society as dishonorable killers who make a mockery of their trade. The rivalry has led to violent clashes between the two factions, though neither dares go to open war—yet.\\n18|# **The Highblade Name & The Future of the Coalition**\\n19|\\n20|While House Highblade still exists, it is a noble institution first and foremost, overseeing the family’s estates, political alliances, and aristocratic affairs. It is still influential within the Nevercough Tribunal, but its military power now rests in the hands of the Tribunal Highblade Coalition, which acts as a separate yet closely aligned organization.\\n21|\\n22|In Stickyickistan, war is a business, and THC ensures that no one profits from war quite like they do. Whether guarding high-ranking officials, crushing uprisings, or launching preemptive strikes against rivals, the Coalition sells its steel to those who can afford it—all while House Highblade watches from the heights of its ancestral throne, ensuring their bloodline remains at the center of power.\\n23|\\n24|> **Some are born to nobility. Others fight for it.**  \\n25|> **The Tribunal Highblade Coalition ensures both remain in control.**\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"House Highblade\",\n          \"path\": \"content/Factions/House Highblade.md\"\n        },\n        {\n          \"link\": \"Human Colonialism\",\n          \"path\": \"content/History/Human Colonialism.md\"\n        },\n        {\n          \"link\": \"Nevercough Tribunal\",\n          \"path\": \"content/Factions/Nevercough Tribunal.md\"\n        },\n        {\n          \"link\": \"Upper South Booftown\",\n          \"path\": \"content/Regions/City of Stickyickistan/Upper South Booftown.md\"\n        },\n        {\n          \"link\": \"Halflings\",\n          \"path\": \"content/Species/Halflings.md\"\n        },\n        {\n          \"link\": \"The Outback\",\n          \"path\": \"content/Regions/Greater Stickyickistan/The Outback.md\"\n        },\n        {\n          \"link\": \"Highblade Tower\",\n          \"path\": \"content/POIs/Highblade Tower.md\"\n        },\n        {\n          \"link\": \"The Forgewright Guild\",\n          \"path\": \"content/Factions/The Forgewright Guild.md\"\n        },\n        {\n          \"link\": \"Warforged\",\n          \"path\": \"content/Species/Warforged.md\"\n        },\n        {\n          \"link\": \"The Seekers of the Vein\",\n          \"path\": \"content/Factions/The Seekers of the Vein.md\"\n        },\n        {\n          \"link\": \"Arcanite\",\n          \"path\": \"content/Misc/Arcanite.md\"\n        },\n        {\n          \"link\": \"Ashen Shadow Society\",\n          \"path\": \"content/Factions/Ashen Shadow Society/Ashen Shadow Society.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "contentParts": [
+                {
+                  "type": "text",
+                  "text": "1|---\n2|title: History of Stickyickistan\n3|---\n4|\n5|Stickyickistan is an island on the planet of [[Mythmos]], shrouded in magic and home to one of the largest economies in the realms. Its wealth is built primarily on the cultivation and export of [[Arcannabis]], along with trade in [[Arcanite]] and other resources. The island’s size and distance from other landmasses are difficult to measure. Even the most sophisticated magic and technology fails beyond a certain distance from its shores.\n6|\n7|The waters around Stickyickistan form a region much like a magical Bermuda Triangle. Pilots and sailors report violent weather, distorted horizons, impossible currents, and terrifying creatures from above and below. Vast deposits of [[Arcanite]] beneath [[Mount Zooka]] have warped time, space, and the Weave around the island, producing these phenomena and making accurate maps difficult to create. Stickyickistan can be seen from [[Lumytholarispace]] and appears on maps of Mythmos, but it always looks smaller than it seems when approached.\n8|\n9|"
+                },
+                {
+                  "type": "image_url",
+                  "image_url": {
+                    "url": "cache://0509e5e8",
+                    "cacheKey": "0509e5e8"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n10|*This map is not to scale, and does not include all regions.*\n11|# Modern Stickyickistan\n12|\n13|Stickyickistan is a city-state built around the active [[Mount Zooka]], whose obsidian slopes and glowing Arcanite veins dominate the island’s skyline. Approximately 27 million people live across a dense network of terraced districts connected by bridges, roads, canals, lifts, and industrial transit lines. The Capitol stands on [[Nevercough Island]], a small landmass sheltered within the [[Percolat Inlet]]. The climate is generally tropical, with hot, humid weather across the urban core. Farther inland, desertification has created increasingly arid regions, a legacy of [[Human Colonialism]] and industrialization.\n14|\n15|The city rises in layers around the volcano. Wealthy residences climb into the jungle, where enchanted gardens and fortified estates overlook the ocean. Beneath them, poorer settlements cling to the mountainside in a haze of ash, smoke, brimstone, and sulfur. Above these districts, the [[Industrial Zone]] follows the crater’s rim and extends into the mountain through mines, foundries, refineries, and [[Magitech]] workshops.\n16|\n17|[[Mount Zooka]] is an active [[Arcanite]] Cone, a rare volcano formed above rich deposits of raw Arcanite. Its slopes are black and glassy, marked by glowing veins of molten rock and slow-moving lava flows. Violent eruptions scatter volcanic stone, magma, and chunks of raw Arcanite across the island. Miners, magitech engineers, alchemists, and bounty hunters maintain dangerous outposts along the crater’s rim, searching for ore, magical artifacts, and volatile energy. The Dwarves of [[Bongstad]] have carved a fortified settlement into the mountain’s base, using its heat to power their forges.\n18|\n19|Arcanite fuels much of Stickyickistan’s wealth and technology. Once extracted and purified, it can be worked into weapons, armor, artifacts, and industrial systems. The [[Nevercough Tribunal]] and [[The Seekers of the Vein]] operate mines and outposts around the crater, while [[Tokenheim Extractions Inc.]] and other industrial concerns process the ore and produce much of the city-state’s Magitech. Waste from the [[Industrial Zone]] feeds salvage operations at [[Seekers' Scrapyard]] and is collected by groups such as [[The Seekers of the Vein]], [[Zooka Mire Collective]], and [[The Iron Sovereign]].\n20|\n21|The island’s soil is rich in nutrients and infused with Arcanite. Flora and fauna grow with unusual fertility and magical potency, especially in [[North Booftown]], the agricultural heartland. [[Astallon Acres]] lies along the wetlands bordering the [[Zooka Mire]], where [[Ezra Astallon]] pays farm workers unusually well and resolves local problems with money. [[Arcannabis]] remains the city-state’s primary export, while Arcanite, magebred animals, and other natural resources provide additional wealth.\n22|\n23|Since the arrival of Human colonists, [[Alcohol]] has been outlawed because the government considers it a threat to the Arcannabis market. [[Zooka Malt]], a beverage made from Arcannabis buds, has become the principal alternative to traditional ale. The city’s merchants sell countless infused varieties, from cheap street brews to carefully aged drinks served in the private lounges of [[Bobo Bush Estates]].\n24|\n25|[[Nevercough Island]] is the seat of political power and old money. At its heart stands the [[Capitol Building]], where Chief Magistrate [[Dabnar Nevercough]] rules through courts that dispense justice and corruption in equal measure. The island also contains the [[Grand Arcanum Library]], the [[Nevercough Museum]], elite magical academies such as [[N.E.R.D]], high-end boutiques, apothecaries, and specialty Magitech shops. The former settlement of [[Nevercough City]] remains the name commonly used for the island and its historic urban core.\n26|\n27|The [[Ashen Citadel]] rises over Nevercough Island as the headquarters of the [[Ashen Shadow Society]], Stickyickistan’s most infamous bounty-hunting guild. Its dark stone walls, Magitech barriers, arcane wards, training facilities, forges, laboratories, archives, and holding cells make it both fortress and command center. Few outsiders enter without a contract, and fewer leave without becoming part of someone else’s case file.\n28|\n29|South of Nevercough Island and north of the volcano lies [[Lower South Booftown]], commonly called [[Booftown]]. This middle-class district is known for family-owned shops, public parks, and relatively stable neighborhoods. A slow-moving river of thick, dark lava separates it from [[Upper South Booftown]], known as [[The Ashtray]].\n30|\n31|The Ashtray is a smoke-blackened district of crooked tenements, ash-slick alleys, rooftop walkways, hidden grow rooms, and half-legal additions built over generations. Its native [[Halfling|halfling]] population is large, but it also shelters outcasts, fugitives, smugglers, mercenaries, failed apprentices, and anyone too useful, desperate, or dangerous to fit elsewhere. The [[Mandem on Booftown]] and [[Cough City Crew]] fight over Arcannabis, underground fighting, protection rackets, gambling, bootlegged Alcohol, and black-market Magitech. Neither gang fully controls the district. The Sootsteps connect rooftops and exterior stairways, the Cinder Courts host dice games and informal trials, and [[The Black Stalls]] sell stolen goods, poisons, counterfeit papers, and illegal Magitech parts. To outsiders, the district is dangerous. To locals, it is home.\n32|\n33|To the east of the volcano lies [[Bobo Bush Estates]], where merchant lords, arcane industrialists, politicians, and retired crime bosses live in lavish villas protected by enchanted gardens and high-security Magitech. Deals worth more than a kingdom’s treasury are made over fine Arcannabis and aged Zooka Malt. Espionage, blackmail, and silent assassinations decide more than elections ever do.\n34|\n35|North Booftown is the center of food production and Arcannabis cultivation. Its volcanic soil produces crops that grow larger, faster, and stronger than those found elsewhere. The region also belongs to [[House Northbourne]], the least powerful noble house in the [[Nevercough Tribunal]]. Publicly, the Northbournes dominate animal breeding, training, and handling. They own [[The North Booftown Downs]] and founded the [[Handler’s Guild]], whose expertise includes prized racehorses, exotic creatures, and [[Magebred Animals]].\n36|\n37|In criminal circles, the Northbournes are called [[The Norfies]]. The family does not use the name, since it can imply criminal affiliations and attract the attention of the [[Nevercough Tribunal]] or the [[Tribunal Highblade Coalition]]. Behind their respectable public image, the Norfies control much of the city-state’s illicit Alcohol trade, manipulate racing odds and outcomes, operate gambling syndicates, and host underground fighting rings. Their agents and intermediaries preserve the noble family’s plausible deniability.\n38|\n39|On the western side of the city, [[Bongstad]] is a Dwarven settlement carved into Mount Zooka. Its maze of tunnels, bridges, terraces, and magitech pipes carries molten slag and processed Arcanite between refineries and forges. Bongstad combines old Dwarven traditions with Arcannabis-fueled invention. Miners and blacksmiths share the settlement with inventors, alchemists, and experimental herbalists. Visitors are advised to bring a strong constitution, a high tolerance for Zooka Malt, and no outstanding gambling debts.\n40|\n41|Beneath the city lies [[The Undercity Osslurraggath]], an underground metropolis ignored by the urban elite and denied official recognition by the Nevercough Tribunal. It is home to [[The Mortuary]], the [[Dungsweepers]], exiles, criminals, and people the surface city would rather forget. Its provisional government has little legal authority, but it governs the people who live below. Osslurraggath began as bone vaults and necropolis tunnels before collapsing into deeper Underdark channels, creating a refuge for the poor, the diseased, the dead, and the unwanted. The [[Heralds of Dust]] established a philosophy of decay there.\n42|\n43|Beyond the city lies [[The Outback]], a largely unexplored wilderness where civilization gives way to ancient ruins, arcane forests, hidden rivers, swamps, bogs, mountains, beaches, and magical anomalies. [[Springwood]] is a massive naturalized park and sacred woodland that remains in an impossible state of spring. Its settlements include [[Kerning’s Crossing]], known for apothecaries and its reliance on the [[Solarium Botanica]]. \n44|\n45|Farther out, [[Doobius House]] remains a humble frontier village inhabited mainly by indigenous [[Twothirdlings]] and a few full Halflings. Its former importance came from its role as the Gate to the Outback and from the military workshops established there during Elyrian expansion. The [[Grim Forest]] borders the village, its history preserved mainly through indigenous oral traditions. The forest contains hostile plants and undead, while an ancient awakened radiant tree guards its edge.\n46|\n47|The Outback also contains [[Zooka Mire]], a swamp just beyond the city limits where the [[Zooka Mire Collective]] operates, and the distant [[Molten Maw]], an underground volcanic city inhabited mainly by [[Duergar]] and [[Svirfneblin]]. Molten Maw’s Veins are semi-intelligent rivers of magical lava, while [[The Silt Road]] moves contraband, monster parts, forbidden magic, fugitives, and secrets beneath surface authorities. The Outback’s raw magic, combined with Mount Zooka’s influence, has made Stickyickistan a hotspot in the multiverse. For bounty hunters, smugglers, prospectors, and treasure seekers, its wilderness promises lost knowledge and untapped power. It also promises that something dangerous is always waiting beyond the city’s last road.\n48|\n49|# Past Stickyickistan\n50|\n51|Stickyickistan did not always have its current tropical climate. In earlier ages, the island maintained a more balanced pattern of hot and cold regions, as well as arid and humid zones. The northern part once held an ice cap, while the south resembled a Mediterranean climate more than a Caribbean one. Industrialization caused severe climate change. Rising temperatures melted the ice cap and turned some old-growth forests into desert. Recent conservation efforts have slowed the damage, but much of the original landscape has been lost.\n52|\n53|## [[Human Colonialism]]\n54|\n55|Long ago, the island’s humanoid inhabitants were small communities of [[Halflings]], [[Eladrin]], [[Goblins]], and [[Lizardfolk]]. Many followed a polytheistic faith devoted to [[The Three Sisters]], lived in close relationship with the land, and respected the creatures that shared it. The island flourished, its soil was fertile, and its forests teemed with life.\n56|\n57|That balance was disrupted when ambitious Human settlers arrived. Seeking control of the island’s resources, they treated the Halflings as obstacles and launched a violent invasion. The settlers established [[Nevercough City]] on what they called [[Nevercough Island]], forming the nation that would eventually become Stickyickistan.\n58|\n59|The Halflings resisted, but they were outnumbered and outmatched. Their leaders eventually negotiated for survival. The resulting pact granted them a protected enclave in what is now [[Upper South Booftown]] and acknowledged their right to participate in the new nation’s prosperity.\n60|\n61|The settlers later discovered [[Arcannabis]], an extraordinary plant whose magical properties became the foundation of the island’s economy. Properly cultivated, Arcannabis could heighten the senses, expand magical abilities, and reveal visions of unseen realms. [[Arcannabis Cultivation]] became a specialized tradition passed from generation to generation, and merchants soon traveled from distant lands to purchase the crop.\n62|\n63|Economic prosperity did not erase the divisions created by colonization. Human settlers and Halfling communities continued to live with distrust, cultural conflict, and unequal access to power. Over time, their traditions and technologies blended into a distinctive culture of music, art, food, and festivals. This cultural exchange created a shared identity, but racial tensions never disappeared entirely.\n64|\n65|Stickyickistan’s modern identity is therefore built on both coexistence and unresolved history. Its architecture, markets, and festivals reflect the fusion of Halfling traditions with Human innovation, while the island’s political institutions continue to bear the marks of conquest and resistance.\n66|\n67|## The Doobius House Resistance\n68|\n69|Stickyickistan was once a nation with several population centers rather than a single city-state. The main [[Human]] settlement on [[Nevercough Island]] was [[Nevercough City]], named for its patriarchal noble family. Across the [[Percolat Inlet]], [[Bongstad]] was carved into the base of [[Mount Zooka]]. The native [[Halfling]] reserve occupied land between a great lava river and the mountain’s slopes, where the terrain was barely habitable.\n70|\n71|Farther inland, [[Doobius House]] was founded by [[Duke Doobius Highblade]] as the “Gate to the Outback.” The frontier settlement attracted adventurers, prospectors, artificers, and others willing to live beyond the protection of the coastal communities. At its height, Doobius House rivaled [[Nevercough City]] and became famous for producing arcane ballistae and nature-infused war machines.\n72|\n73|Its frontier role gave Doobius House an unusual population. Elyrian settlers, native Halflings, craftspeople, hunters, and exiles lived beside one another, though not as equals. The Highblades claimed the land and profited from its workshops, while the Twothirdlings and other native communities supplied much of the local knowledge, labor, and military experience that kept the settlement alive.\n74|\n75|When [[Duke Doobius Highblade]] died, his Human heirs inherited the family’s formal authority and attempted to preserve the old order. The [[Twothirdlings]], who heavily outnumbered the Elyrian population around Doobius House, rejected that arrangement. Led by [[Jimmyjock Labingi]], the duke’s disinherited Twothirdling son, they seized the estate and surrounding settlement. They declared that Doobius House belonged to the people who had made it livable and defended it.\n76|\n77|Jimmyjock formed a provisional government and began negotiations with the Elyrian nobility of [[Nevercough City]]. The negotiations quickly failed. The nobles refused to recognize the Twothirdlings’ claim, while Jimmyjock refused to surrender the land or accept an arrangement that would leave his mother’s people subject to the family that had rejected him.\n78|\n79|## The [[Arcane Civil War]]\n80|\n81|The dispute over Doobius House became one of the first major armed conflicts between Elyrian settlers and the native resistance. House Highblade forces tried to retake the estate and secure the frontier road, while volunteers from Doobius House fortified the settlement and turned the surrounding wilderness into a weapon.\n82|\n83|The resulting skirmishes spread into what is now called the [[Grim Forest]]. Doobius House’s militia was badly outnumbered, but its fighters knew the terrain intimately. They attacked at night, cut supply lines, sabotaged war machines, and disappeared into the forest before larger Elyrian forces could respond. Old arcane ballistae, nature-infused war machines, trained beasts, and improvised traps allowed the resistance to ambush troops who expected a quick victory.\n84|\n85|The fighting around Doobius House became entangled with the wider power struggle among the [[Four Founding Houses]]. The houses disagreed over how quickly the frontier should be conquered, who would control its resources, and whether the Twothirdlings should be expelled, absorbed, or granted limited autonomy. Rival nobles supported, supplied, or undermined the campaign according to their own interests. House Highblade demanded that its claim be restored by force, while other factions used the conflict to weaken Highblade influence and seize the roads, workshops, and military technology produced at Doobius House.\n86|\n87|As the dispute widened, the conflict spread beyond the frontier. Industrial sabotage disrupted foundries and supply depots. Magical duels between noble arcanists devastated sections of the growing settlements. Factions summoned fiends, created unstable war golems, and unleashed necromantic plagues in attempts to gain the upper hand. The original dispute over Doobius House became only one front in a larger struggle for control of the island’s government, resources, and future.\n88|\n89|The war was fought through espionage and sabotage as much as open battle. Couriers disappeared along frontier roads, military contracts changed hands through bribery, and entire workshops were destroyed rather than allowed to fall into an enemy’s hands. The [[Grim Forest]] became a maze of abandoned siege engines, burned supply routes, hidden militia camps, and battlefields reclaimed by rapidly growing vegetation.\n90|\n91|The Twothirdling resistance did not cause the entire [[Arcane Civil War]], but it exposed the weakness of Elyrian rule. Doobius House became a symbol for both sides. To the resistance, it proved that settlers could be defeated. To the nobles, it proved that frontier autonomy threatened the authority of every ruling house. The conflict widened into a prolonged civil war that reshaped the island’s political order.\n92|\n93|As the cost of the campaign mounted, the nobles of Nevercough City grew weary of trying to dominate a settlement that refused to surrender. Doobius House could not be conquered cheaply, and continued warfare threatened trade routes and the stability of the coastal settlements. The wider civil war also forced the houses to redirect troops and resources away from the frontier.\n94|\n95|Jimmyjock used his knowledge of Elyrian law and military practice, combined with the indigenous values of his mother’s people, to negotiate a settlement. The final agreement recognized the Twothirdlings’ right to govern Doobius House while allowing Elyrian families and institutions to remain under negotiated protections. The settlement did not erase the violence or the unequal power that produced it, but it prevented House Highblade from reclaiming the town by force.\n96|\n97|Doobius House remained an autonomous and heavily armed frontier community for generations. Its workshops continued producing arcane ballistae and nature-infused war machines, officially to defend against the dangers of [[The Outback]], but also as a reminder that the town’s independence had been won through resistance. Jimmyjock’s songs preserved the memory of the conflict, while Elyrian histories recast him as a rebel and thief of noble property.\n98|\n99|After the [[Arcane Civil War]], the surviving settlements eventually united into the city-state of Stickyickistan. Doobius House lost much of its former independence as roads, bureaucracy, and urban expansion absorbed the frontier town into the wider state. Even so, the resistance remains central to its identity. It was the place where the Twothirdlings first proved that Elyrian settlements could be challenged, and where Jimmyjock Labingi turned a disputed inheritance into a homeland.\n100|"
+                }
+              ],
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        },
+        {
+          "request": {
+            "id": "call_WDK44wjwmFgnpHgsebJHZsXa",
+            "name": "yolo_local__fs_search",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "query": "Tribunal Highblade Coalition",
+                "mode": "keyword",
+                "scope": "content",
+                "maxResults": 10
+              },
+              "rawText": "{\"query\":\"Tribunal Highblade Coalition\",\"mode\":\"keyword\",\"scope\":\"content\",\"maxResults\":10}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_search\",\n  \"requestedMode\": \"keyword\",\n  \"effectiveMode\": \"keyword\",\n  \"scope\": \"content\",\n  \"query\": \"Tribunal Highblade Coalition\",\n  \"path\": \"\",\n  \"results\": [\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/POIs/Highblade Tower.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"Highblade Tower is the [[Tribunal Highblade Coalition]]'s ancestral home, and seat of power. Located downtown on [[Nevercough Isl...\",\n          \"source\": \"keyword\",\n          \"cite\": 1\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/NPCs/private/Sir Ashwyn Highblade.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"[Sir Ashwyn Highblade Sheet](https://www.dndbeyond.com/characters/140239161) Member of the [[Highblades Guild]] bounty hunting squad [[Dusk...\",\n          \"source\": \"keyword\",\n          \"cite\": 2\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/Tribunal Highblade Coalition.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"# **Origins & The Highblade Conquests** Before they became the premier mercenary house of [[Stickyickistan]], the Tribunal Highblade Coalition (TH...\",\n          \"source\": \"keyword\",\n          \"cite\": 3\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventure Briefs/Crimson Candleworks Player Brief.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"**Submitted by:** [Tribunal Highblade Coalition](Tribunal%20Highblade%20Coalition) **Tier:** Tier 1 **Recommended Level:** 3 **Expected Lengt...\",\n          \"source\": \"keyword\",\n          \"cite\": 4\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"**Submitted by:** [[Tribunal Highblade Coalition]] **Tier:** Tier 1 **Recommended Level:** 3 **Expected Length:** One-shot, approximately 3-4...\",\n          \"source\": \"keyword\",\n          \"cite\": 5\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/House Highblade.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"Founded by [[Duke Doobius Highblade]], House Highblade is a noble family in [[Stickyickistan]] as old as the city itself, best known for its military legac...\",\n          \"source\": \"keyword\",\n          \"cite\": 6\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/private/Tribunal Highblade Coalition/Highblades Guild.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"This is an alternative name for the [[Tribunal Highblade Coalition]] which is a subsidiary of [[House Highblade]].\",\n          \"source\": \"keyword\",\n          \"cite\": 7\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/PCs/FLS/Dorian Kaan.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 5,\n          \"startLine\": 5,\n          \"endLine\": 5,\n          \"snippet\": \"*[[Human]] Cleric 3* # Factions - [[Tribunal Highblade Coalition]] # Allies - [[Bartholomew Dorkymin V]] - [[Jura]]\",\n          \"source\": \"keyword\",\n          \"cite\": 8\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Sources/Ravnica.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 2,\n          \"startLine\": 2,\n          \"endLine\": 2,\n          \"snippet\": \"Ravnican Factions Reimagined for Stickyickistan # Azorius Senate → [[Nevercough Tribunal]] A bureaucratic, law-enforcing body centered in the Capitol building on Nevercough Island. Known for their rigid, arca...\",\n          \"source\": \"keyword\",\n          \"cite\": 9\n        }\n      ]\n    },\n    {\n      \"kind\": \"content_group\",\n      \"path\": \"content/Factions/The Norfies.md\",\n      \"source\": \"keyword\",\n      \"score\": 0,\n      \"hitCount\": 1,\n      \"snippets\": [\n        {\n          \"line\": 1,\n          \"startLine\": 1,\n          \"endLine\": 1,\n          \"snippet\": \"...association with other criminal entities that use the nickname. Stickyickistanian authorities such as the [[Nevercough Tribunal]]'s Auctoritas column, and the [[Tribunal Highblade Coalition]]. # House Northbourne Overview Publicly, [[House Northb...\",\n          \"source\": \"keyword\",\n          \"cite\": 10\n        }\n      ]\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "fd50a865-deca-49da-b595-53f60cbcaf99",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_XNur09ScmzekAwqOpHZitLtl",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+              "content": "**Submitted by:** [[Tribunal Highblade Coalition]]  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 3-4 hours  \n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths  \n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH IN THE OUTBACK**\n\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\n\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\n\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\n\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, or sealed relics recovered from the shrine are to be declared to the Coalition quartermaster for review.\n\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\n\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine and resolving the disturbance.\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\n- Possible future favor with House Highblade contacts for those who handle oathbound remains and military relics with discretion.\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, or resolving the matter without needless damage to the shrine.\n"
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [[Tribunal Highblade Coalition]]  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 3-4 hours  \\n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths  \\n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH IN THE OUTBACK**\\n\\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\\n\\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\\n\\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\\n\\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, or sealed relics recovered from the shrine are to be declared to the Coalition quartermaster for review.\\n\\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\\n\\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine and resolving the disturbance.\\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n- Possible future favor with House Highblade contacts for those who handle oathbound remains and military relics with discretion.\\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, or resolving the matter without needless damage to the shrine.\\n\"}"
+          }
+        }
+      ],
+      "id": "9789499b-9b74-49f2-b233-30d0988fdbc6",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 18303,
+          "completion_tokens": 702,
+          "total_tokens": 19005
+        },
+        "durationMs": 14652,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5",
+        "sources": [
+          {
+            "path": "content/POIs/Highblade Tower.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "Highblade Tower is the [[Tribunal Highblade Coalition]]'s ancestral home, and seat of power. Located downtown on [[Nevercough Isl...",
+            "source": "keyword",
+            "ordinal": 1
+          },
+          {
+            "path": "content/NPCs/private/Sir Ashwyn Highblade.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "[Sir Ashwyn Highblade Sheet](https://www.dndbeyond.com/characters/140239161) Member of the [[Highblades Guild]] bounty hunting squad [[Dusk...",
+            "source": "keyword",
+            "ordinal": 2
+          },
+          {
+            "path": "content/Factions/Tribunal Highblade Coalition.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "# **Origins & The Highblade Conquests** Before they became the premier mercenary house of [[Stickyickistan]], the Tribunal Highblade Coalition (TH...",
+            "source": "keyword",
+            "ordinal": 3
+          },
+          {
+            "path": "content/Adventure Briefs/Crimson Candleworks Player Brief.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "**Submitted by:** [Tribunal Highblade Coalition](Tribunal%20Highblade%20Coalition) **Tier:** Tier 1 **Recommended Level:** 3 **Expected Lengt...",
+            "source": "keyword",
+            "ordinal": 4
+          },
+          {
+            "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "**Submitted by:** [[Tribunal Highblade Coalition]] **Tier:** Tier 1 **Recommended Level:** 3 **Expected Length:** One-shot, approximately 3-4...",
+            "source": "keyword",
+            "ordinal": 5
+          },
+          {
+            "path": "content/Factions/House Highblade.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "Founded by [[Duke Doobius Highblade]], House Highblade is a noble family in [[Stickyickistan]] as old as the city itself, best known for its military legac...",
+            "source": "keyword",
+            "ordinal": 6
+          },
+          {
+            "path": "content/Factions/private/Tribunal Highblade Coalition/Highblades Guild.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "This is an alternative name for the [[Tribunal Highblade Coalition]] which is a subsidiary of [[House Highblade]].",
+            "source": "keyword",
+            "ordinal": 7
+          },
+          {
+            "path": "content/PCs/FLS/Dorian Kaan.md",
+            "startLine": 5,
+            "endLine": 5,
+            "snippet": "*[[Human]] Cleric 3* # Factions - [[Tribunal Highblade Coalition]] # Allies - [[Bartholomew Dorkymin V]] - [[Jura]]",
+            "source": "keyword",
+            "ordinal": 8
+          },
+          {
+            "path": "content/Sources/Ravnica.md",
+            "startLine": 2,
+            "endLine": 2,
+            "snippet": "Ravnican Factions Reimagined for Stickyickistan # Azorius Senate → [[Nevercough Tribunal]] A bureaucratic, law-enforcing body centered in the Capitol building on Nevercough Island. Known for their rigid, arca...",
+            "source": "keyword",
+            "ordinal": 9
+          },
+          {
+            "path": "content/Factions/The Norfies.md",
+            "startLine": 1,
+            "endLine": 1,
+            "snippet": "...association with other criminal entities that use the nickname. Stickyickistanian authorities such as the [[Nevercough Tribunal]]'s Auctoritas column, and the [[Tribunal Highblade Coalition]]. # House Northbourne Overview Publicly, [[House Northb...",
+            "source": "keyword",
+            "ordinal": 10
+          }
+        ]
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_XNur09ScmzekAwqOpHZitLtl",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                "content": "**Submitted by:** [[Tribunal Highblade Coalition]]  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 3-4 hours  \n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths  \n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH IN THE OUTBACK**\n\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\n\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\n\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\n\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, or sealed relics recovered from the shrine are to be declared to the Coalition quartermaster for review.\n\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\n\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine and resolving the disturbance.\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\n- Possible future favor with House Highblade contacts for those who handle oathbound remains and military relics with discretion.\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, or resolving the matter without needless damage to the shrine.\n"
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [[Tribunal Highblade Coalition]]  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 3-4 hours  \\n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths  \\n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH IN THE OUTBACK**\\n\\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\\n\\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\\n\\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\\n\\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, or sealed relics recovered from the shrine are to be declared to the Coalition quartermaster for review.\\n\\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\\n\\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine and resolving the disturbance.\\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n- Possible future favor with House Highblade contacts for those who handle oathbound remains and military relics with discretion.\\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, or resolving the matter without needless damage to the shrine.\\n\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                      "addedLines": 17,
+                      "removedLines": 13,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "e830fe70-d73a-47f4-b76a-b7d024ea35bf"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 17,
+                  "totalRemovedLines": 13,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1789321852356
+              }
+            }
+          }
+        }
+      ],
+      "id": "e830fe70-d73a-47f4-b76a-b7d024ea35bf",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done, I revised `The Shrine of Oaths Player Brief.md` to fit the Stickyickistanian setting.\n\nKey changes:\n- Tied the job to the [[Tribunal Highblade Coalition]] and [[Highblade Tower]].\n- Placed the shrine in [[The Outback]] beyond reliable patrol routes.\n- Reframed the Shrine of the Oathsworn Knights as an old Highblade military shrine from the island’s expansion era.\n- Added Stickyickistan-flavored hazards, including arcanite-warped wilderness, old battlefields, unstable ruins, and arcanite interference.\n- Made the notice sound like a THC recovery and containment contract posted in an adventurers guildhall.\n- Kept all information player-facing and removed DM-only spoilers.",
+      "id": "7a376caf-72e2-4eb1-bb29-9e441dfa3725",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 19094,
+          "completion_tokens": 158,
+          "total_tokens": 19252
+        },
+        "durationMs": 4863,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can we try to add an Arcannabis element to ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Shrine of Oaths Player Brie…",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Shrine of Oaths Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "bc8267de"
+      },
+      "id": "5f995527-1437-44a6-8521-9ab1f0136c62",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-09-13 11:53 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_odr8gVXhRgC7UMz5DtCi1aD9",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\"]}"
+          }
+        }
+      ],
+      "id": "26172075-0e13-40d1-ae33-4dccb3cec9fd",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 19358,
+          "completion_tokens": 35,
+          "total_tokens": 19393
+        },
+        "durationMs": 2390,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_odr8gVXhRgC7UMz5DtCi1aD9",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_odr8gVXhRgC7UMz5DtCi1aD9\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 32,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|**Submitted by:** [[Tribunal Highblade Coalition]]  \\n2|**Tier:** Tier 1  \\n3|**Recommended Level:** 3  \\n4|**Expected Length:** One-shot, approximately 3-4 hours  \\n5|**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths  \\n6|**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n7|\\n8|### Public Notice\\n9|\\n10|> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH IN THE OUTBACK**\\n11|\\n12|The [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\\n13|\\n14|The site lies past reliable patrol routes, where old battlefields, arcane-warped wilderness, and Can we mforgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\\n15|\\n16|**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\\n17|\\n18|Applicants should be prepared for unstable ruins, old wards, oathbound dead, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, or sealed relics recovered from the shrine are to be declared to the Coalition quartermaster for review.\\n19|\\n20|Once a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\\n21|\\n22|The Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n23|\\n24|## Rewards\\n25|\\n26|- **Up to 600 XP each** for completing the adventure.\\n27|- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine and resolving the disturbance.\\n28|- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n29|- Possible future favor with House Highblade contacts for those who handle oathbound remains and military relics with discretion.\\n30|- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n31|- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, or resolving the matter without needless damage to the shrine.\\n32|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Tribunal Highblade Coalition\",\n          \"path\": \"content/Factions/Tribunal Highblade Coalition.md\"\n        },\n        {\n          \"link\": \"The Outback\",\n          \"path\": \"content/Regions/Greater Stickyickistan/The Outback.md\"\n        },\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Highblade Tower\",\n          \"path\": \"content/POIs/Highblade Tower.md\"\n        },\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        }\n      ]\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "93a48fa9-5cd7-4139-94f0-d98d39f5394a",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_M2t91ojyXrm82YhJH9NTW4N6",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+              "content": "**Submitted by:** [[Tribunal Highblade Coalition]]  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 3-4 hours  \n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths, Arcannabis mystery  \n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\n\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\n\nThe exposed ruin has also revealed a sealed underground growth of wild [[Arcannabis]] rooted through the shrine stone. Early reports claim the plants glow faintly after sundown, carry the scent of incense and volcanic soil, and bloom around old oath-markers as if tended by unseen hands. Whether the growth is a natural outback strain, an old Highblade ritual crop, or the result of arcanite seeping through the shrine is not yet known.\n\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\n\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, examine the Arcannabis growth, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\n\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, unusual Arcannabis pollen, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, sealed relics, or viable Arcannabis samples recovered from the shrine are to be declared to the Coalition quartermaster for review.\n\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\n\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, document the unusual Arcannabis growth, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\n- Possible future favor with House Highblade contacts for those who handle oathbound remains, military relics, and rare Arcannabis specimens with discretion.\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\n"
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [[Tribunal Highblade Coalition]]  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 3-4 hours  \\n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths, Arcannabis mystery  \\n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\\n\\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\\n\\nThe exposed ruin has also revealed a sealed underground growth of wild [[Arcannabis]] rooted through the shrine stone. Early reports claim the plants glow faintly after sundown, carry the scent of incense and volcanic soil, and bloom around old oath-markers as if tended by unseen hands. Whether the growth is a natural outback strain, an old Highblade ritual crop, or the result of arcanite seeping through the shrine is not yet known.\\n\\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\\n\\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, examine the Arcannabis growth, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\\n\\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, unusual Arcannabis pollen, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, sealed relics, or viable Arcannabis samples recovered from the shrine are to be declared to the Coalition quartermaster for review.\\n\\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\\n\\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, document the unusual Arcannabis growth, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n- Possible future favor with House Highblade contacts for those who handle oathbound remains, military relics, and rare Arcannabis specimens with discretion.\\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\\n\"}"
+          }
+        }
+      ],
+      "id": "d0cf8c4e-055a-4270-8c9a-18ceecaf2a73",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 20407,
+          "completion_tokens": 858,
+          "total_tokens": 21265,
+          "cache_read_input_tokens": 17920
+        },
+        "durationMs": 17232,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_M2t91ojyXrm82YhJH9NTW4N6",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                "content": "**Submitted by:** [[Tribunal Highblade Coalition]]  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 3-4 hours  \n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths, Arcannabis mystery  \n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\n\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\n\nThe exposed ruin has also revealed a sealed underground growth of wild [[Arcannabis]] rooted through the shrine stone. Early reports claim the plants glow faintly after sundown, carry the scent of incense and volcanic soil, and bloom around old oath-markers as if tended by unseen hands. Whether the growth is a natural outback strain, an old Highblade ritual crop, or the result of arcanite seeping through the shrine is not yet known.\n\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\n\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, examine the Arcannabis growth, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\n\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, unusual Arcannabis pollen, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, sealed relics, or viable Arcannabis samples recovered from the shrine are to be declared to the Coalition quartermaster for review.\n\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\n\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, document the unusual Arcannabis growth, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\n- Possible future favor with House Highblade contacts for those who handle oathbound remains, military relics, and rare Arcannabis specimens with discretion.\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\n"
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [[Tribunal Highblade Coalition]]  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 3-4 hours  \\n**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths, Arcannabis mystery  \\n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\\n\\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\\n\\nThe exposed ruin has also revealed a sealed underground growth of wild [[Arcannabis]] rooted through the shrine stone. Early reports claim the plants glow faintly after sundown, carry the scent of incense and volcanic soil, and bloom around old oath-markers as if tended by unseen hands. Whether the growth is a natural outback strain, an old Highblade ritual crop, or the result of arcanite seeping through the shrine is not yet known.\\n\\nThe site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\\n\\n**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, examine the Arcannabis growth, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\\n\\nApplicants should be prepared for unstable ruins, old wards, oathbound dead, unusual Arcannabis pollen, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, sealed relics, or viable Arcannabis samples recovered from the shrine are to be declared to the Coalition quartermaster for review.\\n\\nOnce a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\\n\\nThe Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, document the unusual Arcannabis growth, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n- Possible future favor with House Highblade contacts for those who handle oathbound remains, military relics, and rare Arcannabis specimens with discretion.\\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\\n\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                      "addedLines": 11,
+                      "removedLines": 9,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "4333bb7f-980c-4e33-aff2-d1eacb94f52d"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 11,
+                  "totalRemovedLines": 9,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1789322036369
+              }
+            }
+          }
+        }
+      ],
+      "id": "4333bb7f-980c-4e33-aff2-d1eacb94f52d",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done, I added an Arcannabis element to `The Shrine of Oaths Player Brief.md`.\n\nI also fixed the typo on the old line 14 (`Can we mforgotten`) while revising the notice.\n\nThe new version adds:\n- A wild [[Arcannabis]] growth rooted through the shrine stone.\n- A mystery around whether it is a natural Outback strain, old Highblade ritual crop, or arcanite-mutated growth.\n- Arcannabis pollen as a possible hazard.\n- THC interest in documenting and reviewing viable Arcannabis samples.\n- Reward language tied to protecting rare Arcannabis specimens.",
+      "id": "15f60d69-7bc5-4b05-9ad8-da729a35171d",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 21350,
+          "completion_tokens": 130,
+          "total_tokens": 21480,
+          "cache_read_input_tokens": 17920
+        },
+        "durationMs": 4862,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can we make the lenth of ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Shrine of Oaths Player Brie…",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Shrine of Oaths Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " more similar to ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "The Shining Shrine Player Brief…",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "The Shining Shrine Player Brief.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "b9caf617"
+      },
+      "id": "fe1d5b97-915b-44ff-9f97-b7c02c652ce3",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md"
+        },
+        {
+          "type": "file",
+          "file": "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+        }
+      ],
+      "selectedSkills": [],
+      "selectedModelIds": [],
+      "reasoningLevel": "off",
+      "timeContext": "2026-09-13 11:56 (Sunday)"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_YtSPL2YQdNRROfoK49I9eCip",
+          "name": "yolo_local__fs_read",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "paths": [
+                "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+              ]
+            },
+            "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content/Adventure Briefs/The Shining Shrine Player Brief.md\"]}"
+          }
+        }
+      ],
+      "id": "dce47884-c633-4711-a325-be32addce0ab",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 21622,
+          "completion_tokens": 64,
+          "total_tokens": 21686
+        },
+        "durationMs": 3279,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_YtSPL2YQdNRROfoK49I9eCip",
+            "name": "yolo_local__fs_read",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "paths": [
+                  "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                  "content/Adventure Briefs/The Shining Shrine Player Brief.md"
+                ]
+              },
+              "rawText": "{\"paths\":[\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content/Adventure Briefs/The Shining Shrine Player Brief.md\"]}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"toolCallId\": \"call_YtSPL2YQdNRROfoK49I9eCip\",\n  \"requestedOperation\": {\n    \"type\": \"full\"\n  },\n  \"results\": [\n    {\n      \"path\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 34,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|**Submitted by:** [[Tribunal Highblade Coalition]]  \\n2|**Tier:** Tier 1  \\n3|**Recommended Level:** 3  \\n4|**Expected Length:** One-shot, approximately 3-4 hours  \\n5|**Tone:** Haunted ruin investigation, mercenary recovery job, old colonial oaths, Arcannabis mystery  \\n6|**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n7|\\n8|### Public Notice\\n9|\\n10|> **THC SEEKS LICENSED ADVENTURERS AFTER HIGHBLADE KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\\n11|\\n12|The [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine believed to date back to the early expansion campaigns before the modern city-state was fully settled.\\n13|\\n14|The exposed ruin has also revealed a sealed underground growth of wild [[Arcannabis]] rooted through the shrine stone. Early reports claim the plants glow faintly after sundown, carry the scent of incense and volcanic soil, and bloom around old oath-markers as if tended by unseen hands. Whether the growth is a natural outback strain, an old Highblade ritual crop, or the result of arcanite seeping through the shrine is not yet known.\\n15|\\n16|The site lies past reliable patrol routes, where old battlefields, arcanite-warped wilderness, and forgotten ruins make ordinary travel unsafe. Caravan hands and prospectors passing near the collapse have reported voices beneath the stone, cold lights moving after sundown, and the sound of armored feet marching where no living patrol has been posted.\\n17|\\n18|**Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were dispatched from the Coalition to secure the location, assess any surviving military relics, examine the Arcannabis growth, and determine whether the shrine poses a threat to Tribunal holdings or nearby settlements. No report has been received, and no signal flare has been sighted.\\n19|\\n20|Applicants should be prepared for unstable ruins, old wards, oathbound dead, unusual Arcannabis pollen, and the possibility of arcanite interference affecting magic, navigation, or communications. This is a player-facing recovery contract, not a salvage free-for-all. Any Highblade arms, banners, records, sealed relics, or viable Arcannabis samples recovered from the shrine are to be declared to the Coalition quartermaster for review.\\n21|\\n22|Once a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the licensed guildhall officer holding this notice, for travel papers, last-known-route details, and hazard pay terms.\\n23|\\n24|The Coalition offers payment to capable adventurers who can reach the shrine, determine the fate of the missing patrol, recover survivors if possible, document the unusual Arcannabis growth, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n25|\\n26|## Rewards\\n27|\\n28|- **Up to 600 XP each** for completing the adventure.\\n29|- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\\n30|- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n31|- Possible future favor with House Highblade contacts for those who handle oathbound remains, military relics, and rare Arcannabis specimens with discretion.\\n32|- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n33|- Possible bonus XP for rescuing missing personnel, preserving important records, preventing restless spirits from spreading beyond the site, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\\n34|\",\n      \"wikilinks\": [\n        {\n          \"link\": \"Tribunal Highblade Coalition\",\n          \"path\": \"content/Factions/Tribunal Highblade Coalition.md\"\n        },\n        {\n          \"link\": \"The Outback\",\n          \"path\": \"content/Regions/Greater Stickyickistan/The Outback.md\"\n        },\n        {\n          \"link\": \"Stickyickistan\",\n          \"path\": \"content/Stickyickistan.md\"\n        },\n        {\n          \"link\": \"Arcannabis\",\n          \"path\": \"content/Arcannabis/Arcannabis.md\"\n        },\n        {\n          \"link\": \"Highblade Tower\",\n          \"path\": \"content/POIs/Highblade Tower.md\"\n        },\n        {\n          \"link\": \"Nevercough Island\",\n          \"path\": \"content/Regions/City of Stickyickistan/Nevercough Island.md\"\n        }\n      ]\n    },\n    {\n      \"path\": \"content/Adventure Briefs/The Shining Shrine Player Brief.md\",\n      \"ok\": true,\n      \"totalLines\": 26,\n      \"hasMoreBelow\": false,\n      \"nextStartLine\": null,\n      \"content\": \"1|**Submitted by:** [Blossom Union](Blossom%20Union)  \\n2|**Tier:** Tier 1  \\n3|**Recommended Level:** 3  \\n4|**Expected Length:** One-shot, approximately 2–4 hours  \\n5|**Tone:** Fey monster hunt, sacred garden mystery, whimsical danger  \\n6|**Location:** [Springwood](Springwood) / [Springarden](Springarden)\\n7|\\n8|### Public Notice\\n9|\\n10|> **SPRINGARDEN SEEKS LICENSED MONSTER HUNTERS AFTER FEY DISTURBANCE AT HOLY SHRINE**\\n11|\\n12|The [Blossom Union](Blossom%20Union) seeks licensed adventurers for an urgent matter in the holy gardens of [Springwood](Springwood). Visitors have been warned away from [Springarden](Springarden) after a dangerous fey presence disrupted the shrine, injured caretakers, and disturbed the sacred waters.\\n13|\\n14|Applicants should be prepared for unpredictable fey magic, delicate terrain, and a site whose caretakers would strongly prefer it remain intact. Once a party is formed, report to [The Loot Tavern](The%20Loot%20Tavern) and ask for [Threeflower](Threeflower), who will provide travel instructions and explain how to reach Springarden.\\n15|\\n16|The Blossom Union offers payment to capable adventurers who can identify the threat, protect the shrine, and resolve the disturbance without unnecessary damage to the garden or its sacred pools.\\n17|\\n18|## Rewards\\n19|\\n20|- **Up to 600 XP each** for completing the adventure.\\n21|- **225 gp each** from the [Blossom Union](Blossom%20Union) for protecting Springarden and resolving the fey disturbance.\\n22|- Gratitude from the [Blossom Union](Blossom%20Union).\\n23|- Possible future access to [Springarden](Springarden) as trusted guests, assuming the shrine is preserved.\\n24|- The opportunity to harvest unusual monster components for crafting up to 3 bespoke Boss Monster magic items.\\n25|- Possible bonus XP for preserving the shrine, protecting the sacred pools, or rescuing injured Blossom Union members.\\n26|\"\n    }\n  ]\n}",
+              "metadata": {
+                "fsReadOperation": {
+                  "type": "full",
+                  "isPdf": false
+                }
+              }
+            }
+          }
+        }
+      ],
+      "id": "0f04d242-e222-49a5-869e-4a0dbc8f8037",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_pjC13FHbybONlV0lj6mB4ms3",
+          "name": "yolo_local__fs_write",
+          "arguments": {
+            "kind": "complete",
+            "value": {
+              "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+              "content": "**Submitted by:** [[Tribunal Highblade Coalition]]  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 3-4 hours  \n**Tone:** Haunted ruin investigation, mercenary recovery job, Arcannabis mystery  \n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **THC SEEKS LICENSED ADVENTURERS AFTER KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\n\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine now threaded with a sealed growth of wild [[Arcannabis]].\n\nApplicants should be prepared for unstable ruins, oathbound dead, arcanite interference, and unusual Arcannabis pollen. **Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were sent to secure the site and examine the growth, but no report has been received. Once a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the guildhall officer holding this notice, for travel papers and route details.\n\nThe Coalition offers payment to capable adventurers who can determine the fate of the missing patrol, document the unusual Arcannabis growth, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\n- Possible future favor with House Highblade contacts for discreet handling of military relics and rare Arcannabis specimens.\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\n- Possible bonus XP for rescuing missing personnel, preserving important records, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\n"
+            },
+            "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [[Tribunal Highblade Coalition]]  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 3-4 hours  \\n**Tone:** Haunted ruin investigation, mercenary recovery job, Arcannabis mystery  \\n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **THC SEEKS LICENSED ADVENTURERS AFTER KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\\n\\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine now threaded with a sealed growth of wild [[Arcannabis]].\\n\\nApplicants should be prepared for unstable ruins, oathbound dead, arcanite interference, and unusual Arcannabis pollen. **Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were sent to secure the site and examine the growth, but no report has been received. Once a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the guildhall officer holding this notice, for travel papers and route details.\\n\\nThe Coalition offers payment to capable adventurers who can determine the fate of the missing patrol, document the unusual Arcannabis growth, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n- Possible future favor with House Highblade contacts for discreet handling of military relics and rare Arcannabis specimens.\\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n- Possible bonus XP for rescuing missing personnel, preserving important records, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\\n\"}"
+          }
+        }
+      ],
+      "id": "42251500-f3c2-459a-bab9-3fe79c67b9f0",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 23417,
+          "completion_tokens": 551,
+          "total_tokens": 23968,
+          "cache_read_input_tokens": 19200
+        },
+        "durationMs": 12541,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_pjC13FHbybONlV0lj6mB4ms3",
+            "name": "yolo_local__fs_write",
+            "arguments": {
+              "kind": "complete",
+              "value": {
+                "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                "content": "**Submitted by:** [[Tribunal Highblade Coalition]]  \n**Tier:** Tier 1  \n**Recommended Level:** 3  \n**Expected Length:** One-shot, approximately 3-4 hours  \n**Tone:** Haunted ruin investigation, mercenary recovery job, Arcannabis mystery  \n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\n\n### Public Notice\n\n> **THC SEEKS LICENSED ADVENTURERS AFTER KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\n\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine now threaded with a sealed growth of wild [[Arcannabis]].\n\nApplicants should be prepared for unstable ruins, oathbound dead, arcanite interference, and unusual Arcannabis pollen. **Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were sent to secure the site and examine the growth, but no report has been received. Once a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the guildhall officer holding this notice, for travel papers and route details.\n\nThe Coalition offers payment to capable adventurers who can determine the fate of the missing patrol, document the unusual Arcannabis growth, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\n\n## Rewards\n\n- **Up to 600 XP each** for completing the adventure.\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\n- Possible future favor with House Highblade contacts for discreet handling of military relics and rare Arcannabis specimens.\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\n- Possible bonus XP for rescuing missing personnel, preserving important records, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\n"
+              },
+              "rawText": "{\"path\":\"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\"content\":\"**Submitted by:** [[Tribunal Highblade Coalition]]  \\n**Tier:** Tier 1  \\n**Recommended Level:** 3  \\n**Expected Length:** One-shot, approximately 3-4 hours  \\n**Tone:** Haunted ruin investigation, mercenary recovery job, Arcannabis mystery  \\n**Location:** [[The Outback]] / Shrine of the Oathsworn Knights\\n\\n### Public Notice\\n\\n> **THC SEEKS LICENSED ADVENTURERS AFTER KNIGHTS VANISH NEAR UNCOVERED ARCANNABIS GROWTH**\\n\\nThe [[Tribunal Highblade Coalition]] seeks licensed adventurers for an urgent recovery and containment contract beyond the city roads of [[Stickyickistan]]. Recent ground collapse in [[The Outback]] has exposed the buried Shrine of the Oathsworn Knights, an old Highblade military shrine now threaded with a sealed growth of wild [[Arcannabis]].\\n\\nApplicants should be prepared for unstable ruins, oathbound dead, arcanite interference, and unusual Arcannabis pollen. **Sir Emil Corvian**, **Sir Petros Valescu**, and **Squire Joseph Wrenhollow** were sent to secure the site and examine the growth, but no report has been received. Once a party is formed, report to the THC contract desk at [[Highblade Tower]] on [[Nevercough Island]], or to the guildhall officer holding this notice, for travel papers and route details.\\n\\nThe Coalition offers payment to capable adventurers who can determine the fate of the missing patrol, document the unusual Arcannabis growth, recover survivors if possible, and ensure that whatever still keeps watch beneath the ruins does not wander back toward Stickyickistan.\\n\\n## Rewards\\n\\n- **Up to 600 XP each** for completing the adventure.\\n- **225 gp each** from the [[Tribunal Highblade Coalition]] for investigating the shrine, documenting the Arcannabis growth, and resolving the disturbance.\\n- Gratitude, formal commendation, or future contract preference from the [[Tribunal Highblade Coalition]].\\n- Possible future favor with House Highblade contacts for discreet handling of military relics and rare Arcannabis specimens.\\n- The opportunity to claim approved salvage, monster components, and non-restricted relics after Coalition review.\\n- Possible bonus XP for rescuing missing personnel, preserving important records, protecting viable Arcannabis samples, or resolving the matter without needless damage to the shrine.\\n\"}"
+            }
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"tool\": \"fs_write\",\n  \"action\": \"write\",\n  \"results\": [\n    {\n      \"ok\": true,\n      \"action\": \"write\",\n      \"target\": \"content/Adventure Briefs/The Shrine of Oaths Player Brief.md\",\n      \"message\": \"Overwrote file.\"\n    }\n  ]\n}",
+              "metadata": {
+                "editSummary": {
+                  "files": [
+                    {
+                      "path": "content/Adventure Briefs/The Shrine of Oaths Player Brief.md",
+                      "addedLines": 8,
+                      "removedLines": 16,
+                      "operation": "edit",
+                      "undoStatus": "available",
+                      "reviewRoundId": "dec15fe3-a704-4dcb-b92c-f836965423b1"
+                    }
+                  ],
+                  "totalFiles": 1,
+                  "totalAddedLines": 8,
+                  "totalRemovedLines": 16,
+                  "undoStatus": "available"
+                },
+                "appliedAt": 1789322216614
+              }
+            }
+          }
+        }
+      ],
+      "id": "dec15fe3-a704-4dcb-b92c-f836965423b1",
+      "metadata": {
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Done, I shortened `The Shrine of Oaths Player Brief.md` to better match the length and structure of `The Shining Shrine Player Brief.md`.\n\nIt now has:\n- A similarly compact metadata block.\n- A 3-paragraph public notice.\n- The same general rewards section length.\n- The Arcannabis element preserved, but condensed.\n- The Stickyickistan and THC setting details kept without overexplaining.",
+      "id": "9364e201-78f1-4c7b-924c-06ed6db3fbc1",
+      "metadata": {
+        "model": {
+          "providerId": "chatGPT",
+          "id": "chatGPT/gpt-5.5",
+          "model": "gpt-5.5",
+          "name": "gpt-5.5",
+          "reasoningType": "openai",
+          "maxContextTokens": 1050000,
+          "modalities": [
+            "vision",
+            "text"
+          ],
+          "builtinToolProvider": "none",
+          "builtinTools": {
+            "gpt": {
+              "webSearch": {
+                "enabled": true
+              }
+            },
+            "openrouter": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "grok": {
+              "webSearch": {
+                "enabled": false
+              }
+            },
+            "gemini": {
+              "webSearch": {
+                "enabled": false
+              },
+              "urlContext": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "usage": {
+          "prompt_tokens": 24053,
+          "completion_tokens": 89,
+          "total_tokens": 24142,
+          "cache_read_input_tokens": 23296
+        },
+        "durationMs": 3344,
+        "generationState": "completed",
+        "branchConversationId": "77ceedb0-64b8-4875-8a0c-0fca6f47559e",
+        "branchModelId": "chatGPT/gpt-5.5",
+        "branchLabel": "gpt-5.5"
+      }
+    }
+  ],
+  "createdAt": 1789321412529,
+  "updatedAt": 1789322220390,
+  "schemaVersion": 1,
+  "overrides": {
+    "chatMode": "agent",
+    "agentYoloEnabled": false
+  },
+  "conversationModelId": "",
+  "assistantGroupBoundaryMessageIds": [],
+  "reasoningLevel": "off",
+  "compaction": [],
+  "origin": "user"
+}
